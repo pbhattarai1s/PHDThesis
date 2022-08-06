@@ -1,0 +1,33 @@
+\babel@toc {english}{}
+\contentsline {section}{Acknowledgements}{iv}{section*.1}% 
+\contentsline {section}{Abstract}{iv}{section*.2}% 
+\contentsline {section}{List of Tables}{vii}{section*.3}% 
+\contentsline {section}{List of Figures}{viii}{section*.4}% 
+\contentsline {part}{I\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Introduction}}{1}{part.1}% 
+\contentsline {part}{II\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Theory}}{2}{part.2}% 
+\contentsline {section}{\numberline {1}Standard Model}{3}{section.1}% 
+\contentsline {section}{\numberline {2} Short Comings of the Standard Model}{4}{section.2}% 
+\contentsline {section}{\numberline {3} Measurement Motivation}{5}{section.3}% 
+\contentsline {part}{III\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {The Large Hadron Collider}}{6}{part.3}% 
+\contentsline {section}{\numberline {4}ATLAS Detector}{7}{section.4}% 
+\contentsline {section}{\numberline {5} Particle Reconstruction}{7}{section.5}% 
+\contentsline {section}{\numberline {6}Future Upgrades}{7}{section.6}% 
+\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{8}{part.4}% 
+\contentsline {section}{\numberline {7}Goals}{10}{section.7}% 
+\contentsline {section}{\numberline {8}Datasets and Monte Carlo Simulation}{10}{section.8}% 
+\contentsline {section}{\numberline {9}Phase Space Definition}{10}{section.9}% 
+\contentsline {section}{\numberline {10}Object and Event Selection}{10}{section.10}% 
+\contentsline {section}{\numberline {11}Definition of Measured Observables}{10}{section.11}% 
+\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{11}{part.5}% 
+\contentsline {section}{\numberline {12}Background Estimation}{12}{section.12}% 
+\contentsline {section}{\numberline {13}Unfolding}{12}{section.13}% 
+\contentsline {section}{\numberline {14}Uncertainties on the Measurement}{12}{section.14}% 
+\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{13}{part.6}% 
+\contentsline {section}{\numberline {15} Differential Cross-sections }{14}{section.15}% 
+\contentsline {section}{\numberline {16}Effective Field Theory ReInterpretation}{14}{section.16}% 
+\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion}}{15}{part.7}% 
+\contentsline {part}{VIII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Outlook}}{16}{part.8}% 
+\contentsline {section}{\numberline {17}Run-3}{17}{section.17}% 
+\contentsline {section}{\numberline {18}High Luminosity LHC}{17}{section.18}% 
+\contentsline {section}{\numberline {A}Contribution}{18}{appendix.A}% 
+\contentsfinish 

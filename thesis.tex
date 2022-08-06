@@ -1,0 +1,154 @@
+% !TeX root = ./thesis.tex
+\documentclass[red]{brandeis-dissertation}
+\usepackage[utf8]{inputenc}
+\usepackage{cite}
+\usepackage{titletoc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{epigraph}
+\renewcommand{\epigraphflush}{center}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{xspace}
+\usepackage{multirow}
+\usepackage{tocloft}
+\usepackage{titlesec}
+\usepackage{appendix}
+\usepackage{float}
+\usepackage[colorlinks = true,
+            linkcolor = black,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = black]{hyperref}
+%\input{defs.tex}
+\usepackage{AnalysisCommonDefs} %change this to input if it doesn't work
+\graphicspath{figures/}
+%%Zach has a brandeis hack to remove all the large fonts and so on but i want to stick with the default for now maybe i will change in future
+\titleformat{\part}[hang]{\normalfont\bfseries}{\partname\ \thepart:}{0.5em}{} 
+%%%%
+% Epigraph
+\setlength\epigraphwidth{\textwidth}
+\setlength\epigraphrule{0pt}
+% Footnotes
+\dimen\footins=20\baselineskip\relax
+\interfootnotelinepenalty=10000
+% Titles
+\renewcommand{\cfttoctitlefont}{\LARGE\bfseries}
+\renewcommand{\cftlottitlefont}{\LARGE\bfseries}
+\renewcommand{\cftloftitlefont}{\LARGE\bfseries}
+\titleformat*{\section}{\Large\bfseries}
+\titleformat*{\subsection}{\large\bfseries}
+\newcommand{\unnumsubsec}[1]{\subsection*{\normalsize{#1}}}
+% Table of Contents
+\setcounter{tocdepth}{2}
+\setlength{\cftsubsecindent}{4em}
+\renewcommand{\cftpartfont}{\large\bfseries}
+\renewcommand{\cftpartpagefont}{\large\bfseries}
+\renewcommand{\cftsecfont}{\normalsize}
+\renewcommand{\cftsecpagefont}{\normalsize}
+\renewcommand{\cftsubsecfont}{\normalsize}
+\renewcommand{\cftsubsecpagefont}{\normalsize}
+
+%Title of Thesis
+\title{The first measurement of the differential cross-sections for the electroweak production of ZZ in association with two jets in the four-leptons final state in 13 TeV proton-proton collision with the ATLAS detector.}
+\author{Prajita Bhattarai}
+\graduationmonth{February \textcolor{red}{I believe this is the official date for brandeis?}}
+\graduationyear{2022}
+\program{Department of Physics}
+\advisor{Professor Gabriella Sciolla}
+\signoff{Wendy Cadge}{Dean}
+\committee{Professor Gabriella Sciolla, Department of Physics\\
+Professor Aaram Apyan, Department of Physics\\
+\textcolor{red}{Someone}
+}
+
+\begin{document}
+
+% Title
+\maketitlepage
+\clearpage
+% Approval 
+\makeapproval
+\clearpage
+% Copyright
+\makecopyright
+\clearpage
+% Acknowledgements
+\phantomsection
+\addcontentsline{toc}{section}{Acknowledgements}
+\include{sections/acknowledgements}
+\clearpage
+
+
+%Abstract
+\phantomsection
+\begin{dissertation-abstract}
+\addcontentsline{toc}{section}{Abstract}
+
+\end{dissertation-abstract}
+\clearpage
+
+\doublespacing
+
+% Table of Contents
+\tableofcontents
+\clearpage
+\phantomsection
+\addcontentsline{toc}{section}{\listtablename}
+\listoftables
+\clearpage
+\phantomsection
+\addcontentsline{toc}{section}{\listfigurename}
+\listoffigures
+\clearpage
+
+% sections
+
+\startbody
+
+\renewcommand{\partname}{Chapter}
+
+\part{\LARGE{Introduction}}
+\input{sections/Introduction}
+\clearpage
+
+\part {\LARGE{Theory}}
+\include{sections/theory}
+\clearpage
+
+\part {\LARGE{The Large Hadron Collider}}
+\include{sections/LHC}
+\clearpage
+
+\part {\LARGE{Analysis Overview}}
+\include{sections/AnalysisOverview}
+\clearpage
+
+\part {\LARGE{Analysis Strategy}}
+\include{sections/AnalysisStrategy}
+\clearpage
+
+\part {\LARGE{Results}}
+\include{sections/Results}
+\clearpage
+
+\part {\LARGE{Conclusion}}
+\include{sections/Conclusion}
+\clearpage
+
+\part {\LARGE{Outlook}}
+\include{sections/Outlook}
+	\include{sections/Run3}
+	\include{sections/HLLHC}
+\clearpage
+
+\appendix
+\section{Contribution}
+\clearpage
+
+\end{document}
+
+
+
+
