@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: sections/acknowledgements.aux
+A level-1 auxiliary file: sections/ListOfAbb.aux
+A level-1 auxiliary file: sections/theory.aux
+A level-1 auxiliary file: sections/theory_StandardModel.aux
+A level-1 auxiliary file: sections/theory_StandardModelShortComings.aux
+A level-1 auxiliary file: sections/theory_MeasurementMotivation.aux
+A level-1 auxiliary file: sections/LHC.aux
+A level-1 auxiliary file: sections/AnalysisOverview.aux
+A level-1 auxiliary file: sections/AnalysisStrategy.aux
+A level-1 auxiliary file: sections/Results.aux
+A level-1 auxiliary file: sections/Conclusion.aux
+A level-1 auxiliary file: sections/Outlook.aux
+A level-1 auxiliary file: sections/Run3.aux
+A level-1 auxiliary file: sections/HLLHC.aux
+The style file: unsrt.bst
+Database file #1: biblio.bib
+Warning--empty journal in SMFigureWiki
+Warning--can't use both author and editor fields in Bernabeu2021
+You've used 4 entries,
+            1791 wiz_defined-function locations,
+            489 strings with 4395 characters,
+and the built_in function-call counts, 791 in all, are:
+= -- 70
+> -- 20
+< -- 1
++ -- 9
+- -- 5
+* -- 40
+:= -- 127
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 2
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 43
+empty$ -- 87
+format.name$ -- 5
+if$ -- 180
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 4
+pop$ -- 17
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 18
+stack$ -- 0
+substring$ -- 37
+swap$ -- 9
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 8
+width$ -- 5
+write$ -- 45
+(There were 2 warnings)

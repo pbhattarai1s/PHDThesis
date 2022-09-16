@@ -1,7 +1,6 @@
 % !TeX root = ./thesis.tex
 \documentclass[red]{brandeis-dissertation}
 \usepackage[utf8]{inputenc}
-\usepackage{cite}
 \usepackage{titletoc}
 \usepackage{amsmath}
 \usepackage{amssymb}
@@ -16,6 +15,7 @@
 \usepackage{titlesec}
 \usepackage{appendix}
 \usepackage{float}
+\usepackage{cite}
 \usepackage[colorlinks = true,
             linkcolor = black,
             urlcolor  = blue,
@@ -103,49 +103,55 @@ Professor Aaram Apyan, Department of Physics\\
 \listoffigures
 \clearpage
 
+\addcontentsline{toc}{section}{List of Abbreviations}
+\include{sections/ListOfAbb}
+\clearpage
+
 % sections
 
 \startbody
 
 \renewcommand{\partname}{Chapter}
 
-\part{\LARGE{Introduction}}
 \input{sections/Introduction}
 \clearpage
 
-\part {\LARGE{Theory}}
 \include{sections/theory}
+	\include{sections/theory_StandardModel}
+	\include{sections/theory_StandardModelShortComings}
+	\include{sections/theory_MeasurementMotivation}
 \clearpage
 
-\part {\LARGE{The Large Hadron Collider}}
 \include{sections/LHC}
 \clearpage
 
-\part {\LARGE{Analysis Overview}}
 \include{sections/AnalysisOverview}
 \clearpage
 
-\part {\LARGE{Analysis Strategy}}
 \include{sections/AnalysisStrategy}
 \clearpage
 
-\part {\LARGE{Results}}
 \include{sections/Results}
 \clearpage
 
-\part {\LARGE{Conclusion}}
 \include{sections/Conclusion}
 \clearpage
 
-\part {\LARGE{Outlook}}
 \include{sections/Outlook}
 	\include{sections/Run3}
 	\include{sections/HLLHC}
 \clearpage
 
-\appendix
+\clearpage
+\addcontentsline{toc}{section}{References}
+\bibliographystyle{unsrt}
+\bibliography{biblio}
+\clearpage
+
+\appendix{Appendix}
 \section{Contribution}
 \clearpage
+
 
 \end{document}
 

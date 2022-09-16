@@ -2,30 +2,34 @@
 \BOOKMARK [1][-]{section*.2}{Abstract}{}% 2
 \BOOKMARK [1][-]{section*.3}{List of Tables}{}% 3
 \BOOKMARK [1][-]{section*.4}{List of Figures}{}% 4
-\BOOKMARK [0][-]{part.1}{I Introduction}{}% 5
-\BOOKMARK [0][-]{part.2}{II Theory}{}% 6
-\BOOKMARK [1][-]{section.1}{Standard Model}{part.2}% 7
-\BOOKMARK [1][-]{section.2}{ Short Comings of the Standard Model}{part.2}% 8
-\BOOKMARK [1][-]{section.3}{ Measurement Motivation}{part.2}% 9
-\BOOKMARK [0][-]{part.3}{III The Large Hadron Collider}{}% 10
-\BOOKMARK [1][-]{section.4}{ATLAS Detector}{part.3}% 11
-\BOOKMARK [1][-]{section.5}{ Particle Reconstruction}{part.3}% 12
-\BOOKMARK [1][-]{section.6}{Future Upgrades}{part.3}% 13
-\BOOKMARK [0][-]{part.4}{IV Analysis Overview}{}% 14
-\BOOKMARK [1][-]{section.7}{Goals}{part.4}% 15
-\BOOKMARK [1][-]{section.8}{Datasets and Monte Carlo Simulation}{part.4}% 16
-\BOOKMARK [1][-]{section.9}{Phase Space Definition}{part.4}% 17
-\BOOKMARK [1][-]{section.10}{Object and Event Selection}{part.4}% 18
-\BOOKMARK [1][-]{section.11}{Definition of Measured Observables}{part.4}% 19
-\BOOKMARK [0][-]{part.5}{V Analysis Strategy}{}% 20
-\BOOKMARK [1][-]{section.12}{Background Estimation}{part.5}% 21
-\BOOKMARK [1][-]{section.13}{Unfolding}{part.5}% 22
-\BOOKMARK [1][-]{section.14}{Uncertainties on the Measurement}{part.5}% 23
-\BOOKMARK [0][-]{part.6}{VI Results}{}% 24
-\BOOKMARK [1][-]{section.15}{ Differential Cross-sections }{part.6}% 25
-\BOOKMARK [1][-]{section.16}{Effective Field Theory ReInterpretation}{part.6}% 26
-\BOOKMARK [0][-]{part.7}{VII Conclusion}{}% 27
-\BOOKMARK [0][-]{part.8}{VIII Outlook}{}% 28
-\BOOKMARK [1][-]{section.17}{Run-3}{part.8}% 29
-\BOOKMARK [1][-]{section.18}{High Luminosity LHC}{part.8}% 30
-\BOOKMARK [1][-]{appendix.A}{Contribution}{part.8}% 31
+\BOOKMARK [1][-]{section*.4}{List of Abbreviations}{}% 5
+\BOOKMARK [0][-]{part.1}{I Introduction}{}% 6
+\BOOKMARK [0][-]{part.2}{II Theory}{}% 7
+\BOOKMARK [1][-]{section.1}{The Standard Model}{part.2}% 8
+\BOOKMARK [2][-]{subsection.1.1}{Overview}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.2}{Theoretical Formulation}{section.1}% 10
+\BOOKMARK [1][-]{section.2}{Outstanding Problems of the Standard Model}{part.2}% 11
+\BOOKMARK [1][-]{section.3}{Measurement Motivation }{part.2}% 12
+\BOOKMARK [0][-]{part.3}{III The Large Hadron Collider}{}% 13
+\BOOKMARK [1][-]{section.4}{ATLAS Detector}{part.3}% 14
+\BOOKMARK [1][-]{section.5}{ Particle Reconstruction}{part.3}% 15
+\BOOKMARK [1][-]{section.6}{Future Upgrades}{part.3}% 16
+\BOOKMARK [0][-]{part.4}{IV Analysis Overview}{}% 17
+\BOOKMARK [1][-]{section.7}{Goals}{part.4}% 18
+\BOOKMARK [1][-]{section.8}{Datasets and Monte Carlo Simulation}{part.4}% 19
+\BOOKMARK [1][-]{section.9}{Phase Space Definition}{part.4}% 20
+\BOOKMARK [1][-]{section.10}{Object and Event Selection}{part.4}% 21
+\BOOKMARK [1][-]{section.11}{Definition of Measured Observables}{part.4}% 22
+\BOOKMARK [0][-]{part.5}{V Analysis Strategy}{}% 23
+\BOOKMARK [1][-]{section.12}{Background Estimation}{part.5}% 24
+\BOOKMARK [1][-]{section.13}{Unfolding}{part.5}% 25
+\BOOKMARK [1][-]{section.14}{Uncertainties on the Measurement}{part.5}% 26
+\BOOKMARK [0][-]{part.6}{VI Results}{}% 27
+\BOOKMARK [1][-]{section.15}{ Differential Cross-sections }{part.6}% 28
+\BOOKMARK [1][-]{section.16}{Effective Field Theory ReInterpretation}{part.6}% 29
+\BOOKMARK [0][-]{part.7}{VII Conclusion}{}% 30
+\BOOKMARK [0][-]{part.8}{VIII Outlook}{}% 31
+\BOOKMARK [1][-]{section.17}{Run-3}{part.8}% 32
+\BOOKMARK [1][-]{section.18}{High Luminosity LHC}{part.8}% 33
+\BOOKMARK [1][-]{section.18}{References}{part.8}% 34
+\BOOKMARK [1][-]{appendix.A}{Contribution}{part.8}% 35
