@@ -17,47 +17,54 @@ A level-1 auxiliary file: sections/Run3.aux
 A level-1 auxiliary file: sections/HLLHC.aux
 The style file: unsrt.bst
 Database file #1: biblio.bib
+I was expecting a `,' or a `}'---line 55 of file biblio.bib
+ :    
+ :    address = {New York, USA},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Warning--empty journal in SMFigureWiki
 Warning--can't use both author and editor fields in Bernabeu2021
-You've used 4 entries,
+Warning--empty publisher in Halzen:1984mc
+Warning--empty year in Halzen:1984mc
+You've used 5 entries,
             1791 wiz_defined-function locations,
-            489 strings with 4395 characters,
-and the built_in function-call counts, 791 in all, are:
-= -- 70
-> -- 20
+            493 strings with 4521 characters,
+and the built_in function-call counts, 952 in all, are:
+= -- 80
+> -- 28
 < -- 1
-+ -- 9
-- -- 5
-* -- 40
-:= -- 127
-add.period$ -- 12
-call.type$ -- 4
++ -- 12
+- -- 7
+* -- 50
+:= -- 150
+add.period$ -- 14
+call.type$ -- 5
 change.case$ -- 2
 chr.to.int$ -- 0
-cite$ -- 6
-duplicate$ -- 43
-empty$ -- 87
-format.name$ -- 5
-if$ -- 180
+cite$ -- 9
+duplicate$ -- 53
+empty$ -- 106
+format.name$ -- 7
+if$ -- 216
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 6
-newline$ -- 23
-num.names$ -- 4
-pop$ -- 17
+int.to.str$ -- 5
+missing$ -- 8
+newline$ -- 27
+num.names$ -- 5
+pop$ -- 26
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 18
+skip$ -- 21
 stack$ -- 0
 substring$ -- 37
-swap$ -- 9
+swap$ -- 10
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 8
-width$ -- 5
-write$ -- 45
-(There were 2 warnings)
+warning$ -- 4
+while$ -- 9
+width$ -- 6
+write$ -- 52
+(There was 1 error message)

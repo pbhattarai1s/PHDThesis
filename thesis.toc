@@ -8,33 +8,36 @@
 \contentsline {part}{II\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Theory}}{2}{part.2}% 
 \contentsline {section}{\numberline {1}The Standard Model}{3}{section.1}% 
 \contentsline {subsection}{\numberline {1.1}Overview}{3}{subsection.1.1}% 
-\contentsline {subsection}{\numberline {1.2}Theoretical Formulation}{6}{subsection.1.2}% 
-\contentsline {subsubsection}{\numberline {1.2.1}Quantum Electrodynamics}{6}{subsubsection.1.2.1}% 
-\contentsline {subsubsection}{\numberline {1.2.2}Quantum Chromodynamics }{6}{subsubsection.1.2.2}% 
-\contentsline {subsubsection}{\numberline {1.2.3}Electroweak Unification and the Higgs Mechanism}{6}{subsubsection.1.2.3}% 
-\contentsline {section}{\numberline {2}Outstanding Problems of the Standard Model}{7}{section.2}% 
-\contentsline {section}{\numberline {3}Measurement Motivation }{8}{section.3}% 
-\contentsline {part}{III\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {The Large Hadron Collider}}{9}{part.3}% 
-\contentsline {section}{\numberline {4}ATLAS Detector}{9}{section.4}% 
-\contentsline {section}{\numberline {5} Particle Reconstruction}{9}{section.5}% 
-\contentsline {section}{\numberline {6}Future Upgrades}{9}{section.6}% 
-\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{10}{part.4}% 
-\contentsline {section}{\numberline {7}Goals}{11}{section.7}% 
-\contentsline {section}{\numberline {8}Datasets and Monte Carlo Simulation}{11}{section.8}% 
-\contentsline {section}{\numberline {9}Phase Space Definition}{11}{section.9}% 
-\contentsline {section}{\numberline {10}Object and Event Selection}{11}{section.10}% 
-\contentsline {section}{\numberline {11}Definition of Measured Observables}{11}{section.11}% 
-\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{12}{part.5}% 
-\contentsline {section}{\numberline {12}Background Estimation}{12}{section.12}% 
-\contentsline {section}{\numberline {13}Unfolding}{12}{section.13}% 
-\contentsline {section}{\numberline {14}Uncertainties on the Measurement}{12}{section.14}% 
-\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{13}{part.6}% 
-\contentsline {section}{\numberline {15} Differential Cross-sections }{13}{section.15}% 
-\contentsline {section}{\numberline {16}Effective Field Theory ReInterpretation}{13}{section.16}% 
-\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion}}{14}{part.7}% 
-\contentsline {part}{VIII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Outlook}}{15}{part.8}% 
-\contentsline {section}{\numberline {17}Run-3}{15}{section.17}% 
-\contentsline {section}{\numberline {18}High Luminosity LHC}{15}{section.18}% 
-\contentsline {section}{References}{16}{section.18}% 
-\contentsline {section}{\numberline {A}Contribution}{18}{appendix.A}% 
+\contentsline {subsection}{\numberline {1.2}Theoretical Formulation of the Standard Model}{7}{subsection.1.2}% 
+\contentsline {subsubsection}{\numberline {1.2.1}Relativistic Quantum Field Theory}{7}{subsubsection.1.2.1}% 
+\contentsline {subsubsection}{\numberline {1.2.2}Lagrangian of the Standard Model}{7}{subsubsection.1.2.2}% 
+\contentsline {subsubsection}{\numberline {1.2.3}Quantum Electrodynamics}{8}{subsubsection.1.2.3}% 
+\contentsline {subsubsection}{\numberline {1.2.4}Quantum Chromodynamics }{10}{subsubsection.1.2.4}% 
+\contentsline {subsubsection}{\numberline {1.2.5}Electroweak Unification and the Higgs Mechanism}{10}{subsubsection.1.2.5}% 
+\contentsline {section}{\numberline {2}Outstanding Problems of the Standard Model}{11}{section.2}% 
+\contentsline {section}{\numberline {3}Measurement Motivation }{12}{section.3}% 
+\contentsline {part}{III\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {The Large Hadron Collider}}{13}{part.3}% 
+\contentsline {section}{\numberline {4}ATLAS Detector}{13}{section.4}% 
+\contentsline {section}{\numberline {5} Particle Reconstruction}{13}{section.5}% 
+\contentsline {section}{\numberline {6}Future Upgrades}{13}{section.6}% 
+\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{14}{part.4}% 
+\contentsline {section}{\numberline {7}Goals}{15}{section.7}% 
+\contentsline {section}{\numberline {8}Datasets and Monte Carlo Simulation}{15}{section.8}% 
+\contentsline {section}{\numberline {9}Phase Space Definition}{15}{section.9}% 
+\contentsline {section}{\numberline {10}Object and Event Selection}{15}{section.10}% 
+\contentsline {section}{\numberline {11}Definition of Measured Observables}{15}{section.11}% 
+\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{16}{part.5}% 
+\contentsline {section}{\numberline {12}Background Estimation}{16}{section.12}% 
+\contentsline {section}{\numberline {13}Unfolding}{16}{section.13}% 
+\contentsline {section}{\numberline {14}Uncertainties on the Measurement}{16}{section.14}% 
+\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{17}{part.6}% 
+\contentsline {section}{\numberline {15} Differential Cross-sections }{17}{section.15}% 
+\contentsline {section}{\numberline {16}Effective Field Theory ReInterpretation}{17}{section.16}% 
+\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion}}{18}{part.7}% 
+\contentsline {part}{VIII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Outlook}}{19}{part.8}% 
+\contentsline {section}{\numberline {17}Run-3}{19}{section.17}% 
+\contentsline {section}{\numberline {18}High Luminosity LHC}{19}{section.18}% 
+\contentsline {part}{References}{20}{section.18}% 
+\contentsline {part}{Appendices}{21}{section.18}% 
+\contentsline {part}{Appendices}{21}{part*.9}% 
 \contentsfinish 

@@ -23,6 +23,7 @@
             anchorcolor = black]{hyperref}
 %\input{defs.tex}
 \usepackage{AnalysisCommonDefs} %change this to input if it doesn't work
+\numberwithin{equation}{section}
 \graphicspath{figures/}
 %%Zach has a brandeis hack to remove all the large fonts and so on but i want to stick with the default for now maybe i will change in future
 \titleformat{\part}[hang]{\normalfont\bfseries}{\partname\ \thepart:}{0.5em}{} 
@@ -142,15 +143,17 @@ Professor Aaram Apyan, Department of Physics\\
 	\include{sections/HLLHC}
 \clearpage
 
-\clearpage
-\addcontentsline{toc}{section}{References}
-\bibliographystyle{unsrt}
+\addcontentsline{toc}{part}{References}
+{\singlespacing
+\renewcommand{\refname}{References}
 \bibliography{biblio}
+\bibliographystyle{unsrt}
 \clearpage
-
-\appendix{Appendix}
-\section{Contribution}
-\clearpage
+}
+\addcontentsline{toc}{part}{Appendices}
+\begin{appendices}
+    \part*{Appendices}
+\end{appendices}
 
 
 \end{document}

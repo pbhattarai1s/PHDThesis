@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  15 SEP 2022 18:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 14:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -465,12 +465,6 @@ Missing character: There is no i in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
@@ -525,6 +519,26 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[]
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 4--5
+[]
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 4--5
+[]
+ []
+
+
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 4--5
+[]
+ []
+
 )
 ! Emergency stop.
 <*> theory.tex
@@ -539,5 +553,5 @@ Here is how much of TeX's memory you used:
  4030 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 19i,2n,19p,579b,89s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 19i,2n,19p,571b,89s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  16 SEP 2022 14:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 14:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -429,20 +429,20 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 (./sections/Run3.aux) (./sections/HLLHC.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -522,7 +522,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 66.
+Package hyperref Info: Link coloring ON on input line 67.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -532,9 +532,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count139
 )
-LaTeX Info: Redefining \ref on input line 66.
-LaTeX Info: Redefining \pageref on input line 66.
-LaTeX Info: Redefining \nameref on input line 66.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
@@ -547,7 +547,7 @@ arning (ext4): destination with the same identifier (name{page.}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \makeapproval
+l.73 \makeapproval
                    [1
 
 
@@ -588,7 +588,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \makecopyright
+l.76 \makecopyright
                     [1
 
 
@@ -660,7 +660,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 (./sections/theory_StandardModel.tex
-<figures/SMparticles.png, id=250, 803.0pt x 767.86874pt>
+<figures/SMparticles.png, id=252, 803.0pt x 767.86874pt>
 File: figures/SMparticles.png Graphic file (type png)
 <use figures/SMparticles.png>
 Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
@@ -669,19 +669,19 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 
 
 
- <./figures/SMparticles.png>] [4])
-[5] [6]
+] [4 <./figures/SMparticles.png>]
+[5] [6] [7] [8]) [9] [10]
 \openout2 = `sections/theory_StandardModelShortComings.aux'.
 
- (./sections/theory_StandardModelShortComings.tex) [7
+ (./sections/theory_StandardModelShortComings.tex)
+[11
 
 
 
 ]
 \openout2 = `sections/theory_MeasurementMotivation.aux'.
 
-
-(./sections/theory_MeasurementMotivation.tex) [8
+ (./sections/theory_MeasurementMotivation.tex) [12
 
 
 
@@ -690,7 +690,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 
  (./sections/LHC.tex
 (./sections/LHC_ATLAS.tex) (./sections/LHC_ObjectReconstruction.tex)
-(./sections/LHC_FutureUpgrades.tex)) [9
+(./sections/LHC_FutureUpgrades.tex)) [13
 
 
 
@@ -698,7 +698,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 \openout2 = `sections/AnalysisOverview.aux'.
 
  (./sections/AnalysisOverview.tex
-[10
+[14
 
 
 
@@ -706,14 +706,14 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 (./sections/Analysis_DataSetAndMonteCarlo.tex)
 (./sections/Analysis_FiducialSelection.tex)
 (./sections/Analysis_ObjectAndEventSelection.tex) (./sections/Analysis_Obs.tex)
-) [11
+) [15
 
 ]
 \openout2 = `sections/AnalysisStrategy.aux'.
 
  (./sections/AnalysisStrategy.tex (./sections/Analysis_Background.tex)
 (./sections/Analysis_Unfolding.tex) (./sections/Analysis_Systematics.tex))
-[12
+[16
 
 
 
@@ -721,7 +721,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 \openout2 = `sections/Results.aux'.
 
  (./sections/Results.tex (./sections/Results_DifferentialCrossSections.tex) (./
-sections/Results_ReInterpretation.tex)) [13
+sections/Results_ReInterpretation.tex)) [17
 
 
 
@@ -729,7 +729,7 @@ sections/Results_ReInterpretation.tex)) [13
 \openout2 = `sections/Conclusion.aux'.
 
  (./sections/Conclusion.tex)
-[14
+[18
 
 
 
@@ -737,7 +737,7 @@ sections/Results_ReInterpretation.tex)) [13
 \openout2 = `sections/Outlook.aux'.
 
  (./sections/Outlook.tex (./sections/Run3.tex) (./sections/HLLHC.tex))
-[15
+[19
 
 
 
@@ -747,43 +747,48 @@ sections/Results_ReInterpretation.tex)) [13
  (./sections/Run3.tex)
 \openout2 = `sections/HLLHC.aux'.
 
- (./sections/HLLHC.tex) (./thesis.bbl) [16
+ (./sections/HLLHC.tex) (./thesis.bbl) [20
 
 
 
 
 
 
-
-
-] [17
 
 ]
-[18
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
+ [21
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
- (./thesis.aux (./sections/acknowledgements.aux) (./sections/ListOfAbb.aux) (./
-sections/theory.aux) (./sections/theory_StandardModel.aux)
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+
+(./thesis.aux (./sections/acknowledgements.aux) (./sections/ListOfAbb.aux)
+(./sections/theory.aux) (./sections/theory_StandardModel.aux)
 (./sections/theory_StandardModelShortComings.aux)
 (./sections/theory_MeasurementMotivation.aux) (./sections/LHC.aux)
 (./sections/AnalysisOverview.aux) (./sections/AnalysisStrategy.aux)
 (./sections/Results.aux) (./sections/Conclusion.aux) (./sections/Outlook.aux)
 (./sections/Run3.aux) (./sections/HLLHC.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 9FE3E20E58B0469B246B57D69B2A3B1D;2057.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: BEB4242175420D6BF9B6C12B62784DA5;2062
+(rerunfilecheck)             After:  DFED7630BC3812BBA230070F09AAA94A;2109.
  ) 
 Here is how much of TeX's memory you used:
- 10295 strings out of 492616
- 153690 string characters out of 6129482
- 297375 words of memory out of 5000000
- 13843 multiletter control sequences out of 15000+600000
+ 10323 strings out of 492616
+ 154080 string characters out of 6129482
+ 294070 words of memory out of 5000000
+ 13856 multiletter control sequences out of 15000+600000
  13057 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,17n,41p,1158b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,17n,41p,1161b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
@@ -795,10 +800,10 @@ al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local
 /texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
 exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/te
 xlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (27 pages, 373751 bytes).
+Output written on thesis.pdf (30 pages, 390228 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 352 compressed objects within 4 object streams
- 70 named destinations out of 1000 (max. 500000)
+ 438 PDF objects out of 1000 (max. 8388607)
+ 386 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
  286 words of extra memory for PDF output out of 10000 (max. 10000000)
 
