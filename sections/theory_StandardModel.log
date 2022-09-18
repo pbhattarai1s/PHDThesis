@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 12:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -42,121 +42,31 @@ Missing character: There is no o in font nullfont!
 Missing character: There is no d in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no l in font nullfont!
-! Undefined control sequence.
-l.2 \textcolor
-              {red}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 1--3
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
 []
  []
 
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no l in font nullfont!
 ! Undefined control sequence.
-l.8 \textcolor
-              {black}
+l.4 \subsection
+               {Overview}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no k in font nullfont!
-! Undefined control sequence.
-l.10 \subsection
-                {Overview}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \subsection{O
+                 verview}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no O in font nullfont!
 Missing character: There is no v in font nullfont!
@@ -669,7 +579,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...g: Reference `fig:SM' on page \thepage 
                                                   \space undefined\on@line .
-l.12 ...shown schematically by figure \ref{fig:SM}
+l.6 ... shown schematically by figure \ref{fig:SM}
                                                   . Discussion in this secti...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -678,7 +588,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:SM' on page  undefined on input line 12.
+LaTeX Warning: Reference `fig:SM' on page  undefined on input line 6.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no D in font nullfont!
@@ -797,7 +707,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.12 ...rn Particle Physics \cite{Thomson:2013zua}
+l.6 ...ern Particle Physics \cite{Thomson:2013zua}
                                                   , and Halzen $\&$ Martin's...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -806,7 +716,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Thomson:2013zua' on page  undefined on input line 12.
+LaTeX Warning: Citation `Thomson:2013zua' on page  undefined on input line 6.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -820,9 +730,9 @@ Missing character: There is no z in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no n in font nullfont!
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 12.
+(Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 12.
+(Font)              <5> on input line 6.
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -849,7 +759,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.12 ...s Quarks $\&$ Leptons \cite{Halzen:1984mc}
+l.6 ...'s Quarks $\&$ Leptons \cite{Halzen:1984mc}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -858,37 +768,37 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Halzen:1984mc' on page  undefined on input line 12.
+LaTeX Warning: Citation `Halzen:1984mc' on page  undefined on input line 6.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 8--13
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--7
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 8--13
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 4--7
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 8--13
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 4--7
 []
  []
 
 
-Overfull \hbox (7.7778pt too wide) in paragraph at lines 8--13
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 4--7
 \OT1/cmr/m/n/10 &$
  []
 
 
-Overfull \hbox (7.7778pt too wide) in paragraph at lines 8--13
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 4--7
 \OT1/cmr/m/n/10 &$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 8--13
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 4--7
 [] 
  []
 
@@ -899,17 +809,29 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.14 \begin{figure}
-                   [H]
+l.8 \begin{figure}
+                  [H]
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \begin{figure}[
+                   H]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no [ in font nullfont!
 Missing character: There is no H in font nullfont!
 Missing character: There is no ] in font nullfont!
 ! Undefined control sequence.
-l.16     \includegraphics
+l.10     \includegraphics
                          [width=0.7\textwidth] {figures/SMparticles.png}\hsp...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -930,7 +852,7 @@ Missing character: There is no 7 in font nullfont!
 ! Missing number, treated as zero.
 <to be read again> 
                    ]
-l.16     \includegraphics[width=0.7\textwidth]
+l.10     \includegraphics[width=0.7\textwidth]
                                                {figures/SMparticles.png}\hsp...
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -939,7 +861,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
                    ]
-l.16     \includegraphics[width=0.7\textwidth]
+l.10     \includegraphics[width=0.7\textwidth]
                                                {figures/SMparticles.png}\hsp...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -979,7 +901,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.17     \caption
+l.11     \caption
                  { The seventeen fundamental particles of the Standard Model...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -1120,7 +1042,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.17 ...e scalar Higgs bosons. \cite{SMFigureWiki}
+l.11 ...e scalar Higgs bosons. \cite{SMFigureWiki}
                                                   }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1129,7 +1051,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `SMFigureWiki' on page  undefined on input line 17.
+LaTeX Warning: Citation `SMFigureWiki' on page  undefined on input line 11.
 
 Missing character: There is no ] in font nullfont!
 
@@ -1139,21 +1061,34 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.19 \end{figure}
+l.13 \end{figure}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 14--20
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--14
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 14--20
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 8--14
 []
  []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 T
+      he twelve half-integer-spin fermions can be further distinguished into...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no T in font nullfont!
 Missing character: There is no h in font nullfont!
@@ -1339,7 +1274,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...g: Reference `fig:SM' on page \thepage 
                                                   \space undefined\on@line .
-l.21 ...shown schematically by figure \ref{fig:SM}
+l.15 ...shown schematically by figure \ref{fig:SM}
                                                   . For each fermion, there ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1348,7 +1283,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `fig:SM' on page  undefined on input line 21.
+LaTeX Warning: Reference `fig:SM' on page  undefined on input line 15.
 
 Missing character: There is no . in font nullfont!
 Missing character: There is no F in font nullfont!
@@ -1477,7 +1412,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...ce `tab:VectorBosons' on page \thepage 
                                                   \space undefined\on@line .
-l.21 ...sons shown in Table \ref{tab:VectorBosons}
+l.15 ...sons shown in Table \ref{tab:VectorBosons}
                                                    are collectively called t...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1486,7 +1421,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:VectorBosons' on page  undefined on input line 21
+LaTeX Warning: Reference `tab:VectorBosons' on page  undefined on input line 15
 .
 
 Missing character: There is no a in font nullfont!
@@ -1759,7 +1694,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...ec:TheoryFormulation' on page \thepage 
                                                   \space undefined\on@line .
-l.21 ... in Section \ref{subsec:TheoryFormulation}
+l.15 ... in Section \ref{subsec:TheoryFormulation}
                                                    \cite{Bernabeu2021}. Diff...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1769,14 +1704,14 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `subsec:TheoryFormulation' on page  undefined on input
- line 21.
+ line 15.
 
 Missing character: There is no [ in font nullfont!
 \citation{Bernabeu2021}
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.21 ...sec:TheoryFormulation} \cite{Bernabeu2021}
+l.15 ...sec:TheoryFormulation} \cite{Bernabeu2021}
                                                   . Different fermions take ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1785,7 +1720,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Bernabeu2021' on page  undefined on input line 21.
+LaTeX Warning: Citation `Bernabeu2021' on page  undefined on input line 15.
 
 Missing character: There is no ] in font nullfont!
 Missing character: There is no . in font nullfont!
@@ -1857,7 +1792,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...b:FermionInteraction' on page \thepage 
                                                   \space undefined\on@line .
-l.21 ...ined by Table \ref{tab:FermionInteraction}
+l.15 ...ined by Table \ref{tab:FermionInteraction}
                                                   , and the strength of the ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1867,7 +1802,7 @@ and I'll forget about whatever was undefined.
 
 
 LaTeX Warning: Reference `tab:FermionInteraction' on page  undefined on input l
-ine 21.
+ine 15.
 
 Missing character: There is no , in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -1937,39 +1872,52 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 21--22
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--16
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 21--22
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 15--16
 []
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 21--22
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 15--16
 \OT1/cmr/m/n/10 1$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 21--22
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 15--16
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 21--22
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 15--16
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 21--22
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 15--16
 []
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 21--22
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 15--16
 []
  []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 M
+      assless photon ($\gamma$) mediates the electromagnetic interaction. Th...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 Missing character: There is no M in font nullfont!
 Missing character: There is no a in font nullfont!
@@ -2203,7 +2151,7 @@ Missing character: There is no n in font nullfont!
 ! Undefined control sequence.
 <write> ...ce `subsubsec:EWkUni' on page \thepage 
                                                   \space undefined\on@line .
-l.23 ...n detail in Section \ref{subsubsec:EWkUni}
+l.17 ...n detail in Section \ref{subsubsec:EWkUni}
                                                   . Weak isospin (I) and wea...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2212,7 +2160,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `subsubsec:EWkUni' on page  undefined on input line 23
+LaTeX Warning: Reference `subsubsec:EWkUni' on page  undefined on input line 17
 .
 
 Missing character: There is no . in font nullfont!
@@ -2714,7 +2662,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `tab:Fermions' on page \thepage 
                                                   \space undefined\on@line .
-l.23 ...hich are shown in Table \ref{tab:Fermions}
+l.17 ...hich are shown in Table \ref{tab:Fermions}
                                                   .
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2723,97 +2671,97 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:Fermions' on page  undefined on input line 23.
+LaTeX Warning: Reference `tab:Fermions' on page  undefined on input line 17.
 
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 23--24
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--18
 []
  []
 
 
-Overfull \hbox (5.73285pt too wide) in paragraph at lines 23--24
+Overfull \hbox (5.73285pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 ^^M$
  []
 
 
-Overfull \hbox (10.83334pt too wide) in paragraph at lines 23--24
+Overfull \hbox (10.83334pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 W$
  []
 
 
-Overfull \hbox (7.54167pt too wide) in paragraph at lines 23--24
+Overfull \hbox (7.54167pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 Z$
  []
 
 
-Overfull \hbox (68.78691pt too wide) in paragraph at lines 23--24
+Overfull \hbox (68.78691pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (2)[] [] \OMS/cmsy/m/n/10 
   []\OML/cmm/m/it/10 U\OT1/cmr/m/n/10 (1)[]$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 23--24
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 17--18
 []
  []
 
 
-Overfull \hbox (33.3903pt too wide) in paragraph at lines 23--24
+Overfull \hbox (33.3903pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (2)[]$
  []
 
 
-Overfull \hbox (27.6188pt too wide) in paragraph at lines 23--24
+Overfull \hbox (27.6188pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 U\OT1/cmr/m/n/10 (1)[]$
  []
 
 
-Overfull \hbox (18.46106pt too wide) in paragraph at lines 23--24
+Overfull \hbox (18.46106pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 Q \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (16.65977pt too wide) in paragraph at lines 23--24
+Overfull \hbox (16.65977pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 I[] \OT1/cmr/m/n/10 +
  []
 
 
-Overfull \hbox (8.82295pt too wide) in paragraph at lines 23--24
+Overfull \hbox (8.82295pt too wide) in paragraph at lines 17--18
 []$
  []
 
 
-Overfull \hbox (8.88197pt too wide) in paragraph at lines 23--24
+Overfull \hbox (8.88197pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 I[]$
  []
 
 
-Overfull \hbox (33.3903pt too wide) in paragraph at lines 23--24
+Overfull \hbox (33.3903pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (2)[]$
  []
 
 
-Overfull \hbox (15.73605pt too wide) in paragraph at lines 23--24
+Overfull \hbox (15.73605pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 I \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (6.38612pt too wide) in paragraph at lines 23--24
+Overfull \hbox (6.38612pt too wide) in paragraph at lines 17--18
 []$
  []
 
 
-Overfull \hbox (15.73605pt too wide) in paragraph at lines 23--24
+Overfull \hbox (15.73605pt too wide) in paragraph at lines 17--18
 \OML/cmm/m/it/10 I \OT1/cmr/m/n/10 =
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 23--24
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 17--18
 \OT1/cmr/m/n/10 0$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 23--24
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 17--18
 [] 
  []
 
@@ -2824,7 +2772,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.25 \begin{table}
+l.19 \begin{table}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2837,8 +2785,20 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.26 \caption
+l.20 \caption
              {Properties of Standard Model gauge bosons.\cite{PDG}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 \caption{P
+               roperties of Standard Model gauge bosons.\cite{PDG}}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -2884,7 +2844,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.26 ... of Standard Model gauge bosons.\cite{PDG}
+l.20 ... of Standard Model gauge bosons.\cite{PDG}
                                                   }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2893,16 +2853,16 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `PDG' on page  undefined on input line 26.
+LaTeX Warning: Citation `PDG' on page  undefined on input line 20.
 
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 26--27
+Overfull \hbox (20.0pt too wide) in paragraph at lines 20--21
 []
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 26--27
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 20--21
 [] 
  []
 
@@ -2950,7 +2910,7 @@ Missing character: There is no p in font nullfont!
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.32 \multirow
+l.26 \multirow
               {3}{*} {Electroweak}  & Electromagnetic 		& Photon ($\gamma$) ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2996,7 +2956,7 @@ Missing character: There is no ( in font nullfont!
 Missing character: There is no ) in font nullfont!
 Missing character: There is no 0 in font nullfont!
 ! Undefined control sequence.
-l.32 ...                   & 	$0$	 			&  \multirow
+l.26 ...                   & 	$0$	 			&  \multirow
                                                   {3}{*}{$SU(2)~\otimes~U(1)...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3007,7 +2967,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 3 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Undefined control sequence.
-l.33 					      &  \multirow
+l.27 					      &  \multirow
                             {2}{*} { Weak }          		& $W^{\pm}$	&   $\pm1...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3044,7 +3004,7 @@ Missing character: There is no ) in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 0 in font nullfont!
 
-Overfull \hbox (116.8132pt too wide) in paragraph at lines 28--40
+Overfull \hbox (116.8132pt too wide) in paragraph at lines 22--34
  [] 
  []
 
@@ -3055,7 +3015,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.41 \end{table}
+l.35 \end{table}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3068,7 +3028,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.43 \begin{table}
+l.37 \begin{table}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3081,7 +3041,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.44 \caption
+l.38 \caption
              { Summary of different interactions of fermions under different...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -3215,7 +3175,7 @@ Missing character: There is no c in font nullfont!
 Missing character: There is no e in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 44--45
+Overfull \hbox (20.0pt too wide) in paragraph at lines 38--39
 []
  []
 
@@ -3256,7 +3216,7 @@ Missing character: There is no k in font nullfont!
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.51 \multirow
+l.45 \multirow
               {2}{*} {Quarks} & $u, c, t$ &  \multirow{2}{*} \checkmark & \m...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3273,7 +3233,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Undefined control sequence.
-l.51 ...ow{2}{*} {Quarks} & $u, c, t$ &  \multirow
+l.45 ...ow{2}{*} {Quarks} & $u, c, t$ &  \multirow
                                                   {2}{*} \checkmark & \multi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3284,7 +3244,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Undefined control sequence.
-l.51 ... & $u, c, t$ &  \multirow{2}{*} \checkmark
+l.45 ... & $u, c, t$ &  \multirow{2}{*} \checkmark
                                                    & \multirow{2}{*} \checkm...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3293,7 +3253,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.51 ... &  \multirow{2}{*} \checkmark & \multirow
+l.45 ... &  \multirow{2}{*} \checkmark & \multirow
                                                   {2}{*} \checkmark & \multi...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3304,7 +3264,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Undefined control sequence.
-l.51 ...*} \checkmark & \multirow{2}{*} \checkmark
+l.45 ...*} \checkmark & \multirow{2}{*} \checkmark
                                                    & \multirow{2}{*} \checkm...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3313,7 +3273,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.51 ...k & \multirow{2}{*} \checkmark & \multirow
+l.45 ...k & \multirow{2}{*} \checkmark & \multirow
                                                   {2}{*} \checkmark \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3324,7 +3284,7 @@ and I'll forget about whatever was undefined.
 Missing character: There is no 2 in font nullfont!
 Missing character: There is no * in font nullfont!
 ! Undefined control sequence.
-l.51 ...*} \checkmark & \multirow{2}{*} \checkmark
+l.45 ...*} \checkmark & \multirow{2}{*} \checkmark
                                                    \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3340,7 +3300,7 @@ Missing character: There is no b in font nullfont!
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.54 \multirow
+l.48 \multirow
               {2}{*} {Leptons} & e, $\mu$, $\tau$ &  - &  \checkmark &  \che...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3362,7 +3322,7 @@ Missing character: There is no , in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no - in font nullfont!
 ! Undefined control sequence.
-l.54 ...ons} & e, $\mu$, $\tau$ &  - &  \checkmark
+l.48 ...ons} & e, $\mu$, $\tau$ &  - &  \checkmark
                                                    &  \checkmark \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3371,7 +3331,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.54 ...$, $\tau$ &  - &  \checkmark &  \checkmark
+l.48 ...$, $\tau$ &  - &  \checkmark &  \checkmark
                                                    \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3383,7 +3343,7 @@ Missing character: There is no , in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no - in font nullfont!
 ! Undefined control sequence.
-l.55 ...$\nu_{\mu}$, $\nu_{\tau}$ & - & \checkmark
+l.49 ...$\nu_{\mu}$, $\nu_{\tau}$ & - & \checkmark
                                                    & - \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3393,7 +3353,7 @@ and I'll forget about whatever was undefined.
 
 Missing character: There is no - in font nullfont!
 
-Overfull \hbox (106.68526pt too wide) in paragraph at lines 46--59
+Overfull \hbox (106.68526pt too wide) in paragraph at lines 40--53
  [] 
  []
 
@@ -3404,7 +3364,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.60 \end{table}
+l.54 \end{table}
                 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3662,32 +3622,32 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 62--63
+Overfull \hbox (20.0pt too wide) in paragraph at lines 56--57
 []
  []
 
 
-Overfull \hbox (12.43407pt too wide) in paragraph at lines 62--63
+Overfull \hbox (12.43407pt too wide) in paragraph at lines 56--57
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 e\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (13.80328pt too wide) in paragraph at lines 62--63
+Overfull \hbox (13.80328pt too wide) in paragraph at lines 56--57
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^V\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (13.28128pt too wide) in paragraph at lines 62--63
+Overfull \hbox (13.28128pt too wide) in paragraph at lines 56--57
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^\\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (13.35419pt too wide) in paragraph at lines 62--63
+Overfull \hbox (13.35419pt too wide) in paragraph at lines 56--57
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^W\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (49.47281pt too wide) in paragraph at lines 62--63
+Overfull \hbox (49.47281pt too wide) in paragraph at lines 56--57
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 ^^W[]; ^^W[]\OT1/cmr/m/n/10 &\OML/cmm/m/it/10
  ^^W[]\OT1/cmr/m/n/10 )$
  []
@@ -4000,7 +3960,7 @@ Missing character: There is no e in font nullfont!
 ! Undefined control sequence.
 <write> ...erence `tab:Fermions' on page \thepage 
                                                   \space undefined\on@line .
-l.64 ...'}$ summarized in table \ref{tab:Fermions}
+l.58 ...'}$ summarized in table \ref{tab:Fermions}
                                                    are linear combinations o...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4009,7 +3969,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `tab:Fermions' on page  undefined on input line 64.
+LaTeX Warning: Reference `tab:Fermions' on page  undefined on input line 58.
 
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
@@ -4492,83 +4452,83 @@ Missing character: There is no l in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no . in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 64--65
+Overfull \hbox (20.0pt too wide) in paragraph at lines 58--59
 []
  []
 
 
-Overfull \hbox (14.16393pt too wide) in paragraph at lines 64--65
+Overfull \hbox (14.16393pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 +[]$
  []
 
 
-Overfull \hbox (14.16393pt too wide) in paragraph at lines 64--65
+Overfull \hbox (14.16393pt too wide) in paragraph at lines 58--59
 \OMS/cmsy/m/n/10 ^^@[]$
  []
 
 
-Overfull \hbox (13.50238pt too wide) in paragraph at lines 64--65
+Overfull \hbox (13.50238pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (24.32758pt too wide) in paragraph at lines 64--65
+Overfull \hbox (24.32758pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 c\OT1/cmr/m/n/10 ) []\OML/cmm/m/it/10 ;  []\O
 T1/cmr/m/n/10 &$
  []
 
 
-Overfull \hbox (11.38892pt too wide) in paragraph at lines 64--65
+Overfull \hbox (11.38892pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (12.98267pt too wide) in paragraph at lines 64--65
+Overfull \hbox (12.98267pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 d\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (12.4653pt too wide) in paragraph at lines 64--65
+Overfull \hbox (12.4653pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 s\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (7.7778pt too wide) in paragraph at lines 64--65
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 &$
  []
 
 
-Overfull \hbox (12.06946pt too wide) in paragraph at lines 64--65
+Overfull \hbox (12.06946pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 (\OML/cmm/m/it/10 b\OT1/cmr/m/n/10 )$
  []
 
 
-Overfull \hbox (33.3903pt too wide) in paragraph at lines 64--65
+Overfull \hbox (33.3903pt too wide) in paragraph at lines 58--59
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (2)[]$
  []
 
 
-Overfull \hbox (36.02087pt too wide) in paragraph at lines 64--65
+Overfull \hbox (36.02087pt too wide) in paragraph at lines 58--59
 \OML/cmm/m/it/10 d[];  []s[] []\OT1/cmr/m/n/10 & []\OML/cmm/m/it/10 b[]$
  []
 
 
-Overfull \hbox (10.86105pt too wide) in paragraph at lines 64--65
+Overfull \hbox (10.86105pt too wide) in paragraph at lines 58--59
 []
  []
 
 
-Overfull \hbox (23.07285pt too wide) in paragraph at lines 64--65
+Overfull \hbox (23.07285pt too wide) in paragraph at lines 58--59
 \OML/cmm/m/it/10 d;  []s;  []b$
  []
 
 
-Overfull \hbox (27.40416pt too wide) in paragraph at lines 64--65
+Overfull \hbox (27.40416pt too wide) in paragraph at lines 58--59
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (3)$
  []
 
 
-Overfull \hbox (7.7778pt too wide) in paragraph at lines 64--65
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 58--59
 \OT1/cmr/m/n/10 &$
  []
 
@@ -4579,7 +4539,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.66 \begin{table}
+l.60 \begin{table}
                   
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4592,7 +4552,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.67 \caption
+l.61 \caption
              {Electroweak quantum numbers of Standard Model half-integer spi...
 
 You're in trouble here.  Try typing  <return>  to proceed.
@@ -4737,7 +4697,7 @@ Missing character: There is no [ in font nullfont!
 ! Undefined control sequence.
 <write> ...: Citation `\@citeb ' on page \thepage 
                                                   \space undefined\on@line .
-l.67 ...anded $SU(2)$ singlet.\cite{Halzen:1984mc}
+l.61 ...anded $SU(2)$ singlet.\cite{Halzen:1984mc}
                                                   }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4746,26 +4706,26 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Citation `Halzen:1984mc' on page  undefined on input line 67.
+LaTeX Warning: Citation `Halzen:1984mc' on page  undefined on input line 61.
 
 Missing character: There is no ] in font nullfont!
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 67--68
+Overfull \hbox (20.0pt too wide) in paragraph at lines 61--62
 []
  []
 
 
-Overfull \hbox (27.40416pt too wide) in paragraph at lines 67--68
+Overfull \hbox (27.40416pt too wide) in paragraph at lines 61--62
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (2)$
  []
 
 
-Overfull \hbox (27.40416pt too wide) in paragraph at lines 67--68
+Overfull \hbox (27.40416pt too wide) in paragraph at lines 61--62
 \OML/cmm/m/it/10 SU\OT1/cmr/m/n/10 (2)$
  []
 
 
-Overfull \hbox (5.43053pt too wide) in paragraph at lines 67--68
+Overfull \hbox (5.43053pt too wide) in paragraph at lines 61--62
 [] 
  []
 
@@ -4803,7 +4763,7 @@ Missing character: There is no Q in font nullfont!
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.74 \multirow
+l.68 \multirow
               {5}{*} {Leptons}  	
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -4823,7 +4783,7 @@ Missing character: There is no s in font nullfont!
 ! Extra }, or forgotten \endgroup.
 <template> \unskip \hfil }
                           \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
-l.76 					& $\begin{pmatrix}  e \\ \nu
+l.70 					& $\begin{pmatrix}  e \\ \nu
                                       _{e} \end{pmatrix}_{L}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -4834,7 +4794,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.76 					& $\begin{pmatrix}  e \\ \nu
+l.70 					& $\begin{pmatrix}  e \\ \nu
                                       _{e} \end{pmatrix}_{L}$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -4842,7 +4802,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.76 					& $\begin{pmatrix}  e \\ \nu
+l.70 					& $\begin{pmatrix}  e \\ \nu
                                       _{e} \end{pmatrix}_{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4853,7 +4813,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.76 					& $\begin{pmatrix}  e \\ \nu
+l.70 					& $\begin{pmatrix}  e \\ \nu
                                       _{e} \end{pmatrix}_{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4864,19 +4824,19 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.76 					& $\begin{pmatrix}  e \\ \nu
+l.70 					& $\begin{pmatrix}  e \\ \nu
                                       _{e} \end{pmatrix}_{L}$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-! LaTeX Error: \begin{tabular} on input line 69 ended by \end{pmatrix}.
+! LaTeX Error: \begin{tabular} on input line 63 ended by \end{pmatrix}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4885,7 +4845,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4896,7 +4856,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4907,7 +4867,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4918,14 +4878,14 @@ my insertion and my current dilemma will both disappear.
 ! Missing \cr inserted.
 <inserted text> 
                 \cr 
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I'm guessing that you meant to end an alignment here.
 
 ! Missing { inserted.
 <inserted text> 
                 {
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -4934,7 +4894,7 @@ Try to go on, since this might almost work.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4945,7 +4905,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4956,7 +4916,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.76 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
+l.70 ...begin{pmatrix}  e \\ \nu_{e} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -4967,13 +4927,13 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.76 ...egin{pmatrix}  e \\ \nu_{e} \end{pmatrix}_
+l.70 ...egin{pmatrix}  e \\ \nu_{e} \end{pmatrix}_
                                                   {L}$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.77 					&
+l.71 					&
             $\begin{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}_{L}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4989,7 +4949,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 					& $\begin{pmatrix}  \mu \\
+l.71 					& $\begin{pmatrix}  \mu \\
                                      \nu_{\mu} \end{pmatrix}_{L}$
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -4998,7 +4958,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.77 					& $\begin{pmatrix}  \mu \\
+l.71 					& $\begin{pmatrix}  \mu \\
                                      \nu_{\mu} \end{pmatrix}_{L}$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -5006,7 +4966,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.77 					& $\begin{pmatrix}  \mu \\
+l.71 					& $\begin{pmatrix}  \mu \\
                                      \nu_{\mu} \end{pmatrix}_{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -5017,7 +4977,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.77 					& $\begin{pmatrix}  \mu \\
+l.71 					& $\begin{pmatrix}  \mu \\
                                      \nu_{\mu} \end{pmatrix}_{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -5026,19 +4986,19 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (41.536pt too wide) in paragraph at lines 69--77
+Overfull \hbox (41.536pt too wide) in paragraph at lines 63--71
  []$[]$ 
  []
 
 
-Overfull \hbox (18.80316pt too wide) in paragraph at lines 69--77
+Overfull \hbox (18.80316pt too wide) in paragraph at lines 63--71
  [] []$ 
  []
 
 ! Extra }, or forgotten \endgroup.
 \par ...m \@noitemerr {\@@par }\fi \else {\@@par }
                                                   \fi 
-l.77 					& $\begin{pmatrix}  \mu \\
+l.71 					& $\begin{pmatrix}  \mu \\
                                      \nu_{\mu} \end{pmatrix}_{L}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5049,19 +5009,19 @@ deleted material, e.g., by typing `I$}'.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.77 					& $\begin{pmatrix}  \mu \\ \nu
+l.71 					& $\begin{pmatrix}  \mu \\ \nu
                                         _{\mu} \end{pmatrix}_{L}$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 
-! LaTeX Error: \begin{center} on input line 68 ended by \end{pmatrix}.
+! LaTeX Error: \begin{center} on input line 62 ended by \end{pmatrix}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.77 ...n{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}
+l.71 ...n{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}
                                                   _{L}$
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -5070,7 +5030,7 @@ or  <return>  to continue without it.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.77 ...n{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}
+l.71 ...n{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}
                                                   _{L}$
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -5081,13 +5041,13 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.77 ...{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}_
+l.71 ...{pmatrix}  \mu \\ \nu_{\mu} \end{pmatrix}_
                                                   {L}$
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
 ! Misplaced alignment tab character &.
-l.78 					&
+l.72 					&
             $\begin{pmatrix}  \tau \\ \nu_{\tau} \end{pmatrix}_{L}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5097,12 +5057,12 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Double subscript.
-l.78 ...matrix}  \tau \\ \nu_{\tau} \end{pmatrix}_
+l.72 ...matrix}  \tau \\ \nu_{\tau} \end{pmatrix}_
                                                   {L}$
 I treat `x_1_2' essentially like `x_1{}_2'.
 
 ! Misplaced alignment tab character &.
-l.79 					&
+l.73 					&
             $\begin{matrix} -\frac{1}{2} \\[0.15cm] \frac{1}{2} \end{matrix}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5112,7 +5072,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.80 					&
+l.74 					&
             $\begin{matrix} -1 \\ -1 \end{matrix}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5122,7 +5082,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.81 					&
+l.75 					&
             $\begin{matrix} -1 \\ 0 \end{matrix}$ \\		
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5134,7 +5094,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.82 	&
+l.76 	&
         & & & & & 	\\				
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5144,7 +5104,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 	& &
+l.76 	& &
           & & & & 	\\				
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5154,7 +5114,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 	& & &
+l.76 	& & &
             & & & 	\\				
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5164,7 +5124,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 	& & & &
+l.76 	& & & &
               & & 	\\				
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5174,7 +5134,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 	& & & & &
+l.76 	& & & & &
                 & 	\\				
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5184,7 +5144,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.82 	& & & & & &
+l.76 	& & & & & &
                   	\\				
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5196,7 +5156,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.83 					&
+l.77 					&
             $e_{R}$ & $\mu_{R}$ &  $\tau_{R}$ & $0$ & $-2$  & $-1$ \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5206,7 +5166,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.83 					& $e_{R}$ &
+l.77 					& $e_{R}$ &
                       $\mu_{R}$ &  $\tau_{R}$ & $0$ & $-2$  & $-1$ \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5216,7 +5176,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.83 					& $e_{R}$ & $\mu_{R}$ &
+l.77 					& $e_{R}$ & $\mu_{R}$ &
                                    $\tau_{R}$ & $0$ & $-2$  & $-1$ \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5226,7 +5186,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.83 					& $e_{R}$ & $\mu_{R}$ &  $\tau_{R}$ &
+l.77 					& $e_{R}$ & $\mu_{R}$ &  $\tau_{R}$ &
                                                 $0$ & $-2$  & $-1$ \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5236,7 +5196,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.83 ... $e_{R}$ & $\mu_{R}$ &  $\tau_{R}$ & $0$ &
+l.77 ... $e_{R}$ & $\mu_{R}$ &  $\tau_{R}$ & $0$ &
                                                    $-2$  & $-1$ \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5246,7 +5206,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.83 ... & $\mu_{R}$ &  $\tau_{R}$ & $0$ & $-2$  &
+l.77 ... & $\mu_{R}$ &  $\tau_{R}$ & $0$ & $-2$  &
                                                    $-1$ \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5258,95 +5218,95 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.84 \hline
+l.78 \hline
            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-Overfull \hbox (16.28828pt too wide) in paragraph at lines 77--84
+Overfull \hbox (16.28828pt too wide) in paragraph at lines 71--78
 []$\OML/cmm/m/it/10 ^^W[]$$[]$
  []
 
 
-Overfull \hbox (18.28116pt too wide) in paragraph at lines 77--84
+Overfull \hbox (18.28116pt too wide) in paragraph at lines 71--78
 [] [] 
  []
 
 
-Overfull \hbox (15.92287pt too wide) in paragraph at lines 77--84
+Overfull \hbox (15.92287pt too wide) in paragraph at lines 71--78
 \OML/cmm/m/it/10 ^^W[][]$
  []
 
 
-Overfull \hbox (17.49718pt too wide) in paragraph at lines 77--84
+Overfull \hbox (17.49718pt too wide) in paragraph at lines 71--78
 [] [] [] 
  []
 
 
-Overfull \hbox (6.38612pt too wide) in paragraph at lines 77--84
+Overfull \hbox (6.38612pt too wide) in paragraph at lines 71--78
 []$
  []
 
 
-Overfull \hbox (16.11107pt too wide) in paragraph at lines 77--84
+Overfull \hbox (16.11107pt too wide) in paragraph at lines 71--78
 [] [] \OT1/cmr/m/n/10 1[] 
  []
 
 
-Overfull \hbox (7.7778pt too wide) in paragraph at lines 77--84
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 71--78
 \OMS/cmsy/m/n/10 ^^@
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 77--84
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 71--78
 \OT1/cmr/m/n/10 1$
  []
 
 
-Overfull \hbox (16.11107pt too wide) in paragraph at lines 77--84
+Overfull \hbox (16.11107pt too wide) in paragraph at lines 71--78
 [] [] \OT1/cmr/m/n/10 1[] 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 77--84
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 71--78
 \OT1/cmr/m/n/10 0$ 
  []
 
 
-Overfull \hbox (11.21635pt too wide) in paragraph at lines 77--84
+Overfull \hbox (11.21635pt too wide) in paragraph at lines 71--78
 \OML/cmm/m/it/10 e[]$
  []
 
 
-Overfull \hbox (12.58557pt too wide) in paragraph at lines 77--84
+Overfull \hbox (12.58557pt too wide) in paragraph at lines 71--78
 \OML/cmm/m/it/10 ^^V[]$
  []
 
 
-Overfull \hbox (10.93163pt too wide) in paragraph at lines 77--84
+Overfull \hbox (10.93163pt too wide) in paragraph at lines 71--78
 \OML/cmm/m/it/10 ^^\[]$
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 77--84
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 71--78
 \OT1/cmr/m/n/10 0$
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 77--84
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 71--78
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 2$
  []
 
 
-Overfull \hbox (12.77782pt too wide) in paragraph at lines 77--84
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 71--78
 \OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1$ 
  []
 
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.85 \hline
+l.79 \hline
            
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -5354,7 +5314,7 @@ an alignment. Proceed, and I'll ignore this case.
 ! Undefined control sequence.
 <recently read> \multirow 
                           
-l.86 \multirow
+l.80 \multirow
               {8}{*} {	Quarks}  	
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -5371,7 +5331,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
 Missing character: There is no s in font nullfont!
 ! Misplaced alignment tab character &.
-l.87 &
+l.81 &
        & & & & & \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5381,7 +5341,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.87 & &
+l.81 & &
          & & & & \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5391,7 +5351,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.87 & & &
+l.81 & & &
            & & & \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5401,7 +5361,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.87 & & & &
+l.81 & & & &
              & & \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5411,7 +5371,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.87 & & & & &
+l.81 & & & & &
                & \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5421,7 +5381,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.87 & & & & & &
+l.81 & & & & & &
                  \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5433,7 +5393,7 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced alignment tab character &.
 <recently read> &
                  
-l.88 					 &
+l.82 					 &
             $\begin{pmatrix}  u \\ d^{'} \end{pmatrix}_{L}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5443,7 +5403,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.89 					 &
+l.83 					 &
             $\begin{pmatrix}  c \\ s^{'} \end{pmatrix}_{L}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5453,7 +5413,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.90 					 &
+l.84 					 &
             $\begin{pmatrix}  t \\ b{'} \end{pmatrix}_{L}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5463,7 +5423,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.91 					&
+l.85 					&
            $\begin{matrix} \frac{1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5475,7 +5435,7 @@ might try typing `S' now just to see what is salvageable.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5484,7 +5444,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5495,7 +5455,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5504,7 +5464,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5515,7 +5475,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5524,7 +5484,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5535,7 +5495,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5544,7 +5504,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5555,7 +5515,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5564,7 +5524,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5575,7 +5535,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5584,7 +5544,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5595,7 +5555,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5604,7 +5564,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5615,7 +5575,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5624,7 +5584,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5635,7 +5595,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5644,7 +5604,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5655,7 +5615,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5664,7 +5624,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5675,7 +5635,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5684,7 +5644,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5695,7 +5655,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5704,7 +5664,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5715,7 +5675,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5724,7 +5684,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5735,7 +5695,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5744,7 +5704,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5755,7 +5715,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5764,7 +5724,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5775,7 +5735,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5784,7 +5744,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5795,7 +5755,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5804,7 +5764,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5815,7 +5775,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5824,7 +5784,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5835,7 +5795,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5844,7 +5804,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5855,7 +5815,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5864,7 +5824,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5875,7 +5835,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5884,7 +5844,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5895,7 +5855,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5904,7 +5864,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5915,7 +5875,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5924,7 +5884,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5935,7 +5895,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5944,7 +5904,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5955,7 +5915,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5964,7 +5924,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5975,7 +5935,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -5984,7 +5944,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -5995,7 +5955,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6004,7 +5964,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6015,7 +5975,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6024,7 +5984,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6035,7 +5995,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6044,7 +6004,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6055,7 +6015,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6064,7 +6024,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6075,7 +6035,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6084,7 +6044,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6095,7 +6055,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6104,7 +6064,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6115,7 +6075,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6124,7 +6084,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6135,7 +6095,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6144,7 +6104,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6155,7 +6115,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6164,7 +6124,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6175,7 +6135,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6184,7 +6144,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6195,7 +6155,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6204,7 +6164,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6215,7 +6175,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6224,7 +6184,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6235,7 +6195,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6244,7 +6204,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6255,7 +6215,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6264,7 +6224,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6275,7 +6235,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6284,7 +6244,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6295,7 +6255,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6304,7 +6264,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6315,7 +6275,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6324,7 +6284,7 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -6335,7 +6295,7 @@ deleted material, e.g., by typing `I$}'.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -6344,14 +6304,14 @@ Try to go on, since this might almost work.
 ! Extra }, or forgotten \endgroup.
 <inserted text> }
                  
-l.91 					&$\begin{matrix} \frac
+l.85 					&$\begin{matrix} \frac
                                 {1}{2} \\[0.15cm] -\frac{1}{2} \end{matrix}$
 (That makes 100 errors; please try again.) 
 Here is how much of TeX's memory you used:
- 24 strings out of 492616
- 409 string characters out of 6129482
+ 22 strings out of 492616
+ 393 string characters out of 6129482
  69685 words of memory out of 5000000
- 4043 multiletter control sequences out of 15000+600000
+ 4041 multiletter control sequences out of 15000+600000
  3948 words of font info for 15 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  19i,17n,22p,1131b,176s stack positions out of 5000i,500n,10000p,200000b,80000s

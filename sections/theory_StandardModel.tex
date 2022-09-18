@@ -195,6 +195,79 @@ $\mathcal{L}_{QED}$ in equation \ref{eqn:QEDFullLag} is the full Lagrangian for 
 \subsubsection{Quantum Chromodynamics }
 \label{subsubsec:QCD}
 
+Interaction between the quarks is defined by Quantum Chromodynamics requiring $SU(3)$ gauge transformation on quark field with color charge $j$ (red, blue or green).
+ 
+The Dirac Lagrangian for a quark can be modified to include all possible colors of quark field $q_{j}$ as
+
+\begin{equation}
+\mathcal{L} = \bar{q_{j}}(i\gamma^{\mu}\partial_{\mu} - m )q_{j}
+\label{eqn:QCDStartL}
+\end{equation}
+
+The generators of $SU(3)$ group are eight linearly independent traceless Gell-Mann matrices which do not commute with each other such that 
+
+\begin{equation}
+[ T_{a},T_{b} ] = if_{abc}T_{c}
+\label{eqn:SU3GellManMat}
+\end{equation}
+
+where $f_{abc}$ is the structure constant of $SU(3)$
+
+The local $SU(3)$ gauge transformation is 
+
+\begin{equation}
+q(x) \rightarrow e^{i \alpha_a(x) T_{a}} q(x)
+\label{eqn:QCDSU3LT}
+\end{equation}
+
+where $T_{a} = \frac{\lambda_{a}}{2}$, and $a = {1,2...8}$. To understand the source of gauge invariance in the Lagrangian in equation \label{eqn:QCDStartL}, we can consider an infinitesimal transformation of the color field as 
+
+\begin{equation}
+q(x) \rightarrow [ 1 + i\alpha_{a}(x)T_{a}]q(x) \\
+\ni ~ \partial_{\mu}q \rightarrow ( 1 + i\alpha_{a}T_{a})\partial_{\mu}q + iT_{a}q\partial_{\mu} alpha_{a}
+\end{equation}
+
+The last term $iT_{a}q\partial_{\mu} \alpha_{a}$ breaks the gauge invariance. Similar to QED, eight gauge fields corresponding to each $a = {1,2...8}$ $G_{\mu}^{a}$ with following transformation properties are introduced 
+
+\begin{equation}
+G_{\mu}^{a} \rightarrow G_{\mu}^{a} - \frac{1}{g} \partial_{\mu} \alpha_{a} - f_{abc}\alpha_{b}G^{c}_{\mu}
+\label{eqn:SU3GaugeField}
+\end{equation}
+
+These gauge fields $G_{\mu}^{a}$ are the gluon fields. Similar to QED the covariant derivative is defined as
+\begin{equation}
+D_{\mu} = \partial_{\mu} + ig_{s}\frac{\lambda_{a}}{2}G_{\mu}^{a} 
+\label{eqn:SU3CovDerv}
+\end{equation}
+
+where $g_{s}$ is the coupling strength of the gluon fields to the quark fields.
+
+The Lagrangian density in equation \ref{eqn:QCDStartL} is then 
+
+\begin{equation}
+\mathcal{L} = \bar{q_{j}}(i\gamma^{\mu}D_{\mu} - m )q_{j}
+\label{eqn:QCDInvLag}
+\end{equation}
+
+Similar to QED, a gauge invariant kinetic term $-1\frac{1}{4}G^{a}_{\mu\nu}G^{\mu\nu}_{a}$, dependent on the field strength tensor $G^{a}_{\mu\nu}$ is added to equation \ref{eqn:QCDInvLag} to give the full QCD Lagrangian. The kinetic terms allows self-interaction within the gluon fields which is an important feature of QCD. $G^{a}_{\mu\nu}$ is the field strength tensor defined as
+
+\begin{equation}
+G^{a}_{\mu\nu} = \partial_{\mu}G^{a}_{\nu} - \partial_{\nu}G^{a}_{\mu} - g_{s}f_{abc}G^{b}_{\mu}G^{c}_{\nu}
+\label{eqn:QCDFullLag}
+\end{equation}
+
+Therefore, the complete $SU(3)$ gauge invariant Lagrangian describing the quarks and gluons interaction is
+\begin{equation}
+\mathcal{L}_{QCD} = \bar{q_{j}}(i\gamma^{\mu}D_{\mu} - m )q_{j} - -1\frac{1}{4}G^{a}_{\mu\nu}G^{\mu\nu}_{a} 
+\label{eqn:QCDInvLag}
+\end{equation}
+
+\textcolor{red}{
+\begin{itemize}
+\item{Add Color Confinement}
+\item{Add Discussion on Coupling Strength}
+\end{itemize}}
+
 \subsubsection{Electroweak Unification and the Higgs Mechanism}
 \label{subsubsec:EWkUni}
 

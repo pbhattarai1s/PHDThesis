@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 14:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 17:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -421,8 +421,14 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./thesis.aux (./sections/acknowledgements.aux)
 (./sections/ListOfAbb.aux) (./sections/theory.aux)
-(./sections/theory_StandardModel.aux)
-(./sections/theory_StandardModelShortComings.aux)
+(./sections/theory_StandardModel.aux
+
+LaTeX Warning: Label `eqn:QCDStartL' multiply defined.
+
+
+LaTeX Warning: Label `eqn:QCDInvLag' multiply defined.
+
+) (./sections/theory_StandardModelShortComings.aux)
 (./sections/theory_MeasurementMotivation.aux) (./sections/LHC.aux)
 (./sections/AnalysisOverview.aux) (./sections/AnalysisStrategy.aux)
 (./sections/Results.aux) (./sections/Conclusion.aux) (./sections/Outlook.aux)
@@ -660,7 +666,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 (./sections/theory_StandardModel.tex
-<figures/SMparticles.png, id=252, 803.0pt x 767.86874pt>
+<figures/SMparticles.png, id=256, 803.0pt x 767.86874pt>
 File: figures/SMparticles.png Graphic file (type png)
 <use figures/SMparticles.png>
 Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
@@ -670,18 +676,17 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 
 
 ] [4 <./figures/SMparticles.png>]
-[5] [6] [7] [8]) [9] [10]
+[5] [6] [7] [8] [9] [10]) [11]
 \openout2 = `sections/theory_StandardModelShortComings.aux'.
 
- (./sections/theory_StandardModelShortComings.tex)
-[11
+ (./sections/theory_StandardModelShortComings.tex) [12
 
 
 
 ]
 \openout2 = `sections/theory_MeasurementMotivation.aux'.
 
- (./sections/theory_MeasurementMotivation.tex) [12
+ (./sections/theory_MeasurementMotivation.tex) [13
 
 
 
@@ -690,7 +695,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 
  (./sections/LHC.tex
 (./sections/LHC_ATLAS.tex) (./sections/LHC_ObjectReconstruction.tex)
-(./sections/LHC_FutureUpgrades.tex)) [13
+(./sections/LHC_FutureUpgrades.tex)) [14
 
 
 
@@ -698,7 +703,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 \openout2 = `sections/AnalysisOverview.aux'.
 
  (./sections/AnalysisOverview.tex
-[14
+[15
 
 
 
@@ -706,14 +711,14 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 (./sections/Analysis_DataSetAndMonteCarlo.tex)
 (./sections/Analysis_FiducialSelection.tex)
 (./sections/Analysis_ObjectAndEventSelection.tex) (./sections/Analysis_Obs.tex)
-) [15
+) [16
 
 ]
 \openout2 = `sections/AnalysisStrategy.aux'.
 
  (./sections/AnalysisStrategy.tex (./sections/Analysis_Background.tex)
 (./sections/Analysis_Unfolding.tex) (./sections/Analysis_Systematics.tex))
-[16
+[17
 
 
 
@@ -721,7 +726,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 \openout2 = `sections/Results.aux'.
 
  (./sections/Results.tex (./sections/Results_DifferentialCrossSections.tex) (./
-sections/Results_ReInterpretation.tex)) [17
+sections/Results_ReInterpretation.tex)) [18
 
 
 
@@ -729,7 +734,7 @@ sections/Results_ReInterpretation.tex)) [17
 \openout2 = `sections/Conclusion.aux'.
 
  (./sections/Conclusion.tex)
-[18
+[19
 
 
 
@@ -737,7 +742,7 @@ sections/Results_ReInterpretation.tex)) [17
 \openout2 = `sections/Outlook.aux'.
 
  (./sections/Outlook.tex (./sections/Run3.tex) (./sections/HLLHC.tex))
-[19
+[20
 
 
 
@@ -747,7 +752,7 @@ sections/Results_ReInterpretation.tex)) [17
  (./sections/Run3.tex)
 \openout2 = `sections/HLLHC.aux'.
 
- (./sections/HLLHC.tex) (./thesis.bbl) [20
+ (./sections/HLLHC.tex) (./thesis.bbl) [21
 
 
 
@@ -757,7 +762,7 @@ sections/Results_ReInterpretation.tex)) [17
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
- [21
+ [22
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
@@ -771,39 +776,37 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
 (./sections/Run3.aux) (./sections/HLLHC.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: DFED7630BC3812BBA230070F09AAA94A;2109.
 
 
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: BEB4242175420D6BF9B6C12B62784DA5;2062
-(rerunfilecheck)             After:  DFED7630BC3812BBA230070F09AAA94A;2109.
  ) 
 Here is how much of TeX's memory you used:
- 10323 strings out of 492616
- 154080 string characters out of 6129482
- 294070 words of memory out of 5000000
- 13856 multiletter control sequences out of 15000+600000
+ 10340 strings out of 492616
+ 154318 string characters out of 6129482
+ 294489 words of memory out of 5000000
+ 13863 multiletter control sequences out of 15000+600000
  13057 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,17n,41p,1161b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
-cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (30 pages, 390228 bytes).
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
+l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on thesis.pdf (31 pages, 404495 bytes).
 PDF statistics:
- 438 PDF objects out of 1000 (max. 8388607)
- 386 compressed objects within 4 object streams
- 85 named destinations out of 1000 (max. 500000)
- 286 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 464 PDF objects out of 1000 (max. 8388607)
+ 409 compressed objects within 5 object streams
+ 95 named destinations out of 1000 (max. 500000)
+ 294 words of extra memory for PDF output out of 10000 (max. 10000000)
 
