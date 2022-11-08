@@ -1,28 +1,154 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{PDG}
 P.A. Zyla et~al.
 \newblock {Review of Particle Physics}.
 \newblock {\em PTEP}, 2020(8):083C01, 2020.
 
-\bibitem{Thomson:2013zua}
-Mark Thomson.
-\newblock {\em Modern particle physics}.
-\newblock Cambridge University Press, New York, 2013.
+\bibitem{Halzen:1984mc}
+Francis Halzen and Alan Martin.
+\newblock {\em {Quarks \& Leptons: An introductory course in modern particle
+  physics}}.
+\newblock John Wiley \& Sons, New York, USA, 1984.
 
 \bibitem{SMFigureWiki}
 Wikipedia contributors.
-\newblock Standard model of elementary particles.
-\newblock 2019.
+\newblock {Standard Model of Elementary Particles}.
+\newblock \url{https://en.wikipedia.org/wiki/Standard_Model}, 2019.
+\newblock [Online; accessed 05-November-2022].
+
+\bibitem{PDFCalLHC}
+A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt.
+\newblock {Parton distributions for the LHC}.
+\newblock {\em Eur. Phys. J. C}, 63:189--285, 2009.
+
+\bibitem{Thomson:2013zua}
+Mark Thomson.
+\newblock {\em {Modern particle physics}}.
+\newblock Cambridge University Press, New York, 2013.
+
+\bibitem{NoetherTheorem}
+E.~Noether.
+\newblock Invariante variationsprobleme.
+\newblock {\em Nachrichten von der Gesellschaft der Wissenschaften zu
+  Göttingen, Mathematisch-Physikalische Klasse}, 1918:235--257, 1918.
 
 \bibitem{Bernabeu2021}
-Jose Bernabeu.
-\newblock {\em Symmetries in the Standard Model}, pages 3--16.
+{ Bernabeu, Jose", and Murillo, Jes{\'u}s Carnicer and Michelini, Marisa and
+  Perea, Carmen}.
+\newblock {\em {Fundamental Physics and Physics Education Research}}, chapter
+  {Symmetries in the Standard Model}, pages 3--16.
 \newblock Springer International Publishing, Cham, 2021.
 
-\bibitem{Halzen:1984mc}
-Francis Halzen and Alan Martin.
-\newblock {\em Quarks \& Leptons: An introductory course in modern particle
-  physics}.
+\bibitem{GLASHOW1961579}
+Sheldon~L. Glashow.
+\newblock {Partial-symmetries of weak interactions}.
+\newblock {\em Nuclear Physics}, 22(4):579--588, 1961.
+
+\bibitem{PhysRev.96.191}
+C.~N. Yang and R.~L. Mills.
+\newblock {Conservation of Isotopic Spin and Isotopic Gauge Invariance}.
+\newblock {\em Phys. Rev.}, 96:191--195, Oct 1954.
+
+\bibitem{HiggsMechanism}
+{Nguyen, K}.
+\newblock {The Higgs Mechanism}, 2009.
+
+\bibitem{PeskinQFT}
+{M. E. Peskin , D. V. Schroeder}.
+\newblock {\em {An Introduction to Quantum Field Theory}}.
+\newblock Westview PRESS, Colorado, USA, 1995.
+
+\bibitem{DESYHiggsLecture}
+{Buchmüller, W. and Lüdeling, C.}
+\newblock {Field Theory and Standard Model}, 2006.
+
+\bibitem{CMSHiggsDiscovery}
+CMS Collaboration.
+\newblock Observation of a new boson at a mass of 125 {GeV} with the {CMS}
+  experiment at the {LHC}.
+\newblock {\em Physics Letters B}, 716(1):30--61, sep 2012.
+
+\bibitem{ATLASHiggsDiscovery}
+{The ATLAS Collaboration}.
+\newblock {Observation of a new particle in the search for the Standard Model
+  Higgs boson with the ATLAS detector at the LHC}.
+\newblock {\em Physics Letters B}, 716(1):1--29, 2012.
+
+\bibitem{CDFWMass}
+The CDF~II Collaboration.
+\newblock {High-precision measurement of the W boson mass with the CDF II
+  detector}.
+\newblock {\em Science}, 376(6589):170--176, 2022.
+
+\bibitem{DMGravitationalLensing}
+Richard Massey, Thomas Kitching, and Johan Richard.
+\newblock The dark matter of gravitational lensing.
+\newblock {\em Reports on Progress in Physics}, 73(8):086901, jul 2010.
+
+\bibitem{QCDForCollider}
+Peter Skands.
+\newblock {QCD for Collider Physics}, 2011.
+
+\bibitem{FixedTargetDrellYan}
+Sergey Alekhin, Kirill Melnikov, and Frank Petriello.
+\newblock {Fixed target Drell-Yan data and NNLO QCD fits of parton distribution
+  functions}.
+\newblock {\em Phys. Rev. D}, 74:054033, Sep 2006.
+
+\bibitem{PDF4LHC}
+Sergey et~al. Alekhin.
+\newblock {The PDF4LHC Working Group Interim Report}, 2011.
+
+\bibitem{EventGenerator}
+{Andy Buckley et al.}
+\newblock {General-purpose event generators for LHC physics}.
+\newblock {\em Physics Reports}, 504(5):145--233, 2011.
+
+\bibitem{CMSRun2ZZjj}
+{The CMS Collaboration}.
+\newblock {Evidence for electroweak production of four charged leptons and two
+  jets in proton-proton collisions at s=13TeV}.
+\newblock {\em Physics Letters B}, 812:135992, 2021.
+
+\bibitem{PowhegV2ZZjj}
+{Jager, B., Karlberg, A. and Zanderighi, G. }.
+\newblock {Electroweak ZZjj production in the Standard Model and beyond in the
+  POWHEG-BOX V2.}
+\newblock {\em J. High Energ. Phys.}, 141, 2014.
+
+\bibitem{VBSWWWW}
+{A. Denner and T. Hahn}.
+\newblock {Radiative corrections to W+W- $\rightarrow$ W+W- in the electroweak
+  standard model}.
+\newblock {\em Nuclear Physics B}, 525(1-2):27--50, 1998.
+
+\bibitem{SensitivityNP}
+{Tao Han and David Krohn and Lian-Tao Wang and Wenhan Zhu}.
+\newblock {New physics signals in longitudinal gauge boson scattering at the
+  LHC}.
+\newblock {\em J. High Energ. Phys.}, 2010(3), mar 2010.
+
+\bibitem{EboliModelaQGC}
+{Eduardo da Silva Almeida and O.{\hspace{0.167em}}J.{\hspace{0.167em}}P.
+  {\'{E}}boli and M.{\hspace{0.167em}}C. Gonzalez{\textendash}Garcia}.
+\newblock {Unitarity constraints on anomalous quartic couplings}.
+\newblock {\em Physical Review D}, 101(11), jun 2020.
+
+\bibitem{BSM_Simple2HDM}
+{Jung Chang, Kingman Cheung, Chih-Ting Lu, and Tzu-Chiang Yuan}.
+\newblock {WW Scattering in the Era of Post Higgs Discovery}.
+\newblock {\em Physical Review D}, 87(9), may 2013.
+
+\bibitem{ATLASZZjj}
+{ATLAS Collaboration}.
+\newblock {Observation of electroweak production of two jets and a $Z$-boson
+  pair}, 2020.
+
+\bibitem{RapidityGapCite}
+{Khoze, V., Ryskin, M., Stirling, W. et al.}
+\newblock {A Z-monitor to calibrate Higgs production via vector boson fusion
+  with rapidity gaps at the LHC.}
+\newblock {\em Eur. Phys. J.}, C 26:429–440, 2003.
 
 \end{thebibliography}

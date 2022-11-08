@@ -6,7 +6,8 @@ A level-1 auxiliary file: sections/ListOfAbb.aux
 A level-1 auxiliary file: sections/theory.aux
 A level-1 auxiliary file: sections/theory_StandardModel.aux
 A level-1 auxiliary file: sections/theory_StandardModelShortComings.aux
-A level-1 auxiliary file: sections/theory_MeasurementMotivation.aux
+A level-1 auxiliary file: sections/theory_ColliderPheno.aux
+A level-1 auxiliary file: sections/theory_EWkProcess.aux
 A level-1 auxiliary file: sections/LHC.aux
 A level-1 auxiliary file: sections/AnalysisOverview.aux
 A level-1 auxiliary file: sections/AnalysisStrategy.aux
@@ -17,54 +18,44 @@ A level-1 auxiliary file: sections/Run3.aux
 A level-1 auxiliary file: sections/HLLHC.aux
 The style file: unsrt.bst
 Database file #1: biblio.bib
-I was expecting a `,' or a `}'---line 55 of file biblio.bib
- :    
- :    address = {New York, USA},
-(Error may have been on previous line)
-I'm skipping whatever remains of this entry
-Warning--empty journal in SMFigureWiki
-Warning--can't use both author and editor fields in Bernabeu2021
-Warning--empty publisher in Halzen:1984mc
-Warning--empty year in Halzen:1984mc
-You've used 5 entries,
+You've used 28 entries,
             1791 wiz_defined-function locations,
-            493 strings with 4521 characters,
-and the built_in function-call counts, 952 in all, are:
-= -- 80
-> -- 28
-< -- 1
-+ -- 12
-- -- 7
-* -- 50
-:= -- 150
-add.period$ -- 14
-call.type$ -- 5
-change.case$ -- 2
+            658 strings with 8118 characters,
+and the built_in function-call counts, 5086 in all, are:
+= -- 452
+> -- 148
+< -- 2
++ -- 66
+- -- 38
+* -- 298
+:= -- 813
+add.period$ -- 80
+call.type$ -- 28
+change.case$ -- 24
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 53
-empty$ -- 106
-format.name$ -- 7
-if$ -- 216
+cite$ -- 28
+duplicate$ -- 235
+empty$ -- 578
+format.name$ -- 38
+if$ -- 1142
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 8
-newline$ -- 27
-num.names$ -- 5
-pop$ -- 26
+int.to.str$ -- 28
+missing$ -- 26
+newline$ -- 139
+num.names$ -- 28
+pop$ -- 83
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 21
+skip$ -- 97
 stack$ -- 0
-substring$ -- 37
-swap$ -- 10
-text.length$ -- 1
+substring$ -- 302
+swap$ -- 34
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 4
-while$ -- 9
-width$ -- 6
-write$ -- 52
-(There was 1 error message)
+warning$ -- 0
+while$ -- 49
+width$ -- 30
+write$ -- 297

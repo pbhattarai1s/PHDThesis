@@ -7,37 +7,40 @@
 \contentsline {part}{I\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Introduction}}{1}{part.1}% 
 \contentsline {part}{II\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Theory}}{2}{part.2}% 
 \contentsline {section}{\numberline {1}The Standard Model}{3}{section.1}% 
-\contentsline {subsection}{\numberline {1.1}Overview}{3}{subsection.1.1}% 
-\contentsline {subsection}{\numberline {1.2}Theoretical Formulation of the Standard Model}{7}{subsection.1.2}% 
-\contentsline {subsubsection}{\numberline {1.2.1}Relativistic Quantum Field Theory}{7}{subsubsection.1.2.1}% 
-\contentsline {subsubsection}{\numberline {1.2.2}Lagrangian of the Standard Model}{7}{subsubsection.1.2.2}% 
-\contentsline {subsubsection}{\numberline {1.2.3}Quantum Electrodynamics}{8}{subsubsection.1.2.3}% 
-\contentsline {subsubsection}{\numberline {1.2.4}Quantum Chromodynamics }{10}{subsubsection.1.2.4}% 
-\contentsline {subsubsection}{\numberline {1.2.5}Electroweak Unification and the Higgs Mechanism}{11}{subsubsection.1.2.5}% 
-\contentsline {section}{\numberline {2}Outstanding Problems of the Standard Model}{12}{section.2}% 
-\contentsline {section}{\numberline {3}Measurement Motivation }{13}{section.3}% 
-\contentsline {part}{III\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {The Large Hadron Collider}}{14}{part.3}% 
-\contentsline {section}{\numberline {4}ATLAS Detector}{14}{section.4}% 
-\contentsline {section}{\numberline {5} Particle Reconstruction}{14}{section.5}% 
-\contentsline {section}{\numberline {6}Future Upgrades}{14}{section.6}% 
-\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{15}{part.4}% 
-\contentsline {section}{\numberline {7}Goals}{16}{section.7}% 
-\contentsline {section}{\numberline {8}Datasets and Monte Carlo Simulation}{16}{section.8}% 
-\contentsline {section}{\numberline {9}Phase Space Definition}{16}{section.9}% 
-\contentsline {section}{\numberline {10}Object and Event Selection}{16}{section.10}% 
-\contentsline {section}{\numberline {11}Definition of Measured Observables}{16}{section.11}% 
-\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{17}{part.5}% 
-\contentsline {section}{\numberline {12}Background Estimation}{17}{section.12}% 
-\contentsline {section}{\numberline {13}Unfolding}{17}{section.13}% 
-\contentsline {section}{\numberline {14}Uncertainties on the Measurement}{17}{section.14}% 
-\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{18}{part.6}% 
-\contentsline {section}{\numberline {15} Differential Cross-sections }{18}{section.15}% 
-\contentsline {section}{\numberline {16}Effective Field Theory ReInterpretation}{18}{section.16}% 
-\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion}}{19}{part.7}% 
-\contentsline {part}{VIII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Outlook}}{20}{part.8}% 
-\contentsline {section}{\numberline {17}Run-3}{20}{section.17}% 
-\contentsline {section}{\numberline {18}High Luminosity LHC}{20}{section.18}% 
-\contentsline {part}{References}{21}{section.18}% 
-\contentsline {part}{Appendices}{22}{section.18}% 
-\contentsline {part}{Appendices}{22}{part*.9}% 
+\contentsline {subsection}{\numberline {1.1}Symmetries}{3}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Particles and Fields}{5}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Theoretical Formulation of the Standard Model}{8}{subsection.1.3}% 
+\contentsline {subsubsection}{\numberline {1.3.1}Relativistic Quantum Field Theory}{8}{subsubsection.1.3.1}% 
+\contentsline {subsubsection}{\numberline {1.3.2}Lagrangian of the Standard Model}{8}{subsubsection.1.3.2}% 
+\contentsline {subsubsection}{\numberline {1.3.3}Quantum Electrodynamics}{8}{subsubsection.1.3.3}% 
+\contentsline {subsubsection}{\numberline {1.3.4}Quantum Chromodynamics }{10}{subsubsection.1.3.4}% 
+\contentsline {subsubsection}{\numberline {1.3.5}Electroweak Theory}{12}{subsubsection.1.3.5}% 
+\contentsline {subsubsection}{\numberline {1.3.6}Higgs Mechanism}{15}{subsubsection.1.3.6}% 
+\contentsline {section}{\numberline {2}Limitations of the Standard Model}{19}{section.2}% 
+\contentsline {section}{\numberline {3}Phenomenology of Proton-Proton Collisions }{20}{section.3}% 
+\contentsline {section}{\numberline {4} Electroweak Diboson Physics }{24}{section.4}% 
+\contentsline {part}{III\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {The Large Hadron Collider}}{28}{part.3}% 
+\contentsline {section}{\numberline {5}ATLAS Detector}{28}{section.5}% 
+\contentsline {section}{\numberline {6} Particle Reconstruction}{28}{section.6}% 
+\contentsline {section}{\numberline {7}Future Upgrades}{28}{section.7}% 
+\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{29}{part.4}% 
+\contentsline {section}{\numberline {8}Goals}{30}{section.8}% 
+\contentsline {section}{\numberline {9}Datasets and Monte Carlo Simulation}{30}{section.9}% 
+\contentsline {section}{\numberline {10}Phase Space Definition}{30}{section.10}% 
+\contentsline {section}{\numberline {11}Object and Event Selection}{30}{section.11}% 
+\contentsline {section}{\numberline {12}Definition of Measured Observables}{30}{section.12}% 
+\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{31}{part.5}% 
+\contentsline {section}{\numberline {13}Background Estimation}{31}{section.13}% 
+\contentsline {section}{\numberline {14}Unfolding}{31}{section.14}% 
+\contentsline {section}{\numberline {15}Uncertainties on the Measurement}{31}{section.15}% 
+\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{32}{part.6}% 
+\contentsline {section}{\numberline {16} Differential Cross-sections }{32}{section.16}% 
+\contentsline {section}{\numberline {17}Effective Field Theory ReInterpretation}{32}{section.17}% 
+\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion}}{33}{part.7}% 
+\contentsline {part}{VIII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Outlook}}{34}{part.8}% 
+\contentsline {section}{\numberline {18}Run-3}{34}{section.18}% 
+\contentsline {section}{\numberline {19}High Luminosity LHC}{34}{section.19}% 
+\contentsline {part}{References}{35}{section.19}% 
+\contentsline {part}{Appendices}{37}{section.19}% 
+\contentsline {part}{Appendices}{37}{part*.13}% 
 \contentsfinish 

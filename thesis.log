@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  18 SEP 2022 17:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 NOV 2022 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -421,34 +421,29 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./thesis.aux (./sections/acknowledgements.aux)
 (./sections/ListOfAbb.aux) (./sections/theory.aux)
-(./sections/theory_StandardModel.aux
-
-LaTeX Warning: Label `eqn:QCDStartL' multiply defined.
-
-
-LaTeX Warning: Label `eqn:QCDInvLag' multiply defined.
-
-) (./sections/theory_StandardModelShortComings.aux)
-(./sections/theory_MeasurementMotivation.aux) (./sections/LHC.aux)
-(./sections/AnalysisOverview.aux) (./sections/AnalysisStrategy.aux)
-(./sections/Results.aux) (./sections/Conclusion.aux) (./sections/Outlook.aux)
-(./sections/Run3.aux) (./sections/HLLHC.aux))
+(./sections/theory_StandardModel.aux)
+(./sections/theory_StandardModelShortComings.aux)
+(./sections/theory_ColliderPheno.aux) (./sections/theory_EWkProcess.aux)
+(./sections/LHC.aux) (./sections/AnalysisOverview.aux)
+(./sections/AnalysisStrategy.aux) (./sections/Results.aux)
+(./sections/Conclusion.aux) (./sections/Outlook.aux) (./sections/Run3.aux)
+(./sections/HLLHC.aux))
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -528,7 +523,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 67.
+Package hyperref Info: Link coloring ON on input line 66.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -538,9 +533,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count139
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
@@ -553,7 +548,7 @@ arning (ext4): destination with the same identifier (name{page.}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.73 \makeapproval
+l.72 \makeapproval
                    [1
 
 
@@ -594,7 +589,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \makecopyright
+l.75 \makecopyright
                     [1
 
 
@@ -665,45 +660,139 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 \openout2 = `sections/theory_StandardModel.aux'.
 
 
-(./sections/theory_StandardModel.tex
-<figures/SMparticles.png, id=256, 803.0pt x 767.86874pt>
-File: figures/SMparticles.png Graphic file (type png)
-<use figures/SMparticles.png>
-Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
+(./sections/theory_StandardModel.tex [3
+
+
+
+]
+<figures/Theory/SMparticles.pdf, id=294, 803.0pt x 767.86874pt>
+File: figures/Theory/SMparticles.pdf Graphic file (type pdf)
+<use figures/Theory/SMparticles.pdf>
+Package pdftex.def Info: figures/Theory/SMparticles.pdf  used on input line 21.
+
 (pdftex.def)             Requested size: 328.82707pt x 314.44157pt.
- [3
-
-
-
-] [4 <./figures/SMparticles.png>]
-[5] [6] [7] [8] [9] [10]) [11]
+ [4] [5 <./figures/Theory/SMparticles.pdf>] [6] [7] [8] [9] [10] [11] [12] [13]
+ [14] [15] [16]) [17] [18]
 \openout2 = `sections/theory_StandardModelShortComings.aux'.
 
- (./sections/theory_StandardModelShortComings.tex) [12
+
+(./sections/theory_StandardModelShortComings.tex) [19
 
 
 
 ]
-\openout2 = `sections/theory_MeasurementMotivation.aux'.
+\openout2 = `sections/theory_ColliderPheno.aux'.
 
- (./sections/theory_MeasurementMotivation.tex) [13
+
+(./sections/theory_ColliderPheno.tex [20
 
 
 
 ]
+<figures/Theory/PDF.pdf, id=489, 573.14125pt x 380.42125pt>
+File: figures/Theory/PDF.pdf Graphic file (type pdf)
+<use figures/Theory/PDF.pdf>
+Package pdftex.def Info: figures/Theory/PDF.pdf  used on input line 24.
+(pdftex.def)             Requested size: 328.82707pt x 218.25871pt.
+ [21 <./figures/Theory/PDF.pdf>]
+<figures/Theory/ColliderPheno.pdf, id=500, 807.015pt x 622.325pt>
+File: figures/Theory/ColliderPheno.pdf Graphic file (type pdf)
+<use figures/Theory/ColliderPheno.pdf>
+Package pdftex.def Info: figures/Theory/ColliderPheno.pdf  used on input line 4
+2.
+(pdftex.def)             Requested size: 328.82707pt x 253.56908pt.
+)
+[22] [23 <./figures/Theory/ColliderPheno.pdf>]
+\openout2 = `sections/theory_EWkProcess.aux'.
+
+
+(./sections/theory_EWkProcess.tex
+<figures/Theory/diagramQCDZZjjqq.pdf, id=523, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramQCDZZjjqq.pdf Graphic file (type pdf)
+<use figures/Theory/diagramQCDZZjjqq.pdf>
+Package pdftex.def Info: figures/Theory/diagramQCDZZjjqq.pdf  used on input lin
+e 8.
+(pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
+<figures/Theory/diagramQCDZZjjqg.pdf, id=524, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramQCDZZjjqg.pdf Graphic file (type pdf)
+<use figures/Theory/diagramQCDZZjjqg.pdf>
+Package pdftex.def Info: figures/Theory/diagramQCDZZjjqg.pdf  used on input lin
+e 9.
+(pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
+<figures/Theory/diagramQCDZZjjgg.pdf, id=525, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramQCDZZjjgg.pdf Graphic file (type pdf)
+<use figures/Theory/diagramQCDZZjjgg.pdf>
+Package pdftex.def Info: figures/Theory/diagramQCDZZjjgg.pdf  used on input lin
+e 10.
+(pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
+<figures/Theory/diagramQCDZZjjbox.pdf, id=526, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramQCDZZjjbox.pdf Graphic file (type pdf)
+<use figures/Theory/diagramQCDZZjjbox.pdf>
+Package pdftex.def Info: figures/Theory/diagramQCDZZjjbox.pdf  used on input li
+ne 11.
+(pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
+<figures/Theory/diagramQCDZZjjggH.pdf, id=527, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramQCDZZjjggH.pdf Graphic file (type pdf)
+<use figures/Theory/diagramQCDZZjjggH.pdf>
+Package pdftex.def Info: figures/Theory/diagramQCDZZjjggH.pdf  used on input li
+ne 12.
+(pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
+<figures/Theory/diagramEWZZjjTGC.pdf, id=528, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramEWZZjjTGC.pdf Graphic file (type pdf)
+<use figures/Theory/diagramEWZZjjTGC.pdf>
+Package pdftex.def Info: figures/Theory/diagramEWZZjjTGC.pdf  used on input lin
+e 20.
+(pdftex.def)             Requested size: 180.385pt x 180.39279pt.
+<figures/Theory/diagramEWZZjjQGC.pdf, id=529, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramEWZZjjQGC.pdf Graphic file (type pdf)
+<use figures/Theory/diagramEWZZjjQGC.pdf>
+Package pdftex.def Info: figures/Theory/diagramEWZZjjQGC.pdf  used on input lin
+e 26.
+(pdftex.def)             Requested size: 180.385pt x 180.39279pt.
+<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=530, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramEWZZjjSchnHiggs.pdf Graphic file (type pdf)
+<use figures/Theory/diagramEWZZjjSchnHiggs.pdf>
+Package pdftex.def Info: figures/Theory/diagramEWZZjjSchnHiggs.pdf  used on inp
+ut line 32.
+(pdftex.def)             Requested size: 180.385pt x 180.39279pt.
+<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=531, 227.62239pt x 227.62239pt>
+File: figures/Theory/diagramEWZZjjTchnHiggs.pdf Graphic file (type pdf)
+<use figures/Theory/diagramEWZZjjTchnHiggs.pdf>
+Package pdftex.def Info: figures/Theory/diagramEWZZjjTchnHiggs.pdf  used on inp
+ut line 38.
+(pdftex.def)             Requested size: 180.385pt x 180.39279pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--42
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--42
+
+ []
+
+[24
+
+
+
+] [25 <./figures/Theory/diagramQCDZZjjqq.pdf> <./figures/Theory/diagramQCDZZjjq
+g.pdf> <./figures/Theory/diagramQCDZZjjgg.pdf> <./figures/Theory/diagramQCDZZjj
+box.pdf> <./figures/Theory/diagramQCDZZjjggH.pdf>] [26 <./figures/Theory/diagra
+mEWZZjjTGC.pdf> <./figures/Theory/diagramEWZZjjQGC.pdf> <./figures/Theory/diagr
+amEWZZjjSchnHiggs.pdf> <./figures/Theory/diagramEWZZjjTchnHiggs.pdf>])
+[27]
 \openout2 = `sections/LHC.aux'.
 
- (./sections/LHC.tex
-(./sections/LHC_ATLAS.tex) (./sections/LHC_ObjectReconstruction.tex)
-(./sections/LHC_FutureUpgrades.tex)) [14
+ (./sections/LHC.tex (./sections/LHC_ATLAS.tex)
+(./sections/LHC_ObjectReconstruction.tex) (./sections/LHC_FutureUpgrades.tex))
+[28
 
 
 
 ]
 \openout2 = `sections/AnalysisOverview.aux'.
 
- (./sections/AnalysisOverview.tex
-[15
+ (./sections/AnalysisOverview.tex [29
 
 
 
@@ -711,14 +800,14 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 (./sections/Analysis_DataSetAndMonteCarlo.tex)
 (./sections/Analysis_FiducialSelection.tex)
 (./sections/Analysis_ObjectAndEventSelection.tex) (./sections/Analysis_Obs.tex)
-) [16
+) [30
 
 ]
 \openout2 = `sections/AnalysisStrategy.aux'.
 
  (./sections/AnalysisStrategy.tex (./sections/Analysis_Background.tex)
 (./sections/Analysis_Unfolding.tex) (./sections/Analysis_Systematics.tex))
-[17
+[31
 
 
 
@@ -726,7 +815,7 @@ Package pdftex.def Info: figures/SMparticles.png  used on input line 10.
 \openout2 = `sections/Results.aux'.
 
  (./sections/Results.tex (./sections/Results_DifferentialCrossSections.tex) (./
-sections/Results_ReInterpretation.tex)) [18
+sections/Results_ReInterpretation.tex)) [32
 
 
 
@@ -734,7 +823,7 @@ sections/Results_ReInterpretation.tex)) [18
 \openout2 = `sections/Conclusion.aux'.
 
  (./sections/Conclusion.tex)
-[19
+[33
 
 
 
@@ -742,7 +831,7 @@ sections/Results_ReInterpretation.tex)) [18
 \openout2 = `sections/Outlook.aux'.
 
  (./sections/Outlook.tex (./sections/Run3.tex) (./sections/HLLHC.tex))
-[20
+[34
 
 
 
@@ -752,7 +841,7 @@ sections/Results_ReInterpretation.tex)) [18
  (./sections/Run3.tex)
 \openout2 = `sections/HLLHC.aux'.
 
- (./sections/HLLHC.tex) (./thesis.bbl) [21
+ (./sections/HLLHC.tex) (./thesis.bbl [35
 
 
 
@@ -760,53 +849,54 @@ sections/Results_ReInterpretation.tex)) [18
 
 
 
-]
+]) [36]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
- [22
+
+[37
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
-
-(./thesis.aux (./sections/acknowledgements.aux) (./sections/ListOfAbb.aux)
-(./sections/theory.aux) (./sections/theory_StandardModel.aux)
+ (./thesis.aux (./sections/acknowledgements.aux) (./sections/ListOfAbb.aux) (./
+sections/theory.aux) (./sections/theory_StandardModel.aux)
 (./sections/theory_StandardModelShortComings.aux)
-(./sections/theory_MeasurementMotivation.aux) (./sections/LHC.aux)
-(./sections/AnalysisOverview.aux) (./sections/AnalysisStrategy.aux)
-(./sections/Results.aux) (./sections/Conclusion.aux) (./sections/Outlook.aux)
-(./sections/Run3.aux) (./sections/HLLHC.aux))
+(./sections/theory_ColliderPheno.aux) (./sections/theory_EWkProcess.aux)
+(./sections/LHC.aux) (./sections/AnalysisOverview.aux)
+(./sections/AnalysisStrategy.aux) (./sections/Results.aux)
+(./sections/Conclusion.aux) (./sections/Outlook.aux) (./sections/Run3.aux)
+(./sections/HLLHC.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: DFED7630BC3812BBA230070F09AAA94A;2109.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: F298BFE99895AE753F8BB9EBCFA9D068;2264.
  ) 
 Here is how much of TeX's memory you used:
- 10340 strings out of 492616
- 154318 string characters out of 6129482
- 294489 words of memory out of 5000000
- 13863 multiletter control sequences out of 15000+600000
- 13057 words of font info for 50 fonts, out of 8000000 for 9000
+ 10548 strings out of 492616
+ 159073 string characters out of 6129482
+ 298542 words of memory out of 5000000
+ 13983 multiletter control sequences out of 15000+600000
+ 13526 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,17n,41p,1161b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,17n,42p,1803b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
 sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loca
-l/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
-live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texl
-ive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (31 pages, 404495 bytes).
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
+e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
+2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on thesis.pdf (46 pages, 725176 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
- 409 compressed objects within 5 object streams
- 95 named destinations out of 1000 (max. 500000)
- 294 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 764 PDF objects out of 1000 (max. 8388607)
+ 674 compressed objects within 7 object streams
+ 165 named destinations out of 1000 (max. 500000)
+ 365 words of extra memory for PDF output out of 10000 (max. 10000000)
 
