@@ -24,6 +24,7 @@
 \usepackage{AnalysisCommonDefs} %change this to input if it doesn't work
 \numberwithin{equation}{section}
 \graphicspath{figures/}
+\usepackage{newclude}
 %%Zach has a brandeis hack to remove all the large fonts and so on but i want to stick with the default for now maybe i will change in future
 \titleformat{\part}[hang]{\normalfont\bfseries}{\partname\ \thepart:}{0.5em}{} 
 %%%%
@@ -127,6 +128,11 @@ Dr. Alessandro Tricoli, Brookhaven National Laboratory
 \clearpage
 
 \include{sections/AnalysisOverview}
+	\include{sections/Analysis_FiducialSelection}
+	\include{sections/Analysis_ObjectReconstruction}
+	\include{sections/Analysis_EventSelection}
+	\include{sections/Analysis_DataSetAndMonteCarlo}
+	\include{sections/Analysis_Obs}
 \clearpage
 
 \include{sections/AnalysisStrategy}

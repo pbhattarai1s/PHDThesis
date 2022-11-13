@@ -22,6 +22,19 @@ A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt.
 \newblock {Parton distributions for the LHC}.
 \newblock {\em Eur. Phys. J. C}, 63:189--285, 2009.
 
+\bibitem{ATLASRun2IntegratedLumi}
+{The ATLAS Collaboration}.
+\newblock {Luminosity determination in $pp$ collisions at $\sqrt{s}=13$ TeV
+  using the ATLAS detector at the LHC}.
+\newblock Technical report, CERN, 6 2019.
+
+\bibitem{AngularFrameDef}
+{Yanyan Gao and Andrei V. Gritsan and Zijin Guo and Kirill Melnikov and Markus
+  Schulze and Nhan V. Tran}.
+\newblock {Spin determination of single-produced resonances at hadron
+  colliders}.
+\newblock {\em Physical Review D}, 81(7), apr 2010.
+
 \bibitem{Thomson:2013zua}
 Mark Thomson.
 \newblock {\em {Modern particle physics}}.
@@ -150,5 +163,76 @@ Sergey et~al. Alekhin.
 \newblock {A Z-monitor to calibrate Higgs production via vector boson fusion
   with rapidity gaps at the LHC.}
 \newblock {\em Eur. Phys. J.}, C 26:429–440, 2003.
+
+\bibitem{ATLASLuminosityDetector}
+{G. Avoni et al.}
+\newblock {The new LUCID-2 detector for luminosity measurement and monitoring
+  in ATLAS}.
+\newblock {\em Journal of Instrumentation}, 13(07):P07017, jul 2018.
+
+\bibitem{ATLASRun2DataTaking}
+{The ATLAS Collaboration}.
+\newblock {ATLAS data quality operations and performance for 2015-2018
+  data-taking}.
+\newblock {\em Journal of Instrumentation}, 15(04):P04003--P04003, apr 2020.
+
+\bibitem{GEANT4}
+S.~Agostinelli et~al.
+\newblock {GEANT4--a simulation toolkit}.
+\newblock {\em Nucl. Instrum. Meth. A}, 506:250--303, 2003.
+
+\bibitem{EventGenWithSherpa}
+Enrico Bothmann, Gurpreet~Singh Chahal, Stefan Höche, Johannes Krause, Frank
+  Krauss, Silvan Kuttimalai, Sebastian Liebschner, Davide Napoletano, Marek
+  Schönherr, Holger Schulz, Steffen Schumann, and Frank Siegert.
+\newblock {Event generation with Sherpa 2.2}.
+\newblock {\em {SciPost} Physics}, 7(3), sep 2019.
+
+\bibitem{PDFForRunII}
+Richard~D. Ball, , Valerio Bertone, Stefano Carrazza, Christopher~S. Deans,
+  Luigi~Del Debbio, Stefano Forte, Alberto Guffanti, Nathan~P. Hartland,
+  Jos{\'{e}}~I. Latorre, Juan Rojo, and Maria Ubiali.
+\newblock {Parton distributions for the LHC run II}.
+\newblock {\em Journal of High Energy Physics}, 2015(4), apr 2015.
+
+\bibitem{SherpaPS}
+S.~Schumann and F.~Krauss.
+\newblock A parton shower algorithm based on catani-seymour dipole
+  factorisation.
+\newblock {\em Journal of High Energy Physics}, 2008(03):038, mar 2008.
+
+\bibitem{PSMatching}
+{ Höche, S., Krauss, F., Schönherr, M. et al.}
+\newblock { QCD matrix elements + parton showers. The NLO case}.
+\newblock {\em J. High Energ. Phys.}, 2013(27), 2013.
+
+\bibitem{MADGRAPHNLO}
+{J. Alwall and R. Frederix and S. Frixione and V. Hirschi and F. Maltoni and O.
+  Mattelaer and H.-S. Shao and T. Stelzer and P. Torrielli and M. Zaro}.
+\newblock {The automated computation of tree-level and next-to-leading order
+  differential cross sections, and their matching to parton shower
+  simulations}.
+\newblock {\em Journal of High Energy Physics}, 2014(7), jul 2014.
+
+\bibitem{Pythia8}
+{Torbjörn Sjöstrand and Stephen Mrenna and Peter Skands}.
+\newblock {A brief introduction to {PYTHIA} 8.1}.
+\newblock {\em Computer Physics Communications}, 178(11):852--867, jun 2008.
+
+\bibitem{PowhegV2}
+{Barbara Jäger and Alexander Karlberg and Giulia Zanderighi}.
+\newblock {Electroweak ZZjj production in the Standard Model and beyond in the
+  POWHEG-BOX V2}.
+\newblock {\em Journal of High Energy Physics}, 2014(3), mar 2014.
+
+\bibitem{Sherpa220}
+{Stefano Catani and Frank Krauss and Bryan R Webber and Ralf Kuhn}.
+\newblock Qcd matrix elements + parton showers.
+\newblock {\em Journal of High Energy Physics}, 2001(11):063--063, nov 2001.
+
+\bibitem{PowhegPythia}
+Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
+\newblock {A Brief Introduction to PYTHIA 8.1}.
+\newblock {\em Comput. Phys. Commun.}, 178:852--867, 2008.
 
 \end{thebibliography}

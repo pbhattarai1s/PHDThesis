@@ -14,25 +14,39 @@
 \BOOKMARK [1][-]{section.4}{ Electroweak Diboson Physics }{part.2}% 14
 \BOOKMARK [0][-]{part.3}{III The Large Hadron Collider}{}% 15
 \BOOKMARK [1][-]{section.5}{ATLAS Detector}{part.3}% 16
-\BOOKMARK [1][-]{section.6}{ Particle Reconstruction}{part.3}% 17
-\BOOKMARK [1][-]{section.7}{Future Upgrades}{part.3}% 18
-\BOOKMARK [0][-]{part.4}{IV Analysis Overview}{}% 19
-\BOOKMARK [1][-]{section.8}{Goals}{part.4}% 20
-\BOOKMARK [1][-]{section.9}{Datasets and Monte Carlo Simulation}{part.4}% 21
-\BOOKMARK [1][-]{section.10}{Phase Space Definition}{part.4}% 22
-\BOOKMARK [1][-]{section.11}{Object and Event Selection}{part.4}% 23
-\BOOKMARK [1][-]{section.12}{Definition of Measured Observables}{part.4}% 24
-\BOOKMARK [0][-]{part.5}{V Analysis Strategy}{}% 25
-\BOOKMARK [1][-]{section.13}{Background Estimation}{part.5}% 26
-\BOOKMARK [1][-]{section.14}{Unfolding}{part.5}% 27
-\BOOKMARK [1][-]{section.15}{Uncertainties on the Measurement}{part.5}% 28
-\BOOKMARK [0][-]{part.6}{VI Results}{}% 29
-\BOOKMARK [1][-]{section.16}{ Differential Cross-sections }{part.6}% 30
-\BOOKMARK [1][-]{section.17}{Effective Field Theory ReInterpretation}{part.6}% 31
-\BOOKMARK [0][-]{part.7}{VII Conclusion}{}% 32
-\BOOKMARK [0][-]{part.8}{VIII Outlook}{}% 33
-\BOOKMARK [1][-]{section.18}{Run-3}{part.8}% 34
-\BOOKMARK [1][-]{section.19}{High Luminosity LHC}{part.8}% 35
-\BOOKMARK [0][-]{section.19}{References}{}% 36
-\BOOKMARK [0][-]{section.19}{Appendices}{}% 37
-\BOOKMARK [0][-]{part*.13}{Appendices}{}% 38
+\BOOKMARK [1][-]{section.6}{ Physics Object Reconstruction}{part.3}% 17
+\BOOKMARK [2][-]{subsection.6.1}{Electrons}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Muons}{section.6}% 19
+\BOOKMARK [2][-]{subsection.6.3}{Jets}{section.6}% 20
+\BOOKMARK [1][-]{section.7}{Future Upgrades}{part.3}% 21
+\BOOKMARK [0][-]{part.4}{IV Analysis Overview}{}% 22
+\BOOKMARK [1][-]{section.8}{Goals}{part.4}% 23
+\BOOKMARK [1][-]{section.9}{Phase Space Definition}{part.4}% 24
+\BOOKMARK [2][-]{subsection.9.1}{Fiducial Volume}{section.9}% 25
+\BOOKMARK [2][-]{subsection.9.2}{Signal Region}{section.9}% 26
+\BOOKMARK [1][-]{section.10}{Reconstruction Selection}{part.4}% 27
+\BOOKMARK [2][-]{subsection.10.1}{Electrons}{section.10}% 28
+\BOOKMARK [2][-]{subsection.10.2}{Muons}{section.10}% 29
+\BOOKMARK [2][-]{subsection.10.3}{Jets}{section.10}% 30
+\BOOKMARK [2][-]{subsection.10.4}{Overlap Removal}{section.10}% 31
+\BOOKMARK [1][-]{section.11}{Event Selection}{part.4}% 32
+\BOOKMARK [1][-]{section.12}{Datasets and Monte Carlo Simulation}{part.4}% 33
+\BOOKMARK [2][-]{subsection.12.1}{LHC Dataset}{section.12}% 34
+\BOOKMARK [2][-]{subsection.12.2}{Monte Carlo Samples }{section.12}% 35
+\BOOKMARK [2][-]{subsection.12.3}{Event Weights}{section.12}% 36
+\BOOKMARK [1][-]{section.13}{Definition of Measured Observables}{part.4}% 37
+\BOOKMARK [0][-]{part.5}{V Analysis Strategy}{}% 38
+\BOOKMARK [1][-]{section.14}{Background}{part.5}% 39
+\BOOKMARK [2][-]{subsection.14.1}{Data Driven Estimate of Fake Background}{section.14}% 40
+\BOOKMARK [1][-]{section.15}{Unfolding}{part.5}% 41
+\BOOKMARK [1][-]{section.16}{Uncertainties on the Measurement}{part.5}% 42
+\BOOKMARK [0][-]{part.6}{VI Results}{}% 43
+\BOOKMARK [1][-]{section.17}{ Differential Cross-sections }{part.6}% 44
+\BOOKMARK [1][-]{section.18}{Effective Field Theory ReInterpretation}{part.6}% 45
+\BOOKMARK [0][-]{part.7}{VII Conclusion}{}% 46
+\BOOKMARK [0][-]{part.8}{VIII Outlook}{}% 47
+\BOOKMARK [1][-]{section.19}{Run-3}{part.8}% 48
+\BOOKMARK [1][-]{section.20}{High Luminosity LHC}{part.8}% 49
+\BOOKMARK [0][-]{section.20}{References}{}% 50
+\BOOKMARK [0][-]{Item.42}{Appendices}{}% 51
+\BOOKMARK [0][-]{part*.28}{Appendices}{}% 52

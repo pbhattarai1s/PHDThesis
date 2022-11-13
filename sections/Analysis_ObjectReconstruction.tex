@@ -1,0 +1,113 @@
+\section{Reconstruction Selection}
+\label{sec:ObjReconstruction}
+
+This section summarizes the detector-level phase space selections applied to three physics objects, electrons, muons, and jets used in the measurement. Each object is categorized into two types: \textit{baseline} and \textit{signal}. Physics objects satisfying a set of kinematic selections or looser identification criteria are categorized as \textit{baseline}. \textit{Signal} objects are a subset of the baseline leptons passing either stricter kinematic selections or additional isolation and track-to-vertex association (TTVA) requirements. 
+
+\subsection{Electrons}
+\label{subsec:ElecRecon}
+
+As discussed in Section \ref{subsec:ParticleRecon_Elec} electrons are reconstructed by matching the inner detector track (ID) to an energy cluster in the electromagnetic calorimeter. Baseline electron objects are required to satisfy the kinematic selections of $\Pt~ > 7$ GeV $ \&~ |\eta| < 2.47$ and a loose likelihood identification of working point \textit{LHVeryLoose}. To avoid the electrons from pileup, a loose vertex association requirement of $|z_{0}sin\theta| < 0.5 $ mm and an overlap removal discussed in section \ref{subsec:OR} is applied to the baseline electron candidates.
+
+Signal electrons are required to pass a more stringent loose likelihood identification "LHLooseBL" which requires at least one hit in the innermost layer of the pixel detector. The signal electrons are distinguished by requiring the baseline electrons to have impact parameter requirements of $d0/ \dZeroSig < 5$ and an isolation working point identification of "LooseVarRad". Table \ref{tab:Electron_RecoSel} summarizes the several selections imposed to define the baseline and signal electrons.
+
+\begin{table}[ht]
+	\centering
+		\caption{Definition of the baseline and signal electrons.\label{tab:Electron_RecoSel}}
+		\begin{tabular}{|| l || c | c ||}
+		\hline
+		Selection Category & \textbf{Baseline} & \textbf{Signal} \\
+		\hline\hline
+		Kinematic cuts & $p_{T}~ > 7$ GeV & $ p_{T}~ > 7$ GeV \\
+		            & $|\eta| < 2.47$  &  $|\eta| < 2.47$\\
+		\hline  
+		Identification & LHVeryLoose & LHLooseBL \\
+		\hline 
+		Vertex Association & $|z_{0}sin\theta| < 0.5$ mm & $|z_{0}sin\theta|< 0.5$ mm\\
+		\hline
+		Overlap removal & Lepton-favored & Lepton-favored\\
+		\hline
+		Isolation Working Point & $-$ & LooseVarRad\\
+		\hline 
+		Impact Parameters & $-$ & $d_{0}/ \sigma_{d_{0}} < 5$ \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsection{Muons}
+\label{subsec:MuonRecon}
+As discussed in section \ref{subsec:ParticleRecon_Muon}, muons are reconstructed in multiple ways based on information from the inner detector (ID), the muon spectrometer (MS), and the calorimeters. All baseline muons are required to satisfy $ |\eta| < 2.7 $, $p_{T} > 5$ GeV, a loose impact parameter requirements of $|z_{0}sin\theta| < 0.5 $ mm, lepton-favoring overlap removal and \textit{Loose} identification working point. The signal muons are identified by requiring additional isolation identification of "PflowLooseVarRad" and TTVA requirements of $d_{0}/\sigma_{d_{0}} < 3$. Table \ref{tab:muon_baseline_signal} summarizes baseline and signal muons selection requirements.
+
+\begin{table}[ht]
+	\centering
+		\caption{Definition of the baseline and signal muons.\label{tab:muon_baseline_signal}}
+		\begin{tabular}{|| l || c | c ||}
+		\hline
+		Selection Category & \textbf{Baseline} & \textbf{Signal} \\
+		\hline\hline
+		Kinematic cuts & $p_{T}~ > 5$ GeV & $p_{T}~ > 5$ GeV \\
+					& Calo-tagged $ p_{T}~ > 15$ GeV & Calo-tagged $ p_{T}~ > 15$ GeV \\
+		      & $|\eta| < 2.7$ & $|\eta| < 2.7$\\
+		\hline
+		Identification & Loose & Loose \\
+		\hline 
+		Vertex Association & $|z_{0}sin\theta| < 0.5$ mm & $|z_{0}sin\theta|< 0.5$ mm\\
+		\hline
+		Overlap removal & Lepton-favored & Lepton-favored\\
+		\hline
+		Isolation Working Point & $-$ & PflowLooseVarRad\\
+		\hline 
+		Impact Parameters & $-$ & $d_{0}/\sigma_{d_{0}} < 3$ \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsection{Jets}
+\label{subsec:JetRecon}
+Jets are reconstructed with the particle flow anti$-K_{T}$ clustering algorithm using a radius parameter of $R = 0.4$ as discussed in section \ref{subsec:ParticleRecon_Jets}. The jets reconstructed using the particle flow algorithm are required to satisfy $p_{T}~ > 15$ GeV, $ |\eta| < 4.5 $ kinematic cuts and the lepton-favored overlap removal to be classified as baseline jets. Baseline jets satisfying the \textit{Tight} working point of the jet to the vertex tagger tool are classified as signal jets. \textit{Jet-vertex-tagger (JVT)} is applied to the baseline jets with $ |\eta| < 2.4 $ whereas the textit{forward-jet-vertex-tagger (fJVT)} tool is applied to the baseline jets with $ |\eta| > 2.5 $. Table \ref{tab:jets} summarizes the details of baseline and signal jets selection. 
+
+\begin{table}[ht]
+	\centering
+	\caption{Definition of the baseline and signal jets.\label{tab:jets}}
+		\begin{tabular}{|| l || c | c ||}
+		\hline
+		Selection Category & \textbf{Baseline} & \textbf{Signal} \\
+		\hline\hline
+		Kinematic cuts & $\Pt~ > 30$ GeV & $\Pt~ > 30$ GeV \\
+			 & $|\eta| < 4.5$ & $|\eta| < 4.5$\\
+		\hline 
+		Identification & AntiKt4EMPFlow & AntiKt4EMPFlow\\
+		\hline
+		Overlap removal & Lepton-favored & Lepton-favored\\
+		\hline
+		Jet-Vertex-Tagger & $-$ & $ |\eta| < 2.4 $ JVT ("Tight")\\
+				& $-$ & $|\eta| > 2.5 $ fJVT ("Tight")\\
+		\hline
+	\end{tabular}
+\end{table}
+
+\subsection{Overlap Removal}
+\label{subsec:OR}
+
+To remove the physics objects reconstructed from the same detector signal, an overlap removal procedure is applied. The measurement used a lepton-favored overlap removal which selects leptons over jets. Overlap removal is an iterative process in which only objects surviving all previous steps are used in the subsequent steps.
+A summary of the overlap removal steps is shown in table \ref{tab:overlap_removal}, where the $\Delta R$ is the angular separation between objects calculated using rapidity.
+
+\begin{table}[ht]
+	\centering
+		\caption{Overlap removal used in the analysis. If an object is marked to be removed in one step, it does not enter into the subsequent step. \label{tab:overlap_removal}}
+		\begin{tabular}{|| l || c | c ||}
+		\hline
+		Remove Object & Accept Object & Overlap Criteria \\
+		\hline\hline
+		Electron & Electron & Share a track or have overlapping calorimeter cluster.\\
+				&		& Keep electron with higher $p_{T}~$\\
+		\hline
+		Muon & Electron & Share ID track and the muon is calo-tagged\\
+		\hline
+		Electron & Muon & Share ID track\\
+		\hline
+		Jet & Electron & $\Delta R_{e-jet} < 0.2$ \\
+		\hline 
+		Jet & Muon & $\Delta R_{\mu-jet} < 0.2/$ghost-associated and $N_{jet~tracks} < 3$\\
+		\hline
+	\end{tabular}
+\end{table}

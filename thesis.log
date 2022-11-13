@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 NOV 2022 14:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  13 NOV 2022 12:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -415,35 +415,42 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip85
 )
 (./AnalysisCommonDefs.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/frankenstein/newclude.sty
+Package: newclude 1999/11/02 v2 A new system for including files (Frankenstein'
+s backbone)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/frankenstein/moredefs.sty
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks27
+\sc@toks@b=\toks28
+)
+\nc@toks@a=\toks29
+\c@IncludeDepth=\count133
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/frankenstein/tag.sto)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
- (./thesis.aux (./sections/acknowledgements.aux)
-(./sections/ListOfAbb.aux) (./sections/theory.aux)
-(./sections/theory_StandardModel.aux)
-(./sections/theory_StandardModelShortComings.aux)
-(./sections/theory_ColliderPheno.aux) (./sections/theory_EWkProcess.aux)
-(./sections/LHC.aux) (./sections/AnalysisOverview.aux)
-(./sections/AnalysisStrategy.aux) (./sections/Results.aux)
-(./sections/Conclusion.aux) (./sections/Outlook.aux) (./sections/Run3.aux)
-(./sections/HLLHC.aux))
+
+(./thesis.aux)
 \openout1 = `thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
-LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -481,17 +488,17 @@ LaTeX Font Info:    ... okay on input line 66.
 
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count133
+\scratchcounter=\count134
 \scratchdimen=\dimen141
 \scratchbox=\box32
-\nofMPsegments=\count134
-\nofMParguments=\count135
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count136
+\nofMPsegments=\count135
+\nofMParguments=\count136
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count137
 \MPscratchDim=\dimen142
-\MPnumerator=\count137
-\makeMPintoPDFobject=\count138
-\everyMPtoPDFconversion=\toks28
+\MPnumerator=\count138
+\makeMPintoPDFobject=\count139
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -523,7 +530,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-Package hyperref Info: Link coloring ON on input line 66.
+Package hyperref Info: Link coloring ON on input line 67.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -531,11 +538,11 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count139
+\c@section@level=\count140
 )
-LaTeX Info: Redefining \ref on input line 66.
-LaTeX Info: Redefining \pageref on input line 66.
-LaTeX Info: Redefining \nameref on input line 66.
+LaTeX Info: Redefining \ref on input line 67.
+LaTeX Info: Redefining \pageref on input line 67.
+LaTeX Info: Redefining \nameref on input line 67.
 
 (./thesis.out) (./thesis.out)
 \@outlinefile=\write3
@@ -548,7 +555,7 @@ arning (ext4): destination with the same identifier (name{page.}) has been alre
 ady used, duplicate ignored
 <to be read again> 
                    \relax 
-l.72 \makeapproval
+l.73 \makeapproval
                    [1
 
 
@@ -589,14 +596,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \makecopyright
+l.76 \makecopyright
                     [1
 
 
-]
-\openout2 = `sections/acknowledgements.aux'.
-
- (./sections/acknowledgements.tex) [4
+] (./sections/acknowledgements.tex) [4
 
 
 
@@ -615,27 +619,24 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [5
 
 
-])
+] [6])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
- [6]
-(./thesis.lot)
+
+[7] (./thesis.lot)
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
- [7
+ [8
 
 ] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [8
+ [9
 
-]
-\openout2 = `sections/ListOfAbb.aux'.
-
- (./sections/ListOfAbb.tex
+] (./sections/ListOfAbb.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
 
 (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
@@ -643,205 +644,270 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
-) [9
+ [10
 
 
-]
+]) [11]
 (./sections/Introduction.tex) [1
 
 
-]
-\openout2 = `sections/theory.aux'.
-
- (./sections/theory.tex) [2
+] (./sections/theory.tex) [2
 
 
 ]
-\openout2 = `sections/theory_StandardModel.aux'.
-
-
 (./sections/theory_StandardModel.tex [3
 
 
 
 ]
-<figures/Theory/SMparticles.pdf, id=294, 803.0pt x 767.86874pt>
+<figures/Theory/SMparticles.pdf, id=418, 803.0pt x 767.86874pt>
 File: figures/Theory/SMparticles.pdf Graphic file (type pdf)
 <use figures/Theory/SMparticles.pdf>
 Package pdftex.def Info: figures/Theory/SMparticles.pdf  used on input line 21.
 
 (pdftex.def)             Requested size: 328.82707pt x 314.44157pt.
  [4] [5 <./figures/Theory/SMparticles.pdf>] [6] [7] [8] [9] [10] [11] [12] [13]
- [14] [15] [16]) [17] [18]
-\openout2 = `sections/theory_StandardModelShortComings.aux'.
-
-
-(./sections/theory_StandardModelShortComings.tex) [19
+ [14] [15] [16]) [17]
+(./sections/theory_StandardModelShortComings.tex) [18
 
 
 
 ]
-\openout2 = `sections/theory_ColliderPheno.aux'.
-
-
-(./sections/theory_ColliderPheno.tex [20
+(./sections/theory_ColliderPheno.tex [19
 
 
 
 ]
-<figures/Theory/PDF.pdf, id=489, 573.14125pt x 380.42125pt>
+<figures/Theory/PDF.pdf, id=607, 573.14125pt x 380.42125pt>
 File: figures/Theory/PDF.pdf Graphic file (type pdf)
 <use figures/Theory/PDF.pdf>
 Package pdftex.def Info: figures/Theory/PDF.pdf  used on input line 24.
 (pdftex.def)             Requested size: 328.82707pt x 218.25871pt.
- [21 <./figures/Theory/PDF.pdf>]
-<figures/Theory/ColliderPheno.pdf, id=500, 807.015pt x 622.325pt>
+ [20 <./figures/Theory/PDF.pdf>]
+<figures/Theory/ColliderPheno.pdf, id=619, 807.015pt x 622.325pt>
 File: figures/Theory/ColliderPheno.pdf Graphic file (type pdf)
 <use figures/Theory/ColliderPheno.pdf>
 Package pdftex.def Info: figures/Theory/ColliderPheno.pdf  used on input line 4
 2.
 (pdftex.def)             Requested size: 328.82707pt x 253.56908pt.
 )
-[22] [23 <./figures/Theory/ColliderPheno.pdf>]
-\openout2 = `sections/theory_EWkProcess.aux'.
-
-
+[21] [22 <./figures/Theory/ColliderPheno.pdf>]
 (./sections/theory_EWkProcess.tex
-<figures/Theory/diagramQCDZZjjqq.pdf, id=523, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjqq.pdf, id=642, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjqq.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjqq.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjqq.pdf  used on input lin
 e 8.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjqg.pdf, id=524, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjqg.pdf, id=643, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjqg.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjqg.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjqg.pdf  used on input lin
 e 9.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjgg.pdf, id=525, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjgg.pdf, id=644, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjgg.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjgg.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjgg.pdf  used on input lin
 e 10.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjbox.pdf, id=526, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjbox.pdf, id=645, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjbox.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjbox.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjbox.pdf  used on input li
-ne 11.
+ne 17.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjggH.pdf, id=527, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjggH.pdf, id=646, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjggH.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjggH.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjggH.pdf  used on input li
-ne 12.
+ne 18.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramEWZZjjTGC.pdf, id=528, 227.62239pt x 227.62239pt>
+ [23
+
+
+
+ <./figures/Theory/diagramQCDZZjjqq.pdf> <./figures/Theory/diagramQCDZZjjqg.pdf
+> <./figures/Theory/diagramQCDZZjjgg.pdf>]
+<figures/Theory/diagramEWZZjjTGC.pdf, id=676, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjTGC.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjTGC.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjTGC.pdf  used on input lin
-e 20.
+e 26.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjQGC.pdf, id=529, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjQGC.pdf, id=677, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjQGC.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjQGC.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjQGC.pdf  used on input lin
-e 26.
+e 32.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=530, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=678, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjSchnHiggs.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjSchnHiggs.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjSchnHiggs.pdf  used on inp
-ut line 32.
+ut line 38.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=531, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=679, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjTchnHiggs.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjTchnHiggs.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjTchnHiggs.pdf  used on inp
-ut line 38.
+ut line 44.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--42
+Underfull \hbox (badness 10000) in paragraph at lines 24--48
 []$[]$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--42
+Underfull \hbox (badness 10000) in paragraph at lines 24--48
 
  []
 
-[24
-
-
-
-] [25 <./figures/Theory/diagramQCDZZjjqq.pdf> <./figures/Theory/diagramQCDZZjjq
-g.pdf> <./figures/Theory/diagramQCDZZjjgg.pdf> <./figures/Theory/diagramQCDZZjj
-box.pdf> <./figures/Theory/diagramQCDZZjjggH.pdf>] [26 <./figures/Theory/diagra
-mEWZZjjTGC.pdf> <./figures/Theory/diagramEWZZjjQGC.pdf> <./figures/Theory/diagr
-amEWZZjjSchnHiggs.pdf> <./figures/Theory/diagramEWZZjjTchnHiggs.pdf>])
-[27]
-\openout2 = `sections/LHC.aux'.
-
- (./sections/LHC.tex (./sections/LHC_ATLAS.tex)
+[24 <./figures/Theory/diagramQCDZZjjbox.pdf> <./figures/Theory/diagramQCDZZjjgg
+H.pdf>]) [25 <./figures/Theory/diagramEWZZjjTGC.pdf> <./figures/Theory/diagramE
+WZZjjQGC.pdf> <./figures/Theory/diagramEWZZjjSchnHiggs.pdf> <./figures/Theory/d
+iagramEWZZjjTchnHiggs.pdf>] [26] (./sections/LHC.tex (./sections/LHC_ATLAS.tex)
 (./sections/LHC_ObjectReconstruction.tex) (./sections/LHC_FutureUpgrades.tex))
-[28
+[27
+
+
+
+] (./sections/AnalysisOverview.tex) [28
 
 
 
 ]
-\openout2 = `sections/AnalysisOverview.aux'.
-
- (./sections/AnalysisOverview.tex [29
+(./sections/Analysis_FiducialSelection.tex [29
 
 
 
-] (./sections/Analysis_Goals.tex)
-(./sections/Analysis_DataSetAndMonteCarlo.tex)
-(./sections/Analysis_FiducialSelection.tex)
-(./sections/Analysis_ObjectAndEventSelection.tex) (./sections/Analysis_Obs.tex)
-) [30
-
+] [30]
+<figures/AnalysisOverview/centrality_Dist.pdf, id=775, 569.12625pt x 387.4475pt
+>
+File: figures/AnalysisOverview/centrality_Dist.pdf Graphic file (type pdf)
+<use figures/AnalysisOverview/centrality_Dist.pdf>
+Package pdftex.def Info: figures/AnalysisOverview/centrality_Dist.pdf  used on 
+input line 79.
+(pdftex.def)             Requested size: 180.385pt x 122.80333pt.
+<figures/AnalysisOverview/centrality_Cut.pdf, id=776, 569.12625pt x 410.53375pt
+>
+File: figures/AnalysisOverview/centrality_Cut.pdf Graphic file (type pdf)
+<use figures/AnalysisOverview/centrality_Cut.pdf>
+Package pdftex.def Info: figures/AnalysisOverview/centrality_Cut.pdf  used on i
+nput line 85.
+(pdftex.def)             Requested size: 180.385pt x 130.12064pt.
+) [31 <./figures/AnalysisOverview/centrality_Dist.pdf, page is rotated 90 degre
+es> <./figures/AnalysisOverview/centrality_Cut.pdf, page is rotated 90 degrees>
 ]
-\openout2 = `sections/AnalysisStrategy.aux'.
-
- (./sections/AnalysisStrategy.tex (./sections/Analysis_Background.tex)
-(./sections/Analysis_Unfolding.tex) (./sections/Analysis_Systematics.tex))
-[31
+(./sections/Analysis_ObjectReconstruction.tex [32
 
 
 
-]
-\openout2 = `sections/Results.aux'.
+] [33]
+Overfull \hbox (1.33777pt too wide) in paragraph at lines 97--113
+ [][] 
+ []
 
- (./sections/Results.tex (./sections/Results_DifferentialCrossSections.tex) (./
-sections/Results_ReInterpretation.tex)) [32
-
-
-
-]
-\openout2 = `sections/Conclusion.aux'.
-
- (./sections/Conclusion.tex)
-[33
+) [34] (./sections/Analysis_EventSelection.tex) [35
 
 
 
 ]
-\openout2 = `sections/Outlook.aux'.
+(./sections/Analysis_DataSetAndMonteCarlo.tex
+<figures/AnalysisOverview/IntegratedLumiRun2.pdf, id=857, 798.985pt x 574.145pt
+>
+File: figures/AnalysisOverview/IntegratedLumiRun2.pdf Graphic file (type pdf)
+<use figures/AnalysisOverview/IntegratedLumiRun2.pdf>
+Package pdftex.def Info: figures/AnalysisOverview/IntegratedLumiRun2.pdf  used 
+on input line 11.
+(pdftex.def)             Requested size: 375.80544pt x 270.04968pt.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
 
- (./sections/Outlook.tex (./sections/Run3.tex) (./sections/HLLHC.tex))
-[34
+Overfull \hbox (13.0569pt too wide) in paragraph at lines 19--20
+[]\OT1/cmr/m/n/10 GoodRunsLists/data15[]13TeV/20170619/PHYS[]StandardGRL[]All[]
+Good[]25ns[]276262-284484[]OflLumi-
+ []
+
+
+Overfull \hbox (13.0569pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/10 GoodRunsLists/data16[]13TeV/20180129/PHYS[]StandardGRL[]All[]
+Good[]25ns[]297730-311481[]OflLumi-
+ []
+
+
+Overfull \hbox (1.04565pt too wide) in paragraph at lines 21--22
+[]\OT1/cmr/m/n/10 GoodRunsLists/data17[]13TeV/20180619/physics[]25ns[]Triggerno
+17e33prim.lumicalc.OflLumi-13TeV-
+ []
+
+
+Overfull \hbox (1.04565pt too wide) in paragraph at lines 22--23
+[]\OT1/cmr/m/n/10 GoodRunsLists/data18[]13TeV/20180924/physics[]25ns[]Triggerno
+17e33prim.lumicalc.OflLumi-13TeV-
+ []
+
+[36
 
 
 
 ]
-\openout2 = `sections/Run3.aux'.
+<figures/AnalysisOverview/MCSchematic.pdf, id=869, 614.295pt x 794.97pt>
+File: figures/AnalysisOverview/MCSchematic.pdf Graphic file (type pdf)
+<use figures/AnalysisOverview/MCSchematic.pdf>
+Package pdftex.def Info: figures/AnalysisOverview/MCSchematic.pdf  used on inpu
+t line 34.
+(pdftex.def)             Requested size: 375.80544pt x 486.3381pt.
+ [37 <./figures/AnalysisOverview/IntegratedLumiRun2.pdf>] [38 <./figures/Analys
+isOverview/MCSchematic.pdf>]
+Overfull \hbox (14.31789pt too wide) in paragraph at lines 50--75
+ [][] 
+ []
 
- (./sections/Run3.tex)
-\openout2 = `sections/HLLHC.aux'.
+[39] [40] [41]
+<figures/AnalysisOverview/mu_ProfileRun2.pdf, id=941, 798.985pt x 574.145pt>
+File: figures/AnalysisOverview/mu_ProfileRun2.pdf Graphic file (type pdf)
+<use figures/AnalysisOverview/mu_ProfileRun2.pdf>
+Package pdftex.def Info: figures/AnalysisOverview/mu_ProfileRun2.pdf  used on i
+nput line 145.
+(pdftex.def)             Requested size: 375.80544pt x 270.04968pt.
+) [42 <./figures/AnalysisOverview/mu_ProfileRun2.pdf>]
+(./sections/Analysis_Obs.tex
+<figures/AnalysisOverview/costhetaFrameOfRef.pdf, id=951, 614.295pt x 794.97pt>
 
- (./sections/HLLHC.tex) (./thesis.bbl [35
+File: figures/AnalysisOverview/costhetaFrameOfRef.pdf Graphic file (type pdf)
+<use figures/AnalysisOverview/costhetaFrameOfRef.pdf>
+Package pdftex.def Info: figures/AnalysisOverview/costhetaFrameOfRef.pdf  used 
+on input line 33.
+(pdftex.def)             Requested size: 375.80544pt x 486.3381pt.
+) [43
+
+
+
+] [44 <./figures/AnalysisOverview/costhetaFrameOfRef.pdf>] (./sections/Analysis
+Strategy.tex
+(./sections/Analysis_Background.tex) (./sections/Analysis_Unfolding.tex)
+(./sections/Analysis_Systematics.tex)) [45
+
+
+
+] (./sections/Results.tex
+(./sections/Results_DifferentialCrossSections.tex)
+(./sections/Results_ReInterpretation.tex)) [46
+
+
+
+] (./sections/Conclusion.tex)
+[47
+
+
+
+] (./sections/Outlook.tex (./sections/Run3.tex) (./sections/HLLHC.tex))
+[48
+
+
+
+] (./sections/Run3.tex) (./sections/HLLHC.tex) (./thesis.bbl [49
 
 
 
@@ -849,54 +915,179 @@ sections/Results_ReInterpretation.tex)) [32
 
 
 
-]) [36]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-
-[37
+] [50])
+[51]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+ [52
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
- (./thesis.aux (./sections/acknowledgements.aux) (./sections/ListOfAbb.aux) (./
-sections/theory.aux) (./sections/theory_StandardModel.aux)
-(./sections/theory_StandardModelShortComings.aux)
-(./sections/theory_ColliderPheno.aux) (./sections/theory_EWkProcess.aux)
-(./sections/LHC.aux) (./sections/AnalysisOverview.aux)
-(./sections/AnalysisStrategy.aux) (./sections/Results.aux)
-(./sections/Conclusion.aux) (./sections/Outlook.aux) (./sections/Run3.aux)
-(./sections/HLLHC.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+ (./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F298BFE99895AE753F8BB9EBCFA9D068;2264.
+(rerunfilecheck)             Checksum: 86C99D0FD69D8A8C6B3105A2186C21FC;3140.
  ) 
 Here is how much of TeX's memory you used:
- 10548 strings out of 492616
- 159073 string characters out of 6129482
- 298542 words of memory out of 5000000
- 13983 multiletter control sequences out of 15000+600000
- 13526 words of font info for 52 fonts, out of 8000000 for 9000
+ 10913 strings out of 492616
+ 164868 string characters out of 6129482
+ 318805 words of memory out of 5000000
+ 14278 multiletter control sequences out of 15000+600000
+ 14773 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,17n,42p,1803b,542s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+ 36i,19n,42p,1818b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{cite.PowhegPythia} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Sherpa220} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PowhegV2} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Pythia8} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.MADGRAPHNLO} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PSMatching} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.SherpaPS} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PDFForRunII} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.EventGenWithSherpa} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.GEANT4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ATLASRun2IntegratedLumi} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ATLASLuminosityDetector} has been referenced b
+ut does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.RapidityGapCite} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ATLASZZjj} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.BSM_Simple2HDM} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.EboliModelaQGC} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.SensitivityNP} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.VBSWWWW} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PowhegV2ZZjj} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.CMSRun2ZZjj} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.EventGenerator} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PDF4LHC} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.FixedTargetDrellYan} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.QCDForCollider} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.DMGravitationalLensing} has been referenced bu
+t does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.CDFWMass} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ATLASHiggsDiscovery} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.CMSHiggsDiscovery} has been referenced but doe
+s not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.DESYHiggsLecture} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PeskinQFT} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.HiggsMechanism} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PhysRev.96.191} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.GLASHOW1961579} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bernabeu2021} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.NoetherTheorem} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Thomson:2013zua} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.AngularFrameDef} has been referenced but does 
+not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.ATLASRun2DataTaking} has been referenced but d
+oes not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PDFCalLHC} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.SMFigureWiki} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Halzen:1984mc} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.PDG} has been referenced but does not exist, r
+eplaced by a fixed one
+
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb
+></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
 /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
-sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
-al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
-19/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/201
-9/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019
-/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (46 pages, 725176 bytes).
+sr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
+19/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on thesis.pdf (63 pages, 1076713 bytes).
 PDF statistics:
- 764 PDF objects out of 1000 (max. 8388607)
- 674 compressed objects within 7 object streams
- 165 named destinations out of 1000 (max. 500000)
- 365 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1188 PDF objects out of 1200 (max. 8388607)
+ 1048 compressed objects within 11 object streams
+ 275 named destinations out of 1000 (max. 500000)
+ 507 words of extra memory for PDF output out of 10000 (max. 10000000)
 
