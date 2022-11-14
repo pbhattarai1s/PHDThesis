@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  13 NOV 2022 12:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  14 NOV 2022 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -660,7 +660,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 ]
-<figures/Theory/SMparticles.pdf, id=418, 803.0pt x 767.86874pt>
+<figures/Theory/SMparticles.pdf, id=430, 803.0pt x 767.86874pt>
 File: figures/Theory/SMparticles.pdf Graphic file (type pdf)
 <use figures/Theory/SMparticles.pdf>
 Package pdftex.def Info: figures/Theory/SMparticles.pdf  used on input line 21.
@@ -678,13 +678,13 @@ Package pdftex.def Info: figures/Theory/SMparticles.pdf  used on input line 21.
 
 
 ]
-<figures/Theory/PDF.pdf, id=607, 573.14125pt x 380.42125pt>
+<figures/Theory/PDF.pdf, id=619, 573.14125pt x 380.42125pt>
 File: figures/Theory/PDF.pdf Graphic file (type pdf)
 <use figures/Theory/PDF.pdf>
 Package pdftex.def Info: figures/Theory/PDF.pdf  used on input line 24.
 (pdftex.def)             Requested size: 328.82707pt x 218.25871pt.
  [20 <./figures/Theory/PDF.pdf>]
-<figures/Theory/ColliderPheno.pdf, id=619, 807.015pt x 622.325pt>
+<figures/Theory/ColliderPheno.pdf, id=631, 807.015pt x 622.325pt>
 File: figures/Theory/ColliderPheno.pdf Graphic file (type pdf)
 <use figures/Theory/ColliderPheno.pdf>
 Package pdftex.def Info: figures/Theory/ColliderPheno.pdf  used on input line 4
@@ -693,31 +693,31 @@ Package pdftex.def Info: figures/Theory/ColliderPheno.pdf  used on input line 4
 )
 [21] [22 <./figures/Theory/ColliderPheno.pdf>]
 (./sections/theory_EWkProcess.tex
-<figures/Theory/diagramQCDZZjjqq.pdf, id=642, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjqq.pdf, id=654, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjqq.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjqq.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjqq.pdf  used on input lin
 e 8.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjqg.pdf, id=643, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjqg.pdf, id=655, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjqg.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjqg.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjqg.pdf  used on input lin
 e 9.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjgg.pdf, id=644, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjgg.pdf, id=656, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjgg.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjgg.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjgg.pdf  used on input lin
 e 10.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjbox.pdf, id=645, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjbox.pdf, id=657, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjbox.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjbox.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjbox.pdf  used on input li
 ne 17.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjggH.pdf, id=646, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjggH.pdf, id=658, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjggH.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjggH.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjggH.pdf  used on input li
@@ -729,25 +729,25 @@ ne 18.
 
  <./figures/Theory/diagramQCDZZjjqq.pdf> <./figures/Theory/diagramQCDZZjjqg.pdf
 > <./figures/Theory/diagramQCDZZjjgg.pdf>]
-<figures/Theory/diagramEWZZjjTGC.pdf, id=676, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjTGC.pdf, id=688, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjTGC.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjTGC.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjTGC.pdf  used on input lin
 e 26.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjQGC.pdf, id=677, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjQGC.pdf, id=689, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjQGC.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjQGC.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjQGC.pdf  used on input lin
 e 32.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=678, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=690, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjSchnHiggs.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjSchnHiggs.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjSchnHiggs.pdf  used on inp
 ut line 38.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=679, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=691, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjTchnHiggs.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjTchnHiggs.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjTchnHiggs.pdf  used on inp
@@ -782,14 +782,14 @@ iagramEWZZjjTchnHiggs.pdf>] [26] (./sections/LHC.tex (./sections/LHC_ATLAS.tex)
 
 
 ] [30]
-<figures/AnalysisOverview/centrality_Dist.pdf, id=775, 569.12625pt x 387.4475pt
+<figures/AnalysisOverview/centrality_Dist.pdf, id=786, 569.12625pt x 387.4475pt
 >
 File: figures/AnalysisOverview/centrality_Dist.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/centrality_Dist.pdf>
 Package pdftex.def Info: figures/AnalysisOverview/centrality_Dist.pdf  used on 
 input line 79.
 (pdftex.def)             Requested size: 180.385pt x 122.80333pt.
-<figures/AnalysisOverview/centrality_Cut.pdf, id=776, 569.12625pt x 410.53375pt
+<figures/AnalysisOverview/centrality_Cut.pdf, id=787, 569.12625pt x 410.53375pt
 >
 File: figures/AnalysisOverview/centrality_Cut.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/centrality_Cut.pdf>
@@ -808,13 +808,25 @@ Overfull \hbox (1.33777pt too wide) in paragraph at lines 97--113
  [][] 
  []
 
-) [34] (./sections/Analysis_EventSelection.tex) [35
+) [34] (./sections/Analysis_EventSelection.tex
+Overfull \hbox (37.68213pt too wide) in paragraph at lines 12--42
+ [][] 
+ []
+
+<figures/AnalysisOverview/ZZjjEventDisplay.png, id=864, 6413.9625pt x 3774.1pt>
+
+File: figures/AnalysisOverview/ZZjjEventDisplay.png Graphic file (type png)
+<use figures/AnalysisOverview/ZZjjEventDisplay.png>
+Package pdftex.def Info: figures/AnalysisOverview/ZZjjEventDisplay.png  used on
+ input line 48.
+(pdftex.def)             Requested size: 422.77664pt x 248.72281pt.
+) [35
 
 
 
-]
+] [36 <./figures/AnalysisOverview/ZZjjEventDisplay.png>] [37]
 (./sections/Analysis_DataSetAndMonteCarlo.tex
-<figures/AnalysisOverview/IntegratedLumiRun2.pdf, id=857, 798.985pt x 574.145pt
+<figures/AnalysisOverview/IntegratedLumiRun2.pdf, id=884, 798.985pt x 574.145pt
 >
 File: figures/AnalysisOverview/IntegratedLumiRun2.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/IntegratedLumiRun2.pdf>
@@ -847,67 +859,67 @@ Overfull \hbox (1.04565pt too wide) in paragraph at lines 22--23
 17e33prim.lumicalc.OflLumi-13TeV-
  []
 
-[36
+[38
 
 
 
 ]
-<figures/AnalysisOverview/MCSchematic.pdf, id=869, 614.295pt x 794.97pt>
+<figures/AnalysisOverview/MCSchematic.pdf, id=897, 614.295pt x 794.97pt>
 File: figures/AnalysisOverview/MCSchematic.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/MCSchematic.pdf>
 Package pdftex.def Info: figures/AnalysisOverview/MCSchematic.pdf  used on inpu
 t line 34.
 (pdftex.def)             Requested size: 375.80544pt x 486.3381pt.
- [37 <./figures/AnalysisOverview/IntegratedLumiRun2.pdf>] [38 <./figures/Analys
+ [39 <./figures/AnalysisOverview/IntegratedLumiRun2.pdf>] [40 <./figures/Analys
 isOverview/MCSchematic.pdf>]
 Overfull \hbox (14.31789pt too wide) in paragraph at lines 50--75
  [][] 
  []
 
-[39] [40] [41]
-<figures/AnalysisOverview/mu_ProfileRun2.pdf, id=941, 798.985pt x 574.145pt>
+[41] [42] [43]
+<figures/AnalysisOverview/mu_ProfileRun2.pdf, id=969, 798.985pt x 574.145pt>
 File: figures/AnalysisOverview/mu_ProfileRun2.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/mu_ProfileRun2.pdf>
 Package pdftex.def Info: figures/AnalysisOverview/mu_ProfileRun2.pdf  used on i
 nput line 145.
 (pdftex.def)             Requested size: 375.80544pt x 270.04968pt.
-) [42 <./figures/AnalysisOverview/mu_ProfileRun2.pdf>]
+) [44 <./figures/AnalysisOverview/mu_ProfileRun2.pdf>]
 (./sections/Analysis_Obs.tex
-<figures/AnalysisOverview/costhetaFrameOfRef.pdf, id=951, 614.295pt x 794.97pt>
+<figures/AnalysisOverview/costhetaFrameOfRef.pdf, id=979, 614.295pt x 794.97pt>
 
 File: figures/AnalysisOverview/costhetaFrameOfRef.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/costhetaFrameOfRef.pdf>
 Package pdftex.def Info: figures/AnalysisOverview/costhetaFrameOfRef.pdf  used 
 on input line 33.
 (pdftex.def)             Requested size: 375.80544pt x 486.3381pt.
-) [43
+) [45
 
 
 
-] [44 <./figures/AnalysisOverview/costhetaFrameOfRef.pdf>] (./sections/Analysis
+] [46 <./figures/AnalysisOverview/costhetaFrameOfRef.pdf>] (./sections/Analysis
 Strategy.tex
 (./sections/Analysis_Background.tex) (./sections/Analysis_Unfolding.tex)
-(./sections/Analysis_Systematics.tex)) [45
+(./sections/Analysis_Systematics.tex)) [47
 
 
 
 ] (./sections/Results.tex
 (./sections/Results_DifferentialCrossSections.tex)
-(./sections/Results_ReInterpretation.tex)) [46
+(./sections/Results_ReInterpretation.tex)) [48
 
 
 
 ] (./sections/Conclusion.tex)
-[47
+[49
 
 
 
 ] (./sections/Outlook.tex (./sections/Run3.tex) (./sections/HLLHC.tex))
-[48
+[50
 
 
 
-] (./sections/Run3.tex) (./sections/HLLHC.tex) (./thesis.bbl [49
+] (./sections/Run3.tex) (./sections/HLLHC.tex) (./thesis.bbl [51
 
 
 
@@ -915,10 +927,10 @@ Strategy.tex
 
 
 
-] [50])
-[51]
+] [52])
+[53]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
- [52
+ [54
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
@@ -926,13 +938,13 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 86C99D0FD69D8A8C6B3105A2186C21FC;3140.
+(rerunfilecheck)             Checksum: A70F978DC7E4207C3B12AC2F42CB0266;3140.
  ) 
 Here is how much of TeX's memory you used:
- 10913 strings out of 492616
- 164868 string characters out of 6129482
- 318805 words of memory out of 5000000
- 14278 multiletter control sequences out of 15000+600000
+ 10925 strings out of 492616
+ 165180 string characters out of 6129482
+ 322039 words of memory out of 5000000
+ 14284 multiletter control sequences out of 15000+600000
  14773 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,19n,42p,1818b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -974,9 +986,6 @@ ut does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.RapidityGapCite} has been referenced but does 
 not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.ATLASZZjj} has been referenced but does not ex
-ist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.BSM_Simple2HDM} has been referenced but does n
 ot exist, replaced by a fixed one
@@ -1050,6 +1059,9 @@ not exist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.ATLASRun2DataTaking} has been referenced but d
 oes not exist, replaced by a fixed one
 
+pdfTeX warning (dest): name{cite.ATLASZZjj} has been referenced but does not ex
+ist, replaced by a fixed one
+
 pdfTeX warning (dest): name{cite.PDFCalLHC} has been referenced but does not ex
 ist, replaced by a fixed one
 
@@ -1084,10 +1096,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-
 dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on thesis.pdf (63 pages, 1076713 bytes).
+Output written on thesis.pdf (65 pages, 5089107 bytes).
 PDF statistics:
- 1188 PDF objects out of 1200 (max. 8388607)
- 1048 compressed objects within 11 object streams
- 275 named destinations out of 1000 (max. 500000)
- 507 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1216 PDF objects out of 1440 (max. 8388607)
+ 1071 compressed objects within 11 object streams
+ 279 named destinations out of 1000 (max. 500000)
+ 512 words of extra memory for PDF output out of 10000 (max. 10000000)
 
