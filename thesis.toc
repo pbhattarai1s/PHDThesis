@@ -13,8 +13,8 @@
 \contentsline {subsubsection}{\numberline {1.3.1}Lagrangian of the Standard Model}{8}{subsubsection.1.3.1}% 
 \contentsline {subsubsection}{\numberline {1.3.2}Quantum Electrodynamics}{8}{subsubsection.1.3.2}% 
 \contentsline {subsubsection}{\numberline {1.3.3}Quantum Chromodynamics }{10}{subsubsection.1.3.3}% 
-\contentsline {subsubsection}{\numberline {1.3.4}Electroweak Theory}{12}{subsubsection.1.3.4}% 
-\contentsline {subsubsection}{\numberline {1.3.5}Higgs Mechanism}{15}{subsubsection.1.3.5}% 
+\contentsline {subsubsection}{\numberline {1.3.4}Electroweak Theory}{11}{subsubsection.1.3.4}% 
+\contentsline {subsubsection}{\numberline {1.3.5}Higgs Mechanism}{14}{subsubsection.1.3.5}% 
 \contentsline {section}{\numberline {2}Limitations of the Standard Model}{18}{section.2}% 
 \contentsline {section}{\numberline {3}Phenomenology of Proton-Proton Collisions }{19}{section.3}% 
 \contentsline {section}{\numberline {4} Electroweak Diboson Physics }{23}{section.4}% 
@@ -40,9 +40,9 @@
 \contentsline {subsection}{\numberline {12.1}LHC Dataset}{38}{subsection.12.1}% 
 \contentsline {subsection}{\numberline {12.2}Monte Carlo Samples }{39}{subsection.12.2}% 
 \contentsline {subsubsection}{\numberline {12.2.1}Signal Samples}{39}{subsubsection.12.2.1}% 
-\contentsline {subsubsection}{\numberline {12.2.2}Background Samples}{42}{subsubsection.12.2.2}% 
-\contentsline {subsubsection}{\numberline {12.2.3}Samples for Fake Background}{42}{subsubsection.12.2.3}% 
-\contentsline {subsection}{\numberline {12.3}Event Weights}{44}{subsection.12.3}% 
+\contentsline {subsubsection}{\numberline {12.2.2}Background Samples}{41}{subsubsection.12.2.2}% 
+\contentsline {subsubsection}{\numberline {12.2.3}Samples for Fake Background}{43}{subsubsection.12.2.3}% 
+\contentsline {subsection}{\numberline {12.3}Event Weights}{43}{subsection.12.3}% 
 \contentsline {section}{\numberline {13}Definition of Measured Observables}{45}{section.13}% 
 \contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{47}{part.5}% 
 \contentsline {section}{\numberline {14}Background}{47}{section.14}% 
