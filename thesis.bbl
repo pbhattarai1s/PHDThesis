@@ -22,11 +22,16 @@ A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt.
 \newblock {Parton distributions for the LHC}.
 \newblock {\em Eur. Phys. J. C}, 63:189--285, 2009.
 
-\bibitem{ATLASRun2IntegratedLumi}
+\bibitem{ATLASZZjj}
+{ATLAS Collaboration}.
+\newblock {Observation of electroweak production of two jets and a $Z$-boson
+  pair}, 2020.
+
+\bibitem{ATLASRun2DataTaking}
 {The ATLAS Collaboration}.
-\newblock {Luminosity determination in $pp$ collisions at $\sqrt{s}=13$ TeV
-  using the ATLAS detector at the LHC}.
-\newblock Technical report, CERN, 6 2019.
+\newblock {ATLAS data quality operations and performance for 2015-2018
+  data-taking}.
+\newblock {\em Journal of Instrumentation}, 15(04):P04003--P04003, apr 2020.
 
 \bibitem{AngularFrameDef}
 {Yanyan Gao and Andrei V. Gritsan and Zijin Guo and Kirill Melnikov and Markus
@@ -153,11 +158,6 @@ Sergey et~al. Alekhin.
 \newblock {WW Scattering in the Era of Post Higgs Discovery}.
 \newblock {\em Physical Review D}, 87(9), may 2013.
 
-\bibitem{ATLASZZjj}
-{ATLAS Collaboration}.
-\newblock {Observation of electroweak production of two jets and a $Z$-boson
-  pair}, 2020.
-
 \bibitem{RapidityGapCite}
 {Khoze, V., Ryskin, M., Stirling, W. et al.}
 \newblock {A Z-monitor to calibrate Higgs production via vector boson fusion
@@ -170,11 +170,11 @@ Sergey et~al. Alekhin.
   in ATLAS}.
 \newblock {\em Journal of Instrumentation}, 13(07):P07017, jul 2018.
 
-\bibitem{ATLASRun2DataTaking}
+\bibitem{ATLASRun2IntegratedLumi}
 {The ATLAS Collaboration}.
-\newblock {ATLAS data quality operations and performance for 2015-2018
-  data-taking}.
-\newblock {\em Journal of Instrumentation}, 15(04):P04003--P04003, apr 2020.
+\newblock {Luminosity determination in $pp$ collisions at $\sqrt{s}=13$ TeV
+  using the ATLAS detector at the LHC}.
+\newblock Technical report, CERN, 6 2019.
 
 \bibitem{GEANT4}
 S.~Agostinelli et~al.
@@ -234,5 +234,17 @@ S.~Schumann and F.~Krauss.
 Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
 \newblock {A Brief Introduction to PYTHIA 8.1}.
 \newblock {\em Comput. Phys. Commun.}, 178:852--867, 2008.
+
+\bibitem{btagATLAS}
+{ATLAS Collaboration}.
+\newblock {ATLAS \(b\)-jet identification performance and efficiency
+  measurement with \(t\bar{t}\) events in \(pp\) collisions at \(\sqrt{s} =
+  13\,\text{TeV}\)}.
+\newblock 2019.
+
+\bibitem{FakeBkgTool}
+{J. Maurer, J. Reichert, E. Varnes}.
+\newblock {Technical discussion of FakeBkgTools}.
+\newblock 2018.
 
 \end{thebibliography}
