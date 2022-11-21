@@ -57,12 +57,12 @@ Figure \ref{fig:NonPromptLepSRDijet} shows the fraction of non-prompt electrons 
     \centering
     \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf}
     \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf}
-    \caption{ Origins of non-prompt leptons in the signal region in events with a signal quadruplet and a dijet. The events are normalized to the total number of non-prompt electrons (left) and non-prompt muons (right). \textcolor{red}{remake plots w/wo ATLAS label} \label{fig:NonPromptLepSRDijet}}
+    \caption{ Origins of non-prompt leptons in the signal region in events with a signal quadruplet and a dijet. The events are normalized to the number of non-prompt electrons (left) and non-prompt muons (right). \textcolor{red}{remake plots w/wo ATLAS label} \label{fig:NonPromptLepSRDijet}}
 \end{figure}
 
 \subsubsection{Control Regions}
 \label{subsubsec:CR}
-The fake factors are measured from data in a fake enriched background control region formed by combining two independent control regions, the $Z+jets$ control region and the $t\bar{t}$ control region. Events in the control regions consist of a prompt lepton pair from a physics process and additional leptons from non-prompt sources. Both control regions use a single or di-lepton trigger similar to the signal region and require the leading and sub-leading leptons in an event to satisfy $p_{T,~leading~lepton} > 20$ GeV and $p_{T,~sub-leading~lepton} > 15$ GeV. An event in the $Z+jets$ CR consists of an SF-OC prompt-lepton pair from the Z boson decay with an invariant mass of $ 76~GeV~<~m_{\ell \ell}~<~106~GeV$, and additional leptons. Additionally, no events can have missing transverse energy higher than $50$ GeV to supress the contamination from $WZ$ process.
+The fake factors are measured from data in a fake enriched background control region formed by combining two independent control regions, the $Z+jets$ control region and the $t\bar{t}$ control region. Events in the control regions consist of a prompt lepton pair from a physics process and additional leptons from non-prompt sources. Both control regions use a single or di-lepton trigger similar to the signal region and require the leading and sub-leading leptons in an event to satisfy $p_{T,~leading~lepton} > 20$ GeV and $p_{T,~sub-leading~lepton} > 15$ GeV. An event in the $Z+jets$ CR consists of an SF-OC prompt-lepton pair from the Z boson decay with an invariant mass of $ 76~GeV~<~m_{\ell \ell}~<~106~GeV$, and additional leptons. Additionally, no events can have missing transverse energy higher than $50$ GeV to suppress the contamination from the $WZ$ process.
 
 Similarly, the $t\bar{t}$ CR consists of events with different flavor prompt-lepton pairs and additional leptons. An event in the $t\bar{t}$ CR requires at least one b-tagged jet to reduce the $WZ$ contamination. The b-tagging in the $t\bar{t}$ CR is performed by a flavor tagging tool described in Ref \cite{btagATLAS}.
 
@@ -129,7 +129,7 @@ The $b$-jet requirement applied to suppress the prompt-lepton contamination from
 
 where $N$ is the total yield in the control region, $ f_{HF}$ is the ratio of the non-prompt leptons from heavy-flavor decays to total non-prompt leptons, and $w$ is the combination weight to be determined.
 
-As the composition of non-prompt electrons and muons are different in different regions, the weights are evaluated separately for electrons and muons and evaluated as $w_{\mu} = 0.26$ and $w_{e} = 0.06$. Figure \ref{fig:NonPromptCombined} shows the composition of the non-prompt electrons and muons in the combined control region, which is formed by weighted combination of the $Z+jets$ CR and the $t\bar{t}$ CR.
+As the composition of non-prompt electrons and muons are different in different regions, the weights are evaluated separately for electrons and muons and evaluated as $w_{\mu} = 0.26$ and $w_{e} = 0.06$. Figure \ref{fig:NonPromptCombined} shows the composition of the non-prompt electrons and muons in the combined control region, which is formed by a weighted combination of the $Z+jets$ CR and the $t\bar{t}$ CR.
 
 Figure \ref{fig:ControlRegionsAdditionalBaselineElectronpT} shows the distributions of additional baseline electrons as a function of their $p_{T}~$ in the $Z+jets$ CR (left) and $t\bar{t}$ CR (right). The bottom distribution shows the same for the combined control region. For $Z+jets$ CR at low $p_{T}~$ region, additional baseline electrons are overestimated in MC by about $20\%$ showing the limited precision of the MC to estimate the non-prompt leptons. Similarly, figure \ref{fig:ControlRegionsAdditionalBaselineMuonpT} shows the distributions of additional baseline muons as a function of their $p_{T}~$ in the three control regions. In $Z+jets$ CR, additional muons mainly originate from $Z\rightarrow \ell \ell$ process in low $p_{T}~$ region, whereas at high $p_{T}~$ contribution from $t\bar{t}$ and WZ is more significant.
 
@@ -234,7 +234,7 @@ The method makes a typically safe assumption that the real anti-signal prompt le
 
 As the fake efficiency $f$ is estimated from data in the combined control region, the fake factor background estimation method does not rely on any efficiencies or yield in the tight signal region.
 
-This method can be extended to the four-lepton signal region where there are four baseline leptons, of which one or more could be non-prompt. Corresponding to the permutation of individual leptons to be either signal or baseline-anti-signal there are $2^{4}=16$ \{$N^{TTTT}$, $N^{TTTL}$, $N^{TTLL}$,...$N^{LLLL}$ \} observations to consider. The analysis considers $N^{TTTT}$ the signal region; therefore, the background is estimated from the quadruplets with at least one baseline-anti-signal lepton.
+This method can be extended to the four-lepton signal region where there are four baseline leptons, of which one or more could be non-prompt. Corresponding to the permutation of individual leptons to be either signal or baseline-anti-signal, there are $2^{4}=16$ \{$N^{TTTT}$, $N^{TTTL}$, $N^{TTLL}$,...$N^{LLLL}$ \} observations to consider. The analysis considers $N^{TTTT}$ the signal region; therefore, the background is estimated from the quadruplets with at least one baseline-anti-signal lepton.
 
 \subsubsection{Fake Efficiency $\&$ Systematics}
 \label{subsubsec:FakeEff}
@@ -254,39 +254,39 @@ Figures \ref{fig:FakeEff_1D_Electron} and \ref{fig:FakeEff_1D_Muon} show the fak
 As discussed in Section \ref{subsec:OR}, the lepton-favored overlap removal used in the analysis rejects jets if they overlap with leptons. Due to the $b-jet$ requirement in $t\bar{t}$ CR, the $njet=0$ events only consist of contributions from the $Z+jets$ CR, which does not have an explicit event requirement on the number of jets. The probability of non-prompt leptons passing the isolation requirement is higher in events with no jets or surrounding hadronic activity. Therefore, as observed, a higher fake efficiency is expected in events without jets.  
 
 \begin{figure}[htb]
-		\begin{center}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf}\\
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf} 
-		\end{center}
-	\caption{Fake efficiency of fake electrons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label and change color} \label{fig:FakeEff_1D_Electron}}
+        \begin{center}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf}\\
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf} 
+        \end{center}
+    \caption{Fake efficiency of fake electrons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label and change color} \label{fig:FakeEff_1D_Electron}}
 \end{figure}
 
 \begin{figure}[htb]
-		\begin{center}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf} \\
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf} 
-		\end{center}
-	\caption{Fake efficiency of fake muons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label and change color} \label{fig:FakeEff_1D_Muon}}
+        \begin{center}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf} \\
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf} 
+        \end{center}
+    \caption{Fake efficiency of fake muons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label and change color} \label{fig:FakeEff_1D_Muon}}
 \end{figure}
 
 The fake efficiency is parametrized in three-dimensional distributions of $p_{T}~$, $\eta$, and $n_{jets}$. Only two bins ($n_{jet}=0 ~\& ~ n_{jet} > 0$) are used for number of jets. The distributions in figure \ref{fig:ElecFakeEff} show the fake efficiency of an electron as a function of $p_{T}~ ~\&~ \eta$ for $n_{jet}=0 $ bin (left) and for $n_{jet}>0 $ bin (right). Similar distributions are shown in figure \ref{fig:MuonFakeEff} for muons.  
 
 \begin{figure}[htb]
-		\begin{center}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf} 
-		\end{center}
-	\caption{Fake efficiency of fake electrons measured in the combined control region from data as a function of its $p_{T}~$, and $\eta$ in two slices of $n_{jets}$ ($n_{jet} = 0$ left) and ($n_{jet} > 0$ right). \textcolor{red}{remake plots w/wo ATLAS label, change color of text for second plot and y-label} \label{fig:ElecFakeEff}}
+        \begin{center}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf} 
+        \end{center}
+    \caption{Fake efficiency of fake electrons measured in the combined control region from data as a function of its $p_{T}~$, and $\eta$ in two slices of $n_{jets}$ ($n_{jet} = 0$ left) and ($n_{jet} > 0$ right). \textcolor{red}{remake plots w/wo ATLAS label, change the color of text for second plot and y-label} \label{fig:ElecFakeEff}}
 \end{figure}
 
 \begin{figure}[htb]
-		\begin{center}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf} 
-		\end{center}
-	\caption{Fake efficiency of fake muons measured in the combined control region from data as a function of its $p_{T}~$, and $\eta$ in two slices of $n_{jets}$ ($n_{jets}=0$ left) and ($n_{jet} > 0$ right). \textcolor{red}{remake plots w/wo ATLAS label, change color of text for second plot and y-label} \label{fig:MuonFakeEff}}
+        \begin{center}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf} 
+        \end{center}
+    \caption{Fake efficiency of fake muons measured in the combined control region from data as a function of its $p_{T}~$, and $\eta$ in two slices of $n_{jets}$ ($n_{jets}=0$ left) and ($n_{jet} > 0$ right). \textcolor{red}{remake plots w/wo ATLAS label, change the color of text for second plot and y-label} \label{fig:MuonFakeEff}}
 \end{figure}
 
 The fake efficiency distributions' binomial errors are propagated as the statistical uncertainties on the fake estimate. The subtracted prompt component of equation \ref{eq:fakeff} is estimated using MC predictions. As discussed in Section \ref{sec:Pheno}, the prediction relies on the PDF, the energy-dependent QCD factorization and renormalization scale, and the strong coupling constant $(\alpha_{S})$. Therefore, the theory uncertainties on these three parameters are propagated as systematic uncertainties of the fake efficiency. 
@@ -294,36 +294,40 @@ The fake efficiency distributions' binomial errors are propagated as the statist
 For each theory uncertainty, a variation-applied fake efficiency is evaluated by separately varying the numerator and denominator of the fake efficiency equation \ref{eq:fakeff}. The difference between the variation-applied fake efficiency and the nominal fake efficiency is considered systematic uncertainty. Figures \ref{fig:FakeEffUnc_3D_Electron} and \ref{fig:FakeEffUnc_3D_Muon} show the statistical and systematic uncertainties on the fake efficiency calculated in the combined control region. For both electrons and muons, the statistical uncertainty is dominant.
 
 \begin{figure}[htb]
-		\begin{center}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf}\\
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf} 
-		\end{center}
-	\caption{Uncertainties on the fake efficiency of the fake electrons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label} \label{fig:FakeEffUnc_3D_Electron}}
+        \begin{center}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf}\\
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf} 
+        \end{center}
+    \caption{Uncertainties on the fake efficiency of the fake electrons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label} \label{fig:FakeEffUnc_3D_Electron}}
 \end{figure}
 
 \begin{figure}[htb]
-		\begin{center}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf}
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf}\\
-		\includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf} 
-		\end{center}
-	\caption{Uncertainties on the fake efficiency of the fake muons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label} \label{fig:FakeEffUnc_3D_Muon}}
+        \begin{center}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf}
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf}\\
+        \includegraphics[width = 0.49\textwidth]{figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf} 
+        \end{center}
+    \caption{Uncertainties on the fake efficiency of the fake muons measured in the combined control region from data as a function of its $p_{T}~$, $\eta$, and $n_{jets}$. \textcolor{red}{remake plots w/wo ATLAS label} \label{fig:FakeEffUnc_3D_Muon}}
 \end{figure}
 
 
 \subsubsection{Method Validation}
 \label{subsubsec:Validation}
-Additional validation of the fake-factor method is performed in two separate validation regions:
+Before implementing the fake-factor method to estimate the fake background in the signal region, the method is validated in two separate validation regions
 \begin{enumerate}
-	\item{ Different-flavor validation region (VRDF): one pair in the quadruplet is required to have two leptons of a different flavor.}
-	\item{ Same-charge validation region (VRSC): one pair in the quadruplet is required to have two leptons of the same charge.}
+    \item{ Different-flavor validation region (VRDF): one pair in the quadruplet must have two different-flavor leptons.}
+    \item{ Same-charge validation region (VRSC): one pair in the quadruplet must have two same-charge leptons.}
 \end{enumerate}
 
-These validation regions require the same kinematic and trigger requirements as that of the signal region. Additionally, events in the VRDF are required not to have any b-tagged jet to reduce the contribution from ttV processes. Reducing the ttV component further reduces the high ttV modeling uncertainties. As a result of different-flavor pair or same-charge pair requirements, the events in the validation regions are dominated by the reducible background (quadruplets with tight fake leptons in them). Figures \ref{fig:VRNonPromptComposition} show the non-prompt composition in the different flavor validation region (left) and same-charge validation region (right). The non-prompt compositions in the two validation regions are different than that of the signal region or the background control regions composition as shown in figures \ref{fig:NonPromptLepSRDijet}, \ref{fig:FakeCompositionCR2LElectron} and \ref{fig:FakeCompositionCR2LMuon}.
+The low statistics in both regions result from requiring one of the pairs to be either same-charge or different-flavor. Therefore, events in the validation regions only have a signal quadruplet without any dijet requirement. The validation regions' quadruplets are formed by requiring the same kinematic criteria as that of the signal region discussed in Section \ref{sec:EventSel}. The trigger requirement, object selection, and overlap removal are identical to the signal region. Additionally, events in the VRDF are required not to have any b-tagged jet to reduce the contribution from $ttZ$ processes. Reducing the $ttZ$ component further reduces the significant modeling uncertainties related to the $ttZ$ process.
+
+By constructing either a same-charge or a different-flavor pair, the event yield in validation regions is dominated by events where at least one lepton in the quadruplet is a non-prompt-signal lepton known as the fake background in the signal region. The events also originate from other physics processes, such as $qqZZ$, $qqZZjj$, $ggZZ$, $ttZ$, and $VVV$ whose contribution is predicted by the same MC generators as that of the signal region.
+
+Figures \ref{fig:VRNonPromptComposition} show the non-prompt composition in the different flavor validation region (left) and same-charge validation region (right). The non-prompt compositions in the two validation regions are different from that of the signal region or the background control regions composition as shown in figures \ref{fig:NonPromptLepSRDijet}, \ref{fig:FakeCompositionCR2LElectron} and \ref{fig:FakeCompositionCR2LMuon}. Therefore, to validate the fake background estimation strategy, it is imperative to observe a good correspondence between data and a combination of the MC prediction with the fake background yield in both validation regions. 
 
 \begin{figure}[htb]
-	\centering
+    \centering
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width=.9\linewidth]{figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf}
@@ -336,54 +340,56 @@ These validation regions require the same kinematic and trigger requirements as 
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-	    \includegraphics[width=.9\linewidth]{figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf}
     \caption{Non-prompt electrons in VRSC.}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-		{\includegraphics[width=.9\linewidth]{figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf}}\\
+        {\includegraphics[width=.9\linewidth]{figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf}}\\
         \caption{Non-prompt muons in VRSC.}
     \end{subfigure}
-	\caption{ Sources of non-prompt electrons and muons in the different flavor and the same charge validation regions.\label{fig:VRNonPromptComposition}}
+    \caption{ Sources of non-prompt electrons and muons in the different flavors and the same charge validation regions.\textcolor{red}{remake plots with ATLAS Label} \label{fig:VRNonPromptComposition}}
 \end{figure}
 
-The reducible backgrounds for the validation regions are estimated by applying the fake factor to each baseline-not-signal leptons in the not-signal quadruplet as discussed in Section \ref{subsec:Overview}. Figures  \ref{subfig:VRDFMCRed} and \ref{subfig:VRDFFF} show the data and the predicted MC yield from $Z+jets$, $t\bar{t}$ and $WZ$ processes in the different flavor validation regions when the reducible background events are predicted from MC (left) and estimated using the fake factor method (right). Similarly \ref{subfig:VRSCMCRed} and \ref{subfig:VRSCFF} show the yield as a function of $\mFourL$ in the same charge validation region. Both regions have similar characteristics, and the reducible background dominates the event yield with some contribution from other physics processes. The systematic bands in figures \ref{subfig:VRDFFF} and \ref{subfig:VRSCFF} include the systematic and statistical uncertainties from the fake factor method, the PDF, QCD scale, and strong coupling ($\alpha_{S}$) uncertainties on the $\qqZZ \& \ggZZ$ samples and the uncertainties in the cross-section measurements of the ttV process. Other sources of theoretical and experimental uncertainties are assumed to be negligible. In both regions, for most bins, the data and MC yield is compatible within the uncertainty. Moreover, the agreement between data and MC simulation is better when the reducible events are estimated using the fake factor method. 
+The fake backgrounds for the validation regions are estimated by applying the fake factor to each baseline-anti-signal leptons in the not-signal quadruplet, as discussed in Section \ref{subsubsec:EstimationStrategy}. Figure \ref{subfig:VRDFMCRed} shows the data and the predicted MC yield in VRDF as a function of $m_{4\ell}$ where the fake backgrounds are estimated from $Z+jets$, $t\bar{t}$, and $WZ$ MC predictions. Figure \ref{subfig:VRDFFF} shows the same but the reducible estimated using the fake factor method. Similarly, figures \ref{subfig:VRSCMCRed} and \ref{subfig:VRSCFF} show the yields as a function of $m_{4\ell}$ in the same charge validation region. Both regions have similar characteristics, and the fake background dominates the event yield with some contribution from other physics processes.
+
+The systematic gray bands in figures \ref{subfig:VRDFFF} and \ref{subfig:VRSCFF} include the systematic and statistical uncertainties from the fake factor method, as well as the uncertainties on PDF, QCD scale, and strong coupling ($\alpha_{S}$) on the $qqZZ,~qqZZjj~\&~ggZZ$ MC prediction. The bands also include the uncertainties in the cross-section measurements of the $ttZ$ and $VVV$ processes. The treatment of the systematic theoretical uncertainties is the same as that of the signal region and will be discussed in Section \ref{sec:TheoryUnc}. Other experimental uncertainties related to the lepton reconstruction and identification, trigger, and luminosity discussed in Section \ref{sec:ExpUnc} are assumed to be negligible for the validation regions. For most bins, the data and MC yield are compatible with both regions' systematic and statistical uncertainties. Moreover, the agreement between data and MC simulation is better when the reducible events are estimated using the fake factor method, thus, fully validating the method.
 
 \begin{figure}[htb]
-	\centering
+    \centering
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.9\linewidth]{figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf}
-        \caption{VRDF: MC predicted reducible background.\label{subfig:VRDFMCRed}}
+        \caption{VRDF: MC predicted fake background.\label{subfig:VRDFMCRed}}
     \end{subfigure}
-	\begin{subfigure}{.48\textwidth}
+    \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.9\linewidth]{figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf}\\
-		\caption{ VRDF: data driven fake factor estimate of reducible background. \label{subfig:VRDFFF} }
+        \caption{ VRDF: data-driven fake factor estimate of fake background. \label{subfig:VRDFFF} }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.9\linewidth]{figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf}
-        \caption{VRSC: MC predicted reducible background.\label{subfig:VRSCMCRed}}
+        \caption{VRSC: MC predicted fake background.\label{subfig:VRSCMCRed}}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.9\linewidth]{figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf}
-	    \caption{VRSC: data driven fake factor estimate of reducible background.\label{subfig:VRSCFF}}
+        \caption{VRSC: data-driven fake factor estimate of fake background.\label{subfig:VRSCFF}}
     \end{subfigure}
-	
-    \caption{ Yield as a function of $\mFourL$ in the different flavor (top) and same charge (bottom) validation regions. In both regions, the MC prediction matches more closely with data when the reducible background events are estimated using the data driven fake-factor method. \label{fig:VRDataMCYield}}
+    
+    \caption{ Yield as a function of $\mFourL$ in the different flavor (top) and same charge (bottom) validation regions. In both regions, the MC prediction matches more closely with data when the fake background events are estimated using the data-driven fake-factor method.\textcolor{red}{remake plots with ATLAS Label and cleaning other labels} \label{fig:VRDataMCYield}}
 \end{figure}
 
-The data and MC yield comparisons for several kinematic observables in VRDF (left) and VRSC (right) are presented in figures \ref{fig:AllDataMCYield}. For all the observables, the data and MC prediction are compatible in most bins within the uncertainties.
+The data and MC yield comparisons for several kinematic observables in VRDF (left) and VRSC (right) are shown by distributions in figure \ref{fig:AllDataMCYield}. The data and MC prediction are compatible in most bins within the systematic uncertainties for all the observables.
 
 \begin{figure}[htb]
-	\centering
+    \centering
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf}
         \caption{VRDF: $p_{T,4\ell}$}
-	\end{subfigure}
+    \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf} 
@@ -402,14 +408,14 @@ The data and MC yield comparisons for several kinematic observables in VRDF (lef
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf}
-		\caption{VRDF: $\eta_{T,~leading~lepton}$}
+        \caption{VRDF: $\eta_{T,~leading~lepton}$}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf}
         \caption{VRSC: $\eta_{T,~leading~lepton}$}
     \end{subfigure}\\
-	\begin{subfigure}{.48\textwidth}
+    \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf}
         \caption{VRDF: $n_{jets}$}
@@ -419,37 +425,23 @@ The data and MC yield comparisons for several kinematic observables in VRDF (lef
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf}
         \caption{VRSC: $n_{jets}$}
     \end{subfigure}
-		\caption{ Data and MC yield comparison for different flavor validation region (left) and same charge validation region (right) as function of several kinematic observables.\label{fig:AllDataMCYield}}
+        \caption{ Data and MC yield comparison for different flavor validation regions (left) and same charge validation region (right) as a function of several kinematic observables. \textcolor{red}{remake plots with ATLAS Label and cleaning other labels} \label{fig:AllDataMCYield}}
 \end{figure}
 
 \subsubsection{Signal Region Estimation}
 \label{subsubsec:SREstimation}
-The background in the signal region is estimated following the equation \ref{Eqn:finalstep} described in section \ref{subsec:Overview}. Distributions in figure \ref{fig:MCFFRedComparison} compare the reducible background predicted from MC and estimated from the fake-factor method in the VBS enhanced signal events as a function of $\mFourL$ (left) and $\ptFourL$ (right). Figure \ref{fig:MCFFRedStack} shows the same distributions but also include the total SM prediction in the same region. The black bands in the plots are from systematic uncertainties of the fake factor method, whose effect is negligible on the overall yield of the signal region. Similarly, figures \ref{fig:MCFFRedComparison_VBSSup} and  \ref{fig:MCFFRedStack_VBSSup} show the comparisons of the fake background yield from fake factor method to MC prediction and to total Asimov yield, respectively.
+Similar to the validation regions, the background in the signal region is estimated by applying the fake factor to the not-signal quadruplets, as discussed in section \ref{subsubsec:EstimationStrategy}. Distributions in figure \ref{fig:MCFFRedComparison} compare the fake background predicted from MC and estimated from the fake-factor method in the VBS enhanced signal events as a function of $\mFourL$ (left) and $\ptFourL$ (right). Figure \ref{fig:MCFFRedStack} shows identical distributions but also includes the total SM prediction in the same region. The lower panel of the plot shows the fake background to the predicted signal ratio, which is small. The gray bands in the plots are from systematic uncertainties of the fake factor method, whose effect is negligible on the overall yield of the signal region.
 
 \begin{figure}[htb]
-	\centering
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf}
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf}
-	\caption{ MC prediction and fake-factor method estimate of the reducible background as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS enhanced region. Black bands represent the systematic uncertainties from the fake factor method. \label{fig:MCFFRedComparison}}
+    \centering
+    \includegraphics[width=0.48\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf}
+    \includegraphics[width=0.48\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf}
+    \caption{ MC prediction and fake-factor method estimate of the fake background as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS enhanced region. Black bands represent the systematic uncertainties from the fake factor method. \textcolor{red}{remake plots with ATLAS Label and cleaning other labels} \label{fig:MCFFRedComparison}}
 \end{figure}
 
 \begin{figure}[htb]
-	\centering
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf}
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf}
-	\caption{ SM prediction and reducible background estimated from the fake-factor method as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS enhanced region. Black bands represent the systematic uncertainties from the fake factor method which are negligible on the full signal region distribution. \label{fig:MCFFRedStack} }
-\end{figure}
-
-\begin{figure}[htb]
-	\centering
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Suppressed_M4l.pdf}
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Suppressed_Pt4l.pdf}
-	\caption{ MC prediction and fake-factor method estimate of the reducible background as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS suppressed region. Black bands represent the systematic uncertainties from the fake factor method. \label{fig:MCFFRedComparison_VBSSup}}
-\end{figure}
-
-\begin{figure}[htb]
-	\centering
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSSuppressed_M4l.pdf}
-	\includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSSuppressed_Pt4l.pdf}
-	\caption{ SM prediction and reducible background estimated from the fake-factor method as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS suppressed region. Black bands represent the systematic uncertainties from the fake factor method which are negligible on the full signal region distribution. \label{fig:MCFFRedStack_VBSSup} }
+    \centering
+    \includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf}
+    \includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf}
+    \caption{ SM prediction and fake background estimated from the fake-factor method as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS enhanced region. Black bands represent the systematic uncertainties from the fake factor method, which are negligible on the full signal region distribution. \textcolor{red}{remake plots with ATLAS Label, cleaning other label and y-xis/ratio-axis title} \label{fig:MCFFRedStack} }
 \end{figure}
