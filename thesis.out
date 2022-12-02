@@ -30,30 +30,34 @@
 \BOOKMARK [2][-]{subsection.10.3}{Jets}{section.10}% 30
 \BOOKMARK [2][-]{subsection.10.4}{Overlap Removal}{section.10}% 31
 \BOOKMARK [1][-]{section.11}{Event Selection}{part.4}% 32
-\BOOKMARK [2][-]{subsection.11.1}{Method Overview}{section.11}% 33
-\BOOKMARK [2][-]{subsection.11.2}{Binning for Unfolding}{section.11}% 34
-\BOOKMARK [2][-]{subsection.11.3}{Method Validation}{section.11}% 35
-\BOOKMARK [2][-]{subsection.11.4}{Bias and Optimization}{section.11}% 36
-\BOOKMARK [1][-]{section.12}{Definition of Measured Observables}{part.4}% 37
+\BOOKMARK [1][-]{section.12}{Datasets and Monte Carlo Simulation}{part.4}% 33
+\BOOKMARK [2][-]{subsection.12.1}{LHC Dataset}{section.12}% 34
+\BOOKMARK [2][-]{subsection.12.2}{Monte Carlo Samples }{section.12}% 35
+\BOOKMARK [2][-]{subsection.12.3}{Event Weights}{section.12}% 36
+\BOOKMARK [1][-]{section.13}{Definition of Measured Observables}{part.4}% 37
 \BOOKMARK [0][-]{part.5}{V Analysis Strategy}{}% 38
-\BOOKMARK [1][-]{section.13}{Background Estimation}{part.5}% 39
-\BOOKMARK [2][-]{subsection.13.1}{Data Driven Estimate of Fake Background}{section.13}% 40
-\BOOKMARK [1][-]{section.14}{Unfolding}{part.5}% 41
-\BOOKMARK [2][-]{subsection.14.1}{Method Overview}{section.14}% 42
-\BOOKMARK [2][-]{subsection.14.2}{Binning for Unfolding}{section.14}% 43
-\BOOKMARK [2][-]{subsection.14.3}{Method Validation}{section.14}% 44
-\BOOKMARK [2][-]{subsection.14.4}{Bias and Optimization}{section.14}% 45
-\BOOKMARK [1][-]{section.15}{Uncertainties on the Measurement}{part.5}% 46
-\BOOKMARK [2][-]{subsection.15.1}{Theoretical Uncertainties}{section.15}% 47
-\BOOKMARK [2][-]{subsection.15.2}{Experimental Uncertainties}{section.15}% 48
-\BOOKMARK [0][-]{part.6}{VI Results}{}% 49
-\BOOKMARK [1][-]{section.16}{ Differential Cross-sections }{part.6}% 50
-\BOOKMARK [1][-]{section.17}{Effective Field Theory ReInterpretation}{part.6}% 51
-\BOOKMARK [0][-]{part.7}{VII Conclusion}{}% 52
-\BOOKMARK [0][-]{part.8}{VIII Outlook}{}% 53
-\BOOKMARK [1][-]{section.18}{Run-3}{part.8}% 54
-\BOOKMARK [1][-]{section.19}{High Luminosity LHC}{part.8}% 55
-\BOOKMARK [0][-]{section.19}{References}{}% 56
-\BOOKMARK [0][-]{part*.59}{Appendices}{}% 57
-\BOOKMARK [1][-]{Appendix.a.A}{Personal Contribution}{part*.59}% 58
-\BOOKMARK [1][-]{Appendix.a.B}{Additional Study on Unfolding Bias}{part*.59}% 59
+\BOOKMARK [1][-]{section.14}{Background Estimation}{part.5}% 39
+\BOOKMARK [2][-]{subsection.14.1}{Data Driven Estimate of Fake Background}{section.14}% 40
+\BOOKMARK [1][-]{section.15}{Unfolding}{part.5}% 41
+\BOOKMARK [2][-]{subsection.15.1}{Method Overview}{section.15}% 42
+\BOOKMARK [2][-]{subsection.15.2}{Binning for Unfolding}{section.15}% 43
+\BOOKMARK [2][-]{subsection.15.3}{Method Validation}{section.15}% 44
+\BOOKMARK [2][-]{subsection.15.4}{Bias and Optimization}{section.15}% 45
+\BOOKMARK [1][-]{section.16}{Uncertainties on the Measurement}{part.5}% 46
+\BOOKMARK [2][-]{subsection.16.1}{Theoretical Uncertainties}{section.16}% 47
+\BOOKMARK [2][-]{subsection.16.2}{Experimental Uncertainties}{section.16}% 48
+\BOOKMARK [2][-]{subsection.16.3}{Unfolding Uncertainties}{section.16}% 49
+\BOOKMARK [2][-]{subsection.16.4}{Background Uncertainties}{section.16}% 50
+\BOOKMARK [2][-]{subsection.16.5}{Breakdown of the Systematic Uncertainties }{section.16}% 51
+\BOOKMARK [2][-]{subsection.16.6}{Statistical Uncertainties}{section.16}% 52
+\BOOKMARK [0][-]{part.6}{VI Results}{}% 53
+\BOOKMARK [1][-]{section.17}{ Differential Cross-sections }{part.6}% 54
+\BOOKMARK [1][-]{section.18}{Effective Field Theory ReInterpretation}{part.6}% 55
+\BOOKMARK [0][-]{part.7}{VII Conclusion}{}% 56
+\BOOKMARK [0][-]{part.8}{VIII Outlook}{}% 57
+\BOOKMARK [1][-]{section.19}{Run-3}{part.8}% 58
+\BOOKMARK [1][-]{section.20}{High Luminosity LHC}{part.8}% 59
+\BOOKMARK [0][-]{section.20}{References}{}% 60
+\BOOKMARK [0][-]{part*.63}{Appendices}{}% 61
+\BOOKMARK [1][-]{Appendix.a.A}{Personal Contribution}{part*.63}% 62
+\BOOKMARK [1][-]{Appendix.a.B}{Additional Study on Unfolding Bias}{part*.63}% 63

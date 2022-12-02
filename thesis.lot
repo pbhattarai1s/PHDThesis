@@ -9,7 +9,11 @@
 \contentsline {table}{\numberline {8}{\ignorespaces Definition of the baseline and signal jets.\relax }}{34}{table.caption.19}% 
 \contentsline {table}{\numberline {9}{\ignorespaces Overlap removal used in the analysis. An object removed in one step does not enter into the subsequent step. \relax }}{34}{table.caption.20}% 
 \contentsline {table}{\numberline {10}{\ignorespaces Details of event selection.\relax }}{37}{table.caption.21}% 
-\contentsline {table}{\numberline {11}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and suppressed regions. \relax }}{42}{table.caption.24}% 
-\contentsline {table}{\numberline {12}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and suppressed regions. \relax }}{77}{table.caption.53}% 
+\contentsline {table}{\numberline {11}{\ignorespaces List of signal MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{42}{table.caption.25}% 
+\contentsline {table}{\numberline {12}{\ignorespaces List of background MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{42}{table.caption.26}% 
+\contentsline {table}{\numberline {13}{\ignorespaces List of MC samples used in the estimation and validation of the data-driven fake background estimation. \relax }}{43}{table.caption.27}% 
+\contentsline {table}{\numberline {14}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and suppressed regions. \relax }}{74}{table.caption.52}% 
+\contentsline {table}{\numberline {15}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region. \relax }}{87}{table.caption.59}% 
+\contentsline {table}{\numberline {16}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Enhanced region. \leavevmode {\color {red}to update including data-driven closure test. } \relax }}{87}{table.caption.60}% 
 \contentsfinish 
 \contentsfinish 
