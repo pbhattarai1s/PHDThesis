@@ -1,0 +1,68 @@
+\section{Trigger}
+\label{sec:Trigger}
+
+Due to the presence of four fully reconstructed leptons in the final state, the data events and detector-level MC events are preselected using a logical OR of different single and double-lepton triggers. The trigger menu varies according to the data-taking run periods to reflect the changes in the high-level trigger system, which are required to cope with increasing data rates. Additionally, trigger matching is required for the selected events. The trigger matching selects a subset of preselected events in which at least one lepton of the quadruplet is matched to one of the fired triggers. Table \ref{tab:Trigger} shows the trigger menu used by the analysis per different data periods using either electrons, muons, or mixed electron-muon triggers.
+
+\begin{table}
+    \centering
+    \begin{tabular}{| l | c | c |}
+    \hline 
+    Period & Leptons & Triggers \\
+    \hline
+    \multirow{10}{*} {2015} & \multirow{4}{*} {Electron} &  HLT$\_$e24$\_$lhmedium$\_$L1EM20VH  \\
+                        &          &  HLT$\_$e60$\_$lhmedium \\
+                        &    & HLT$\_$e120$\_$lhloose \\
+                        & &  HLT$\_$2e12$\_$lhvloose$\_$L12EM10VH\\\cline{2-3}
+
+                        & \multirow{4}{*} {Muon} & HLT$\_$mu20$\_$iloose$\_$L1MU15 \\
+                        & & HLT$\_$mu50 \\
+                        & & HLT$\_$2mu10 \\
+                        & & HLT$\_$mu18$\_$mu8noL1 \\\cline{2-3}
+                        & \multirow{2}{*}{Mixed} & HLT$\_$e7$\_$lhmedium$\_$mu24 \\
+                        & & HLT$\_$e17$\_$lhloose$\_$mu14 \\
+    \hline
+    \multirow{10}{*} {2016} & \multirow{4}{*} {Electron} & HLT$\_$e26$\_$lhtight$\_$nod0$\_$ivarloose \\
+                        &          & HLT$\_$e60$\_$lhmedium$\_$nod0 \\
+                        & & HLT$\_$e140$\_$lhloose$\_$nod0\\
+                        & &  HLT$\_$2e17$\_$lhvloose$\_$nod0 \\\cline{2-3}
+                        & \multirow{4}{*} {Muon} & HLT$\_$mu26$\_$ivarmedium \\
+                        & & HLT$\_$mu50 \\
+                        & & HLT$\_$2mu14 \\
+                        & & HLT$\_$mu22$\_$mu8noL1 \\\cline{2-3}
+                        & \multirow{2}{*}{Mixed} & HLT$\_$e7$\_$lhmedium$\_$nod0$\_$mu24  \\
+                        & & HLT$\_$e17$\_$lhloose$\_$nod0$\_$mu14 \\
+    \hline
+    \multirow{10}{*} {2017} & \multirow{4}{*} {Electron} &  HLT$\_$e26$\_$lhtight$\_$nod0$\_$ivarloose \\
+                        & &  HLT$\_$e60$\_$lhmedium$\_$nod0 \\
+                        & & HLT$\_$e140$\_$lhloose$\_$nod0 \\
+                        &          & HLT$\_$2e24$\_$lhvloose$\_$nod0 \\\cline{2-3}
+                        & \multirow{4}{*} {Muon} & HLT$\_$mu26$\_$ivarmedium \\
+                        & & HLT$\_$mu50 \\
+                        & & HLT$\_$2mu14 \\
+                        & & HLT$\_$mu22$\_$mu8noL1  \\\cline{2-3}
+                        & \multirow{2}{*}{Mixed} &  HLT$\_$e17$\_$lhloose$\_$nod0$\_$mu14  \\
+                        & & HLT$\_$e26$\_$lhmedium$\_$nod0$\_$mu8noL1 \\
+    \hline
+    \multirow{10}{*} {2018} & \multirow{4}{*} {Electron} & HLT$\_$e26$\_$lhtight$\_$nod0$\_$ivarloose \\
+                        &          & HLT$\_$e60$\_$lhmedium$\_$nod0  \\
+                        &          & HLT$\_$e140$\_$lhloose$\_$nod0 \\
+                        &          &  HLT$\_$2e24$\_$lhvloose$\_$nod0 \\\cline{2-3}
+                        & \multirow{4}{*} {Muon} & HLT$\_$mu26$\_$ivarmedium \\
+                        & & HLT$\_$mu50  \\
+                        & & HLT$\_$2mu14 \\
+                        & &  HLT$\_$mu22$\_$mu8noL1 \\\cline{2-3}
+                        & \multirow{2}{*}{Mixed} & HLT$\_$e17$\_$lhloose$\_$nod0$\_$mu14 \\
+                        & &  HLT$\_$e26$\_$lhmedium$\_$nod0$\_$mu8noL1  \\
+    \hline
+    \end{tabular}
+    \caption{Trigger menu used in the analysis for event preselection \label{tab:Trigger}}
+\end{table}
+
+The trigger efficiency of MC is defined as a ratio of events passing the logical OR selection of the triggers to the number of events passing reconstruction level pre-trigger selection. The trigger efficiency for MC events could differ from that for the data. Thus, trigger efficiency scale factors are applied to MC events to account for the differences. The scale factors are defined as a fraction of trigger efficiency for MC to that of data and retrieved from the ATLAS supported tool \textit{TrigGlobalEffciencyCorrectionTool}\footnote{https://gitlab.cern.ch/atlas/athena/tree/21.2/Trigger/TrigAnalysis/TrigGlobalEfficiencyCorrection}.
+
+Figure \ref{fig:Trigger} shows the efficiency of trigger selection in events with a signal quadruplet and a dijet as a function of $m_{4\ell}$. The efficiency is almost $100\%$ over the whole spectrum. The black distribution shows the total detector-level preselected events, the red distribution shows events passing at least one trigger requirement, and the blue distribution shows events passing both trigger and matching requirements. 
+\begin{figure}
+    \centering
+    \includegraphics[width=.8\linewidth]{figures/AnalysisOverview/TriggerEfficiency.pdf}
+    \caption{ Trigger efficiency as a function of $m_{4\ell}$.\label{fig:Trigger}}
+\end{figure}

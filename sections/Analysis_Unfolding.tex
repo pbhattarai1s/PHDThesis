@@ -13,7 +13,7 @@ This Chapter discusses the unfolding technique in detail. Section \ref{subsec:Un
 
 \subsection{Method Overview}
 \label{subsec:UnfoldingOverview}
-The analysis uses an \textit{iterative Bayesian unfolding} algorithm based on Baye's theorem \cite{BayesianUnfolding}. Bayes' theorem formulates a mathematical relation to obtain a probability of an effect $E$ caused by several independent causes $C_{i}$, given the initial probability of the causes $P(C_{i})$ and the conditional probability of the $i-th$ cause to produce the effect $P(E|C_{i})$ as, 
+The analysis uses an \textit{iterative Bayesian unfolding} algorithm based on Baye's theorem \cite{BayesianUnfolding} \cite{Improved_BayesianUnfolding} using ATLAS-supported \textit{RooUnfold} package \cite{RooUnfold}. Bayes' theorem formulates a mathematical relation to obtain a probability of an effect $E$ caused by several independent causes $C_{i}$, given the initial probability of the causes $P(C_{i})$ and the conditional probability of the $i-th$ cause to produce the effect $P(E|C_{i})$ as, 
 
 \begin{equation}
 P(C_{i}|E) = \frac{ P(E|C_{i}) . P(C_{i}) } { \sum_{j}{ P(E|C_{j}).P(C_{j}) } }

@@ -252,6 +252,17 @@ Giulio D'Agostini.
 \newblock {A multidimensional unfolding method based on Bayes' Theorem}.
 \newblock Technical report, DESY, Hamburg, 1994.
 
+\bibitem{Improved_BayesianUnfolding}
+{D'Agostini, G.}
+\newblock {Improved iterative Bayesian unfolding}, 2010.
+
+\bibitem{RooUnfold}
+{Brenner, Lydia and Balasubramanian, Rahul and Burgard, Carsten and Verkerke,
+  Wouter and Cowan, Glen and Verschuuren, Pim and Croft, Vincent}.
+\newblock {Comparison of unfolding methods using RooFitUnfold}.
+\newblock {\em International Journal of Modern Physics A}, 35(24):2050145,
+  2020.
+
 \bibitem{FriedmanSmoother}
 {Friedman, Jerome H.}
 \newblock {A VARIABLE SPAN SMOOTHER}.
