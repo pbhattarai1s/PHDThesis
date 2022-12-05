@@ -28,6 +28,22 @@ Fabienne Marcastel.
 \newblock 2013.
 \newblock General Photo.
 
+\bibitem{ATLAS}
+{ATLAS Collaboration}.
+\newblock {The ATLAS Experiment at the CERN Large Hadron Collider}.
+\newblock {\em Journal of Instrumentation}, 3(08):S08003, aug 2008.
+
+\bibitem{ATLAS_CoordSys}
+{Sebastian Murk}.
+\newblock {Trigger Algorithms and Monte Carlo Event Generation for Dijet
+  Searches in ATLAS and Beyond}.
+\newblock 2017.
+
+\bibitem{ID_Align_Run2}
+{ATLAS Collaboration}.
+\newblock {Alignment of the ATLAS Inner Detector in Run-2}.
+\newblock {\em Eur. Phys. J. C}, 80(12), 2020.
+
 \bibitem{ATLASZZjj}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
@@ -182,6 +198,24 @@ Sergey et~al. Alekhin.
 \bibitem{LHCGuide}
 {LHC Guide}.
 \newblock 2017.
+
+\bibitem{ATLAS_IBL}
+{Capeans, M and Darbo, G and Einsweiller, et al.}
+\newblock {ATLAS Insertable B-Layer Technical Design Report}.
+\newblock Technical report, 2010.
+
+\bibitem{ID_Pixel}
+{Technical Design Report for the ATLAS Inner Tracker Pixel Detector}.
+\newblock Technical report, CERN, Geneva, 2017.
+
+\bibitem{ID_Strips}
+{Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
+\newblock Technical report, CERN, Geneva, 2017.
+
+\bibitem{ID_TRT}
+{Particle Identification Performance of the ATLAS Transition Radiation
+  Tracker}.
+\newblock Technical report, CERN, Geneva, 2011.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}
