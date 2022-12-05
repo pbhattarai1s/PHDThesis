@@ -22,6 +22,12 @@ A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt.
 \newblock {Parton distributions for the LHC}.
 \newblock {\em Eur. Phys. J. C}, 63:189--285, 2009.
 
+\bibitem{ProtonAcclerator}
+Fabienne Marcastel.
+\newblock {CERN's Accelerator Complex. La chaîne des accélérateurs du CERN}.
+\newblock 2013.
+\newblock General Photo.
+
 \bibitem{ATLASZZjj}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
@@ -163,6 +169,19 @@ Sergey et~al. Alekhin.
 \newblock {A Z-monitor to calibrate Higgs production via vector boson fusion
   with rapidity gaps at the LHC.}
 \newblock {\em Eur. Phys. J.}, C 26:429–440, 2003.
+
+\bibitem{LHCMachine}
+{LHC Machine}.
+\newblock {\em JINST}, 3:S08001, 2008.
+
+\bibitem{LEP}
+{\em {LEP design report}}.
+\newblock CERN, Geneva, 1984.
+\newblock Copies shelved as reports in LEP, PS and SPS libraries.
+
+\bibitem{LHCGuide}
+{LHC Guide}.
+\newblock 2017.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}
