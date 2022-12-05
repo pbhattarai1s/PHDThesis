@@ -76,11 +76,8 @@
 \contentsline {section}{\numberline {19} Differential Cross-sections }{99}{section.19}% 
 \contentsline {section}{\numberline {20}Effective Field Theory ReInterpretation}{99}{section.20}% 
 \contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion}}{100}{part.7}% 
-\contentsline {part}{VIII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Outlook}}{101}{part.8}% 
-\contentsline {section}{\numberline {21}Run-3}{101}{section.21}% 
-\contentsline {section}{\numberline {22}High Luminosity LHC}{101}{section.22}% 
-\contentsline {part}{References}{102}{section.22}% 
-\contentsline {part}{Appendices}{106}{part*.66}% 
-\contentsline {section}{\numberline {A}Personal Contribution}{107}{Appendix.a.A}% 
-\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{107}{Appendix.a.B}% 
+\contentsline {part}{References}{101}{part.7}% 
+\contentsline {part}{Appendices}{105}{part*.66}% 
+\contentsline {section}{\numberline {A}Personal Contribution}{106}{Appendix.a.A}% 
+\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{106}{Appendix.a.B}% 
 \contentsfinish 
