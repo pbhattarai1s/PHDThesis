@@ -217,6 +217,14 @@ Sergey et~al. Alekhin.
   Tracker}.
 \newblock Technical report, CERN, Geneva, 2011.
 
+\bibitem{ATLAS_ECAL}
+{\em {ATLAS liquid-argon calorimeter: Technical Design Report}}.
+\newblock Technical design report. ATLAS. CERN, Geneva, 1996.
+
+\bibitem{ATLAS_HCAL}
+{\em {ATLAS tile calorimeter: Technical Design Report}}.
+\newblock Technical design report. ATLAS. CERN, Geneva, 1996.
+
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}
 \newblock {The new LUCID-2 detector for luminosity measurement and monitoring

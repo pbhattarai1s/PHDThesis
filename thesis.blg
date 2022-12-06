@@ -13,48 +13,50 @@ Warning--empty institution in ATLAS_IBL
 Warning--empty author in ID_Pixel
 Warning--empty author in ID_Strips
 Warning--empty author in ID_TRT
+Warning--empty author and editor in ATLAS_ECAL
+Warning--empty author and editor in ATLAS_HCAL
 Warning--empty journal in btagATLAS
 Warning--empty note in FakeBkgTool
 Warning--empty journal in FriedmanSmoother
-You've used 65 entries,
+You've used 67 entries,
             1791 wiz_defined-function locations,
-            837 strings with 13355 characters,
-and the built_in function-call counts, 11168 in all, are:
-= -- 980
-> -- 361
+            845 strings with 13535 characters,
+and the built_in function-call counts, 11450 in all, are:
+= -- 1010
+> -- 363
 < -- 2
-+ -- 160
++ -- 162
 - -- 95
-* -- 703
-:= -- 1837
-add.period$ -- 186
-call.type$ -- 65
+* -- 719
+:= -- 1873
+add.period$ -- 192
+call.type$ -- 67
 change.case$ -- 66
 chr.to.int$ -- 0
-cite$ -- 78
-duplicate$ -- 526
-empty$ -- 1213
+cite$ -- 82
+duplicate$ -- 548
+empty$ -- 1251
 format.name$ -- 95
-if$ -- 2448
+if$ -- 2520
 int.to.chr$ -- 0
-int.to.str$ -- 65
-missing$ -- 54
-newline$ -- 319
+int.to.str$ -- 67
+missing$ -- 56
+newline$ -- 327
 num.names$ -- 59
-pop$ -- 156
+pop$ -- 164
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 211
+skip$ -- 217
 stack$ -- 0
 substring$ -- 565
-swap$ -- 60
+swap$ -- 62
 text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 13
+warning$ -- 15
 while$ -- 97
-width$ -- 67
-write$ -- 684
-(There were 13 warnings)
+width$ -- 69
+write$ -- 704
+(There were 15 warnings)
