@@ -44,6 +44,23 @@ Fabienne Marcastel.
 \newblock {Alignment of the ATLAS Inner Detector in Run-2}.
 \newblock {\em Eur. Phys. J. C}, 80(12), 2020.
 
+\bibitem{ATLASTransverse}
+{Joao Pequenao}.
+\newblock {Event Cross Section in a computer generated image of the ATLAS
+  detector.}
+\newblock 2008.
+
+\bibitem{ATLAS_DAQ}
+{ATLAS Collaboration}.
+\newblock { DAQ approved plots}, 2020.
+
+\bibitem{TrackParameterFig}
+{Cornelissen, T G and Van Eldik, et al. }.
+\newblock {Updates of the ATLAS Tracking Event Data Model (Release 13)}.
+\newblock Technical report, CERN, Geneva, 2007.
+\newblock All figures including auxiliary figures are available at
+  https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-SOFT-PUB-2007-003.
+
 \bibitem{ATLASZZjj}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
@@ -224,6 +241,22 @@ Sergey et~al. Alekhin.
 \bibitem{ATLAS_HCAL}
 {\em {ATLAS tile calorimeter: Technical Design Report}}.
 \newblock Technical design report. ATLAS. CERN, Geneva, 1996.
+
+\bibitem{TriggerSystemATLAS}
+{The ATLAS collaboration}.
+\newblock {Operation of the ATLAS trigger system in Run 2}.
+\newblock {\em Journal of Instrumentation}, 15(10):P10004, oct 2020.
+
+\bibitem{TrackingRun2_ATLAS}
+{The ATLAS Collaboration}.
+\newblock {Performance of the ATLAS track reconstruction algorithms in dense
+  environments in LHC Run 2}.
+\newblock {\em The European Physical Journal C}, 77(10), 2017.
+
+\bibitem{VertexReconstruction}
+Federico Meloni.
+\newblock {Primary vertex reconstruction with the ATLAS detector}.
+\newblock Technical Report~12, CERN, Geneva, 2016.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}
