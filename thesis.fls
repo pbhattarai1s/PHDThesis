@@ -292,6 +292,17 @@ INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/TrackPar
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/trackingflowchart.png
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/trackingflowchart.png
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/trackingflowchart.png
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti7.tfm
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ElecIdent_Eff.png
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ElecIdent_Eff.png
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ElecIdent_Eff.png
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/Elec_IsoEff.png
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/Elec_IsoEff.png
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/Elec_IsoEff.png
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/MuonTypes.pdf
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/MuonTypes.pdf
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/MuonTypes.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/LHC_FutureUpgrades.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/LHC_FutureUpgrades.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/AnalysisOverview.tex
@@ -551,8 +562,6 @@ INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/StatUnc_Sup.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Systematics.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Systematics.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmti7.tfm
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Systematics/QCDmodel_Dist.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Systematics/QCDmodel_Dist.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Systematics/QCDmodel_Dist.pdf

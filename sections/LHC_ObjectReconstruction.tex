@@ -42,13 +42,62 @@ As shown by figure \ref{fig:TrackingOutline}, track reconstruction follows two d
 
 The inside-out method is optimal for particles that minimally interact with the inner-detector material. However, secondary backtracking with an outside-in approach is needed for particles interacting with the inner detector, such as reconverted photons. In this approach, the track pattern recognition starts at the TRT in the regions of interest flagged by the electromagnetic calorimeter and backtracks to the silicon detectors. 
 
-Tracks of the charged particle are extrapolated inward to the beamline and are assigned to vertices \cite{VertexReconstruction}. In most ATLAS analyses, including the one presented in this thesis, the space-point with the highest quadrature sum of track $p_T$ ($\sum_{track}{p_{T}^2}$) is identified as the primary vertex of an event.  
+Tracks of the charged particle are extrapolated inward to the beamline and are assigned to vertices \cite{VertexReconstruction}. In most ATLAS analyses, including the one presented in this thesis, the space-point with the highest quadrature sum of track $p_T$ ($\sum_{track}{p_{T}^2}$) is identified as the primary vertex of an event.
 
-\subsection{Electrons}
+\subsection{Electron Reconstruction}
 \label{subsec:ParticleRecon_Elec}
+Electrons, when interacting with a material, produce a photon by bremsstrahlung radiation, the process defining the interaction of a charged particle with the electric field of an atomic nucleus. Any energetic photon, either from a physics process or bremsstrahlung, can turn into a pair of $e^{+}e^{-}$, which can again radiate another set of photons, thus, giving rise to an electromagnetic shower. For given energy and material, electromagnetic showers have a characteristic penetration depth.
 
-\subsection{Muons}
+ATLAS electrons are reconstructed by combining the tracking information from the ID, and the energy deposits in nearby cells of the calorimeter,  energy clusters \cite{ElectronReco}. The clusters are formed only if the energy deposit exceeds four times the expected deposits from the pile-up. The reconstruction efficiency for high-energy electrons with transverse energy ($E_{T}>15$ GeV) is about $97-99\%$ \cite{ElectronReco}. \textit{Prompt electrons} originate from the hard scattering and are the primary interest of physics analysis. However, the detector has electrons from \textit{non-prompt sources} including the jets, misidentification, and pile-up. Therefore it is imperative to identify and isolate the prompt electrons in an event, and the efficiency for identification and isolation varies as a function of $E_{T}$. Limited by the coverage of the electromagnetic calorimeter, only electrons within the $|\eta| <2.47$ range can be reconstructed and identified as prompt in ATLAS.
+
+The electron identification is based on a multivariate-likelihood (LH) technique which takes information from tracking detectors and calorimeters as input. The tool is trained to separate signal and background probability density functions using simulated $Z \rightarrow ee$ and $Z \rightarrow J / \psi$ events. The LH tool provides four \textit{working points}, VeryLoose, Loose, Medium, and Tight, at different values of the LH discriminant to cover various needs of several ATLAS analyses. The analysis presented in this thesis uses electrons satisfying the Loose identification working point with at least one hit in the IBL. 
+
+Prompt electrons originating from W, Z, or H decay are characterized by low activity around them in the $\eta-\phi$ plane. An isolation requirement is applied to the electron candidates to select ones from the hard scattering. Calorimeter and track-based requirements on isolation variables are defined to quantify the isolation. The variables are based on the amount of activity around an isolation cone of the candidate electron. Calorimeter-based isolation relies on the variable $E_{T,cone}^{iso}$, the sum of transverse energies inside a $\deltaR=0.2$ cone of the electron candidate. Similarly, the track-based isolation variable is $p_{T,cone}^{iso}$, the sum of the transverse momentum of the electron candidate within a $p_{T}-$dependent $\Delta R$, which is defined as, 
+
+\begin{equation}
+\Delta R = min \left( \frac{10 GeV}{p_{T}},\Delta R_{max} \right)
+\end{equation}
+
+where the maximum cone size is $\Delta R_{max} = 0.2$. Similar to the identification, several working points are available for electron isolation. The measurement in this thesis uses the \textit{Loose$\_$VarRad} isolation working point which requires $E_{T,cone}^{iso} < 0.3$ and $p_{T,cone}^{iso} < 0.15$. Figure \ref{fig:ElecEff} shows the electron identification and isolation efficiencies as a function of their $E_{T}$. The Loose working point has the highest identification and isolation efficiencies and is the optimal working point for the measurement because of the fully reconstructable final state.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.49\linewidth]{figures/LHC/ElecIdent_Eff.png}
+    \includegraphics[width=.49\linewidth]{figures/LHC/Elec_IsoEff.png}
+    \caption{ Distributions showing the identification (left) and isolation (right) efficiencies for electrons as a function of their $E_{T}$\cite{ElectronReco}.\label{fig:ElecEff}}
+\end{figure}
+
+The total electron efficiency is defined as the product of the electron reconstruction, identification, isolation, and trigger efficiencies as, 
+
+\begin{equation}
+    \epsilon_{total} = \epsilon_{reco} \times \epsilon_{id} \times \epsilon_{iso} \times \epsilon_{trigger}     
+\end{equation}
+
+Each of the efficiency terms is evaluated on data and MC. \textit{Scale Factors (SF)} defined as the ratio of the measured efficiency in data and the efficiency simulated in MC are derived and applied to the simulation to match the one observed in the data. Typically, SFs are close to one, and systematic uncertainties related to scale factors are considered in the measurement.
+
+\subsection{Muon Reconstruction}
 \label{subsec:ParticleRecon_Muon}
+The rate of bremsstrahlung radiation is inversely proportional to the square of a particle's mass. Since muons are about $200$ times heavier than electrons, they primarily interact with the detector material through ionization. Therefore, muons are minimally ionizing particles that do not create electromagnetic shower in the calorimeters and pass through all layers of the ATLAS detector. Hence, muon detection relies on track measurements from the inner detector and muon spectrometer. As shown in figure \ref{fig:MuonFig}, four types of muons are defined based on the type of sub-detectors used during a muon reconstruction,
 
-\subsection{Jets}
+\begin{itemize}
+    \item{\textbf{Combined muons:} muons reconstructed from a global refit of ID and MS tracks }
+    \item{\textbf{Segment-tagged muons:} muons reconstructed from a fitted ID track and MS segment track } 
+    \item{\textbf{Calo-tagged muons:}  muons reconstructed using ID track matched to the minimum ionizing energy deposits in the calorimeters}
+    \item{\textbf{Standalone Muons:} muons reconstructed solely from the MS tracks }
+\end{itemize}
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.5\linewidth]{figures/LHC/MuonTypes.pdf}
+    \caption{ Schematic of four different types of muons reconstructed using several layers of sub-detectors \cite{MuonReco}.\label{fig:MuonFig}}
+\end{figure}
+
+Similar to the electron reconstruction discussed in Section \ref{subsec:ParticleRecon_Elec}, reconstructed muons from the hard scatter are identified and isolated from the muons originating from secondary sources. Muon identification working points are developed by applying quality requirements in the simulated $t\bar{t}$ events where a $W$ from top-quark decay decays to a muon and a neutrino. The quality cuts require at least one-pixel hit, five SCT hits, less than three pixel or SCT holes, and at least $10\%$ of TRT hits to be included in the fit for the $0.1<\eta<0.9$ range with full TRT coverage \cite{MuonReco}. Three variables are used in muon identification; $q/p$ significance, which is defined as the ratio of muon's charge and momentum divided by the sum-quadrature of their uncertainties; $\rho^{'}$ defined as the absolute difference of transverse momentum measurements in the ID and MS divided by the combined track's $p_{T}$; and the normalized $\chi ^{2}$ of the combined track fit \cite{MuonReco}. 
+Four identification \textit{working points}, Loose, Medium, Tight, and High-$p_{T}$ are defined for muons. The measurement uses a Loose identification point, which comprises all four types of muons and is developed for processes with four leptons in the final state  \cite{MuonReco}. 
+
+To evaluate the total reconstruction efficiency of muons, $Z \rightarrow \mu\mu$ and $J/\psi \rightarrow \mu\mu$ events are used. The reconstruction efficiency in the region with ID coverage $|\eta|<2.5$ is obtained by using the tag-and-probe method, whereas, for $|\eta|>2.5$ region, it is estimated by evaluating SFs based on a double ratio of data and MC in $Z \rightarrow \mu\mu$ events \cite{MuonEffLargeEta}.
+
+Analogous to electrons, muons are required to meet calo-based and ID-based isolation requirements. Muons in the measurement satisfy \textit{PflowLoose$\_$VarRad} isolation working point. Like in the case of electrons, systematic uncertainties on different scale factors for muon reconstruction, identification, isolation, and trigger efficiencies are propagated to the final cross-section measurement.
+
+\subsection{Jet Reconstruction}
 \label{subsec:ParticleRecon_Jets}

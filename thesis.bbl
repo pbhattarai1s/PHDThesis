@@ -61,6 +61,19 @@ Fabienne Marcastel.
 \newblock All figures including auxiliary figures are available at
   https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-SOFT-PUB-2007-003.
 
+\bibitem{ElectronReco}
+{ATLAS Collaboration}.
+\newblock {Electron reconstruction and identification in the {ATLAS} experiment
+  using the 2015 and 2016 {LHC} proton-proton collision data at
+  $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$}.
+\newblock {\em The European Physical Journal C}, 79(8), aug 2019.
+
+\bibitem{MuonReco}
+{ATLAS Collaboration}.
+\newblock {Muon reconstruction performance of the {ATLAS} detector in
+  proton-proton collision data $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$ }.
+\newblock {\em The European Physical Journal C}, 76(5), may 2016.
+
 \bibitem{ATLASZZjj}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
@@ -257,6 +270,12 @@ Sergey et~al. Alekhin.
 Federico Meloni.
 \newblock {Primary vertex reconstruction with the ATLAS detector}.
 \newblock Technical Report~12, CERN, Geneva, 2016.
+
+\bibitem{MuonEffLargeEta}
+{ATLAS Collaboration}.
+\newblock {Measurement of the muon reconstruction performance of the {ATLAS}
+  detector using 2011 and 2012 {LHC} proton{\textendash}proton collision data}.
+\newblock {\em The European Physical Journal C}, 74(11), nov 2014.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}

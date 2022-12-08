@@ -19,45 +19,45 @@ Warning--empty author and editor in ATLAS_HCAL
 Warning--empty journal in btagATLAS
 Warning--empty note in FakeBkgTool
 Warning--empty journal in FriedmanSmoother
-You've used 73 entries,
+You've used 76 entries,
             1791 wiz_defined-function locations,
-            871 strings with 14324 characters,
-and the built_in function-call counts, 12273 in all, are:
-= -- 1085
-> -- 387
+            881 strings with 14845 characters,
+and the built_in function-call counts, 12693 in all, are:
+= -- 1121
+> -- 399
 < -- 3
-+ -- 174
-- -- 101
-* -- 755
-:= -- 2022
-add.period$ -- 210
-call.type$ -- 73
-change.case$ -- 73
++ -- 180
+- -- 104
+* -- 782
+:= -- 2097
+add.period$ -- 219
+call.type$ -- 76
+change.case$ -- 76
 chr.to.int$ -- 0
-cite$ -- 89
-duplicate$ -- 587
-empty$ -- 1339
-format.name$ -- 101
-if$ -- 2698
+cite$ -- 92
+duplicate$ -- 611
+empty$ -- 1384
+format.name$ -- 104
+if$ -- 2788
 int.to.chr$ -- 0
-int.to.str$ -- 73
-missing$ -- 58
-newline$ -- 357
-num.names$ -- 65
-pop$ -- 175
+int.to.str$ -- 76
+missing$ -- 61
+newline$ -- 372
+num.names$ -- 68
+pop$ -- 178
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 231
+skip$ -- 243
 stack$ -- 0
 substring$ -- 583
-swap$ -- 66
+swap$ -- 69
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 16
-while$ -- 104
-width$ -- 75
-write$ -- 769
+while$ -- 107
+width$ -- 78
+write$ -- 802
 (There were 16 warnings)
