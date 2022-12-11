@@ -74,6 +74,18 @@ Fabienne Marcastel.
   proton-proton collision data $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$ }.
 \newblock {\em The European Physical Journal C}, 76(5), may 2016.
 
+\bibitem{ParticleFlow}
+{ATLAS Collaboration}.
+\newblock { Jet reconstruction and performance using particle flow with the
+  {ATLAS} Detector }.
+\newblock {\em The European Physical Journal C}, 77(7), jul 2017.
+
+\bibitem{JetCalib}
+{ATLAS Collaboration}.
+\newblock {Jet energy scale and resolution measured in proton–proton
+  collisions at $\sqrt{s}=13$ TeV with the ATLAS detector}.
+\newblock {\em Eur. Phys. J. C}, 81(8):689, 2021.
+
 \bibitem{ATLASZZjj}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
@@ -276,6 +288,21 @@ Federico Meloni.
 \newblock {Measurement of the muon reconstruction performance of the {ATLAS}
   detector using 2011 and 2012 {LHC} proton{\textendash}proton collision data}.
 \newblock {\em The European Physical Journal C}, 74(11), nov 2014.
+
+\bibitem{AntiKtAlgo}
+{Matteo Cacciari and Gavin P. Salam and Gregory Soyez}.
+\newblock {The anti-kt jet clustering algorithm}.
+\newblock {\em Journal of High Energy Physics}, 2008(04):063, apr 2008.
+
+\bibitem{JVT}
+{ATLAS Collaboration}.
+\newblock {Tagging and suppression of pileup jets with the ATLAS detector}.
+\newblock Technical report, CERN, Geneva, 2014.
+
+\bibitem{fJVT}
+{ATLAS Collaboration}.
+\newblock {Forward jet vertex tagging using the particle flow algorithm}.
+\newblock Technical report, CERN, Geneva, 2019.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}

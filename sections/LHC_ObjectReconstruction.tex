@@ -101,3 +101,34 @@ Analogous to electrons, muons are required to meet calo-based and ID-based isola
 
 \subsection{Jet Reconstruction}
 \label{subsec:ParticleRecon_Jets}
+
+Due to color confinement in QCD, a quark or gluon cannot exist on its own and goes through hadronization to form a collimated color-neutral stream of particles, \textit{jets}. Generally, jets are deeply penetrating, passing through the electromagnetic calorimeter, and gets fully absorbed by the material in the hadronic calorimeter. ATLAS jet reconstruction relies on the formation of \textit{topo-clusters}, energy deposits in the calorimeter cells using a sequential recombination algorithm. Most commonly, the jets are reconstructed using a type of sequential algorithm, the anti-$k_{T}$ algorithm. At first, pseudojets are formed by iteratively combining nearby particles based on a specific metric distance to other particles from the pseudojet. The iteration is continued over a set of nearby particles until the pseudojets' metric distance is smaller than that between the pseudojet and the nearby particle. For the anti-$k_{T}$ algorithm, the separation distance metric is based on their transverse momenta \cite{AntiKtAlgo}. A radius parameter for jets determines the angular size of resulting jets in the $y-\phi$ plane. 
+
+The analysis reported here uses jets reconstructed using the anti-$k_{T}$ algorithm with a particle flow implementation \cite{ParticleFlow}\cite{AntiKtAlgo}. The particle flow reconstruction technique was first implemented by ATLAS reconstruction in Run$-2$. It combines information from the inner detector tracks and the calorimeter's topo-clusters. It has advantages over simple cluster-based algorithms because the tracking detector has a better momentum resolution for lower-energy charged particles, extending the reconstruction to include particles with topo-cluster energy deposits lower than the noise thresholds \cite{ParticleFlow}. Moreover, the particle flow algorithm removes cluster contributions from pile-up using track-to-vertex association. Figure \ref{fig:PflowJets} shows a schematic of the particle flow jet reconstruction algorithm used in ATLAS.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.95\linewidth]{figures/LHC/PflowAlg.pdf}
+    \caption{ Schematic of particle flow jet reconstruction \cite{ParticleFlow}.\label{fig:PflowJets}}
+\end{figure}
+
+First, ID tracks and topo clusters are reconstructed. If an ID track matches the topo-cluster, the tracks are used for jet reconstruction, and the cluster is modified by subtracting the energy of the used tracks. In the case of neutral jets or jets outside the geometrical acceptance of ID, only the topo-clusters are used as input for jet reconstruction. Figure \ref{fig:PflowvsCalo} shows the improvement in jet transverse momenta resolution when using the particle flow algorithm over the cluster-based algorithm as a function of jet's $p_{T}$ (left) and $\eta$ (right). The distributions show the resolution is improved significantly for low$-p_{T}$ and central jets with low $\eta$ with particle flow algorithm.
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.48\linewidth]{figures/LHC/Pflow_vs_Calo_pt.pdf}
+    \includegraphics[width=.48\linewidth]{figures/LHC/Pflow_vs_Calo_eta.pdf}
+    \caption{ Resolution of jet transverse momentum for only cluster-based jets (LC+JES) and particle flow jets as a function of $p_{T}$ (left) and $\eta$ (right) \cite{ParticleFlow}.\label{fig:PflowvsCalo}}
+\end{figure}
+
+Jet energies are highly susceptible to pile-up density, and jets constitute various particles that could interact differently with various sub-detectors. Therefore, the reconstructed jets must be calibrated before being used in the measurement. Figure \ref{fig:JetCalib} schematically shows different steps of jet calibration, which is discussed in detail in Ref \cite{JetCalib}. The first step in jet calibration is an event-by-event subtraction of pile-up-related average energy density ($\rho$) from jet candidate energy. The pile-up is first corrected as a function of $p_{T}$, then as a function of average pile-up density ($\mu$) and the number of primary vertex per event ($N_{PV}$). The second set of jet calibration accounts for the detector response, correcting for the interaction with the detector's passive material and possible flavor dependence on the detector response. \textit{In-situ} calibration is the final part of the jet calibration, which accounts for the differences in jet response measured in data and MC. 
+
+\begin{figure}
+    \centering
+    \includegraphics[width=.95\linewidth]{figures/LHC/JetCalib.pdf}
+    \caption{ A schematic of different steps of jet calibration \cite{JetCalib}.\label{fig:JetCalib}}
+\end{figure}
+
+The analysis uses a \textit{Jet Vertex Tagger} (JVT) variable to differentiate hard-scattering jets from pile-up \cite{JVT}. The JVT variable is a multivariate combination of two variables; first, the \textit{jet-veretex-fraction} defined as a fraction of the total momentum of tracks in jet associated with the primary vertex and second, the number of reconstructed primary vertices in an event ($N_{PV}$) \cite{JVT}. To identify the jets from hard scattering outside the ID acceptance in $2.5<|\eta|<4.5$ range, a \textit{forward Jet Vertex Tagger} (fJVT) discriminant is used, which is derived by exploiting the topological correlations among particles from a pile-up interaction \cite{fJVT}. 
+
+The systematic uncertainties related to each step of jet reconstruction, calibration, and JVT/fJVT tagging are propagated to the final measurements of the unfolded differential cross-sections.  
