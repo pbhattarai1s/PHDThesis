@@ -86,6 +86,10 @@ Fabienne Marcastel.
   collisions at $\sqrt{s}=13$ TeV with the ATLAS detector}.
 \newblock {\em Eur. Phys. J. C}, 81(8):689, 2021.
 
+\bibitem{ITkPixelTDR}
+{Technical Design Report for the ATLAS Inner Tracker Pixel Detector}.
+\newblock Technical report, CERN, Geneva, 2017.
+
 \bibitem{ATLASZZjj}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
@@ -303,6 +307,16 @@ Federico Meloni.
 {ATLAS Collaboration}.
 \newblock {Forward jet vertex tagging using the particle flow algorithm}.
 \newblock Technical report, CERN, Geneva, 2019.
+
+\bibitem{HLLHC}
+{ATLAS Collaboration}.
+\newblock {\em {High-Luminosity Large Hadron Collider (HL-LHC): Technical
+  design report}}.
+\newblock CERN Yellow Reports: Monographs. CERN, Geneva, 2020.
+
+\bibitem{ITkStripsTDR}
+{Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
+\newblock 4 2017.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}

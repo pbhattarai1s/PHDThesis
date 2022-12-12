@@ -6,6 +6,7 @@ Database file #1: biblio.bib
 Warning--empty journal in ProtonAcclerator
 Warning--empty booktitle in ATLAS_CoordSys
 Warning--empty note in ATLASTransverse
+Warning--empty author in ITkPixelTDR
 Warning--empty author in LHCMachine
 Warning--empty author and editor in LEP
 Warning--empty author in LHCGuide
@@ -16,48 +17,50 @@ Warning--empty author in ID_Strips
 Warning--empty author in ID_TRT
 Warning--empty author and editor in ATLAS_ECAL
 Warning--empty author and editor in ATLAS_HCAL
+Warning--empty author in ITkStripsTDR
+Warning--empty journal in ITkStripsTDR
 Warning--empty journal in btagATLAS
 Warning--empty note in FakeBkgTool
 Warning--empty journal in FriedmanSmoother
-You've used 81 entries,
+You've used 84 entries,
             1791 wiz_defined-function locations,
-            899 strings with 15344 characters,
-and the built_in function-call counts, 13431 in all, are:
-= -- 1189
-> -- 419
+            907 strings with 15504 characters,
+and the built_in function-call counts, 13808 in all, are:
+= -- 1225
+> -- 425
 < -- 3
-+ -- 190
-- -- 109
-* -- 823
-:= -- 2232
-add.period$ -- 234
-call.type$ -- 81
-change.case$ -- 83
++ -- 194
+- -- 110
+* -- 842
+:= -- 2288
+add.period$ -- 242
+call.type$ -- 84
+change.case$ -- 86
 chr.to.int$ -- 0
-cite$ -- 97
-duplicate$ -- 649
-empty$ -- 1463
-format.name$ -- 109
-if$ -- 2948
+cite$ -- 103
+duplicate$ -- 673
+empty$ -- 1508
+format.name$ -- 110
+if$ -- 3036
 int.to.chr$ -- 0
-int.to.str$ -- 81
-missing$ -- 64
-newline$ -- 397
-num.names$ -- 73
-pop$ -- 183
+int.to.str$ -- 84
+missing$ -- 67
+newline$ -- 410
+num.names$ -- 74
+pop$ -- 195
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 255
+skip$ -- 263
 stack$ -- 0
 substring$ -- 601
-swap$ -- 72
+swap$ -- 73
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 16
-while$ -- 114
-width$ -- 83
-write$ -- 859
-(There were 16 warnings)
+warning$ -- 19
+while$ -- 115
+width$ -- 86
+write$ -- 888
+(There were 19 warnings)
