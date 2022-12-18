@@ -147,12 +147,7 @@ INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.out
 OUTPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.out
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/acknowledgements.tex
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/acknowledgements.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.toc
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.toc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -174,8 +169,11 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.toc
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.toc
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
