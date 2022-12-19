@@ -2,19 +2,19 @@
 \contentsline {table}{\numberline {1}{\ignorespaces Properties of SM gauge bosons.\cite {PDG}\relax }}{7}{table.caption.5}% 
 \contentsline {table}{\numberline {2}{\ignorespaces Summary of different interactions of fermions under different gauge theory. The check mark suggests that the fermions interact via associated force.\relax }}{7}{table.caption.6}% 
 \contentsline {table}{\numberline {3}{\ignorespaces Electroweak quantum numbers of the SM half-integer spin fermions (quarks and leptons) arranged in a left-handed $SU(2)$ doublet and right-handed $SU(2)$ singlet. The down-type left-handed quarks in $SU(2)_{L}$ quark doublets $d^{'},~s^{'}~ \&~b^{'}$ are linear combinations of $d,~s,~b$ quarks \cite {Halzen:1984mc}.\relax }}{8}{table.caption.7}% 
-\contentsline {table}{\numberline {4}{\ignorespaces Details of the kinematic pre-selection applied to the dressed baseline electrons, muons, and jets. \relax }}{58}{table.caption.30}% 
-\contentsline {table}{\numberline {5}{\ignorespaces Details of the selections applied to form a quadruplet and a dijet selection in the fiducial volume. \relax }}{58}{table.caption.31}% 
-\contentsline {table}{\numberline {6}{\ignorespaces Definition of the baseline and signal electrons.\relax }}{61}{table.caption.33}% 
-\contentsline {table}{\numberline {7}{\ignorespaces Definition of the baseline and signal muons.\relax }}{61}{table.caption.34}% 
-\contentsline {table}{\numberline {8}{\ignorespaces Definition of the baseline and signal jets.\relax }}{62}{table.caption.35}% 
-\contentsline {table}{\numberline {9}{\ignorespaces Overlap removal used in the analysis. An object removed in one step does not enter into the subsequent step. \relax }}{62}{table.caption.36}% 
-\contentsline {table}{\numberline {10}{\ignorespaces Trigger menu used in the analysis for event preselection \relax }}{64}{table.caption.37}% 
-\contentsline {table}{\numberline {11}{\ignorespaces Details of event selection.\relax }}{68}{table.caption.39}% 
-\contentsline {table}{\numberline {12}{\ignorespaces List of signal MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{73}{table.caption.43}% 
-\contentsline {table}{\numberline {13}{\ignorespaces List of background MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{73}{table.caption.44}% 
-\contentsline {table}{\numberline {14}{\ignorespaces List of MC samples used in the estimation and validation of the data-driven fake background estimation. \relax }}{74}{table.caption.45}% 
-\contentsline {table}{\numberline {15}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and suppressed regions. \relax }}{105}{table.caption.70}% 
-\contentsline {table}{\numberline {16}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region. \relax }}{118}{table.caption.77}% 
-\contentsline {table}{\numberline {17}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Enhanced region. \leavevmode {\color {red}to update including data-driven closure test. } \relax }}{118}{table.caption.78}% 
+\contentsline {table}{\numberline {4}{\ignorespaces Details of the kinematic pre-selection applied to the dressed baseline electrons, muons, and jets. \relax }}{61}{table.caption.30}% 
+\contentsline {table}{\numberline {5}{\ignorespaces Details of the selections applied to form a quadruplet and a dijet selection in the fiducial volume. \relax }}{61}{table.caption.31}% 
+\contentsline {table}{\numberline {6}{\ignorespaces Definition of the baseline and signal electrons.\relax }}{64}{table.caption.33}% 
+\contentsline {table}{\numberline {7}{\ignorespaces Definition of the baseline and signal muons.\relax }}{64}{table.caption.34}% 
+\contentsline {table}{\numberline {8}{\ignorespaces Definition of the baseline and signal jets.\relax }}{65}{table.caption.35}% 
+\contentsline {table}{\numberline {9}{\ignorespaces Overlap removal used in the analysis. An object removed in one step does not enter into the subsequent step. \relax }}{65}{table.caption.36}% 
+\contentsline {table}{\numberline {10}{\ignorespaces Trigger menu used in the analysis for event preselection \relax }}{67}{table.caption.37}% 
+\contentsline {table}{\numberline {11}{\ignorespaces Details of event selection.\relax }}{71}{table.caption.39}% 
+\contentsline {table}{\numberline {12}{\ignorespaces List of signal MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{76}{table.caption.43}% 
+\contentsline {table}{\numberline {13}{\ignorespaces List of background MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{76}{table.caption.44}% 
+\contentsline {table}{\numberline {14}{\ignorespaces List of MC samples used in the estimation and validation of the data-driven fake background estimation. \relax }}{77}{table.caption.45}% 
+\contentsline {table}{\numberline {15}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and suppressed regions. \relax }}{108}{table.caption.70}% 
+\contentsline {table}{\numberline {16}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region. \relax }}{121}{table.caption.77}% 
+\contentsline {table}{\numberline {17}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Enhanced region. \leavevmode {\color {red}to update including data-driven closure test. } \relax }}{121}{table.caption.78}% 
 \contentsfinish 
 \contentsfinish 

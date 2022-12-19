@@ -6,7 +6,7 @@ This section summarizes the detector-level phase space selections applied to thr
 \subsection{Electrons}
 \label{subsec:ElecRecon}
 
-As discussed in Section \ref{subsec:ParticleRecon_Elec}, electrons are reconstructed by matching the inner detector track (ID) to an energy cluster in the electromagnetic calorimeter. Baseline electron objects are required to satisfy the kinematic selections of $\Pt~ > 7$ GeV $ \&~ |\eta| < 2.47$ and a loose likelihood identification of working point \textit{LHVeryLoose}. To avoid the electrons from pileup, a loose vertex association requirement of $|z_{0}sin\theta| < 0.5 $ mm and an overlap removal discussed in section \ref{subsec:OR} is applied to the baseline electron candidates.
+As discussed in Section \ref{subsec:ParticleRecon_Elec}, electrons are reconstructed by matching the inner detector track (ID) to an energy cluster in the electromagnetic calorimeter. Baseline electron objects are required to satisfy the kinematic selections of $\Pt~ > 7$ GeV $ \&~ |\eta| < 2.47$ and a loose likelihood identification of working point \textit{LHVeryLoose}. To avoid the electrons from pileup, a loose vertex association requirement of $|z_{0}\sin\theta| < 0.5 $ mm and an overlap removal discussed in section \ref{subsec:OR} is applied to the baseline electron candidates.
 
 Signal electrons are required to pass a more stringent loose likelihood identification, \textit{LHLooseBL}, which requires at least one hit in the innermost layer of the pixel detector. The signal electrons are distinguished by requiring the baseline electrons to have impact parameter requirements of $d0/ \dZeroSig < 5$ and an isolation working point identification of \textit{LooseVarRad}. Table \ref{tab:Electron_RecoSel} summarizes the several selections imposed to define the baseline and signal electrons.
 
@@ -22,7 +22,7 @@ Signal electrons are required to pass a more stringent loose likelihood identifi
 		\hline  
 		Identification & LHVeryLoose & LHLooseBL \\
 		\hline 
-		Vertex Association & $|z_{0}sin\theta| < 0.5$ mm & $|z_{0}sin\theta|< 0.5$ mm\\
+		Vertex Association & $|z_{0}\sin\theta| < 0.5$ mm & $|z_{0}\sin\theta|< 0.5$ mm\\
 		\hline
 		Overlap removal & Lepton-favored & Lepton-favored\\
 		\hline
@@ -35,7 +35,7 @@ Signal electrons are required to pass a more stringent loose likelihood identifi
 
 \subsection{Muons}
 \label{subsec:MuonRecon}
-As discussed in section \ref{subsec:ParticleRecon_Muon}, muons are reconstructed in multiple ways based on information from the inner detector (ID), the muon spectrometer (MS), and the calorimeters. All baseline muons are required to satisfy $ |\eta| < 2.7 $, $p_{T} > 5$ GeV, a loose impact parameter requirements of $|z_{0}sin\theta| < 0.5 $ mm, lepton-favoring overlap removal and \textit{Loose} identification working point. The signal muons are identified by requiring additional isolation identification of \textit{PflowLooseVarRad} and TTVA requirements of $d_{0}/\sigma_{d_{0}} < 3$. Table \ref{tab:muon_baseline_signal} summarizes baseline and signal muons selection requirements.
+As discussed in section \ref{subsec:ParticleRecon_Muon}, muons are reconstructed in multiple ways based on information from the inner detector (ID), the muon spectrometer (MS), and the calorimeters. All baseline muons are required to satisfy $ |\eta| < 2.7 $, $p_{T} > 5$ GeV, a loose impact parameter requirements of $|z_{0}\sin\theta| < 0.5 $ mm, lepton-favoring overlap removal and \textit{Loose} identification working point. The signal muons are identified by requiring additional isolation identification of \textit{PflowLooseVarRad} and TTVA requirements of $d_{0}/\sigma_{d_{0}} < 3$. Table \ref{tab:muon_baseline_signal} summarizes baseline and signal muons selection requirements.
 
 \begin{table}[ht]
 	\centering
@@ -50,7 +50,7 @@ As discussed in section \ref{subsec:ParticleRecon_Muon}, muons are reconstructed
 		\hline
 		Identification & Loose & Loose \\
 		\hline 
-		Vertex Association & $|z_{0}sin\theta| < 0.5$ mm & $|z_{0}sin\theta|< 0.5$ mm\\
+		Vertex Association & $|z_{0}\sin\theta| < 0.5$ mm & $|z_{0}\sin\theta|< 0.5$ mm\\
 		\hline
 		Overlap removal & Lepton-favored & Lepton-favored\\
 		\hline

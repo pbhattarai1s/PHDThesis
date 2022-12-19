@@ -4,7 +4,6 @@ The main results of the thesis are differential cross-section measurements at th
     \sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X} = A \times \epsilon \times \sigma ^{particle-level}_{p_{1}p_{2}\rightarrow X}
     \label{eqn:InclusiveXS}
 \end{equation}
-
 where $\sigma ^{particle-level}_{p_{1}p_{2}\rightarrow X}$ is the \textit{true} cross-section of the physics process predicted by the theory. The physical layout of the ATLAS detector does not cover all areas of the phase space. $A$ accounts for the limited acceptance of the ATLAS detector. Several parts of the detector have several reconstruction efficiencies, which are accounted for by the factor $\epsilon$. The detector level cross-section is measured experimentally in terms of the number of particles in a given final state (N) and integrated Luminosity $L$ as $\sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X} = \frac{N}{L}$. The \textit{true} particle level inclusive cross-section can be estimated by correcting for detector acceptance and detector efficiency for the measured cross-section $\sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X}$.
 
 For differential cross-sections where the cross-section is measured in different bins of the kinematic observables, additional correction is needed to correct the resolution-induced migration between nearby bins. 
@@ -28,7 +27,6 @@ For a single iteration, the algorithm can be summarized as,
     U_{i} = \frac{1}{ \epsilon_{i} } \times \sum^{reco~bins}_{j}{ (R_j -F_j ) . f_{i} . \frac{M_{ji} T_{i}}{ \sum_{k}^{truth~bins}{M_{jk} T_{k}}} } 
     \label{eqn:BayesianUnfolding}
 \end{equation}
-
 where $U_{i}$ is the unfolded yield in the target bin $i$, $T_{i}$ is the predicted truth level yield in particle bin $i$, $R_{j}$ is the observed detector level yield in reco bin $j$ and $F_{j}$ is the subtracted detector level reducible background yield. $M_{ij}$ is the migration matrix element from particle level bin $j$ to detector level bin $i$. 
 
 Based on the discussion, conceptually, three corrections from the SM MC prediction need to be applied to estimate the unfolded yield. The three unfolding inputs are 

@@ -126,15 +126,31 @@ E.~Noether.
   {Symmetries in the Standard Model}, pages 3--16.
 \newblock Springer International Publishing, Cham, 2021.
 
+\bibitem{AlphaQED}
+{The OPAL Collaboration}.
+\newblock {Measurement of the running of the QED couplingin small-angle Bhabha
+  scattering at LEP}.
+\newblock {\em The European Physical Journal C}, 45(1):1--21, jan 2006.
+
+\bibitem{AlphaQCD}
+Alexandre Deur, Stanley~J. Brodsky, and Guy~F. de~T{\'{e}}ramond.
+\newblock The {QCD} running coupling.
+\newblock {\em Progress in Particle and Nuclear Physics}, 90:1--74, sep 2016.
+
 \bibitem{GLASHOW1961579}
 Sheldon~L. Glashow.
 \newblock {Partial-symmetries of weak interactions}.
 \newblock {\em Nuclear Physics}, 22(4):579--588, 1961.
 
-\bibitem{PhysRev.96.191}
-C.~N. Yang and R.~L. Mills.
-\newblock {Conservation of Isotopic Spin and Isotopic Gauge Invariance}.
-\newblock {\em Phys. Rev.}, 96:191--195, Oct 1954.
+\bibitem{EWK_W}
+{Weinberg, Steven}.
+\newblock {A Model of Leptons}.
+\newblock {\em Phys. Rev. Lett.}, 19:1264--1266, Nov 1967.
+
+\bibitem{EWK_S}
+{A. Salam and J.C. Ward}.
+\newblock {Electromagnetic and weak interactions}.
+\newblock {\em Physics Letters}, 13(2):168--171, 1964.
 
 \bibitem{HiggsMechanism}
 {Nguyen, K}.
@@ -171,6 +187,12 @@ The CDF~II Collaboration.
 Richard Massey, Thomas Kitching, and Johan Richard.
 \newblock The dark matter of gravitational lensing.
 \newblock {\em Reports on Progress in Physics}, 73(8):086901, jul 2010.
+
+\bibitem{NeutrinoOscillation}
+Y.~Ashie, J.~Hosaka, and Ishihara et~al.
+\newblock Evidence for an oscillatory signature in atmospheric neutrino
+  oscillations.
+\newblock {\em Phys. Rev. Lett.}, 93:101801, Sep 2004.
 
 \bibitem{QCDForCollider}
 Peter Skands.
