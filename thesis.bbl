@@ -58,8 +58,6 @@ Fabienne Marcastel.
 {Cornelissen, T G and Van Eldik, et al. }.
 \newblock {Updates of the ATLAS Tracking Event Data Model (Release 13)}.
 \newblock Technical report, CERN, Geneva, 2007.
-\newblock All figures including auxiliary figures are available at
-  https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PUBNOTES/ATL-SOFT-PUB-2007-003.
 
 \bibitem{ElectronReco}
 {ATLAS Collaboration}.
@@ -261,7 +259,6 @@ Sergey et~al. Alekhin.
 \bibitem{LEP}
 {\em {LEP design report}}.
 \newblock CERN, Geneva, 1984.
-\newblock Copies shelved as reports in LEP, PS and SPS libraries.
 
 \bibitem{LHCGuide}
 {LHC Guide}.
@@ -481,5 +478,37 @@ Giulio D'Agostini.
 \newblock {Evidence for the production of three massive vector bosons with the
   ATLAS detector}.
 \newblock {\em Physics Letters B}, 798:134913, 2019.
+
+\bibitem{EWk_ssWW}
+{ATLAS Collaboration}.
+\newblock {Observation of electroweak production of a same-sign W boson pair in
+  association with two jets in pp collisions at $\sqrt{s}=13$ TeV with the
+  ATLAS detector}.
+\newblock {\em Physical Review Letters}, 123(16), oct 2019.
+
+\bibitem{EWK_WWW}
+{ATLAS Collaboration}.
+\newblock {Observation of WWW Production in pp Collisions at $\sqrt{s}=13$ TeV
+  with the ATLAS Detector}.
+\newblock {\em Physical Review Letters}, 129(6), aug 2022.
+
+\bibitem{EWK_WZ}
+{ATLAS Collaboration}.
+\newblock {Observation of electroweak $W^{\pm}Z$ boson pair production in
+  association with two jets in pp collisions at $\sqrt{s}=13$ TeV with the
+  ATLAS detector}.
+\newblock {\em Physics Letters B}, 793:469--492, jun 2019.
+
+\bibitem{Run3}
+{ ATLAS Collaboration}.
+\newblock {ATLAS Experiment records “first physics” at new high-energy
+  frontier}.
+\newblock CERN, Jul. 5, 2022 [Online].
+
+\bibitem{ssWW_HLLHCProspects}
+{Prospects for the measurement of the $W^{\pm}W^{\pm}$ scattering cross section
+  and extraction of the longitudinal scattering component in $pp$ collisions at
+  the High-Luminosity LHC with the ATLAS experiment}.
+\newblock Technical report, CERN, Geneva, 2018.
 
 \end{thebibliography}
