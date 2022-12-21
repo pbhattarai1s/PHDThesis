@@ -86,7 +86,40 @@ The experimental uncertainties affect all detector-level MC predictions and the 
 The following two uncertainties are intrinsic to the unfolding process itself and are included in the uncertainties for the unfolded differential cross-sections.
 
 \begin{itemize}
-    \item{\textbf{Unfolding Bias:} The unfolding bias estimated using the data-driven method discussed in Section \ref{subsec:Bias} is an inherent bias of the unfolding method and the biggest source of the systematic uncertainty for the measurement.
+    \item{\textbf{Unfolding Bias:} The inherent unfolding bias can be estimated either using the data-driven method discussed in Section \ref{subsec:Bias}, or using an MC-toy-based method. It is the most significant source of systematic uncertainty for the measurement. Both methods yield similar results. However, the MC-toy-based method is free from the influence of statistical fluctuation in data and thus is chosen to assign the systematic uncertainty on the intrinsic unfolding bias. 
+
+    First, ten thousand toys are constructed from the truth level MC distribution, independently fluctuating each bin of the truth distribution with a random number extracted from a Gaussian with mean zero and variance of $N_{truth}^{bin}$. A pseudo detector level dataset is created by \textit{folding} using the nominal response from MC. Folding is a technique to create a detector level distribution from the MC by applying the detector's limited acceptance and inefficiencies, adding detector resolution-induced bin migration between the truth and detector level distributions, and including the contribution of the fiducial fakes. The pseudo dataset is then unfolded using the nominal unfolding inputs and plotted as the average bias of the toys as a function of the toy's truth-level yield. The final unfolding bias is the value where this distribution intersects with the $68.3\%$ confidence interval of the toys' true value. Figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced} shows the unfolding bias evaluated in each bin of $m_{jj}$ in the VBS Enhanced region, estimated using the MC-toy-based approach. The unfolding bias ranges from $8-15\%$ in different bins, similar to what was observed using the data-driven method. 
+
+    \begin{figure}[htb]
+        \centering
+        \begin{subfigure}{.48\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_VBSEnh_bin1.pdf}
+            \caption{ bin 1}
+        \end{subfigure}
+        \begin{subfigure}{.48\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_VBSEnh_bin2.pdf}
+            \caption{bin 2 }
+        \end{subfigure}\\
+        \begin{subfigure}{.48\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_VBSEnh_bin3.pdf}
+            \caption{ bin 3 }
+        \end{subfigure}
+        \begin{subfigure}{.48\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_VBSEnh_bin4.pdf}
+            \caption{bin 4 }
+        \end{subfigure}
+        \begin{subfigure}{.48\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_VBSEnh_bin5.pdf}
+            \caption{bin 5 }
+        \end{subfigure}
+        \caption{ MC-based unfolding bias in each bin of $m_{jj}$ in the VBS-Enhanced region using Gaussian toys. The distribution shows the relative difference between unfolded and true values for toys as a function of the true value in each bin. The number of unfolding iterations is varied, and the final bias is chosen as the one-sigma intersection with the average value of the toy truth distribution (light-green region intersecting with the black curve). \label{fig:UnfoldingBias_mjj_VBSEnhanced}}
+    \end{figure}
+
     }
 
     \item{\textbf{QCD $qqZZ$ Modeling Uncertainty:} There are known differences between different generators driven by differences in parton shower and hadronization. Therefore, the second source of unfolding systematics is required to account for the differences in the unfolding input modeling for the dominant $qqZZ$ process. To avoid double-counting of the unfolding method covered by the data-driven uncertainties, an alternative $qqZZ$ sample predicted by \textsc{MadGraph5} is first reweighted to match the nominal-\textsc{Sherpa} lineshape. The relative difference in reweighted detector-level distribution is unfolded using the inputs from nominal-\textsc{Sherpa} and compared with the reweighted-\textsc{MadGraph5} particle level distribution. The relative difference between these two distributions is taken as modeling systematic uncertainty. Figure \ref{fig:QCDModelUnc} shows the estimation of the modeling uncertainty for $m_{jj}$ in the VBS-Enhanced region. The ratio panel of the right plot shows the QCD modeling uncertainties, which range from $2-4\%$ varying in different bins.
@@ -126,7 +159,7 @@ Theory ($ggZZ$) & 0.3 & 0.51 & 0.64 \\
 MC Bkg. (ttV+VVV) & 1.6 & 1.7 & 1.6 \\
 Fake Bkg. (stat + syst) & 3 & 2.3 & 1.8 \\
 Luminosity & 1.7 & 1.7 & 1.7 \\
-Data-Driven Closure & \textbf{12} & \textbf{6.3} & \textbf{7.1}\\
+Unfolding Bias & \textbf{12} & \textbf{6.3} & \textbf{7.1}\\
 \hline
 Total & 15 & 10 & 12 \\
 \hline
@@ -151,11 +184,12 @@ Theory ($ggZZ$) & 0.48 & 0.3 & 0.34 & 0.36 & 1.1\\
 MC Bkg. (ttV+VVV) & 2.7 & 2.6 & 2.4 & 1.8 & 1.2\\
 Fake Bkg. (stat + syst) & 2.4 & 2.5 & 2.5 & 1.7 & 1.5\\
 Luminosity & 1.7 & 1.7 & 1.7 & 1.7 & 1.7\\
+Unfolding Bias & \textbf{10.05} & \textbf{10.1} & \textbf{10.15} & \textbf{9.5} & \textbf{5.9}\\
 \hline
-Total & 9.3 & 9 & 10 & 9.4 & 10\\
+Total & 11.1 & 10.9 & 11.1 & 9.4 & 10\\
 \hline
 \end{tabular}
-\caption{Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\mjj$ in the VBS-Enhanced region. \textcolor{red}{to update including data-driven closure test. } \label{tab:systematics_mjj_VBS_Enhanced}}
+\caption{Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\mjj$ in the VBS-Enhanced region. \label{tab:systematics_mjj_VBS_Enhanced}}
 \end{table}
 
 \begin{figure}[!htb]

@@ -3,7 +3,7 @@
 \contentsline {section}{Abstract}{v}{section*.1}% 
 \contentsline {section}{List of Tables}{x}{section*.2}% 
 \contentsline {section}{List of Figures}{xii}{section*.3}% 
-\contentsline {section}{List of Abbreviations}{xviii}{section*.3}% 
+\contentsline {section}{List of Abbreviations}{xix}{section*.3}% 
 \contentsline {part}{I\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Introduction}}{1}{part.1}% 
 \contentsline {part}{II\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Theory}}{3}{part.2}% 
 \contentsline {section}{\numberline {1}The Standard Model}{4}{section.1}% 
@@ -75,17 +75,21 @@
 \contentsline {subsection}{\numberline {18.1}Theoretical Uncertainties}{114}{subsection.18.1}% 
 \contentsline {subsection}{\numberline {18.2}Experimental Uncertainties}{116}{subsection.18.2}% 
 \contentsline {subsection}{\numberline {18.3}Unfolding Uncertainties}{119}{subsection.18.3}% 
-\contentsline {subsection}{\numberline {18.4}Background Uncertainties}{119}{subsection.18.4}% 
+\contentsline {subsection}{\numberline {18.4}Background Uncertainties}{120}{subsection.18.4}% 
 \contentsline {subsection}{\numberline {18.5}Breakdown of the Systematic Uncertainties }{120}{subsection.18.5}% 
-\contentsline {subsection}{\numberline {18.6}Statistical Uncertainties}{122}{subsection.18.6}% 
-\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{124}{part.6}% 
-\contentsline {section}{\numberline {19} Differential Cross-sections }{124}{section.19}% 
-\contentsline {section}{\numberline {20}Effective Field Theory ReInterpretation}{124}{section.20}% 
-\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{125}{part.7}% 
-\contentsline {section}{\numberline {21}Conclusion}{125}{section.21}% 
-\contentsline {section}{\numberline {22}Outlook}{126}{section.22}% 
-\contentsline {part}{References}{127}{section.22}% 
-\contentsline {part}{Appendices}{133}{part*.81}% 
-\contentsline {section}{\numberline {A}Personal Contribution}{134}{Appendix.a.A}% 
-\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{134}{Appendix.a.B}% 
+\contentsline {subsection}{\numberline {18.6}Statistical Uncertainties}{121}{subsection.18.6}% 
+\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{126}{part.6}% 
+\contentsline {section}{\numberline {19} Differential Cross-sections }{126}{section.19}% 
+\contentsline {section}{\numberline {20}Effective Field Theory ReInterpretation}{126}{section.20}% 
+\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{127}{part.7}% 
+\contentsline {section}{\numberline {21}Conclusion}{127}{section.21}% 
+\contentsline {section}{\numberline {22}Outlook}{128}{section.22}% 
+\contentsline {part}{References}{129}{section.22}% 
+\contentsline {part}{Appendices}{135}{Item.95}% 
+\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{135}{part*.82}% 
+\contentsline {section}{\numberline {A}Personal Contribution}{136}{Appendix.a.A}% 
+\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ(\rightarrow 4\ell )jj$ Measurement}{136}{subsection.a.A.1}% 
+\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{136}{subsection.a.A.2}% 
+\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{139}{Appendix.a.B}% 
+\contentsline {section}{\numberline {C}VBS Suppressed Region}{144}{Appendix.a.C}% 
 \contentsfinish 
