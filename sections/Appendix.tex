@@ -33,27 +33,27 @@ As discussed in Section \ref{subsec:Bias}, the bias from the unfolding process i
     \centering
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf}
         \caption{ bin 1}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf}
         \caption{bin 2 }
     \end{subfigure}\\
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf}
         \caption{ bin 3 }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf}
         \caption{bin 4 }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf}
         \caption{bin 5 }
     \end{subfigure}
     \caption{ MC-toy-based unfolding bias and statistical uncertainty as a function of several numbers of iterations in each bin of $m_{jj}$ distribution in the VBS-Enhanced region. \label{fig:UnfoldingBias_mjj_VBSEnhanced}}
@@ -65,27 +65,27 @@ The unfolding bias is expected to converge to a value of zero with a higher numb
     \centering
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf}
         \caption{ bin 1}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf}
         \caption{bin 2 }
     \end{subfigure}\\
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf}
         \caption{ bin 3 }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf}
         \caption{bin 4 }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf}
         \caption{bin 5 }
     \end{subfigure}
     \caption{ MC-toy-based unfolding bias in each bin of $m_{jj}$ in the VBS-Enhanced region using Gaussian toys after subtracting the contribution of the fiducial fake events from both nominal and toy MC predictions.\label{fig:UnfoldingBias_mjj_VBSEnhanced_noFakes}}
@@ -110,3 +110,182 @@ The differential measurements of the $ZZ(\rightarrow 4\ell)jj$ process are stati
 
 \section{VBS Suppressed Region}
 \label{Appendix:VBSSupRegion}
+
+\subsection{Systematics}
+\label{appendix:VBSSupSys}
+
+\begin{table}
+    \centering
+    \begin{tabular}{|l || c | c | c | }
+    \hline 
+    Bin $m_{jj}$ [GeV] & [300, 410) & [410, 600) & [600, 1780)\\
+    \hline 
+    QCD MC modelling & 2 & 0.16 & \textbf{7.1}\\
+    Jet & \textbf{7.3} & \textbf{6.8} & \textbf{6.2 }\\
+    Trigger & 0.03 & 0.06 & 0.08 \\
+    Leptons & 1.4 & 1.5 & 1.6 \\
+    PRW & 0.39 & 0.06 & 0.16\\
+    Theory ($qqZZ$) & 1.9 & 2.3 & 2.1 \\
+    Theory (EWK $qqZZjj$) & 0.02 & 0.02 & 0.04 \\
+    Theory ($ggZZ$) & 0.13 & 0.22 & 0.28 \\
+    MC Bkg. (ttV+VVV) & 1.6 & 1.7 & 1.6 \\
+    Fake Bkg. (stat + syst) & 3.4 & 2.9 & 2.6 \\
+    Luminosity & 1.5 & 1.4 & 1.4 \\
+    Unfolding Bias & \textbf{12.1} & \textbf{11.0} & \textbf{6.1}\\
+    \hline
+    Total & 14.7 & 13.6 & 12.0 \\
+    \hline
+    \end{tabular}
+    \caption{Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\mjj$ in the VBS-Suppressed region. \label{tab:systematics_mjj_VBS_Suppressed}}
+\end{table}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{subfigure}{.48\textwidth}
+        \centering
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf}
+        \caption{ Statistical and systematic uncertainties affecting the differential cross-sections measurements. \label{fig:sys_mjj_VBS_Suppressed_total}}
+    \end{subfigure}
+    \begin{subfigure}{.48\textwidth}
+        \centering
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf}
+        \caption{Breakdown of the total jet related uncertainties. \label{fig:sys_mjj_VBS_Suppressed_jet} }
+    \end{subfigure}
+    \caption{Uncertainties as a function of $\mjj$ in the VBS-Suppressed region.}  \label{fig:sys_mjj_VBS_Suppressed}
+\end{figure}
+
+\subsection{Detector Level Measurements}
+\label{appendix:VBSSupReco}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf}
+        \caption{ \footnotesize{$m_{jj}$}: $\chi^2/NDF = 1.78$ }
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf}
+        \caption{ \footnotesize{$m_{4\ell}$ }: $\chi^2/NDF = 0.88$ }
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf}
+        \caption{ \footnotesize{$p_{T,jj}$}: $\chi^2/NDF = 2.0$ }
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf}
+        \caption{ \footnotesize{$p_{T,4\ell}$ }: $\chi^2/NDF = 0.20$ }
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf}
+        \caption{ \footnotesize{$p_{T,4\ell jj}$}: $\chi^2/NDF = 0.15$ }
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf}
+        \caption{ \footnotesize{$s_{T, 4\ell jj}$ }: $\chi^2/NDF = 0.58$ }
+    \end{subfigure}
+    \caption{Detector level distributions in the VBS-Suppressed region.}  \label{fig:reco_VBS_Suppressed_a}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar1_CR.pdf}
+        \caption{ \footnotesize{$\cos \theta^{*}_{\ell 1 \ell 2}$}: $\chi^2/NDF = 0.01$ }
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar3_CR.pdf}
+        \caption{ \footnotesize{$\cos \theta^{*}_{\ell 3 \ell 4}$ }: $\chi^2/NDF = 0.60$ }
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_dphi_CR.pdf}
+        \caption{ \footnotesize{$\Delta \phi _{jj}^{signed}$ }: $\chi^2/NDF = 1.26$ }
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_dy_CR.pdf}
+        \caption{ \footnotesize{$\Delta y_{jj}$ }: $\chi^2/NDF = 0.55$ }
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/RecoDist_VBSSuppressed/reco_centrality_CR.pdf}
+        \caption{ \footnotesize{$\zeta$ }: $\chi^2/NDF = 0.60$ }
+    \end{subfigure}
+    \caption{Detector level distributions in the VBS-Suppressed region.}  \label{fig:reco_VBS_Suppressed_b}
+\end{figure}
+
+\subsection{Unfolded Cross-sections}
+\label{appendix:VBSSupUnfolded}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_mjj_CR.pdf}
+        \caption{ \footnotesize{$m_{jj}$}: p-value(Sherpa=0.15 $\&$ MG=0.08)}
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_m4l_CR.pdf}
+        \caption{ \footnotesize{$m_{4\ell}$ }: p-value(Sherpa=0.40 $\&$ MG=0.15)}
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_ptjj_CR.pdf}
+        \caption{ \footnotesize{$p_{T,jj}$}: p-value(Sherpa=0.24 $\&$ MG=0.02)}
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_pt4l_CR.pdf}
+        \caption{ \footnotesize{$p_{T,4\ell}$ }: p-value(Sherpa=0.82 $\&$ MG=0.40)}
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_ptzzjj_CR.pdf}
+        \caption{ \footnotesize{$p_{T,4\ell jj}$}: p-value(Sherpa=0.96 $\&$ MG=0.08)}
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_stzzjj_CR.pdf}
+        \caption{ \footnotesize{$s_{T, 4\ell jj}$ }: p-value(Sherpa=0.52 $\&$ MG=0.11)}
+    \end{subfigure}
+    \caption{Unfolded differential cross-sections in the VBS-Suppressed region.}  \label{fig:unfolded_xs_VBS_Suppressed_a}
+\end{figure}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar1_CR.pdf}
+        \caption{ \footnotesize{$\cos \theta^{*}_{\ell 1 \ell 2}$}: p-value(Sherpa=0.90 $\&$ MG=0.81)}
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar3_CR.pdf}
+        \caption{ \footnotesize{$\cos \theta^{*}_{\ell 3 \ell 4}$ }: p-value(Sherpa=0.43 $\&$ MG=0.41)}
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_dphi_CR.pdf}
+        \caption{ \footnotesize{$\Delta \phi _{jj}^{signed}$ }: p-value(Sherpa=0.26 $\&$ MG=0.02)}
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_dy_CR.pdf}
+        \caption{ \footnotesize{$\Delta y_{jj}$ }: p-value(Sherpa=0.57 $\&$ MG=0.32)}
+    \end{subfigure}\\
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.98\linewidth]{figures/Results/CrossSection_VBSSuppressed/xs_centrality_CR.pdf}
+        \caption{ \footnotesize{$\zeta$ }: p-value(Sherpa=0.48 $\&$ MG=0.31)}
+    \end{subfigure}
+    \caption{Unfolded differential cross-sections in the VBS-Suppressed region.}  \label{fig:unfolded_xs_VBS_Suppressed_b}
+\end{figure}
