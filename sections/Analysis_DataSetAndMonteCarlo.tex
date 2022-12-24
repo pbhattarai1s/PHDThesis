@@ -41,7 +41,7 @@ As discussed in section \ref{sec:EWKPheno}, two types of interaction, QCD and EW
 
 An alternative \textsc{MadGraph5} samples produced at NLO accuracy for up to one additional parton emission and LO accuracy for up to three additional parton emission \cite{MADGRAPHNLO} are also used in the measurement for the parton induced $qqZZ$ samples. The generator uses A14NNPDF23LO PDF set, and the ME is interfaced with \textsc{Pythia8} for parton showering, merging, and matching \cite{Pythia8}. 
 
-The EWK production $qqZZjj$ ($qq \rightarrow ZZ^{(*)}jj \rightarrow 4 \ell jj$) is simulated using a POWHEG-V2 generator using an MSTW2008 PDF set with NLO accuracy in QCD correction and interfaced with Pythia8 for parton showering and hadronization \cite{PowhegV2}. An alternative sample at LO accuracy is also used in the measurement from \textsc{MadGraph5} with A14NNPDF23LO PDF set and \textsc{Pythia8} showering \cite{MADGRAPHNLO}. Table \ref{tab:SigMC} summarizes the signal MC used in the measurement. 
+The EWK production $qqZZjj$ ($qq \rightarrow ZZ^{(*)}jj \rightarrow 4 \ell jj$) is simulated using a \textsc{PowhegV2} generator using an MSTW2008 PDF set with NLO accuracy in QCD correction and interfaced with \textsc{Pythia8} for parton showering and hadronization \cite{PowhegV2}. An alternative sample at LO accuracy is also used in the measurement from \textsc{MadGraph5} with A14NNPDF23LO PDF set and \textsc{Pythia8} showering \cite{MADGRAPHNLO}. The \textsc{PowhegV2} NLO prediction of electroweak $qqZZjj$ does not contain the contribution from electroweak triboson $VZZ$ processes where two vector bosons decay leptonically and one decays hadronically. The contribution from these electroweak triboson processes is predicted using the {Sherpa} $2.2.2$ MC generator at LO accuracy for up to two additional parton emissions and added to the \textsc{PowhegV2} predictions. Table \ref{tab:SigMC} summarizes the signal MC used in the measurement. 
 
 \begin{table}[!htb]
 \footnotesize
@@ -64,9 +64,11 @@ QCD $gg$ loop& 		& 		 & 		 & 	 \\
 \hline 
 EWK & 		& 		 & 		 & 	 \\
 \multirow{2}{*}{ $q\bar{q} \rightarrow ZZ^{(*)}jj \rightarrow 4\ell jj$ } 
-					& \multirow{2}{*}{$m_{4\ell} > 130$ GeV } & \textsc{Pythia8} & MSTW2008 &  $\ge 2 j$ (EWK) @ NLO QCD \\ 
+					& \multirow{2}{*}{$m_{4\ell} > 130$ GeV } & \textsc{PowhegV2} & MSTW2008 &  $\ge 2 j$ (EWK) @ NLO QCD \\ 
  		&   & \textsc{MadGraph} & A14NNPDF23LO & $\ge 2 j$ (EWK) @LO \\
 		& 		& 		 & 		 & 	 \\
+\hline 
+EWK  $q\bar{q} \rightarrow ZZ^{(*)}jj \rightarrow 4\ell jj$ & 		& 	\textsc{Sherpa}$2.2.2$	 & 	NNPDF3.0NNLO	 & $1,2j @LO$	 \\
 \hline\hline
 
 \end{tabular}

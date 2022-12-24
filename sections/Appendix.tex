@@ -27,7 +27,7 @@ The experience I have gained in different areas of particle physics has signific
 
 \section{Additional Study on Unfolding Bias}
 \label{Appendix:Unfolding_bias}
-As discussed in Section \ref{subsec:Bias}, the bias from the unfolding process is the largest source of the systematic uncertainty for the measurement. Additional studies were conducted to understand the underlying source of this bias. Figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced} shows the unfolding bias and statistical uncertainty on the unfolded yield as a function of the increasing number of unfolding iterations for each bin of $m_{jj}$ in the VBS-Enhanced region. The bias is evaluated using the MC-toy-based method introduced in Section \ref{subsec:Bias}. The total uncertainty shown in the black distribution is always the smallest for a single iteration, further assuring the choice of iteration is optimal. As expected, the bias decreases and the statistical uncertainty increases with the increasing number of unfolding iterations.
+As discussed in Section \ref{subsec:Bias}, the bias from the unfolding process is the largest source of the systematic uncertainty for the measurement. Additional studies were conducted to understand the underlying source of this bias. Figure \ref{fig:UnfoldingBiasStat_mjj_VBSEnhanced} shows the unfolding bias and statistical uncertainty on the unfolded yield as a function of the increasing number of unfolding iterations for each bin of $m_{jj}$ in the VBS-Enhanced region. The bias is evaluated using the MC-toy-based method introduced in Section \ref{subsec:Bias}. The total uncertainty shown in the black distribution is always the smallest for a single iteration, further assuring the choice of iteration is optimal. As expected, the bias decreases and the statistical uncertainty increases with the increasing number of unfolding iterations.
 
 \begin{figure}[htb]
     \centering
@@ -56,10 +56,10 @@ As discussed in Section \ref{subsec:Bias}, the bias from the unfolding process i
         \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf}
         \caption{bin 5 }
     \end{subfigure}
-    \caption{ MC-toy-based unfolding bias and statistical uncertainty as a function of several numbers of iterations in each bin of $m_{jj}$ distribution in the VBS-Enhanced region. \label{fig:UnfoldingBias_mjj_VBSEnhanced}}
+    \caption{ MC-toy-based unfolding bias and statistical uncertainty as a function of several numbers of iterations in each bin of $m_{jj}$ distribution in the VBS-Enhanced region. \label{fig:UnfoldingBiasStat_mjj_VBSEnhanced}}
 \end{figure}
 
-The unfolding bias is expected to converge to a value of zero with a higher number of iterations. However, as observed in figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced}, the rate of convergence of unfolding bias is lower, suggesting that the fiducial fakes present in the detector level distributions are not fully corrected by the unfolding method. The fiducial fraction, as shown by figure \ref{fig:UnfoldingInputs}, is usually between $60-80\%$ in this measurement. To confirm that a high fraction of fiducial fakes causes the unfolding bias, these are subtracted manually from the MC predictions of nominal and toy distributions. The MC-toy-based unfolding bias estimate is repeated and figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced_noFakes} shows the resulting unfolding bias in each bin of $m_{jj}$ in the VBS-Enhanced region. Compared to the nominal unfolding bias shown in figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced}, figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced_noFakes} has a smaller bias in each bin. Moreover, the bias converges to zero at a higher rate.
+The unfolding bias is expected to converge to a value of zero with a higher number of iterations. However, as observed in figure \ref{fig:UnfoldingBiasStat_mjj_VBSEnhanced}, the rate of convergence of unfolding bias is lower, suggesting that the fiducial fakes present in the detector level distributions are not fully corrected by the unfolding method. The fiducial fraction, as shown by figure \ref{fig:UnfoldingInputs}, is usually between $60-80\%$ in this measurement. To confirm that a high fraction of fiducial fakes causes the unfolding bias, these are subtracted manually from the MC predictions of nominal and toy distributions. The MC-toy-based unfolding bias estimate is repeated and figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced_noFakes} shows the resulting unfolding bias in each bin of $m_{jj}$ in the VBS-Enhanced region. Compared to the nominal unfolding bias shown in figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced}, figure \ref{fig:UnfoldingBias_mjj_VBSEnhanced_noFakes} has a smaller bias in each bin. Moreover, the bias converges to zero at a higher rate.
 
 \begin{figure}[htb]
     \centering
@@ -110,12 +110,15 @@ The differential measurements of the $ZZ(\rightarrow 4\ell)jj$ process are stati
 
 \section{VBS Suppressed Region}
 \label{Appendix:VBSSupRegion}
+This section summarizes the results of the detector level yield and the unfolded differential cross-sections measured in the VBS-Suppressed region. The systematics affecting these results are also discussed briefly.
 
 \subsection{Systematics}
 \label{appendix:VBSSupSys}
+The same systematic uncertainties discussed in Chapter $V$ also impact the measurements in the VBS-Suppressed region. Table \ref{tab:systematics_mjj_VBS_Suppressed} shows the impact of several systematic uncertainties on the unfolded differential cross-sections in each bin of $m_{jj}$ for the VBS-Suppressed region. Like the VBS-Enhanced region, unfolding bias followed by the jet-related uncertainties and QCD MC modeling uncertainty are the most significant sources of systematic uncertainties. Figure \ref{fig:sys_mjj_VBS_Suppressed_total} shows the impact of the statistical and different systematic uncertainties on the unfolded cross-sections as a function of $m_{jj}$. The unfolded cross-sections are statistically limited. Figure \ref{fig:sys_mjj_VBS_Suppressed_jet} shows the breakdown of the jet-related uncertainties, where uncertainties related to the punch through calibration are the dominant source.  
 
 \begin{table}
     \centering
+    \caption{Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\mjj$ in the VBS-Suppressed region. \label{tab:systematics_mjj_VBS_Suppressed}}
     \begin{tabular}{|l || c | c | c | }
     \hline 
     Bin $m_{jj}$ [GeV] & [300, 410) & [410, 600) & [600, 1780)\\
@@ -136,7 +139,6 @@ The differential measurements of the $ZZ(\rightarrow 4\ell)jj$ process are stati
     Total & 14.7 & 13.6 & 12.0 \\
     \hline
     \end{tabular}
-    \caption{Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\mjj$ in the VBS-Suppressed region. \label{tab:systematics_mjj_VBS_Suppressed}}
 \end{table}
 
 \begin{figure}[!htb]
@@ -144,18 +146,20 @@ The differential measurements of the $ZZ(\rightarrow 4\ell)jj$ process are stati
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width=.9\linewidth]{figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf}
-        \caption{ Statistical and systematic uncertainties affecting the differential cross-sections measurements. \label{fig:sys_mjj_VBS_Suppressed_total}}
+        \caption{ Statistical and systematic uncertainties are affecting the differential cross-section measurements. \label{fig:sys_mjj_VBS_Suppressed_total}}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width=.9\linewidth]{figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf}
-        \caption{Breakdown of the total jet related uncertainties. \label{fig:sys_mjj_VBS_Suppressed_jet} }
+        \caption{Breakdown of the total jet-related uncertainties. \label{fig:sys_mjj_VBS_Suppressed_jet} }
     \end{subfigure}
     \caption{Uncertainties as a function of $\mjj$ in the VBS-Suppressed region.}  \label{fig:sys_mjj_VBS_Suppressed}
 \end{figure}
 
 \subsection{Detector Level Measurements}
 \label{appendix:VBSSupReco}
+
+Figures \ref{fig:reco_VBS_Suppressed_a} and \ref{fig:reco_VBS_Suppressed_b} show the measured data yield compared to the SM detector-level predictions as a function of the eleven kinematic observables in the VBS-Suppressed region. Distributions are statistically limited, and the impact of theoretical and experimental systematic uncertainties ranges from about $20$ to $30\%$ depending on bins and distributions. Similar to the VBS-Enhanced region, a $\chi^2/NDF$ for each distribution is also reported. These values suggest a good agreement between the measured data and the SM prediction. 
 
 \begin{figure}[!htb]
     \centering
@@ -224,6 +228,8 @@ The differential measurements of the $ZZ(\rightarrow 4\ell)jj$ process are stati
 
 \subsection{Unfolded Cross-sections}
 \label{appendix:VBSSupUnfolded}
+
+Figures \ref{fig:unfolded_xs_VBS_Suppressed_a} and \ref{fig:unfolded_xs_VBS_Suppressed_b} show the measured unfolded differential cross-sections as a function of the eleven kinematic observables in the VBS-Suppressed region. The unfolded differential cross-sections (black) are compared with two different state-of-the-art SM particle-level predictions, first, where the QCD $qqZZjj$ is generated by \textsc{Sherpa} (red) and second, where the QCD $qqZZjj$ is generated by \textsc{Madgraph} (blue). The vertical-solid line in the black distribution shows the statistical uncertainty of the unfolded cross-sections, and the black band represents the total systematic uncertainties. Similarly, the dashed-red and dashed-blue bands represent the fiducial uncertainties on the \textsc{Sherpa} and \textsc{Madgraph} particle level yield, respectively. Similar to the VBS-Enhanced region, the p-values comparing the unfolded cross-sections with the two truth level yields are also reported. The p-values larger than $0.05$ and the ratios of particle level yields to the unfolded-data yields suggest no statistical deviations of the differential cross-section from the SM predicted values. Therefore, in the analyzed LHC Run-2 dataset, for the $ZZ (\rightarrow 4) \ell jj$ process, all differential cross-sections in the VBS-Suppressed region are concluded to agree with the SM predictions. 
 
 \begin{figure}[!htb]
     \centering
