@@ -86,8 +86,7 @@
 \contentsline {section}{\numberline {22}Conclusion}{135}{section.22}% 
 \contentsline {section}{\numberline {23}Outlook}{136}{section.23}% 
 \contentsline {part}{References}{137}{section.23}% 
-\contentsline {part}{Appendices}{143}{Item.96}% 
-\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{143}{part*.84}% 
+\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{143}{Item.96}% 
 \contentsline {section}{\numberline {A}Personal Contribution}{144}{Appendix.a.A}% 
 \contentsline {subsection}{\numberline {A.1}Contribution to $ZZ(\rightarrow 4\ell )jj$ Measurement}{144}{subsection.a.A.1}% 
 \contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{144}{subsection.a.A.2}% 
