@@ -28,71 +28,71 @@
 \contentsline {section}{\numberline {7} Physics Object Reconstruction}{43}{section.7}% 
 \contentsline {subsection}{\numberline {7.1}Trigger}{44}{subsection.7.1}% 
 \contentsline {subsection}{\numberline {7.2}Tracks and Vertices Reconstruction}{44}{subsection.7.2}% 
-\contentsline {subsection}{\numberline {7.3}Electron Reconstruction}{48}{subsection.7.3}% 
-\contentsline {subsection}{\numberline {7.4}Muon Reconstruction}{50}{subsection.7.4}% 
-\contentsline {subsection}{\numberline {7.5}Jet Reconstruction}{52}{subsection.7.5}% 
-\contentsline {section}{\numberline {8}Future Upgrades}{56}{section.8}% 
-\contentsline {subsection}{\numberline {8.1}High Luminosity LHC}{56}{subsection.8.1}% 
-\contentsline {subsection}{\numberline {8.2}ATLAS Upgrades}{57}{subsection.8.2}% 
-\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{59}{part.4}% 
-\contentsline {section}{\numberline {9}Goals}{59}{section.9}% 
-\contentsline {section}{\numberline {10}Phase Space Definition}{60}{section.10}% 
-\contentsline {subsection}{\numberline {10.1}Fiducial Volume}{60}{subsection.10.1}% 
-\contentsline {subsection}{\numberline {10.2}Signal Region}{62}{subsection.10.2}% 
-\contentsline {section}{\numberline {11}Reconstruction Selection}{63}{section.11}% 
-\contentsline {subsection}{\numberline {11.1}Electrons}{63}{subsection.11.1}% 
-\contentsline {subsection}{\numberline {11.2}Muons}{63}{subsection.11.2}% 
-\contentsline {subsection}{\numberline {11.3}Jets}{64}{subsection.11.3}% 
-\contentsline {subsection}{\numberline {11.4}Overlap Removal}{65}{subsection.11.4}% 
-\contentsline {section}{\numberline {12}Trigger}{66}{section.12}% 
-\contentsline {section}{\numberline {13}Event Selection}{69}{section.13}% 
-\contentsline {section}{\numberline {14}Datasets and Monte Carlo Simulation}{72}{section.14}% 
-\contentsline {subsection}{\numberline {14.1}LHC Dataset}{72}{subsection.14.1}% 
-\contentsline {subsection}{\numberline {14.2}Monte Carlo Samples }{73}{subsection.14.2}% 
-\contentsline {subsubsection}{\numberline {14.2.1}Signal Samples}{73}{subsubsection.14.2.1}% 
-\contentsline {subsubsection}{\numberline {14.2.2}Background Samples}{76}{subsubsection.14.2.2}% 
-\contentsline {subsubsection}{\numberline {14.2.3}Samples for Fake Background}{77}{subsubsection.14.2.3}% 
-\contentsline {subsection}{\numberline {14.3}Event Weights}{77}{subsection.14.3}% 
-\contentsline {section}{\numberline {15}Definition of Measured Observables}{80}{section.15}% 
-\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{82}{part.5}% 
-\contentsline {section}{\numberline {16}Background Estimation}{82}{section.16}% 
-\contentsline {subsection}{\numberline {16.1}Data Driven Estimate of Fake Background}{82}{subsection.16.1}% 
-\contentsline {subsubsection}{\numberline {16.1.1}Lepton Composition}{84}{subsubsection.16.1.1}% 
-\contentsline {subsubsection}{\numberline {16.1.2}Control Regions}{86}{subsubsection.16.1.2}% 
-\contentsline {subsubsection}{\numberline {16.1.3} Fake Factor Strategy }{90}{subsubsection.16.1.3}% 
-\contentsline {subsubsection}{\numberline {16.1.4}Fake Efficiency $\&$ Systematics}{93}{subsubsection.16.1.4}% 
-\contentsline {subsubsection}{\numberline {16.1.5}Method Validation}{96}{subsubsection.16.1.5}% 
-\contentsline {subsubsection}{\numberline {16.1.6}Signal Region Estimation}{99}{subsubsection.16.1.6}% 
-\contentsline {section}{\numberline {17}Unfolding}{105}{section.17}% 
-\contentsline {subsection}{\numberline {17.1}Method Overview}{105}{subsection.17.1}% 
-\contentsline {subsection}{\numberline {17.2}Binning for Unfolding}{108}{subsection.17.2}% 
-\contentsline {subsection}{\numberline {17.3}Method Validation}{108}{subsection.17.3}% 
-\contentsline {subsubsection}{\numberline {17.3.1}MC Closure Test}{108}{subsubsection.17.3.1}% 
-\contentsline {subsubsection}{\numberline {17.3.2}Injection Test}{110}{subsubsection.17.3.2}% 
-\contentsline {subsubsection}{\numberline {17.3.3}Physics Variation}{111}{subsubsection.17.3.3}% 
-\contentsline {subsection}{\numberline {17.4}Bias and Optimization}{112}{subsection.17.4}% 
-\contentsline {section}{\numberline {18}Uncertainties on the Measurement}{115}{section.18}% 
-\contentsline {subsection}{\numberline {18.1}Theoretical Uncertainties}{115}{subsection.18.1}% 
-\contentsline {subsection}{\numberline {18.2}Experimental Uncertainties}{117}{subsection.18.2}% 
-\contentsline {subsection}{\numberline {18.3}Unfolding Uncertainties}{120}{subsection.18.3}% 
-\contentsline {subsection}{\numberline {18.4}Background Uncertainties}{121}{subsection.18.4}% 
-\contentsline {subsection}{\numberline {18.5}Statistical Uncertainties}{121}{subsection.18.5}% 
-\contentsline {subsection}{\numberline {18.6}Breakdown of Uncertainties }{122}{subsection.18.6}% 
-\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{126}{part.6}% 
-\contentsline {section}{\numberline {19} Detector Level Measurements }{127}{section.19}% 
-\contentsline {section}{\numberline {20} Unfolded Differential Cross-sections }{131}{section.20}% 
-\contentsline {section}{\numberline {21}Effective Field Theory ReInterpretation}{134}{section.21}% 
-\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{135}{part.7}% 
-\contentsline {section}{\numberline {22}Conclusion}{135}{section.22}% 
-\contentsline {section}{\numberline {23}Outlook}{136}{section.23}% 
-\contentsline {part}{References}{137}{section.23}% 
-\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{143}{Item.96}% 
-\contentsline {section}{\numberline {A}Personal Contribution}{144}{Appendix.a.A}% 
-\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ(\rightarrow 4\ell )jj$ Measurement}{144}{subsection.a.A.1}% 
-\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{144}{subsection.a.A.2}% 
-\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{147}{Appendix.a.B}% 
-\contentsline {section}{\numberline {C}VBS Suppressed Region}{152}{Appendix.a.C}% 
-\contentsline {subsection}{\numberline {C.1}Systematics}{152}{subsection.a.C.1}% 
-\contentsline {subsection}{\numberline {C.2}Detector Level Measurements}{153}{subsection.a.C.2}% 
-\contentsline {subsection}{\numberline {C.3}Unfolded Cross-sections}{153}{subsection.a.C.3}% 
+\contentsline {subsection}{\numberline {7.3}Electron Reconstruction}{47}{subsection.7.3}% 
+\contentsline {subsection}{\numberline {7.4}Muon Reconstruction}{49}{subsection.7.4}% 
+\contentsline {subsection}{\numberline {7.5}Jet Reconstruction}{51}{subsection.7.5}% 
+\contentsline {section}{\numberline {8}Future Upgrades}{55}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}High Luminosity LHC}{55}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8.2}ATLAS Upgrades}{56}{subsection.8.2}% 
+\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{58}{part.4}% 
+\contentsline {section}{\numberline {9}Goals}{58}{section.9}% 
+\contentsline {section}{\numberline {10}Phase Space Definition}{59}{section.10}% 
+\contentsline {subsection}{\numberline {10.1}Fiducial Volume}{59}{subsection.10.1}% 
+\contentsline {subsection}{\numberline {10.2}Signal Region}{61}{subsection.10.2}% 
+\contentsline {section}{\numberline {11}Reconstruction Selection}{62}{section.11}% 
+\contentsline {subsection}{\numberline {11.1}Electrons}{62}{subsection.11.1}% 
+\contentsline {subsection}{\numberline {11.2}Muons}{62}{subsection.11.2}% 
+\contentsline {subsection}{\numberline {11.3}Jets}{63}{subsection.11.3}% 
+\contentsline {subsection}{\numberline {11.4}Overlap Removal}{64}{subsection.11.4}% 
+\contentsline {section}{\numberline {12}Trigger}{65}{section.12}% 
+\contentsline {section}{\numberline {13}Event Selection}{68}{section.13}% 
+\contentsline {section}{\numberline {14}Datasets and Monte Carlo Simulation}{71}{section.14}% 
+\contentsline {subsection}{\numberline {14.1}LHC Dataset}{71}{subsection.14.1}% 
+\contentsline {subsection}{\numberline {14.2}Monte Carlo Samples }{72}{subsection.14.2}% 
+\contentsline {subsubsection}{\numberline {14.2.1}Signal Samples}{72}{subsubsection.14.2.1}% 
+\contentsline {subsubsection}{\numberline {14.2.2}Background Samples}{75}{subsubsection.14.2.2}% 
+\contentsline {subsubsection}{\numberline {14.2.3}Samples for Fake Background}{76}{subsubsection.14.2.3}% 
+\contentsline {subsection}{\numberline {14.3}Event Weights}{76}{subsection.14.3}% 
+\contentsline {section}{\numberline {15}Definition of Measured Observables}{79}{section.15}% 
+\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{81}{part.5}% 
+\contentsline {section}{\numberline {16}Background Estimation}{81}{section.16}% 
+\contentsline {subsection}{\numberline {16.1}Data Driven Estimate of Fake Background}{81}{subsection.16.1}% 
+\contentsline {subsubsection}{\numberline {16.1.1}Lepton Composition}{83}{subsubsection.16.1.1}% 
+\contentsline {subsubsection}{\numberline {16.1.2}Control Regions}{85}{subsubsection.16.1.2}% 
+\contentsline {subsubsection}{\numberline {16.1.3} Fake Factor Strategy }{89}{subsubsection.16.1.3}% 
+\contentsline {subsubsection}{\numberline {16.1.4}Fake Efficiency $\&$ Systematics}{92}{subsubsection.16.1.4}% 
+\contentsline {subsubsection}{\numberline {16.1.5}Method Validation}{95}{subsubsection.16.1.5}% 
+\contentsline {subsubsection}{\numberline {16.1.6}Signal Region Estimation}{98}{subsubsection.16.1.6}% 
+\contentsline {section}{\numberline {17}Unfolding}{104}{section.17}% 
+\contentsline {subsection}{\numberline {17.1}Method Overview}{104}{subsection.17.1}% 
+\contentsline {subsection}{\numberline {17.2}Binning for Unfolding}{107}{subsection.17.2}% 
+\contentsline {subsection}{\numberline {17.3}Method Validation}{107}{subsection.17.3}% 
+\contentsline {subsubsection}{\numberline {17.3.1}MC Closure Test}{107}{subsubsection.17.3.1}% 
+\contentsline {subsubsection}{\numberline {17.3.2}Injection Test}{109}{subsubsection.17.3.2}% 
+\contentsline {subsubsection}{\numberline {17.3.3}Physics Variation}{110}{subsubsection.17.3.3}% 
+\contentsline {subsection}{\numberline {17.4}Bias and Optimization}{111}{subsection.17.4}% 
+\contentsline {section}{\numberline {18}Uncertainties on the Measurement}{114}{section.18}% 
+\contentsline {subsection}{\numberline {18.1}Theoretical Uncertainties}{114}{subsection.18.1}% 
+\contentsline {subsection}{\numberline {18.2}Experimental Uncertainties}{116}{subsection.18.2}% 
+\contentsline {subsection}{\numberline {18.3}Unfolding Uncertainties}{119}{subsection.18.3}% 
+\contentsline {subsection}{\numberline {18.4}Background Uncertainties}{120}{subsection.18.4}% 
+\contentsline {subsection}{\numberline {18.5}Statistical Uncertainties}{120}{subsection.18.5}% 
+\contentsline {subsection}{\numberline {18.6}Breakdown of Uncertainties }{121}{subsection.18.6}% 
+\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{125}{part.6}% 
+\contentsline {section}{\numberline {19} Detector Level Measurements }{126}{section.19}% 
+\contentsline {section}{\numberline {20} Unfolded Differential Cross-sections }{130}{section.20}% 
+\contentsline {section}{\numberline {21}Effective Field Theory ReInterpretation}{133}{section.21}% 
+\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{134}{part.7}% 
+\contentsline {section}{\numberline {22}Conclusion}{134}{section.22}% 
+\contentsline {section}{\numberline {23}Outlook}{135}{section.23}% 
+\contentsline {part}{References}{136}{section.23}% 
+\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{142}{Item.96}% 
+\contentsline {section}{\numberline {A}Personal Contribution}{143}{Appendix.a.A}% 
+\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ(\rightarrow 4\ell )jj$ Measurement}{143}{subsection.a.A.1}% 
+\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{143}{subsection.a.A.2}% 
+\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{146}{Appendix.a.B}% 
+\contentsline {section}{\numberline {C}VBS Suppressed Region}{151}{Appendix.a.C}% 
+\contentsline {subsection}{\numberline {C.1}Systematics}{151}{subsection.a.C.1}% 
+\contentsline {subsection}{\numberline {C.2}Detector Level Measurements}{152}{subsection.a.C.2}% 
+\contentsline {subsection}{\numberline {C.3}Unfolded Cross-sections}{152}{subsection.a.C.3}% 
 \contentsfinish 
