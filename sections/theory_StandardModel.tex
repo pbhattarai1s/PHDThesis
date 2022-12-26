@@ -21,7 +21,7 @@ The SM also respects CPT symmetry, a combination of three additional discrete sy
     \label{fig:SM}
 \end{figure}
 
-The twelve half-integer-spin fermions can be distinguished further into two categories, leptons, and quarks, each having three generations of particles with similar properties as shown schematically by Figure \ref{fig:SM}. For each fermion, there exists an anti-fermion with the same additive quantum numbers but with opposite signs. Four spin $1$ bosons shown in Table \ref{tab:VectorBosons} are collectively called the gauge bosons. Quanta of these gauge fields mediate the electromagnetic, weak, and strong interactions and are invariant under various local gauge transformations \cite{Bernabeu2021}. As summarized by Table \ref{tab:FermionInteraction}, fermions take part in different interactions. A gauge coupling parameter governs the strength of the interaction.
+The twelve half-integer-spin fermions can be distinguished further into two categories, leptons and quarks, each having three generations of particles with similar properties as shown schematically by Figure \ref{fig:SM}. For each fermion, there exists an anti-fermion with the same additive quantum numbers but with opposite signs. Four spin $1$ bosons shown in Table \ref{tab:VectorBosons} are collectively called the gauge bosons. Quanta of these gauge fields mediate the electromagnetic, weak, and strong interactions and are invariant under various local gauge transformations \cite{Bernabeu2021}. As summarized in Table \ref{tab:FermionInteraction}, different fermions participate in different interactions. A gauge coupling parameter governs the strength of the interaction.
 
 Massless photon ($\gamma$) mediates the electromagnetic interaction, whereas the massive $W$ and $Z$ bosons mediate weak interaction. The electric charge (Q), which is conserved in all interactions, is related to the isospin and hypercharge by $Q=I_3 + \frac{Y}{2}$, where $I_3$ is the third component of the weak isospin. As a consequence of the chiral structure of $SU(2)_{L}$, each generation of fermion contains a left-handed doublet with $I_{3}=\pm\frac{1}{2}$ and a right-handed singlet carrying $I_{3}=0$ as shown in Table \ref{tab:Fermions}. 
 
@@ -121,11 +121,11 @@ The compact Lagrangian density given in equation \ref{eqn:SMLagrangian} describe
 \label{eqn:SMLagrangian}
 \end{equation}
 
-The first term $-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}$ describes the dynamics of the gauge boson interactions, the second term $i\bar{\psi}\gamma^{\mu}D_{\mu}\psi$ describes the interaction of the fermion fields. The third term $|D_{\mu}\phi|^{2}$ describes the couplings between the Higgs boson and gauge bosons, whereas the term $V(\phi)$ represents the Higgs potential and its self-interactions. The second last term $\bar{\psi_{i}}y_{ij}\psi_{j}\phi$ generates masses for fermions based on their Yukawa couplings $y_{ij}$ to the Higgs field. Similarly, the last term $h.c.$ generates masses for anti-fermions. In reality, the SM lagrangian density, as shown by equation \ref{eqn:SMLagrangian}, is a combination of complex interactions that follow various local gauge symmetries, and concise derivations of different interactions are discussed individually in the following few sections.
+The first term $-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}$ describes the dynamics of the gauge boson interactions, the second term $i\bar{\psi}\gamma^{\mu}D_{\mu}\psi$ describes the interaction of the fermion fields. The third term $|D_{\mu}\phi|^{2}$ describes the couplings between the Higgs boson and gauge bosons, whereas the term $V(\phi)$ represents the Higgs potential and its self-interactions. The second last term $\bar{\psi_{i}}y_{ij}\psi_{j}\phi$ generates masses for fermions based on their Yukawa couplings $y_{ij}$ to the Higgs field. Similarly, the last term $h.c.$ generates masses for anti-fermions. In reality, the SM lagrangian density, as shown by equation \ref{eqn:SMLagrangian}, is a combination of complex interactions that follow different types of local gauge symmetries, and concise derivations of different interactions are discussed individually in the following few sections.
  
 \subsubsection{Quantum Electrodynamics}
 \label{subsubsec:QED}
-Quantum electrodynamics describes the electromagnetic interaction. The Lagrangian density ($\mathcal{L}_{Dirac}$) describes the free propagation of a fermion in a vacuum as:  
+Quantum electrodynamics describes the electromagnetic interaction. The Dirac Lagrangian density ($\mathcal{L}_{Dirac}$) describes the free propagation of a fermion in a vacuum as:  
 
 \begin{equation}
 \mathcal{L}_{Dirac} = \bar{\psi} i \gamma^{\mu} \partial_{\mu} \psi ~-~ m\bar{\psi}\psi
@@ -158,7 +158,6 @@ $A_{\mu}$ couples to fermionic fields $\psi(x,t)$ with strength q. A covariant d
 D_{\mu} = \partial_{\mu} - iqA_{\mu}
 \label{eqn:QEDCovDerv}
 \end{equation}  
-
 The quantity $q$ can be interpreted as the electric charge $-e$ of fermion, which gives the coupling strength of QED. With these substitutions, the Dirac Lagrangian in equation \ref{eqn:DiracLag} changes to the following
 
 \begin{equation}
@@ -180,7 +179,8 @@ The gauge invariant kinetic term of photon $-\frac{1}{4}F_{\mu\nu}F^{\mu\nu}$ ca
 \mathcal{L}_{QED} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu} + \bar{\psi} ( i \gamma^{\mu} D_{\mu} ~-~ m) \psi
 \label{eqn:QEDFullLag}
 \end{equation}
-$\mathcal{L}_{QED}$ in equation \ref{eqn:QEDFullLag} is the full Lagrangian for QED, and the electromagnetic phenomena can be derived by solving for the equations of motion applying the Lorentz gauge condition $\partial_{\mu}A^{\mu}=0$. A small dimensionless coupling constant $\alpha$ determines the relative strength of the QED interactions. The probability of particle interactions and decay rates can be calculated as the square modulus of a perturbative series in powers of $\alpha$. The value of $alpha$ depends on the energy scale due to the additional contributions from the vacuum polarization of virtual quark and virtual lepton loop corrections. For a given momentum transfer squared $q^2$ of the exchanged photon, the effective coupling constant depends on the $\alpha_{0} = \frac{e^2}{4\pi}$ as, 
+
+$\mathcal{L}_{QED}$ in equation \ref{eqn:QEDFullLag} is the full Lagrangian for QED, and the electromagnetic phenomena can be derived by solving for the equations of motion applying the Lorentz gauge condition $\partial_{\mu}A^{\mu}=0$. A small dimensionless coupling constant $\alpha$ determines the relative strength of the QED interactions. The probability of particle interactions and decay rates can be calculated as the square modulus of a perturbative series in powers of $\alpha$. The value of $\alpha$ depends on the energy scale because of the additional contributions from the vacuum polarization of virtual quark and virtual lepton loop corrections. For a given momentum transfer squared $q^2$ of the exchanged photon, the effective coupling constant depends on the $\alpha_{0} = \frac{e^2}{4\pi}$ with zero momentum transfer as, 
 \begin{equation}
     \alpha(q^2) = \frac{\alpha_{0} (q^2=0)}{1-\Delta \alpha(q^2)}
 \end{equation}
@@ -189,10 +189,7 @@ with the small value of $\alpha_{0} \approx \frac{1}{137.036}$ \cite{AlphaQED}.
 \subsubsection{Quantum Chromodynamics }
 \label{subsubsec:QCD}
 
-Quantum Chromodynamics defines the interaction between the quarks, requiring $SU(3)$ gauge transformation on the quark field with color charge $j$ (red, blue, or green).
- 
-The Dirac Lagrangian for a quark can be modified to include all possible colors of quark field $q_{j}$ as
-
+Quantum Chromodynamics defines the interaction between the quarks, requiring $SU(3)$ gauge transformation on the quark field with color charge $j$ (red, blue, or green). The Dirac Lagrangian for a quark can be written similarly to that of an electron with a small modification to include all possible colors of quark field $q_{j}$ as
 \begin{equation}
 \mathcal{L} = \bar{q_{j}}(i\gamma^{\mu}\partial_{\mu} - m )q_{j}
 \label{eqn:QCDStartL}
@@ -211,7 +208,7 @@ The local $SU(3)$ gauge transformation is
 q(x) \rightarrow e^{i \alpha_a(x) T_{a}} q(x)
 \label{eqn:QCDSU3LT}
 \end{equation}
-where $T_{a} = \frac{\lambda_{a}}{2}$, and $a = {1,2...8}$. To understand the source of gauge invariance in the Lagrangian in equation \label{eqn:SU3LocalGaugeTransform}, we can consider an infinitesimal transformation of the color field as 
+where $T_{a} = \frac{\lambda_{a}}{2}$, and $a = {1,2...8}$. To understand the source of gauge invariance in the Lagrangian of equation \ref{eqn:QCDStartL}, an infinitesimal transformation of the color field is considered as
 
 \begin{equation}
 q(x) \rightarrow [ 1 + i\alpha_{a}(x)T_{a}]q(x) \\
@@ -266,16 +263,14 @@ Experimental observations suggest weak interactions violate parity by only affec
 
 \begin{center}
 $ \chi_{L} = \begin{pmatrix} \nu_{e} \\ e\end{pmatrix}_{L}$ \hspace{5pt} $\&$ \hspace{5pt} $ \chi_{L} = \begin{pmatrix}  u \\ d \end{pmatrix}_{L}$ \\
-\vspace{10pt}
+\vspace{5pt}
 $ \psi_{R} = e_{R}$ \hspace{10pt} $\&$ \hspace{5pt} $\psi_{R} = u_{R} ~\&~ d_{R}$
 \end{center}
 The Lagrangian for these fermion fields should be invariant under local gauge transformation corresponding to both $SU(2)_{L}$ and $U(1)_{Y}$ symmetry as, 
-
 \begin{equation}
 \chi_{L} \rightarrow e^{i\beta(x)Y+i\alpha_{a}(x)\tau_{a}} \chi_{L}
 \label{eqn:SU2LHTransform}
 \end{equation}
-
 \begin{equation}
 \psi_{R} \rightarrow e^{i\beta(x)Y} \psi_{R}
 \label{eqn:SU2RHTransform}
@@ -306,12 +301,10 @@ W^{\pm}_{\mu} ~=~ \frac{ W^{1}_{\mu} \mp iW^{2}_{\mu} } {\sqrt(2)}
 via exchange of the $W^{\pm}$ bosons and the neutral current interactions from the two neutral gauge boson fields $W^{3}_{\mu}$ and $B_{\mu}$. 
 
 The Lagrangian for the charged-current interaction for the first generation of quarks and leptons is, 
-
 \begin{equation}
 \mathcal{L}_{CC} = \frac{g}{2\sqrt{2}} \{ W^{\dagger}_{\mu} [\bar{u}\gamma^{\mu}(1-\gamma_{5})d + \bar{\nu_{e}}\gamma^{\mu}(1-\gamma_{5})e ]~+~h.c \}
 \label{eqn:SU2CCLag}
 \end{equation}
-
 The $SU(2)_{L}$ charged-current interaction Lagrangian for the next two generations follows the same, establishing the universality of the quark and lepton interactions as a direct consequence of the gauge symmetry.
 
 The neutral-current Lagrangian is given by, 
@@ -330,14 +323,15 @@ The following condition is imposed to obtain QED from $A_{\mu}$:
 g \sin\theta_{W} = g^{'} \cos\theta_{W} = e ~\& ~  Y= Q - T_{3}
 \label{eqn:QEDFromEWk}
 \end{equation}
-where $T_{3}=\frac{\tau_{3}}{2}$ is the weak isospin and $\theta_{W}$ is the Weinberg mixing angle, which can be measured experimentally and expressed in terms of the two $SU(2)_{L}$ coupling $g^{'}$ and $U(1)_{Y}$ coupling $g$ as:
+where $T_{3}=\frac{\tau_{3}}{2}$ is the weak isospin and $\theta_{W}$ is the Weinberg mixing angle, which has been measured experimentally with high precision and can be expressed in terms of the two $SU(2)_{L}$ coupling $g^{'}$ and $U(1)_{Y}$ coupling $g$ as:
 \begin{equation}
 \sin\theta_{W} = \frac{g^{'}}{\sqrt{g^{2} +  g^{'2} }} ~\&~ \cos\theta_{W} = \frac{g}{\sqrt{g^{2} +  g^{'2} }}
 \label{eqn:WeinbergAngle}
 \end{equation}
+
 Similar to QED and QCD, the probability of particle interactions and decay rates in electroweak interactions can be calculated as the square-modulus of a perturbative series in powers of the weak coupling constant $\alpha _{EWK}$. The value of $\alpha _{EWK}$ depends on the energy scale and the type of weak interaction, charged-current, neutral-current, or the non-Abelian self-couplings of the gauge bosons. 
 
-The Lagrangian in equation \ref{eqn:EWKLagrangian1} describes the electroweak interactions only for massless fermions and massless gauge bosons, which contradicts the experimental observations. The mass origin of the fermions and gauge bosons is discussed in Section \ref{subsubsec:HiggsMech} below. 
+The Lagrangian in equation \ref{eqn:EWKLagrangian1} describes the electroweak interactions only for massless fermions and massless gauge bosons, which contradicts the experimental observations. The mass origin of the fermions and gauge bosons is discussed below in Section \ref{subsubsec:HiggsMech}. 
 
 \subsubsection{Higgs Mechanism}
 \label{subsubsec:HiggsMech}
@@ -358,8 +352,7 @@ The first term $(D_{\mu} \phi)^{\dagger} ( D^{\mu} \phi)$ describes the kinemati
 V(\phi) = \lambda (\phi^{\dagger} \phi)^2 - \mu^2 \phi^{\dagger} \phi
 \label{eqn:HiggsPot}
 \end{equation}
-
-The term $\lambda (\phi^{\dagger} \phi)^2$ describes the quartic self-interactions of the scalar fields, and the vacuum stability imposes $\lambda > 0 $. 
+where the term $\lambda (\phi^{\dagger} \phi)^2$ describes the quartic self-interactions of the scalar fields, and the vacuum stability imposes $\lambda > 0 $. 
 
 For $\mu^2 > 0$, the scalar field develops a nonzero Vacuum Expectation Value (VEV) which spontaneously breaks the symmetry. Due to the symmetry of $V(\phi)$ an infinite number of degenerate states exists with the potential $v$ only depending on the combination of $\phi^{\dagger}\phi$ 
 \cite{PeskinQFT} with minimum energy satisfying $\phi^{\dagger}\phi = \frac{v^2}{2}$. This minimum energy requirement reduces one of the four degrees of freedom of the complex scalar field $\phi$. A gauge transformation can eliminate the three remaining degrees of freedom. We can choose $\phi$ by eliminating the upper component and the imaginary part of the lower component of the complex scalar field as,
@@ -405,4 +398,4 @@ Similarly, the mass terms for quarks follow but including the down-type quarks, 
 \label{eqn:YukawaQuarkMass}
 \end{equation}
 
-The final Standard Model Lagrangian is the sum of the QED (equation \ref{eqn:QEDFullLag}), QCD (equation \ref{eqn:QCDInvLag}), Boson self-interactions (equation \ref{eqn:EWKLagrangian1}), Higgs potential and self-interactions ( equation \ref{eqn:LagBEH}), and the Higgs-fermion Yukawa coupling (equations \ref{eqn:YukawaLepMass} $\&$ \ref{eqn:YukawaQuarkMass}), which is a compact form is written as equation \ref{eqn:SMLagrangian}. The final electroweak theory of SM with massive gauge bosons tightly constrains the W, Z, and Higgs interactions, their masses, and the self-couplings of gauge bosons in terms of a few parameters. Any deviations from predictions indicate the presence of physics beyond the SM, thus, losing the mathematical underpinnings of the theory. Therefore, this thesis targets precision measurement of the electroweak sector in hopes of detecting  possible deviations caused by BSM effects.
+The final Standard Model Lagrangian is the sum of the QED (equation \ref{eqn:QEDFullLag}), QCD (equation \ref{eqn:QCDCompleteLag}), electroweak interactions including the self-interactions of vector bosons (equation \ref{eqn:EWKLagrangian1}), Higgs potential, Higgs self-interactions, and Higgs-vector boson interactions ( equation \ref{eqn:LagBEH}), and the Higgs-fermion Yukawa coupling (equations \ref{eqn:YukawaLepMass} $\&$ \ref{eqn:YukawaQuarkMass}), which in compact form is written as equation \ref{eqn:SMLagrangian}. The final electroweak theory of SM with massive gauge bosons tightly constrains the W, Z, and Higgs interactions, their masses, and the self-couplings of gauge bosons in terms of a few parameters. Any deviations from predictions indicate the presence of physics beyond the SM, thus, losing the mathematical underpinnings of the theory. Therefore, this thesis targets precision measurement of the electroweak sector to detect possible deviations caused by BSM effects.

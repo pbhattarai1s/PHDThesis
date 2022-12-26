@@ -19,8 +19,8 @@ where, $q_{1},~ q_{2}$ are the partons of the protons, and $d\sigma_{q_{1}q_{2}\
 
 \begin{figure}
 \centering
-    \includegraphics[width=0.7\textwidth] {figures/Theory/PDF.pdf}\hspace{1cm}
-    \caption{ Parton distribution functions $xf_{q}(x,Q^2)$ for reference momentum transfer $Q^2_{0} = 10 ~ GeV^2$ (left) and $Q^2_{0} = 10^4~ GeV^{2}$ (right). The dependence of momentum fraction z carried by a parton is extracted in global PDF fits from experimental data \cite{PDFCalLHC}.}
+    \includegraphics[width=0.8\textwidth] {figures/Theory/PDF.pdf}\hspace{1cm}
+    \caption{ Parton distribution functions $xf_{q}(x,Q^2)$ for reference momentum transfer $Q^2_{0} = 10 ~ GeV^2$ (left) and $Q^2_{0} = 10^4~ GeV^{2}$ (right).\cite{PDFCalLHC}.}
 \label{fig:PDFFig}
 \end{figure}
 
@@ -30,7 +30,6 @@ The partonic cross-section is calculated perturbatively as an expansion in terms
 \label{eqn:PartonicXS}
 d\sigma_{q_{1}q_{2}\rightarrow X} = \alpha_{S}^{k} \sum_{m=0}^{n} c_{m}\alpha_{S}^{m}
 \end{equation}
-
 The coefficient $c_{m}$ depends on the center-of-mass energy, and theoretical calculations usually contain a finite number of coefficients. Leading order (LO) calculations include one term ($n=0$), whereas next-to-leading order (NLO) and next-to-next-to-leading order (NNLO) contains two ($n=1$) and three ($n=2$) terms, respectively. The theoretical calculations relevant to the thesis are generally calculated at NLO. The higher-order terms in the series contain additional virtual loop contributions and real emissions of quarks and gluons. The presence of virtual loops beyond the LO introduces singularities in the calculation of scattering amplitudes. The divergences are controlled via the renormalization procedure, where the singularities are absorbed by reparametrization of coupling and mass parameters. The renormalization process is energy-dependent. Therefore, the predicted cross-sections from theoretical calculations depend on the renormalization scale $\mu_{R}$ and the factorization scale $\mu_{F}$. The scale dependence is varied in Monte Carlo simulations to derive uncertainties on the predicted cross-section due to missing higher-order contributions. 
 
 The additional partons of the two protons that interact in the hard interaction process lead to minor energy deposits in the detector referred to as an underlying event. Any outgoing partons from the interaction emit multiple QCD radiation via the parton showering process, where the energy of each parton is split among an increasing number of other elementary particles. Due to the color confinement nature of QCD, at lower energies of the order of the pole of the QCD running coupling ($\lambda_{QCD}$), the partons are bound into stable and unstable hadrons. This process is named \textit{hadronization} and leads to the formation of collimated sprays of charged and neutral hadrons in the detector called \textit{jets}. Figure \ref{fig:ColliderPheno} schematically shows the phenomenology of di-Z boson production in association with two jets in the proton-proton collider. The theoretical predictions of such events are calculated using Monte Carlo (MC) simulations which include matrix element calculations for two partons giving two Z bosons, the parton showering, the effect of the underlying events, hadronizations, and pile-up. A comprehensive overview of the methods used in MC simulation is discussed in Ref \cite{EventGenerator}.  
