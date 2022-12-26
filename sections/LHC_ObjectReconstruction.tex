@@ -10,7 +10,7 @@ Different particles leave unique signatures in different sub-detectors of ATLAS.
 
 \subsection{Trigger}
 \label{subsec:TriggerATLAS}
-The first step of particle and event reconstruction is selecting interesting high-energy events from a pool of lower-energy multiple-scattering signals. The high bunch crossing frequency of every $25$ ns results in a large amount of data making it physically impossible to store all events. ATLAS trigger system filters the events interesting for physics measurements for permanent storage. 
+The first step of particle and event reconstruction is selecting interesting high-energy events from a pool of lower-energy multiple-scattering signals. The high bunch crossing frequency of every $25$ ns results in a large amount of data making it physically impossible to store all events. ATLAS trigger system filters the events interesting for physics measurements to store permanently. 
 
 ATLAS trigger consists of two levels, Level 1 (L1) trigger integrated into the hardware and high-level software trigger (HLT) \cite{TriggerSystemATLAS}. The L1 trigger is based on custom-built electronics, which uses signals from the calorimeters and muon trigger system (TGC and RPC) to identify event features such as electrons, photons, jets, taus, and missing energy. The L1 trigger reduces the $40$ MHz incoming collision data-rate corresponding to $25$ ns bunch crossing by a factor of $400$ to $100$ kHz output \cite{TriggerSystemATLAS}. The events accepted by the L1 trigger define regions of interest (ROI), and HLT algorithms are run on these events to select ones with candidate physics objects passing the kinematic requirements. The software-based HLT trigger further reduces the data rate by almost a factor of 100 to $1.5$ kHz \cite{ATLAS}. With the combination of L1 and HLT trigger system, the data rate is reduced by $400,000$, and the selected events corresponding to data readout of $1.5$ GB per second are stored in the permanent storage. Figure \ref{fig:DAQ} shows the schematic of ATLAS's trigger and data acquisition system. 
 
@@ -32,7 +32,7 @@ Tracking a charged particle is a critical step in reconstruction. The tracks of 
     \caption{ Schematic showing the five-track parameters \cite{TrackParameterFig}.\label{fig:TrackParameter}}
 \end{figure}
 
-As shown by figure \ref{fig:TrackingOutline}, used in Run-2 track reconstruction consists of two different approaches; the primary \textit{inside-out} approach and the secondary \textit{outside-in} approach \cite{TrackingRun2_ATLAS}. The first step in the inside-out track reconstruction is the space point and drift circle formation, formed respectively by the clusters of signals from the silicon detectors and drift-circles hits in the TRT. Second, track seeds are formed from a collection of three silicon-detector space points and extrapolated to the outer layers by including the compatible clusters in the track trajectory. Once the track is formed, an ambiguity resolution algorithm is applied to reassign shared clusters to the track with a better match, and the final track candidate is fitted using a global $\chi^{2}$ method. The last step of inside-out track reconstruction is adding compatible TRT drift holes and refitting the tracks. 
+As shown by Figure \ref{fig:TrackingOutline}, track reconstruction used in Run-2 consists of two different approaches; the primary \textit{inside-out} approach and the secondary \textit{outside-in} approach \cite{TrackingRun2_ATLAS}. The first step in the inside-out track reconstruction is the space point and drift circle formation, formed respectively by the clusters of signals from the silicon detectors and drift-circles hits in the TRT. Second, track seeds are formed from a collection of three silicon-detector space points and extrapolated to the outer layers by including the compatible clusters in the track trajectory. Once the track is formed, an ambiguity resolution algorithm is applied to reassign shared clusters to the track with a better match, and the final track candidate is fitted using a global $\chi^{2}$ method. The last step of inside-out track reconstruction is adding compatible TRT drift holes and refitting the tracks. 
 
 \begin{figure}
     \centering
@@ -48,7 +48,7 @@ Tracks of the charged particle are extrapolated inward to the beamline and are a
 \label{subsec:ParticleRecon_Elec}
 Electrons, when interacting with a material, produce a photon by bremsstrahlung radiation, the process defining the interaction of a charged particle with the electric field of an atomic nucleus. Any energetic photon, either from a physics process or bremsstrahlung, can turn into a pair of $e^{+}e^{-}$, which can again radiate another set of photons, thus, giving rise to an electromagnetic shower. For given energy and material, electromagnetic showers have a characteristic penetration depth.
 
-ATLAS electrons are reconstructed by combining the tracking information from the ID, and the energy deposits in nearby cells of the calorimeter,  energy clusters \cite{ElectronReco}. The clusters are formed only if the energy deposit exceeds four times the expected deposits from the pile-up. The reconstruction efficiency for high-energy electrons with transverse energy ($E_{T}>15$ GeV) is about $97-99\%$ \cite{ElectronReco}. \textit{Prompt electrons} originate from the hard scattering and are the primary interest of physics analysis. However, the detector has electrons from \textit{non-prompt sources} including the jets, misidentification, and pile-up. Therefore it is imperative to identify and isolate the prompt electrons in an event, and the efficiency for identification and isolation varies as a function of $E_{T}$. Limited by the coverage of the electromagnetic calorimeter, only electrons within the $|\eta| <2.47$ range can be reconstructed and identified as prompt in ATLAS.
+ATLAS electrons are reconstructed by combining the tracking information from the ID, and the energy deposits in nearby cells of the calorimeter,  energy clusters \cite{ElectronReco}. The clusters are formed only if the energy deposit exceeds four times the expected deposits from the pile-up. The reconstruction efficiency for high-energy electrons with transverse energy ($E_{T}>15$ GeV) is about $97-99\%$ \cite{ElectronReco}. \textit{Prompt electrons} originate from the hard scattering and are the primary interest of physics analysis. However, the detector has electrons from \textit{non-prompt sources} including the jets, misidentification, and pile-up. Therefore it is imperative to identify and isolate the prompt electrons in an event, and the efficiency for identification and isolation varies with its kinematic such as $\eta$ or $E_{T}$. Limited by the coverage of the electromagnetic calorimeter, only electrons within the $|\eta| <2.47$ range can be reconstructed and identified as prompt in ATLAS.
 
 The electron identification is based on a multivariate-likelihood (LH) technique which takes information from tracking detectors and calorimeters as input. The tool is trained to separate signal and background probability density functions using simulated $Z \rightarrow e^{+}e^{-}$ and $J / \psi \rightarrow e^{+}e^{-}$ events. The LH tool provides four \textit{working points}, VeryLoose, Loose, Medium, and Tight, at different values of the LH discriminant to cover various needs of several ATLAS analyses. The analysis presented in this thesis uses electrons satisfying the Loose identification working point with at least one hit in the IBL. 
 
@@ -61,9 +61,9 @@ where the maximum cone size is $\Delta R_{max} = 0.2$. Similar to the identifica
 
 \begin{figure}
     \centering
-    \includegraphics[width=.49\linewidth]{figures/LHC/ElecIdent_Eff.png}
-    \includegraphics[width=.49\linewidth]{figures/LHC/Elec_IsoEff.png}
-    \caption{ Distributions showing the identification (left) and isolation (right) efficiencies for electrons as a function of their $E_{T}$\cite{ElectronReco}.\label{fig:ElecEff}}
+    \includegraphics[width=.49\linewidth]{figures/LHC/ElecIdent_Eff.pdf}
+    \includegraphics[width=.49\linewidth]{figures/LHC/Elec_IsoEff.pdf}
+    \caption{ Distributions showing the identification (left) and isolation (right) efficiencies for electrons in data as a function of their $E_{T}$\cite{ElectronReco}.\label{fig:ElecEff}}
 \end{figure}
 
 The total electron efficiency is defined as the product of the electron reconstruction, identification, isolation, and trigger efficiencies as, 
@@ -72,11 +72,11 @@ The total electron efficiency is defined as the product of the electron reconstr
     \epsilon_{total} = \epsilon_{reco} \times \epsilon_{id} \times \epsilon_{iso} \times \epsilon_{trigger}     
 \end{equation}
 
-Each of the efficiency terms is evaluated on data and MC. \textit{Scale Factors (SF)} defined as the ratio of the measured efficiency in data and the efficiency simulated in MC are derived and applied to the simulation to match the one observed in the data. Typically, SFs are close to one, and systematic uncertainties related to scale factors are considered in the measurement.
+Each of the efficiency terms is evaluated on data and MC. \textit{Scale Factors (SF)} defined as the ratio of the measured efficiency in data and the efficiency simulated in MC are derived and applied to the simulation to match the one observed in the data. Typically, SFs are close to one, and systematic uncertainties related to the electron reconstruction, identification, isolation, trigger efficiency, and the different scale factors are considered in the measurement.
 
 \subsection{Muon Reconstruction}
 \label{subsec:ParticleRecon_Muon}
-The rate of bremsstrahlung radiation is inversely proportional to the square of a particle's mass. Since muons are about $200$ times heavier than electrons, they primarily interact with the detector material through ionization. Therefore, muons are minimally ionizing particles that do not create electromagnetic shower in the calorimeters and pass through all layers of the ATLAS detector. Hence, muon detection relies on track measurements from the inner detector and muon spectrometer. As shown in figure \ref{fig:MuonFig}, four types of muons are defined based on the type of sub-detectors used during a muon reconstruction,
+The rate of bremsstrahlung radiation is inversely proportional to the square of a particle's mass. Since muons are about $200$ times heavier than electrons, they primarily interact with the detector material through ionization. Therefore, muons are minimally ionizing particles that do not create electromagnetic shower in the calorimeters and pass through all layers of the ATLAS detector. Hence, muon detection relies on track measurements from the inner detector and muon spectrometer. As shown in Figure \ref{fig:MuonFig}, four types of muons are defined based on the type of sub-detectors used during a muon reconstruction,
 
 \begin{itemize}
     \item{\textbf{Combined muons:} muons reconstructed from a global refit of ID and MS tracks }
@@ -87,7 +87,7 @@ The rate of bremsstrahlung radiation is inversely proportional to the square of 
 
 \begin{figure}
     \centering
-    \includegraphics[width=.5\linewidth]{figures/LHC/MuonTypes.pdf}
+    \includegraphics[width=0.7\linewidth]{figures/LHC/MuonTypes.png}
     \caption{ Schematic of four different types of muons reconstructed using several layers of sub-detectors \cite{MuonReco}.\label{fig:MuonFig}}
 \end{figure}
 
@@ -96,22 +96,22 @@ Four identification \textit{working points}, Loose, Medium, Tight, and High-$p_{
 
 To evaluate the total reconstruction efficiency of muons, $Z \rightarrow \mu^{+}\mu^{-}$ and $J/\psi \rightarrow \mu^{+}\mu^{-}$ events are used. The reconstruction efficiency in the region with ID coverage $|\eta|<2.5$ is obtained by using the tag-and-probe method, whereas, for $|\eta|>2.5$ region, it is estimated by evaluating SFs based on a double ratio of data and MC in $Z \rightarrow \mu\mu$ events \cite{MuonEffLargeEta}.
 
-Analogous to electrons, muons are required to meet calo-based and ID-based isolation requirements. Muons in the measurement satisfy \textit{PflowLoose$\_$VarRad} isolation working point. Like in the case of electrons, the total efficiency for muon reconstruction and selection is the product of reconstruction, identification, isolation, and trigger efficiencies. The systematic uncertainties on different scale factors are propagated to the final cross-section measurement.
+Analogous to electrons, muons are required to meet calo-based and ID-based isolation requirements. Muons in the measurement satisfy \textit{PflowLoose$\_$VarRad} isolation working point. Like in the case of electrons, the total efficiency for muon reconstruction and selection is the product of reconstruction, identification, isolation, and trigger efficiencies. The systematic uncertainties on each part of electron reconstruction and different scale factors are propagated to the final cross-section measurement.
 
 \subsection{Jet Reconstruction}
 \label{subsec:ParticleRecon_Jets}
 
 Due to color confinement in QCD, a quark or gluon cannot exist on its own and goes through hadronization to form a collimated color-neutral stream of particles, \textit{jets}. Generally, jets are deeply penetrating, passing through the electromagnetic calorimeter, and gets fully absorbed by the material in the hadronic calorimeter. ATLAS jet reconstruction relies on the formation of \textit{topo-clusters}, energy deposits in the calorimeter cells using a sequential recombination algorithm. Most commonly, the jets are reconstructed using a type of sequential algorithm, the anti-$k_{T}$ algorithm. At first, pseudojets are formed by iteratively combining nearby particles based on a specific metric distance to other particles from the pseudojet. The iteration is continued over a set of nearby particles until the pseudojets' metric distance is smaller than that between the pseudojet and the nearby particle. For the anti-$k_{T}$ algorithm, the separation distance metric is based on their transverse momenta \cite{AntiKtAlgo}. A radius parameter for jets determines the angular size of resulting jets in the $y-\phi$ plane. 
 
-The analysis reported here uses jets reconstructed using the anti-$k_{T}$ algorithm with a particle flow implementation \cite{ParticleFlow}\cite{AntiKtAlgo}. The particle flow reconstruction technique was first implemented by ATLAS reconstruction in Run$-2$. It combines information from the inner detector tracks and the calorimeter's topo-clusters. It has advantages over simple cluster-based algorithms because the tracking detector has a better momentum resolution for lower-energy charged particles, extending the reconstruction to include particles with topo-cluster energy deposits lower than the noise thresholds \cite{ParticleFlow}. Moreover, the particle flow algorithm removes cluster contributions from pile-up using track-to-vertex association. Figure \ref{fig:PflowJets} shows a schematic of the particle flow jet reconstruction algorithm used in ATLAS.
+The analysis reported here uses jets reconstructed using the anti-$k_{T}$ algorithm with a particle flow implementation \cite{ParticleFlow}\cite{AntiKtAlgo}. The particle flow reconstruction technique was first implemented by ATLAS reconstruction in Run$-2$. It combines information from the inner detector tracks and the calorimeter's topo-clusters. It has advantages over simple cluster-based algorithms because the tracking detector has a better momentum resolution for lower-energy charged particles, extending the reconstruction to include particles with topo-cluster energy deposits lower than the noise thresholds \cite{ParticleFlow}. The particle flow algorithm removes cluster contributions from pile-up using track-to-vertex association. Figure \ref{fig:PflowJets} shows a schematic of the particle flow jet reconstruction algorithm used in ATLAS.
 
 \begin{figure}
     \centering
-    \includegraphics[width=.95\linewidth]{figures/LHC/PflowAlg.pdf}
+    \includegraphics[width=0.99\linewidth]{figures/LHC/fig_02.png}
     \caption{ Schematic of particle flow jet reconstruction \cite{ParticleFlow}.\label{fig:PflowJets}}
 \end{figure}
 
-First, ID tracks and topo clusters are reconstructed. If an ID track matches the topo-cluster, the tracks are used for jet reconstruction, and the cluster is modified by subtracting the energy of the used tracks. In the case of neutral jets or jets outside the geometrical acceptance of ID, only the topo-clusters are used as input for jet reconstruction. Figure \ref{fig:PflowvsCalo} shows the improvement in jet transverse momenta resolution when using the particle flow algorithm over the cluster-based algorithm as a function of jet's $p_{T}$ (left) and $\eta$ (right). The distributions show the resolution is improved significantly for low$-p_{T}$ and central jets with low $\eta$ with particle flow algorithm.
+First, ID tracks and topo clusters are reconstructed. If an ID track matches the topo-cluster, the tracks are used for jet reconstruction, and the cluster is modified by subtracting the energy of the used tracks. In the case of neutral jets or jets outside the geometrical acceptance of ID, only the topo-clusters are used as input for jet reconstruction. Figure \ref{fig:PflowvsCalo} shows the improvement in jet transverse momenta resolution when using the particle flow algorithm over the cluster-based algorithm as a function of jet's $p_{T}$ (left) and $\eta$ (right). The distributions show the resolution is improved significantly for low$-p_{T}$ and central jets having low $\eta$ with particle flow algorithm.
 
 \begin{figure}
     \centering
@@ -128,6 +128,6 @@ Jet energies are highly susceptible to pile-up density, and jets constitute vari
     \caption{ A schematic of different steps of jet calibration \cite{JetCalib}.\label{fig:JetCalib}}
 \end{figure}
 
-The analysis uses a \textit{Jet Vertex Tagger} (JVT) variable to differentiate hard-scattering jets from pile-up \cite{JVT}. The JVT variable is a multivariate combination of two variables; first, the \textit{jet-veretex-fraction} defined as a fraction of the total momentum of tracks in jet associated with the primary vertex and second, the number of reconstructed primary vertices in an event ($N_{PV}$) \cite{JVT}. To identify the jets from hard scattering outside the ID acceptance in $2.5<|\eta|<4.5$ range, a \textit{forward Jet Vertex Tagger} (fJVT) discriminant is used, which is derived by exploiting the topological correlations among particles from a pile-up interaction \cite{fJVT}. 
+The analysis uses a \textit{Jet Vertex Tagger} (JVT) variable to differentiate hard-scattering jets from pile-up \cite{JVT}. The JVT variable is a multivariate combination of two variables; first, the \textit{jet-veretex-fraction} defined as a fraction of the total momentum of tracks in jet associated with the primary vertex, and second, the number of reconstructed primary vertices in an event ($N_{PV}$) \cite{JVT}. To identify the jets from hard scattering outside the ID acceptance in $2.5<|\eta|<4.5$ range, a \textit{forward Jet Vertex Tagger} (fJVT) discriminant is used, which is derived by exploiting the topological correlations among particles from a pile-up interaction \cite{fJVT}. 
 
 The systematic uncertainties related to each step of jet reconstruction, calibration, and JVT/fJVT tagging are propagated to the final measurements of the unfolded differential cross-sections.  
