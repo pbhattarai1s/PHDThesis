@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 DEC 2022 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  26 DEC 2022 23:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -566,12 +566,12 @@ Overfull \hbox (51.53638pt too wide) in paragraph at lines 17--17
 [12
 
 ] [13] [14] [15] [16]
-Overfull \hbox (0.92776pt too wide) in paragraph at lines 59--59
+Overfull \hbox (0.92776pt too wide) in paragraph at lines 60--60
  \OT1/cmr/m/n/12 line-shape. The right plot shows reweighted-\OT1/cmr/m/sc/12 MadGraph5 \OT1/cmr/m/n/12 detector-level (blue) 
  []
 
 
-Overfull \hbox (17.89113pt too wide) in paragraph at lines 59--59
+Overfull \hbox (17.89113pt too wide) in paragraph at lines 60--60
  \OT1/cmr/m/n/12 reweighted truth-level \OT1/cmr/m/sc/12 Mad-Graph5 \OT1/cmr/m/n/12 and reweighted unfolded-level \OT1/cmr/m/sc/12 Mad-Graph5 
  []
 
@@ -600,7 +600,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 
 ]
-<figures/Theory/SMparticles.pdf, id=860, 803.0pt x 767.86874pt>
+<figures/Theory/SMparticles.pdf, id=858, 803.0pt x 767.86874pt>
 File: figures/Theory/SMparticles.pdf Graphic file (type pdf)
 <use figures/Theory/SMparticles.pdf>
 Package pdftex.def Info: figures/Theory/SMparticles.pdf  used on input line 19.
@@ -619,59 +619,59 @@ Overfull \hbox (2.83765pt too wide) in paragraph at lines 236--237
 
 
 ]
-<figures/Theory/PDF.pdf, id=1075, 573.14125pt x 380.42125pt>
+<figures/Theory/PDF.pdf, id=1073, 573.14125pt x 380.42125pt>
 File: figures/Theory/PDF.pdf Graphic file (type pdf)
 <use figures/Theory/PDF.pdf>
 Package pdftex.def Info: figures/Theory/PDF.pdf  used on input line 22.
 (pdftex.def)             Requested size: 375.80544pt x 249.44185pt.
  [24 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Theory/PDF.pdf>]
-<figures/Theory/ColliderPheno.pdf, id=1086, 807.015pt x 622.325pt>
+<figures/Theory/ColliderPheno.pdf, id=1084, 807.015pt x 622.325pt>
 File: figures/Theory/ColliderPheno.pdf Graphic file (type pdf)
 <use figures/Theory/ColliderPheno.pdf>
 Package pdftex.def Info: figures/Theory/ColliderPheno.pdf  used on input line 39.
 (pdftex.def)             Requested size: 328.82707pt x 253.56908pt.
 ) [25] [26 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Theory/ColliderPheno.pdf>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/theory_EWkProcess.tex
-<figures/Theory/diagramQCDZZjjqq.pdf, id=1109, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjqq.pdf, id=1107, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjqq.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjqq.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjqq.pdf  used on input line 10.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjqg.pdf, id=1110, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjqg.pdf, id=1108, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjqg.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjqg.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjqg.pdf  used on input line 11.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjgg.pdf, id=1111, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjgg.pdf, id=1109, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjgg.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjgg.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjgg.pdf  used on input line 12.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjbox.pdf, id=1112, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjbox.pdf, id=1110, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjbox.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjbox.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjbox.pdf  used on input line 19.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramQCDZZjjggH.pdf, id=1113, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramQCDZZjjggH.pdf, id=1111, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramQCDZZjjggH.pdf Graphic file (type pdf)
 <use figures/Theory/diagramQCDZZjjggH.pdf>
 Package pdftex.def Info: figures/Theory/diagramQCDZZjjggH.pdf  used on input line 20.
 (pdftex.def)             Requested size: 145.6229pt x 145.6292pt.
-<figures/Theory/diagramEWZZjjTGC.pdf, id=1114, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjTGC.pdf, id=1112, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjTGC.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjTGC.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjTGC.pdf  used on input line 28.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjQGC.pdf, id=1115, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjQGC.pdf, id=1113, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjQGC.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjQGC.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjQGC.pdf  used on input line 34.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=1116, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjSchnHiggs.pdf, id=1114, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjSchnHiggs.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjSchnHiggs.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjSchnHiggs.pdf  used on input line 40.
 (pdftex.def)             Requested size: 180.385pt x 180.39279pt.
-<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=1117, 227.62239pt x 227.62239pt>
+<figures/Theory/diagramEWZZjjTchnHiggs.pdf, id=1115, 227.62239pt x 227.62239pt>
 File: figures/Theory/diagramEWZZjjTchnHiggs.pdf Graphic file (type pdf)
 <use figures/Theory/diagramEWZZjjTchnHiggs.pdf>
 Package pdftex.def Info: figures/Theory/diagramEWZZjjTchnHiggs.pdf  used on input line 46.
@@ -695,7 +695,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--50
 
 
 ] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/LHC.tex
-<figures/LHC/ProtonAccelerator.jpeg, id=1230, 3380.63pt x 2389.92876pt>
+<figures/LHC/ProtonAccelerator.jpeg, id=1228, 3380.63pt x 2389.92876pt>
 File: figures/LHC/ProtonAccelerator.jpeg Graphic file (type jpg)
 <use figures/LHC/ProtonAccelerator.jpeg>
 Package pdftex.def Info: figures/LHC/ProtonAccelerator.jpeg  used on input line 12.
@@ -705,7 +705,7 @@ Package pdftex.def Info: figures/LHC/ProtonAccelerator.jpeg  used on input line 
 
 
 ] [33 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ProtonAccelerator.jpeg>]) [34] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/LHC_ATLAS.tex
-<figures/LHC/AtlasDetector.png, id=1258, 1621.05624pt x 1041.8925pt>
+<figures/LHC/AtlasDetector.png, id=1256, 1621.05624pt x 1041.8925pt>
 File: figures/LHC/AtlasDetector.png Graphic file (type png)
 <use figures/LHC/AtlasDetector.png>
 Package pdftex.def Info: figures/LHC/AtlasDetector.png  used on input line 10.
@@ -715,30 +715,30 @@ Package pdftex.def Info: figures/LHC/AtlasDetector.png  used on input line 10.
 
 
 ] [36 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/AtlasDetector.png (PNG copy)>]
-<figures/LHC/ATLAS_CoordinateSys.png, id=1273, 1086.0575pt x 521.95pt>
+<figures/LHC/ATLAS_CoordinateSys.png, id=1271, 1086.0575pt x 521.95pt>
 File: figures/LHC/ATLAS_CoordinateSys.png Graphic file (type png)
 <use figures/LHC/ATLAS_CoordinateSys.png>
 Package pdftex.def Info: figures/LHC/ATLAS_CoordinateSys.png  used on input line 39.
 (pdftex.def)             Requested size: 460.35791pt x 221.2484pt.
  [37 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ATLAS_CoordinateSys.png>]
-<figures/LHC/ATLAS_InnerDetector.jpg, id=1291, 1505.625pt x 1220.56pt>
+<figures/LHC/ATLAS_InnerDetector.jpg, id=1289, 1505.625pt x 1220.56pt>
 File: figures/LHC/ATLAS_InnerDetector.jpg Graphic file (type jpg)
 <use figures/LHC/ATLAS_InnerDetector.jpg>
 Package pdftex.def Info: figures/LHC/ATLAS_InnerDetector.jpg  used on input line 55.
 (pdftex.def)             Requested size: 460.35791pt x 373.19215pt.
  [38] [39 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ATLAS_InnerDetector.jpg>]
-<figures/LHC/ATLAS_CALO.jpeg, id=1311, 810.52812pt x 545.53813pt>
+<figures/LHC/ATLAS_CALO.jpeg, id=1309, 810.52812pt x 545.53813pt>
 File: figures/LHC/ATLAS_CALO.jpeg Graphic file (type jpg)
 <use figures/LHC/ATLAS_CALO.jpeg>
 Package pdftex.def Info: figures/LHC/ATLAS_CALO.jpeg  used on input line 72.
 (pdftex.def)             Requested size: 460.35791pt x 309.85284pt.
-<figures/LHC/ATLAS_MS.jpeg, id=1319, 750.805pt x 563.10374pt>
+<figures/LHC/ATLAS_MS.jpeg, id=1317, 750.805pt x 563.10374pt>
 File: figures/LHC/ATLAS_MS.jpeg Graphic file (type jpg)
 <use figures/LHC/ATLAS_MS.jpeg>
 Package pdftex.def Info: figures/LHC/ATLAS_MS.jpeg  used on input line 82.
 (pdftex.def)             Requested size: 460.35791pt x 345.27138pt.
 ) [40] [41 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ATLAS_CALO.jpeg>] [42 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ATLAS_MS.jpeg>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/LHC_ObjectReconstruction.tex
-<figures/LHC/ATLAS_Transverse.jpg, id=1340, 903.375pt x 732.7375pt>
+<figures/LHC/ATLAS_Transverse.jpg, id=1338, 903.375pt x 732.7375pt>
 File: figures/LHC/ATLAS_Transverse.jpg Graphic file (type jpg)
 <use figures/LHC/ATLAS_Transverse.jpg>
 Package pdftex.def Info: figures/LHC/ATLAS_Transverse.jpg  used on input line 7.
@@ -748,64 +748,64 @@ Package pdftex.def Info: figures/LHC/ATLAS_Transverse.jpg  used on input line 7.
 
 
  </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ATLAS_Transverse.jpg>]
-<figures/LHC/DAQ_ATLAS.png, id=1351, 766.865pt x 568.1225pt>
+<figures/LHC/DAQ_ATLAS.png, id=1349, 766.865pt x 568.1225pt>
 File: figures/LHC/DAQ_ATLAS.png Graphic file (type png)
 <use figures/LHC/DAQ_ATLAS.png>
 Package pdftex.def Info: figures/LHC/DAQ_ATLAS.png  used on input line 19.
 (pdftex.def)             Requested size: 375.80544pt x 278.41713pt.
  [44]
-<figures/LHC/TrackParameters.png, id=1361, 446.66875pt x 420.57124pt>
+<figures/LHC/TrackParameters.png, id=1359, 446.66875pt x 420.57124pt>
 File: figures/LHC/TrackParameters.png Graphic file (type png)
 <use figures/LHC/TrackParameters.png>
 Package pdftex.def Info: figures/LHC/TrackParameters.png  used on input line 31.
 (pdftex.def)             Requested size: 281.85587pt x 265.39125pt.
  [45 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/DAQ_ATLAS.png (PNG copy)>]
-<figures/LHC/trackingflowchart.png, id=1371, 938.00438pt x 397.485pt>
+<figures/LHC/trackingflowchart.png, id=1369, 938.00438pt x 397.485pt>
 File: figures/LHC/trackingflowchart.png Graphic file (type png)
 <use figures/LHC/trackingflowchart.png>
 Package pdftex.def Info: figures/LHC/trackingflowchart.png  used on input line 39.
 (pdftex.def)             Requested size: 422.77664pt x 179.15166pt.
  [46 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/TrackParameters.png>] [47 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/trackingflowchart.png>]
-<figures/LHC/ElecIdent_Eff.pdf, id=1390, 569.12625pt x 552.0625pt>
+<figures/LHC/ElecIdent_Eff.pdf, id=1388, 569.12625pt x 552.0625pt>
 File: figures/LHC/ElecIdent_Eff.pdf Graphic file (type pdf)
 <use figures/LHC/ElecIdent_Eff.pdf>
 Package pdftex.def Info: figures/LHC/ElecIdent_Eff.pdf  used on input line 64.
 (pdftex.def)             Requested size: 230.18253pt x 223.28082pt.
-<figures/LHC/Elec_IsoEff.pdf, id=1391, 569.12625pt x 552.0625pt>
+<figures/LHC/Elec_IsoEff.pdf, id=1389, 569.12625pt x 552.0625pt>
 File: figures/LHC/Elec_IsoEff.pdf Graphic file (type pdf)
 <use figures/LHC/Elec_IsoEff.pdf>
 Package pdftex.def Info: figures/LHC/Elec_IsoEff.pdf  used on input line 65.
 (pdftex.def)             Requested size: 230.18253pt x 223.28082pt.
  [48] [49 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/ElecIdent_Eff.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/Elec_IsoEff.pdf, page is rotated 90 degrees>]
-<figures/LHC/MuonTypes.png, id=1492, 494.84875pt x 379.4175pt>
+<figures/LHC/MuonTypes.png, id=1490, 494.84875pt x 379.4175pt>
 File: figures/LHC/MuonTypes.png Graphic file (type png)
 <use figures/LHC/MuonTypes.png>
 Package pdftex.def Info: figures/LHC/MuonTypes.png  used on input line 90.
 (pdftex.def)             Requested size: 328.82707pt x 252.12419pt.
  [50 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/MuonTypes.png>] [51]
-<figures/LHC/fig_02.png, id=1515, 11318.285pt x 1786.675pt>
+<figures/LHC/fig_02.png, id=1513, 11318.285pt x 1786.675pt>
 File: figures/LHC/fig_02.png Graphic file (type png)
 <use figures/LHC/fig_02.png>
 Package pdftex.def Info: figures/LHC/fig_02.png  used on input line 110.
 (pdftex.def)             Requested size: 465.06004pt x 73.39046pt.
  [52 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/fig_02.png>]
-<figures/LHC/Pflow_vs_Calo_pt.pdf, id=1526, 481.8pt x 456.70625pt>
+<figures/LHC/Pflow_vs_Calo_pt.pdf, id=1524, 481.8pt x 456.70625pt>
 File: figures/LHC/Pflow_vs_Calo_pt.pdf Graphic file (type pdf)
 <use figures/LHC/Pflow_vs_Calo_pt.pdf>
 Package pdftex.def Info: figures/LHC/Pflow_vs_Calo_pt.pdf  used on input line 118.
 (pdftex.def)             Requested size: 225.4804pt x 213.73209pt.
-<figures/LHC/Pflow_vs_Calo_eta.pdf, id=1527, 481.8pt x 456.70625pt>
+<figures/LHC/Pflow_vs_Calo_eta.pdf, id=1525, 481.8pt x 456.70625pt>
 File: figures/LHC/Pflow_vs_Calo_eta.pdf Graphic file (type pdf)
 <use figures/LHC/Pflow_vs_Calo_eta.pdf>
 Package pdftex.def Info: figures/LHC/Pflow_vs_Calo_eta.pdf  used on input line 119.
 (pdftex.def)             Requested size: 225.4804pt x 213.73209pt.
-<figures/LHC/JetCalib.pdf, id=1532, 3328.435pt x 1174.3875pt>
+<figures/LHC/JetCalib.pdf, id=1530, 3328.435pt x 1174.3875pt>
 File: figures/LHC/JetCalib.pdf Graphic file (type pdf)
 <use figures/LHC/JetCalib.pdf>
 Package pdftex.def Info: figures/LHC/JetCalib.pdf  used on input line 127.
 (pdftex.def)             Requested size: 446.26582pt x 157.44237pt.
  [53 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/Pflow_vs_Calo_pt.pdf> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/Pflow_vs_Calo_eta.pdf>]) [54 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/JetCalib.pdf>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/LHC_FutureUpgrades.tex
-<figures/LHC/HLLHCPlan.jpeg, id=1553, 702.7053pt x 394.5942pt>
+<figures/LHC/HLLHCPlan.jpeg, id=1551, 702.7053pt x 394.5942pt>
 File: figures/LHC/HLLHCPlan.jpeg Graphic file (type jpg)
 <use figures/LHC/HLLHCPlan.jpeg>
 Package pdftex.def Info: figures/LHC/HLLHCPlan.jpeg  used on input line 10.
@@ -815,7 +815,7 @@ Package pdftex.def Info: figures/LHC/HLLHCPlan.jpeg  used on input line 10.
 
 
  </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/LHC/HLLHCPlan.jpeg>]
-<figures/LHC/ITKLayout.pdf, id=1563, 614.295pt x 794.97pt>
+<figures/LHC/ITKLayout.pdf, id=1561, 614.295pt x 794.97pt>
 File: figures/LHC/ITKLayout.pdf Graphic file (type pdf)
 <use figures/LHC/ITKLayout.pdf>
 Package pdftex.def Info: figures/LHC/ITKLayout.pdf  used on input line 23.
@@ -829,107 +829,91 @@ Package pdftex.def Info: figures/LHC/ITKLayout.pdf  used on input line 23.
 
 
 ] [60]
-<figures/AnalysisOverview/centrality_Dist.pdf, id=1599, 569.12625pt x 387.4475pt>
+<figures/AnalysisOverview/centrality_Dist.pdf, id=1601, 569.12625pt x 387.4475pt>
 File: figures/AnalysisOverview/centrality_Dist.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/centrality_Dist.pdf>
-Package pdftex.def Info: figures/AnalysisOverview/centrality_Dist.pdf  used on input line 78.
-(pdftex.def)             Requested size: 180.385pt x 122.80333pt.
-<figures/AnalysisOverview/centrality_Cut.pdf, id=1600, 569.12625pt x 410.53375pt>
+Package pdftex.def Info: figures/AnalysisOverview/centrality_Dist.pdf  used on input line 83.
+(pdftex.def)             Requested size: 214.20567pt x 145.82452pt.
+<figures/AnalysisOverview/centrality_Cut.pdf, id=1602, 569.12625pt x 410.53375pt>
 File: figures/AnalysisOverview/centrality_Cut.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/centrality_Cut.pdf>
-Package pdftex.def Info: figures/AnalysisOverview/centrality_Cut.pdf  used on input line 84.
-(pdftex.def)             Requested size: 180.385pt x 130.12064pt.
-) [61 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/centrality_Dist.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/centrality_Cut.pdf, page is rotated 90 degrees>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_ObjectReconstruction.tex [62
+Package pdftex.def Info: figures/AnalysisOverview/centrality_Cut.pdf  used on input line 89.
+(pdftex.def)             Requested size: 202.93097pt x 146.38258pt.
+) [61] [62 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/centrality_Dist.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/centrality_Cut.pdf, page is rotated 90 degrees>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_ObjectReconstruction.tex [63
 
 
 
-] [63]
-Overfull \hbox (1.33777pt too wide) in paragraph at lines 96--112
+]
+Overfull \hbox (2.60333pt too wide) in paragraph at lines 41--58
  [][] 
  []
 
-) [64] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Trigger.tex
-<figures/AnalysisOverview/TriggerEfficiency.pdf, id=1674, 569.12625pt x 408.52625pt>
+[64]
+Overfull \hbox (1.33777pt too wide) in paragraph at lines 90--106
+ [][] 
+ []
+
+) [65] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Trigger.tex
+<figures/AnalysisOverview/TriggerEfficiency.pdf, id=1677, 569.12625pt x 408.52625pt>
 File: figures/AnalysisOverview/TriggerEfficiency.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/TriggerEfficiency.pdf>
-Package pdftex.def Info: figures/AnalysisOverview/TriggerEfficiency.pdf  used on input line 66.
+Package pdftex.def Info: figures/AnalysisOverview/TriggerEfficiency.pdf  used on input line 64.
 (pdftex.def)             Requested size: 375.80544pt x 269.77153pt.
-) [65
+) [66
 
 
-] [66] [67 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency.pdf, page is rotated 90 degrees>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_EventSelection.tex
-Overfull \hbox (37.68213pt too wide) in paragraph at lines 12--42
+] [67] [68 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency.pdf, page is rotated 90 degrees>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_EventSelection.tex
+Overfull \hbox (37.68213pt too wide) in paragraph at lines 11--41
  [][] 
  []
 
-<figures/AnalysisOverview/ZZjjEventDisplay.png, id=1736, 6413.9625pt x 3774.1pt>
+[69
+
+
+]
+<figures/AnalysisOverview/ZZjjEventDisplay.png, id=1743, 6413.9625pt x 3774.1pt>
 File: figures/AnalysisOverview/ZZjjEventDisplay.png Graphic file (type png)
 <use figures/AnalysisOverview/ZZjjEventDisplay.png>
-Package pdftex.def Info: figures/AnalysisOverview/ZZjjEventDisplay.png  used on input line 48.
+Package pdftex.def Info: figures/AnalysisOverview/ZZjjEventDisplay.png  used on input line 47.
 (pdftex.def)             Requested size: 422.77664pt x 248.72281pt.
-) [68
-
-
-] [69 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/ZZjjEventDisplay.png>] [70] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_DataSetAndMonteCarlo.tex
-<figures/AnalysisOverview/IntegratedLumiRun2.pdf, id=1757, 798.985pt x 574.145pt>
+) [70] [71 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/ZZjjEventDisplay.png>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_DataSetAndMonteCarlo.tex
+<figures/AnalysisOverview/IntegratedLumiRun2.pdf, id=1760, 798.985pt x 574.145pt>
 File: figures/AnalysisOverview/IntegratedLumiRun2.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/IntegratedLumiRun2.pdf>
 Package pdftex.def Info: figures/AnalysisOverview/IntegratedLumiRun2.pdf  used on input line 11.
 (pdftex.def)             Requested size: 375.80544pt x 270.04968pt.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
-
-Overfull \hbox (13.0569pt too wide) in paragraph at lines 19--20
-[]\OT1/cmr/m/n/10 GoodRunsLists/data15[]13TeV/20170619/PHYS[]StandardGRL[]All[]Good[]25ns[]276262-284484[]OflLumi-
- []
-
-
-Overfull \hbox (13.0569pt too wide) in paragraph at lines 20--21
-[]\OT1/cmr/m/n/10 GoodRunsLists/data16[]13TeV/20180129/PHYS[]StandardGRL[]All[]Good[]25ns[]297730-311481[]OflLumi-
- []
-
-
-Overfull \hbox (1.04565pt too wide) in paragraph at lines 21--22
-[]\OT1/cmr/m/n/10 GoodRunsLists/data17[]13TeV/20180619/physics[]25ns[]Triggerno17e33prim.lumicalc.OflLumi-13TeV-
- []
-
-
-Overfull \hbox (1.04565pt too wide) in paragraph at lines 22--23
-[]\OT1/cmr/m/n/10 GoodRunsLists/data18[]13TeV/20180924/physics[]25ns[]Triggerno17e33prim.lumicalc.OflLumi-13TeV-
- []
-
-<figures/AnalysisOverview/MCSchematic.pdf, id=1763, 614.295pt x 794.97pt>
-File: figures/AnalysisOverview/MCSchematic.pdf Graphic file (type pdf)
-<use figures/AnalysisOverview/MCSchematic.pdf>
-Package pdftex.def Info: figures/AnalysisOverview/MCSchematic.pdf  used on input line 33.
-(pdftex.def)             Requested size: 375.80544pt x 486.3381pt.
-[71
+<figures/AnalysisOverview/MCSchematic.png, id=1766, 325.215pt x 575.14874pt>
+File: figures/AnalysisOverview/MCSchematic.png Graphic file (type png)
+<use figures/AnalysisOverview/MCSchematic.png>
+Package pdftex.def Info: figures/AnalysisOverview/MCSchematic.png  used on input line 33.
+(pdftex.def)             Requested size: 140.92793pt x 249.23987pt.
+ [72
 
 
 
-] [72 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/IntegratedLumiRun2.pdf>] [73 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/MCSchematic.pdf>]
-Overfull \hbox (35.84573pt too wide) in paragraph at lines 49--76
+] [73 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/IntegratedLumiRun2.pdf>] [74 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/MCSchematic.png>]
+Overfull \hbox (3.68697pt too wide) in paragraph at lines 49--77
  [][] 
  []
 
-[74] [75] [76]
-<figures/AnalysisOverview/mu_ProfileRun2.pdf, id=1839, 798.985pt x 574.145pt>
+[75] [76]
+<figures/AnalysisOverview/mu_ProfileRun2.pdf, id=1825, 798.985pt x 574.145pt>
 File: figures/AnalysisOverview/mu_ProfileRun2.pdf Graphic file (type pdf)
 <use figures/AnalysisOverview/mu_ProfileRun2.pdf>
 Package pdftex.def Info: figures/AnalysisOverview/mu_ProfileRun2.pdf  used on input line 146.
 (pdftex.def)             Requested size: 375.80544pt x 270.04968pt.
 ) [77] [78 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/mu_ProfileRun2.pdf>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Obs.tex
-<figures/AnalysisOverview/costhetaFrameOfRef.pdf, id=1852, 614.295pt x 794.97pt>
-File: figures/AnalysisOverview/costhetaFrameOfRef.pdf Graphic file (type pdf)
-<use figures/AnalysisOverview/costhetaFrameOfRef.pdf>
-Package pdftex.def Info: figures/AnalysisOverview/costhetaFrameOfRef.pdf  used on input line 33.
-(pdftex.def)             Requested size: 375.80544pt x 486.3381pt.
+<figures/AnalysisOverview/costhetaFrameOfRef.png, id=1838, 612.2875pt x 466.74374pt>
+File: figures/AnalysisOverview/costhetaFrameOfRef.png Graphic file (type png)
+<use figures/AnalysisOverview/costhetaFrameOfRef.png>
+Package pdftex.def Info: figures/AnalysisOverview/costhetaFrameOfRef.png  used on input line 32.
+(pdftex.def)             Requested size: 375.80544pt x 286.47238pt.
 ) [79
 
 
 
-] [80 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/costhetaFrameOfRef.pdf>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/AnalysisStrategy.tex (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Background.tex
-<figures/Analysis/Background/NonPromptLeptonExample.pdf, id=1881, 614.295pt x 794.97pt>
+] [80 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/costhetaFrameOfRef.png>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/AnalysisStrategy.tex (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Background.tex
+<figures/Analysis/Background/NonPromptLeptonExample.pdf, id=1853, 614.295pt x 794.97pt>
 File: figures/Analysis/Background/NonPromptLeptonExample.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptLeptonExample.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptLeptonExample.pdf  used on input line 8.
@@ -939,7 +923,7 @@ Package pdftex.def Info: figures/Analysis/Background/NonPromptLeptonExample.pdf 
 
 
 ] [82 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptLeptonExample.pdf>]
-<figures/Analysis/Background/FakeBackgroundOverview.pdf, id=1915, 614.295pt x 794.97pt>
+<figures/Analysis/Background/FakeBackgroundOverview.pdf, id=1888, 614.295pt x 794.97pt>
 File: figures/Analysis/Background/FakeBackgroundOverview.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/FakeBackgroundOverview.pdf>
 Package pdftex.def Info: figures/Analysis/Background/FakeBackgroundOverview.pdf  used on input line 16.
@@ -950,253 +934,253 @@ Overfull \hbox (16.58308pt too wide) in paragraph at lines 16--17
  []
 
 [83 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/FakeBackgroundOverview.pdf>] [84]
-<figures/Analysis/Background/AllLeptonSRDijetComposition.pdf, id=1944, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/AllLeptonSRDijetComposition.pdf, id=1917, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/AllLeptonSRDijetComposition.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/AllLeptonSRDijetComposition.pdf>
 Package pdftex.def Info: figures/Analysis/Background/AllLeptonSRDijetComposition.pdf  used on input line 52.
 (pdftex.def)             Requested size: 375.80544pt x 269.77153pt.
-<figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf, id=1945, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf, id=1918, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf  used on input line 58.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf, id=1946, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf, id=1919, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf  used on input line 59.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
  [85 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/AllLeptonSRDijetComposition.pdf, page is rotated 90 degrees>] [86 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptElectronSRVBSComposition.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptMuonSRVBSComposition.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Background/FakeFractionBaselineElectrons.pdf, id=2088, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/FakeFractionBaselineElectrons.pdf, id=2061, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/FakeFractionBaselineElectrons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/FakeFractionBaselineElectrons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/FakeFractionBaselineElectrons.pdf  used on input line 74.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/FakeFractionBaselineMuons.pdf, id=2089, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/FakeFractionBaselineMuons.pdf, id=2062, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/FakeFractionBaselineMuons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/FakeFractionBaselineMuons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/FakeFractionBaselineMuons.pdf  used on input line 79.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptZplusXElectrons.pdf, id=2093, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptZplusXElectrons.pdf, id=2066, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptZplusXElectrons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptZplusXElectrons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptZplusXElectrons.pdf  used on input line 90.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptttbarElectron.pdf, id=2094, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptttbarElectron.pdf, id=2067, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptttbarElectron.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptttbarElectron.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptttbarElectron.pdf  used on input line 95.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptZplusXMuons.pdf, id=2095, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptZplusXMuons.pdf, id=2068, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptZplusXMuons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptZplusXMuons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptZplusXMuons.pdf  used on input line 104.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptttbarMuons.pdf, id=2096, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptttbarMuons.pdf, id=2069, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptttbarMuons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptttbarMuons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptttbarMuons.pdf  used on input line 109.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptComposition_Combined_Electrons.pdf, id=2097, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptComposition_Combined_Electrons.pdf, id=2070, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptComposition_Combined_Electrons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptComposition_Combined_Electrons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptComposition_Combined_Electrons.pdf  used on input line 117.
 (pdftex.def)             Requested size: 197.29623pt x 141.62117pt.
-<figures/Analysis/Background/NonPromptComposition_Combined_Muons.pdf, id=2098, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptComposition_Combined_Muons.pdf, id=2071, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptComposition_Combined_Muons.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptComposition_Combined_Muons.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptComposition_Combined_Muons.pdf  used on input line 118.
 (pdftex.def)             Requested size: 197.29623pt x 141.62117pt.
  [87 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/FakeFractionBaselineElectrons.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/FakeFractionBaselineMuons.pdf, page is rotated 90 degrees>] [88 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptZplusXElectrons.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptttbarElectron.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptZplusXMuons.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptttbarMuons.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Background/Overlay_pt_Baseline_elecs_ZplusX.pdf, id=2371, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_pt_Baseline_elecs_ZplusX.pdf, id=2344, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_pt_Baseline_elecs_ZplusX.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_pt_Baseline_elecs_ZplusX.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_pt_Baseline_elecs_ZplusX.pdf  used on input line 138.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_pt_Baseline_elecs_ttbar.pdf, id=2372, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_pt_Baseline_elecs_ttbar.pdf, id=2345, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_pt_Baseline_elecs_ttbar.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_pt_Baseline_elecs_ttbar.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_pt_Baseline_elecs_ttbar.pdf  used on input line 143.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_pt_Baseline_elecs_Combined.pdf, id=2373, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_pt_Baseline_elecs_Combined.pdf, id=2346, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_pt_Baseline_elecs_Combined.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_pt_Baseline_elecs_Combined.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_pt_Baseline_elecs_Combined.pdf  used on input line 148.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_pt_Baseline_muons_ZplusX.pdf, id=2374, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_pt_Baseline_muons_ZplusX.pdf, id=2347, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_pt_Baseline_muons_ZplusX.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_pt_Baseline_muons_ZplusX.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_pt_Baseline_muons_ZplusX.pdf  used on input line 157.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_pt_Baseline_muons_ttbar.pdf, id=2375, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_pt_Baseline_muons_ttbar.pdf, id=2348, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_pt_Baseline_muons_ttbar.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_pt_Baseline_muons_ttbar.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_pt_Baseline_muons_ttbar.pdf  used on input line 162.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_pt_Baseline_muons_Combined.pdf, id=2376, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_pt_Baseline_muons_Combined.pdf, id=2349, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_pt_Baseline_muons_Combined.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_pt_Baseline_muons_Combined.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_pt_Baseline_muons_Combined.pdf  used on input line 167.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
  [89 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptComposition_Combined_Electrons.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptComposition_Combined_Muons.pdf, page is rotated 90 degrees>] [90 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_pt_Baseline_elecs_ZplusX.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_pt_Baseline_elecs_ttbar.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_pt_Baseline_elecs_Combined.pdf, page is rotated 90 degrees>] [91 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_pt_Baseline_muons_ZplusX.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_pt_Baseline_muons_ttbar.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_pt_Baseline_muons_Combined.pdf, page is rotated 90 degrees>] [92]
-<figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf, id=2763, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf, id=2736, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf  used on input line 256.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf, id=2764, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf, id=2737, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf  used on input line 257.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf, id=2765, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf, id=2738, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf  used on input line 258.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf, id=2766, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf, id=2739, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf  used on input line 265.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf, id=2767, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf, id=2740, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf  used on input line 266.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf, id=2768, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf, id=2741, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf  used on input line 267.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf, id=2771, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf, id=2744, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf>
 Package pdftex.def Info: figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf  used on input line 276.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf, id=2772, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf, id=2745, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf>
 Package pdftex.def Info: figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf  used on input line 277.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf, id=2773, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf, id=2746, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf>
 Package pdftex.def Info: figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf  used on input line 284.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf, id=2774, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf, id=2747, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf>
 Package pdftex.def Info: figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf  used on input line 285.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
  [93]
-<figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf, id=2784, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf, id=2757, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf>
 Package pdftex.def Info: figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf  used on input line 296.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf, id=2785, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf, id=2758, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf>
 Package pdftex.def Info: figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf  used on input line 297.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf, id=2786, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf, id=2759, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf>
 Package pdftex.def Info: figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf  used on input line 298.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf, id=2787, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf, id=2760, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf>
 Package pdftex.def Info: figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf  used on input line 305.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf, id=2788, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf, id=2761, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf>
 Package pdftex.def Info: figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf  used on input line 306.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
-<figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf, id=2789, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf, id=2762, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf>
 Package pdftex.def Info: figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf  used on input line 307.
 (pdftex.def)             Requested size: 230.18253pt x 165.22781pt.
  [94 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Fake_Eff_Elec_pt_1D.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Fake_Eff_Elec_eta_1D.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Fake_Eff_Elec_jet_n_1D.pdf, page is rotated 90 degrees>] [95 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Fake_Eff_Muon_pt_1D.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Fake_Eff_Muon_eta_1D.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Fake_Eff_Muon_jet_n_1D.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf, id=3065, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf, id=3038, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf  used on input line 331.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptCRDFSignal_Muons_bVeto.pdf, id=3066, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptCRDFSignal_Muons_bVeto.pdf, id=3039, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptCRDFSignal_Muons_bVeto.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptCRDFSignal_Muons_bVeto.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptCRDFSignal_Muons_bVeto.pdf  used on input line 336.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf, id=3067, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf, id=3040, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf  used on input line 341.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf, id=3068, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf, id=3041, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf>
 Package pdftex.def Info: figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf  used on input line 346.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
  [96 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/njet0_FakeEfficiency3D_el_pt_eta.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/njet1_FakeEfficiency3D_el_pt_eta.pdf, page is rotated 90 degrees>] [97 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/njet0_FakeEfficiency3D_mu_pt_eta.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/njet1_FakeEfficiency3D_mu_pt_eta.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf, id=3259, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf, id=3232, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf  used on input line 360.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf, id=3260, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf, id=3233, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf  used on input line 365.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf, id=3261, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf, id=3234, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf  used on input line 370.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf, id=3262, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf, id=3235, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf  used on input line 375.
 (pdftex.def)             Requested size: 202.93097pt x 145.66678pt.
-<figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf, id=3264, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf, id=3237, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf  used on input line 388.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf, id=3265, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf, id=3238, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf  used on input line 393.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRDF_FFApplied_pt1.pdf, id=3266, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRDF_FFApplied_pt1.pdf, id=3239, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRDF_FFApplied_pt1.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRDF_FFApplied_pt1.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRDF_FFApplied_pt1.pdf  used on input line 398.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRSC_FFApplied_pt1.pdf, id=3267, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRSC_FFApplied_pt1.pdf, id=3240, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRSC_FFApplied_pt1.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRSC_FFApplied_pt1.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_FFApplied_pt1.pdf  used on input line 403.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf, id=3268, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf, id=3241, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf  used on input line 408.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf, id=3269, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf, id=3242, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf  used on input line 413.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf, id=3270, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf, id=3243, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf  used on input line 418.
 (pdftex.def)             Requested size: 191.6597pt x 137.57556pt.
-<figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf, id=3271, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf, id=3244, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf>
 Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf  used on input line 423.
@@ -1206,22 +1190,22 @@ Package pdftex.def Info: figures/Analysis/Background/Overlay_VRSC_FFApplied_n_je
 LaTeX Warning: Float too large for page by 34.77219pt on input line 427.
 
 [98 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/SystematicUncertainties3D_Electron_pT.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/SystematicUncertainties3D_Electron_eta.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/SystematicUncertainties3D_Electron_njet.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf, id=3409, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf, id=3382, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf  used on input line 435.
 (pdftex.def)             Requested size: 225.4804pt x 161.85544pt.
-<figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf, id=3410, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf, id=3383, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf  used on input line 436.
 (pdftex.def)             Requested size: 225.4804pt x 161.85544pt.
-<figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf, id=3411, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf, id=3384, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf  used on input line 442.
 (pdftex.def)             Requested size: 225.4804pt x 161.85544pt.
-<figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf, id=3412, 569.12625pt x 408.52625pt>
+<figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf, id=3385, 569.12625pt x 408.52625pt>
 File: figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf Graphic file (type pdf)
 <use figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf>
 Package pdftex.def Info: figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf  used on input line 443.
@@ -1229,12 +1213,12 @@ Package pdftex.def Info: figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.p
 ) [99 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/SystematicUncertainties3D_Muon_pT.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/SystematicUncertainties3D_Muon_eta.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/SystematicUncertainties3D_Muon_njet.pdf, page is rotated 90 degrees>] [100 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptCRDFSignal_Electronss_bVeto.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptCRDFSignal_Muons_bVeto.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptCRSCSignal_Electrons_.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/NonPromptCRSCSignal_Muons_.pdf, page is rotated 90 degrees>] [101 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRDF_MC_M4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRSC_MC_M4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf, page is rotated 90 degrees>] [102 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRDF_FFApplied_Pt4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRSC_FFApplied_Pt4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRDF_FFApplied_pt1.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRSC_FFApplied_pt1.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRDF_FFApplied_eta1.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRSC_FFApplied_eta1.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRDF_FFApplied_n_jets.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf, page is rotated 90 degrees>] [103 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/MCRedCompare_VBS_Enhanced_Pt4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf, page is rotated 90 degrees>] (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Unfolding.tex [104
 
 ] [105]
-<figures/Analysis/Unfolding/efficiencies_VBS_Enhanced.pdf, id=4449, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/efficiencies_VBS_Enhanced.pdf, id=4422, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/efficiencies_VBS_Enhanced.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/efficiencies_VBS_Enhanced.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/efficiencies_VBS_Enhanced.pdf  used on input line 48.
 (pdftex.def)             Requested size: 202.93097pt x 137.43498pt.
-<figures/Analysis/Unfolding/migration_matrix_VBS_Enhanced.pdf, id=4450, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/migration_matrix_VBS_Enhanced.pdf, id=4423, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/migration_matrix_VBS_Enhanced.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/migration_matrix_VBS_Enhanced.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/migration_matrix_VBS_Enhanced.pdf  used on input line 53.
@@ -1244,60 +1228,60 @@ Package pdftex.def Info: figures/Analysis/Unfolding/migration_matrix_VBS_Enhance
 LaTeX Warning: Float too large for page by 1.36928pt on input line 125.
 
 [107] [108]
-<figures/Analysis/Unfolding/technical_closure_VBS_Enhanced.pdf, id=4498, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/technical_closure_VBS_Enhanced.pdf, id=4471, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/technical_closure_VBS_Enhanced.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/technical_closure_VBS_Enhanced.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/technical_closure_VBS_Enhanced.pdf  used on input line 138.
 (pdftex.def)             Requested size: 281.85587pt x 190.8963pt.
  [109 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/technical_closure_VBS_Enhanced.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Unfolding/injection_test_FT0_quad_mjj_detectorPred.pdf, id=4550, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/injection_test_FT0_quad_mjj_detectorPred.pdf, id=4523, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/injection_test_FT0_quad_mjj_detectorPred.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/injection_test_FT0_quad_mjj_detectorPred.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/injection_test_FT0_quad_mjj_detectorPred.pdf  used on input line 152.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/injection_test_FT0_quad_mjj.pdf, id=4551, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/injection_test_FT0_quad_mjj.pdf, id=4524, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/injection_test_FT0_quad_mjj.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/injection_test_FT0_quad_mjj.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/injection_test_FT0_quad_mjj.pdf  used on input line 157.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/QCD_xsec_variation.pdf, id=4555, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/QCD_xsec_variation.pdf, id=4528, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/QCD_xsec_variation.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/QCD_xsec_variation.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/QCD_xsec_variation.pdf  used on input line 170.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/EWK_xsec_variation.pdf, id=4556, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/EWK_xsec_variation.pdf, id=4529, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/EWK_xsec_variation.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/EWK_xsec_variation.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/EWK_xsec_variation.pdf  used on input line 175.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
  [110 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/injection_test_FT0_quad_mjj_detectorPred.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/injection_test_FT0_quad_mjj.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Ratio.pdf, id=4619, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Ratio.pdf, id=4592, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Ratio.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Ratio.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Ratio.pdf  used on input line 192.
 (pdftex.def)             Requested size: 202.93097pt x 137.43498pt.
-<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_SmoothRatio.pdf, id=4620, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_SmoothRatio.pdf, id=4593, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_SmoothRatio.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_SmoothRatio.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_SmoothRatio.pdf  used on input line 197.
 (pdftex.def)             Requested size: 202.93097pt x 137.43498pt.
-<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Reweighted.pdf, id=4621, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Reweighted.pdf, id=4594, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Reweighted.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Reweighted.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Reweighted.pdf  used on input line 202.
 (pdftex.def)             Requested size: 202.93097pt x 137.43498pt.
-<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Bias.pdf, id=4622, 569.12625pt x 385.44pt>
+<figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Bias.pdf, id=4595, 569.12625pt x 385.44pt>
 File: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Bias.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Bias.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Bias.pdf  used on input line 207.
 (pdftex.def)             Requested size: 202.93097pt x 137.43498pt.
  [111 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/QCD_xsec_variation.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/EWK_xsec_variation.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Unfolding/UnfoldingBiasIteration.pdf, id=4717, 614.295pt x 794.97pt>
+<figures/Analysis/Unfolding/UnfoldingBiasIteration.pdf, id=4690, 614.295pt x 794.97pt>
 File: figures/Analysis/Unfolding/UnfoldingBiasIteration.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/UnfoldingBiasIteration.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/UnfoldingBiasIteration.pdf  used on input line 219.
 (pdftex.def)             Requested size: 207.16286pt x 268.09065pt.
-<figures/Analysis/Unfolding/StatUnc_Sup.pdf, id=4718, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/StatUnc_Sup.pdf, id=4691, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/StatUnc_Sup.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/StatUnc_Sup.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/StatUnc_Sup.pdf  used on input line 224.
@@ -1320,49 +1304,49 @@ Overfull \hbox (19.16373pt too wide) in paragraph at lines 56--58
  []
 
 [117] [118]
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin1.pdf, id=4920, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin1.pdf, id=4893, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin1.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin1.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin1.pdf  used on input line 85.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin2.pdf, id=4921, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin2.pdf, id=4894, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin2.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin2.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin2.pdf  used on input line 90.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin3.pdf, id=4922, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin3.pdf, id=4895, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin3.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin3.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin3.pdf  used on input line 95.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin4.pdf, id=4923, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin4.pdf, id=4896, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin4.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin4.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin4.pdf  used on input line 100.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin5.pdf, id=4924, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin5.pdf, id=4897, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin5.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin5.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_VBSEnh_bin5.pdf  used on input line 105.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
  [119]
-<figures/Analysis/Systematics/QCDmodel_Dist.pdf, id=4931, 569.12625pt x 385.44pt>
+<figures/Analysis/Systematics/QCDmodel_Dist.pdf, id=4903, 569.12625pt x 385.44pt>
 File: figures/Analysis/Systematics/QCDmodel_Dist.pdf Graphic file (type pdf)
 <use figures/Analysis/Systematics/QCDmodel_Dist.pdf>
 Package pdftex.def Info: figures/Analysis/Systematics/QCDmodel_Dist.pdf  used on input line 117.
 (pdftex.def)             Requested size: 225.4804pt x 152.70882pt.
-<figures/Analysis/Systematics/QCDmodel_Unc.pdf, id=4932, 569.12625pt x 385.44pt>
+<figures/Analysis/Systematics/QCDmodel_Unc.pdf, id=4904, 569.12625pt x 385.44pt>
 File: figures/Analysis/Systematics/QCDmodel_Unc.pdf Graphic file (type pdf)
 <use figures/Analysis/Systematics/QCDmodel_Unc.pdf>
 Package pdftex.def Info: figures/Analysis/Systematics/QCDmodel_Unc.pdf  used on input line 118.
 (pdftex.def)             Requested size: 225.4804pt x 152.70882pt.
  [120] [121]
-<figures/Analysis/Systematics/systematics_VBS_Enhanced.pdf, id=4946, 569.12625pt x 385.44pt>
+<figures/Analysis/Systematics/systematics_VBS_Enhanced.pdf, id=4918, 569.12625pt x 385.44pt>
 File: figures/Analysis/Systematics/systematics_VBS_Enhanced.pdf Graphic file (type pdf)
 <use figures/Analysis/Systematics/systematics_VBS_Enhanced.pdf>
 Package pdftex.def Info: figures/Analysis/Systematics/systematics_VBS_Enhanced.pdf  used on input line 168.
 (pdftex.def)             Requested size: 220.96982pt x 149.65051pt.
-<figures/Analysis/Systematics/jet_systematics_VBS_Enhanced.pdf, id=4947, 569.12625pt x 385.44pt>
+<figures/Analysis/Systematics/jet_systematics_VBS_Enhanced.pdf, id=4919, 569.12625pt x 385.44pt>
 File: figures/Analysis/Systematics/jet_systematics_VBS_Enhanced.pdf Graphic file (type pdf)
 <use figures/Analysis/Systematics/jet_systematics_VBS_Enhanced.pdf>
 Package pdftex.def Info: figures/Analysis/Systematics/jet_systematics_VBS_Enhanced.pdf  used on input line 173.
@@ -1374,88 +1358,88 @@ Package pdftex.def Info: figures/Analysis/Systematics/jet_systematics_VBS_Enhanc
 ] [126
 
 ]
-<figures/Results/RecoDist_VBSEnhanced/reco_mjj_SR.pdf, id=5176, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_mjj_SR.pdf, id=5149, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_mjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_mjj_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_mjj_SR.pdf  used on input line 16.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_m4l_SR.pdf, id=5177, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_m4l_SR.pdf, id=5150, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_m4l_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_m4l_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_m4l_SR.pdf  used on input line 21.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_ptjj_SR.pdf, id=5178, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_ptjj_SR.pdf, id=5151, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_ptjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_ptjj_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_ptjj_SR.pdf  used on input line 26.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_pt4l_SR.pdf, id=5179, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_pt4l_SR.pdf, id=5152, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_pt4l_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_pt4l_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_pt4l_SR.pdf  used on input line 31.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_ptzzjj_SR.pdf, id=5180, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_ptzzjj_SR.pdf, id=5153, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_ptzzjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_ptzzjj_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_ptzzjj_SR.pdf  used on input line 36.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_stzzjj_SR.pdf, id=5181, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_stzzjj_SR.pdf, id=5154, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_stzzjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_stzzjj_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_stzzjj_SR.pdf  used on input line 41.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar1_SR.pdf, id=5182, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar1_SR.pdf, id=5155, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar1_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar1_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar1_SR.pdf  used on input line 51.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar3_SR.pdf, id=5183, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar3_SR.pdf, id=5156, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar3_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar3_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar3_SR.pdf  used on input line 56.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_dphi_SR.pdf, id=5184, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_dphi_SR.pdf, id=5157, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_dphi_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_dphi_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_dphi_SR.pdf  used on input line 61.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_dy_SR.pdf, id=5185, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_dy_SR.pdf, id=5158, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_dy_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_dy_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_dy_SR.pdf  used on input line 66.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSEnhanced/reco_centrality_SR.pdf, id=5186, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSEnhanced/reco_centrality_SR.pdf, id=5159, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSEnhanced/reco_centrality_SR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSEnhanced/reco_centrality_SR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSEnhanced/reco_centrality_SR.pdf  used on input line 71.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
 ) (/Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Results_DifferentialCrossSections.tex [127] [128 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_mjj_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_m4l_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_ptjj_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_pt4l_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_ptzzjj_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_stzzjj_SR.pdf, page is rotated 90 degrees>] [129 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar1_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_cosThetaStar3_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_dphi_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_dy_SR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSEnhanced/reco_centrality_SR.pdf, page is rotated 90 degrees>]
-<figures/Results/CrossSection_VBSEnhanced/xs_mjj_SR.pdf, id=5420, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_mjj_SR.pdf, id=5393, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_mjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_mjj_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_mjj_SR.pdf  used on input line 15.
 (pdftex.def)             Requested size: 220.96982pt x 149.65051pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_m4l_SR.pdf, id=5421, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_m4l_SR.pdf, id=5394, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_m4l_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_m4l_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_m4l_SR.pdf  used on input line 20.
 (pdftex.def)             Requested size: 220.96982pt x 149.65051pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_ptjj_SR.pdf, id=5422, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_ptjj_SR.pdf, id=5395, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_ptjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_ptjj_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_ptjj_SR.pdf  used on input line 25.
 (pdftex.def)             Requested size: 220.96982pt x 149.65051pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_pt4l_SR.pdf, id=5423, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_pt4l_SR.pdf, id=5396, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_pt4l_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_pt4l_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_pt4l_SR.pdf  used on input line 30.
 (pdftex.def)             Requested size: 220.96982pt x 149.65051pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_ptzzjj_SR.pdf, id=5424, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_ptzzjj_SR.pdf, id=5397, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_ptzzjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_ptzzjj_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_ptzzjj_SR.pdf  used on input line 35.
 (pdftex.def)             Requested size: 220.96982pt x 149.65051pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_stzzjj_SR.pdf, id=5425, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_stzzjj_SR.pdf, id=5398, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_stzzjj_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_stzzjj_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_stzzjj_SR.pdf  used on input line 40.
@@ -1463,27 +1447,27 @@ Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_stzzjj_SR.p
  [130
 
 ]
-<figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar1_SR.pdf, id=5432, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar1_SR.pdf, id=5405, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar1_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar1_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar1_SR.pdf  used on input line 50.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar3_SR.pdf, id=5433, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar3_SR.pdf, id=5406, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar3_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar3_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_cosThetaStar3_SR.pdf  used on input line 55.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_dphi_SR.pdf, id=5434, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_dphi_SR.pdf, id=5407, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_dphi_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_dphi_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_dphi_SR.pdf  used on input line 60.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_dy_SR.pdf, id=5435, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_dy_SR.pdf, id=5408, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_dy_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_dy_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_dy_SR.pdf  used on input line 65.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSEnhanced/xs_centrality_SR.pdf, id=5436, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSEnhanced/xs_centrality_SR.pdf, id=5409, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSEnhanced/xs_centrality_SR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSEnhanced/xs_centrality_SR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSEnhanced/xs_centrality_SR.pdf  used on input line 70.
@@ -1523,52 +1507,52 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 ] [144] [145]
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf, id=5850, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf, id=5823, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf  used on input line 36.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf, id=5851, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf, id=5824, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf  used on input line 41.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf, id=5852, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf, id=5825, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf  used on input line 46.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf, id=5853, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf, id=5826, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf  used on input line 51.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf, id=5854, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf, id=5827, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf  used on input line 56.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf, id=5860, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf, id=5833, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf  used on input line 68.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf, id=5861, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf, id=5834, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf  used on input line 73.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf, id=5862, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf, id=5835, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf  used on input line 78.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf, id=5863, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf, id=5836, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf  used on input line 83.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf, id=5864, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf, id=5837, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf  used on input line 88.
@@ -1576,23 +1560,23 @@ Package pdftex.def Info: figures/Analysis/Unfolding/unfoldingbias/unfolding_bias
  [146
 
 ]
-<figures/Analysis/Unfolding/FakeFraction_pt_jets.pdf, id=5872, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/FakeFraction_pt_jets.pdf, id=5844, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/FakeFraction_pt_jets.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/FakeFraction_pt_jets.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/FakeFraction_pt_jets.pdf  used on input line 100.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
-<figures/Analysis/Unfolding/FakeFraction_eta_jets.pdf, id=5873, 569.12625pt x 387.4475pt>
+<figures/Analysis/Unfolding/FakeFraction_eta_jets.pdf, id=5845, 569.12625pt x 387.4475pt>
 File: figures/Analysis/Unfolding/FakeFraction_eta_jets.pdf Graphic file (type pdf)
 <use figures/Analysis/Unfolding/FakeFraction_eta_jets.pdf>
 Package pdftex.def Info: figures/Analysis/Unfolding/FakeFraction_eta_jets.pdf  used on input line 105.
 (pdftex.def)             Requested size: 202.93097pt x 138.15079pt.
  [147] [148 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin1.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin2.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin3.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin4.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_stat_unc_mjj_VBSEnh_bin5.pdf, page is rotated 90 degrees>] [149 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin1.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin2.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin3.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin4.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/unfoldingbias/unfolding_bias_mjj_noFakes_VBSEnh_bin5.pdf, page is rotated 90 degrees>] [150 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/FakeFraction_pt_jets.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Unfolding/FakeFraction_eta_jets.pdf, page is rotated 90 degrees>]
-<figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf, id=6099, 569.12625pt x 385.44pt>
+<figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf, id=6072, 569.12625pt x 385.44pt>
 File: figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf Graphic file (type pdf)
 <use figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf>
 Package pdftex.def Info: figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf  used on input line 148.
 (pdftex.def)             Requested size: 202.93097pt x 137.43498pt.
-<figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf, id=6100, 569.12625pt x 385.44pt>
+<figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf, id=6073, 569.12625pt x 385.44pt>
 File: figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf Graphic file (type pdf)
 <use figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf>
 Package pdftex.def Info: figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf  used on input line 153.
@@ -1600,113 +1584,113 @@ Package pdftex.def Info: figures/Analysis/Systematics/jet_systematics_VBS_Suppre
  [151
 
 ]
-<figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf, id=6107, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf, id=6080, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf  used on input line 168.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf, id=6108, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf, id=6081, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf  used on input line 173.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf, id=6109, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf, id=6082, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf  used on input line 178.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf, id=6110, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf, id=6083, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf  used on input line 183.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf, id=6111, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf, id=6084, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf  used on input line 188.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf, id=6112, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf, id=6085, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf  used on input line 193.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar1_CR.pdf, id=6113, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar1_CR.pdf, id=6086, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar1_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar1_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar1_CR.pdf  used on input line 203.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar3_CR.pdf, id=6114, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar3_CR.pdf, id=6087, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar3_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar3_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_cosThetaStar3_CR.pdf  used on input line 208.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_dphi_CR.pdf, id=6115, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_dphi_CR.pdf, id=6088, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_dphi_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_dphi_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_dphi_CR.pdf  used on input line 213.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_dy_CR.pdf, id=6116, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_dy_CR.pdf, id=6089, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_dy_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_dy_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_dy_CR.pdf  used on input line 218.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/RecoDist_VBSSuppressed/reco_centrality_CR.pdf, id=6117, 569.12625pt x 385.44pt>
+<figures/Results/RecoDist_VBSSuppressed/reco_centrality_CR.pdf, id=6090, 569.12625pt x 385.44pt>
 File: figures/Results/RecoDist_VBSSuppressed/reco_centrality_CR.pdf Graphic file (type pdf)
 <use figures/Results/RecoDist_VBSSuppressed/reco_centrality_CR.pdf>
 Package pdftex.def Info: figures/Results/RecoDist_VBSSuppressed/reco_centrality_CR.pdf  used on input line 223.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
  [152 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Systematics/systematics_VBS_Suppressed.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Analysis/Systematics/jet_systematics_VBS_Suppressed.pdf, page is rotated 90 degrees>] [153 </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSSuppressed/reco_mjj_CR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSSuppressed/reco_m4l_CR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSSuppressed/reco_ptjj_CR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSSuppressed/reco_pt4l_CR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSSuppressed/reco_ptzzjj_CR.pdf, page is rotated 90 degrees> </Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Results/RecoDist_VBSSuppressed/reco_stzzjj_CR.pdf, page is rotated 90 degrees>]
-<figures/Results/CrossSection_VBSSuppressed/xs_mjj_CR.pdf, id=6275, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_mjj_CR.pdf, id=6248, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_mjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_mjj_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_mjj_CR.pdf  used on input line 238.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_m4l_CR.pdf, id=6276, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_m4l_CR.pdf, id=6249, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_m4l_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_m4l_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_m4l_CR.pdf  used on input line 243.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_ptjj_CR.pdf, id=6277, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_ptjj_CR.pdf, id=6250, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_ptjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_ptjj_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_ptjj_CR.pdf  used on input line 248.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_pt4l_CR.pdf, id=6278, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_pt4l_CR.pdf, id=6251, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_pt4l_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_pt4l_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_pt4l_CR.pdf  used on input line 253.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_ptzzjj_CR.pdf, id=6279, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_ptzzjj_CR.pdf, id=6252, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_ptzzjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_ptzzjj_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_ptzzjj_CR.pdf  used on input line 258.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_stzzjj_CR.pdf, id=6280, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_stzzjj_CR.pdf, id=6253, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_stzzjj_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_stzzjj_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_stzzjj_CR.pdf  used on input line 263.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar1_CR.pdf, id=6281, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar1_CR.pdf, id=6254, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar1_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar1_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar1_CR.pdf  used on input line 273.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar3_CR.pdf, id=6282, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar3_CR.pdf, id=6255, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar3_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar3_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_cosThetaStar3_CR.pdf  used on input line 278.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_dphi_CR.pdf, id=6283, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_dphi_CR.pdf, id=6256, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_dphi_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_dphi_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_dphi_CR.pdf  used on input line 283.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_dy_CR.pdf, id=6284, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_dy_CR.pdf, id=6257, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_dy_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_dy_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_dy_CR.pdf  used on input line 288.
 (pdftex.def)             Requested size: 225.57788pt x 152.7735pt.
-<figures/Results/CrossSection_VBSSuppressed/xs_centrality_CR.pdf, id=6285, 569.12625pt x 385.44pt>
+<figures/Results/CrossSection_VBSSuppressed/xs_centrality_CR.pdf, id=6258, 569.12625pt x 385.44pt>
 File: figures/Results/CrossSection_VBSSuppressed/xs_centrality_CR.pdf Graphic file (type pdf)
 <use figures/Results/CrossSection_VBSSuppressed/xs_centrality_CR.pdf>
 Package pdftex.def Info: figures/Results/CrossSection_VBSSuppressed/xs_centrality_CR.pdf  used on input line 293.
@@ -1718,12 +1702,12 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2F87A0BF0F15DF22E5B8D39E5421B60E;5210.
+(rerunfilecheck)             Checksum: 7BD19322DCC7479D7B66A4004E40B873;5217.
  ) 
 Here is how much of TeX's memory you used:
- 12286 strings out of 492616
- 224262 string characters out of 6129482
- 378657 words of memory out of 5000000
+ 12287 strings out of 492616
+ 224234 string characters out of 6129482
+ 376681 words of memory out of 5000000
  15138 multiletter control sequences out of 15000+600000
  17081 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1916,11 +1900,11 @@ pdfTeX warning (dest): name{cite.Halzen:1984mc} has been referenced but does not
 
 pdfTeX warning (dest): name{cite.PDG} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.pdf (177 pages, 13869800 bytes).
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.pdf (177 pages, 13811580 bytes).
 PDF statistics:
- 6843 PDF objects out of 7423 (max. 8388607)
- 4447 compressed objects within 45 object streams
- 619 named destinations out of 1000 (max. 500000)
+ 6813 PDF objects out of 7423 (max. 8388607)
+ 4422 compressed objects within 45 object streams
+ 620 named destinations out of 1000 (max. 500000)
  1503 words of extra memory for PDF output out of 10000 (max. 10000000)
 

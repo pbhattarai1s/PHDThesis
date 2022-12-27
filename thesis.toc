@@ -38,21 +38,21 @@
 \contentsline {section}{\numberline {9}Goals}{58}{section.9}% 
 \contentsline {section}{\numberline {10}Phase Space Definition}{59}{section.10}% 
 \contentsline {subsection}{\numberline {10.1}Fiducial Volume}{59}{subsection.10.1}% 
-\contentsline {subsection}{\numberline {10.2}Signal Region}{61}{subsection.10.2}% 
-\contentsline {section}{\numberline {11}Reconstruction Selection}{62}{section.11}% 
-\contentsline {subsection}{\numberline {11.1}Electrons}{62}{subsection.11.1}% 
-\contentsline {subsection}{\numberline {11.2}Muons}{62}{subsection.11.2}% 
-\contentsline {subsection}{\numberline {11.3}Jets}{63}{subsection.11.3}% 
-\contentsline {subsection}{\numberline {11.4}Overlap Removal}{64}{subsection.11.4}% 
-\contentsline {section}{\numberline {12}Trigger}{65}{section.12}% 
-\contentsline {section}{\numberline {13}Event Selection}{68}{section.13}% 
-\contentsline {section}{\numberline {14}Datasets and Monte Carlo Simulation}{71}{section.14}% 
-\contentsline {subsection}{\numberline {14.1}LHC Dataset}{71}{subsection.14.1}% 
+\contentsline {subsection}{\numberline {10.2}Signal Region}{60}{subsection.10.2}% 
+\contentsline {section}{\numberline {11}Detector Level Object Selection}{63}{section.11}% 
+\contentsline {subsection}{\numberline {11.1}Electrons}{63}{subsection.11.1}% 
+\contentsline {subsection}{\numberline {11.2}Muons}{63}{subsection.11.2}% 
+\contentsline {subsection}{\numberline {11.3}Jets}{64}{subsection.11.3}% 
+\contentsline {subsection}{\numberline {11.4}Overlap Removal}{65}{subsection.11.4}% 
+\contentsline {section}{\numberline {12}Trigger}{66}{section.12}% 
+\contentsline {section}{\numberline {13}Event Selection}{69}{section.13}% 
+\contentsline {section}{\numberline {14}Datasets and Monte Carlo Simulation}{72}{section.14}% 
+\contentsline {subsection}{\numberline {14.1}LHC Dataset}{72}{subsection.14.1}% 
 \contentsline {subsection}{\numberline {14.2}Monte Carlo Samples }{72}{subsection.14.2}% 
-\contentsline {subsubsection}{\numberline {14.2.1}Signal Samples}{72}{subsubsection.14.2.1}% 
+\contentsline {subsubsection}{\numberline {14.2.1}Signal Samples}{73}{subsubsection.14.2.1}% 
 \contentsline {subsubsection}{\numberline {14.2.2}Background Samples}{75}{subsubsection.14.2.2}% 
-\contentsline {subsubsection}{\numberline {14.2.3}Samples for Fake Background}{76}{subsubsection.14.2.3}% 
-\contentsline {subsection}{\numberline {14.3}Event Weights}{76}{subsection.14.3}% 
+\contentsline {subsubsection}{\numberline {14.2.3}Samples for Non-prompt Background}{76}{subsubsection.14.2.3}% 
+\contentsline {subsection}{\numberline {14.3}Event Weights}{77}{subsection.14.3}% 
 \contentsline {section}{\numberline {15}Definition of Measured Observables}{79}{section.15}% 
 \contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{81}{part.5}% 
 \contentsline {section}{\numberline {16}Background Estimation}{81}{section.16}% 
