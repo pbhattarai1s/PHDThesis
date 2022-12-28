@@ -337,6 +337,12 @@ Federico Meloni.
 {Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
 \newblock 4 2017.
 
+\bibitem{bTagging}
+{The ATLAS Collaboration}.
+\newblock {ATLAS b-jet identification performance and efficiency measurement
+  with $t\bar{t}$ events in pp collisions at $sqrt{s}=13$ TeV}.
+\newblock {\em The European Physical Journal C}, 79(11), nov 2019.
+
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}
 \newblock {The new LUCID-2 detector for luminosity measurement and monitoring

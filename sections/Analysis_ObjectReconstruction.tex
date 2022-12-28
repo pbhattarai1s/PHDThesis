@@ -61,6 +61,8 @@ As discussed in Section \ref{subsec:ParticleRecon_Muon}, different types of muon
 \label{subsec:JetRecon}
 Jets are reconstructed with the particle flow anti$-K_{T}$ clustering algorithm using a radius parameter of $R = 0.4$ as discussed in Section \ref{subsec:ParticleRecon_Jets}. The reconstructed jets that meet $p_{T}~ > 15$ GeV and $ |\eta| < 4.5 $ kinematic requirements are classified as baseline jets. Baseline jets in $ |\eta| < 2.4 $ satisfying the \textit{Tight} working point of the \textit{Jet-vertex-tagger (JVT)} tool, and in $ |\eta| > 2.5 $ satisfying the \textit{Tight} working point of \textit{forward-jet-vertex-tagger (fJVT)} tool are classified as signal jets. Table \ref{tab:jets} summarizes the details of baseline and signal jets selection. 
 
+A particular type of jets \textit{b-jets}, containing b-hadrons initiated from a b-quark, are also used for the background estimation. The b-jets reconstruction relies on multivariate analysis (MVA), utilizing the fact that b-hadrons have a long mean lifetime of order picoseconds, leading to a displaced secondary vertex in the detectors. A tagger discussed in detail in Ref \cite{bTagging} with b-tagging efficiency of $77\%$ is used in the analysis to identify the b-jets.
+
 \begin{table}[ht]
     \centering
     \caption{Definition of the baseline and signal jets.\label{tab:jets}}
