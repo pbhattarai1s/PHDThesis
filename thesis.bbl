@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{PDG}
 P.A. Zyla et~al.
@@ -489,6 +489,33 @@ Giulio D'Agostini.
 {Gagunashvili, N. D.}
 \newblock {Comparison of weighted and unweighted histograms}.
 \newblock 2006.
+
+\bibitem{SMEFT}
+Ilaria Brivio, Yun Jiang, and Michael Trott.
+\newblock The {SMEFTsim} package, theory and tools.
+\newblock {\em Journal of High Energy Physics}, 2017(12), dec 2017.
+
+\bibitem{Dim7_EFT}
+Landon Lehman.
+\newblock {Extending the standard model effective field theory with the
+  complete set of dimension-7 operators}.
+\newblock {\em Physical Review D}, 90(12), dec 2014.
+
+\bibitem{Inclusive_FourLepton}
+{ATLAS Collaboration}.
+\newblock {Measurements of differential cross-sections in four-lepton events in
+  13 TeV proton-proton collisions with the ATLAS detector}.
+\newblock {\em Journal of High Energy Physics}, 2021(7), jul 2021.
+
+\bibitem{GlobalEFT_Dim6}
+John Ellis, Christopher~W. Murphy, Ver{\'{o}}nica Sanz, and Tevong You.
+\newblock {Updated global SMEFT fit to Higgs, diboson and electroweak data}.
+\newblock {\em Journal of High Energy Physics}, 2018(6), jun 2018.
+
+\bibitem{EFT_Eboli}
+{Almeida, Eduardo da Silva and \'Eboli, O. J. P. and Gonzalez--Garcia, M. C.}
+\newblock {Unitarity constraints on anomalous quartic couplings}.
+\newblock {\em Phys. Rev. D}, 101:113003, Jun 2020.
 
 \bibitem{EWk_ssWW}
 {ATLAS Collaboration}.

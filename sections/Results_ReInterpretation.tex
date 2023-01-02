@@ -1,2 +1,97 @@
 \section{Effective Field Theory ReInterpretation}
 \label{sec:EFT}
+The unfolded cross-sections from data are reinterpreted to constrain the effects of new physics using a model-independent approach. The Effective Field Theory, along with the models and operators used, are briefly introduced in Section \ref{subsec:EFT_Intro}. The simulation of BSM effects is discussed in Section \ref{subsec:EFT_EventGen}. The statistical fit to constrain the contributions from BSM physics, including statistical and systematic uncertainties, is discussed in Section \ref{subsec:EFT_Method}. Section \ref{subsec:EFT_Valid} summarizes some additional cross-checks to validate the EFT method, and Section \ref{subsec:EFT_Results} presents the obtained results. 
+
+\subsection{Introduction}
+\label{subsec:EFT_Intro}
+Similar to the Fermi theory developed by Fermi to describe the beta decay before the formulation of the electroweak theory, the effects of BSM physics with any new heavy resonances and short range can be described with a model-independent EFT approach at low energy scales. Due to its large mass, the potential new resonance can affect processes below the cut-off scale $\Lambda$ only through a virtual propagator, thus modifying the cross-sections for low-energy physics processes. The Lagrangian for new physics beyond the cut-off scale $\Lambda$ can be written through a Standard Model Effective Field Theory (SMEFT) formalism, where new physics describing operators are built with higher dimensions in the energy of SM fields. The SM Langrangian is dimension four in energy, and the SMEFT Lagrangian is constructed by adding new interactions through the SM field operators with dimensions greater than four ($d>4$), which follow the $SU(3)_{C} \otimes SU(2)_{L} \otimes U(1)_{Y}$ symmetry group as, 
+\begin{equation}
+\label{eqn:L_SMEFT}
+\mathcal{L}_{SMEFT} = \mathcal{L}_{SM} + \sum_{d \geq 5}\sum_{i}\frac{c_{i}^{d}}{\Lambda^{d-4}}\mathcal{O}_{i}^{d}
+\end{equation}
+where $\mathcal{O}_{i}^{d}$ is the higher dimension operator describing new physics with dimensionless coupling constants $c_{i}^{d}$, also known as the Wilson coefficients \cite{SMEFT}. 
+
+Any SMEFT Lagrangian given by equation \ref{eqn:L_SMEFT} should reduce to the SM at low energy scales and is required to respect the unitarity bound such that the amplitude of any process cannot grow too fast with a given energy scale. Only one dimension-five operator and $20$ dimension-seven operator exists that meets all requirements of SMEFT exists \cite{SMEFT}\cite{Dim7_EFT}. However, these operators violate the conservation of baryon or lepton numbers, which have been experimentally observed to be conserved. Moreover, higher dimensions EFT operators are suppressed by the larger order of magnitude of the large cut-off energy scale. Therefore, in practice, only dimension-six and dimension-eight operators are considered to affect the low-energy processes measured at the LHC.
+
+The main results of the analysis are the unfolded differential cross-sections in electroweak-enhanced phase space. Thus, the EFT constrains the operators that affect the electroweak processes shown by the Feynman diagrams in Figure \ref{fig:ZZjjFeynmanDiag_EWk}. There is a total of $59$ dimension-six SMEFT operators, and $26$ of them affect the electroweak processes by modifying either the self-interactions of the gauge bosons, the Higgs-vector boson interactions, $Z \rightarrow \ell \ell$ vertices or modifying the purely fermionic fields affecting either the four-leptons or lepton-quark interactions. However, based on an initial sensitivity study using SM predicted Asimov\footnote{SM predicted detector-level distributions where the bin errors are the Poissonian errors derived from the weighted event counts.} dataset, it was observed that the constraints on these operators were more stringent in processes involving inclusive (QCD+EWK) four lepton measurements presented in Ref \cite{Inclusive_FourLepton} or a global SMEFT fit using LEP, ATLAS, and CMS data discussed in Ref \cite{GlobalEFT_Dim6}. Therefore, in this thesis, only dimension-8 operators affecting the electroweak $pp\rightarrow ZZ (\rightarrow 4 \ell) jj$ processes will be considered. 
+
+The quartic vector boson self-interactions are experimentally accessible with the LHC Run-2 dataset for the first time. Thus, operators called \textit{genuine QGC} operators solely modifying the QGC vertex shown in Figure \ref{fig:ZZjjFeynmanDiag_EWk_b} resulting in anomalous Quartic Gauge Couplings (aQGC) are constrained. The aQGC operators constrained by the measurement follow the Eboli Model discussed in detail in Ref \cite{EFT_Eboli}. Table \ref{tab:aQGC_Operators} shows the $18$ dimension-8 operators from the Eboli model that give aQGC for processes involving multi-boson final states either by modifying the SM electroweak interactions or by introducing the SM forbidden neutral couplings such as $ZZZZ$, $ZZZA$, $ZZAA$, $ZAAA$ and $AAAA$. The eight \textit{genuine QGC} operators shown in Table \ref{tab:Dim8Operators} formed by the combination of different field strength tensors are constrained by the measurement.
+
+\begin{table}[h]
+    \caption{Eighteen dimension-8 operators from the Eboli model giving anomalous quartic gauge vertices in several multi-boson processes.\label{tab:aQGC_Operators}}
+    \begin{center}
+    \begin{tabular}{c|ccccccccc}
+        \hline 
+        & {\scriptsize{}WWWW} & {\scriptsize{}WWZZ} & {\scriptsize{}ZZZZ} & {\scriptsize{}WWAZ} & {\scriptsize{}WWAA} & {\scriptsize{}ZZZA} & {\scriptsize{}ZZAA} & {\scriptsize{}ZAAA} & {\scriptsize{}AAAA}\tabularnewline
+        \hline
+        \hline 
+        {\footnotesize{}$\mathcal{O}_{S,0}$,$\mathcal{O}_{S,1}$} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} &  &  &  &  &  & \tabularnewline
+        {\footnotesize{}$\mathcal{O}_{M,0}$, $\mathcal{O}_{M,1}$, $\mathcal{O}_{M,6}$, $\mathcal{O}_{M,7}$} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} &  & \tabularnewline
+        {\footnotesize{}$\mathcal{O}_{M,2}$, $\mathcal{O}_{M,3}$, $\mathcal{O}_{M,4}$, $\mathcal{O}_{M,5}$} &  & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} &  & \tabularnewline
+        {\footnotesize{}$\mathcal{O}_{T,0}$, $\mathcal{O}_{T,1}$, $\mathcal{O}_{T,2}$} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x}\tabularnewline
+        {\footnotesize{}$\mathcal{O}_{T,5}$, $\mathcal{O}_{T,6}$, $\mathcal{O}_{T,7}$} &  & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x}\tabularnewline
+        {\footnotesize{}$\mathcal{O}_{T,8}$, $\mathcal{O}_{T,9}$} &  &  & {\scriptsize{}x} &  &  & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x} & {\scriptsize{}x}\tabularnewline
+        \hline
+    \end{tabular}
+    \end{center}
+\end{table}
+
+\begin{table}[h]
+    \caption{The eight genuine QGC dimension-8 operators are constrained by the measurement. \label{tab:Dim8Operators}}
+    \begin{center}
+    \begin{tabular}{| c | c | c | }
+        \hline 
+        Operators & Definition & Wilson Coefficient \\
+        \hline
+         & & \\
+        $\mathcal{O}_{T,0}$ & $Tr[ \hat{W_{\mu\nu}} \hat{W^{\mu\nu}}] \times Tr[\hat{W_{\alpha \beta}} \hat{W^{\alpha \beta}} ] $ & $f_{T0}$ \\
+         & & \\
+        $\mathcal{O}_{T,1}$ & $Tr[ \hat{W_{\alpha\nu}} W^{\mu\beta}] \times Tr[ \hat{ W_{\mu \beta}}\hat {W^{\alpha \nu}} ] $ & $f_{T1}$ \\
+         & & \\
+        $\mathcal{O}_{T,2}$ & $Tr[ \hat{W_{\alpha\mu}} \hat{W^{\mu\beta} }] \times Tr[\hat{W_{\beta\nu}} \hat{W^{\nu\alpha} }] $ & $f_{T2}$ \\
+         & & \\
+        $\mathcal{O}_{T,5}$ & $Tr[ \hat{W_{\mu\nu}} \hat{W^{\mu\nu} } ] \times B_{\alpha\beta}B^{\alpha\beta} $ & $f_{T5}$ \\
+         & & \\
+        $\mathcal{O}_{T,6}$ & $Tr[ \hat{W_{\alpha\nu}} \hat{W^{\mu\beta} } ] \times B_{\mu\beta}B^{\alpha\nu} $ & $f_{T6}$ \\
+         & & \\
+        $\mathcal{O}_{T,7}$ & $Tr[ \hat{W_{\alpha\mu}} \hat{W^{\mu\beta} }] \times  B_{\beta\nu}B^{\nu\alpha} $ & $f_{T7}$ \\
+         & & \\
+        $\mathcal{O}_{T,8}$ & $ B_{\mu\nu}B^{\mu\nu}B_{\alpha\beta}B^{\alpha\beta} $ & $f_{T8}$ \\
+         & & \\
+        $\mathcal{O}_{T,9}$ & $ B_{\alpha\mu}B^{\mu\beta} B_{\beta\nu}B^{\nu\alpha}$ & $f_{T9}$ \\
+        \hline 
+    \end{tabular}
+    \end{center}
+\end{table}    
+
+Amplitude of the aQGC depends on the SMEFT matrix element $\mathcal{M}_{SMEFT}$ which can be written as, 
+\begin{equation}
+    \mathcal{M}_{SMEFT} = \mathcal{M}_{SM} + \sum_{i}{ \frac{c_{i}}{\Lambda^4}\mathcal{M}_{i}}
+    \label{eqn:SMEFTMatrixElem}
+\end{equation}
+where $\mathcal{M}_{SM}$ is the SM matrix element and $\mathcal{M}_{i}$ is the matrix element of the EFT operator $\mathcal{O}_{i}$. The cross-section of the process involving aQGC depends on the square of the matrix element $\mathcal{M}_{SMEFT}$, which is 
+\begin{equation}
+    |\mathcal{M}_{SMEFT}|^2 = |\mathcal{M}_{SM}|^{2} + 2 \sum_{i}{ \frac{c_{i}}{\Lambda^4} \textit{Re}(\mathcal{M}_{SM}^{*} \mathcal{M}_{i}}) + \sum_{i,j}{ \frac{c_{i}c_{j}}{\Lambda^8} \textit{Re}(\mathcal{M}_{i}^{*} \mathcal{M}_{j}})
+    \label{eqn:SMEFT_SQMatrixElem}
+\end{equation}
+In the measurement, only one EFT operator is constrained per fit. Therefore there is no need to consider the interference between the two different EFT operators, simplifying Equation \ref{eqn:SMEFT_SQMatrixElem} to, 
+\begin{equation}
+    |\mathcal{M}_{SMEFT}|^2 = |\mathcal{M}_{SM}|^{2} + 2 \sum_{i}{ \frac{c_{i}}{\Lambda^4} \textit{Re}(\mathcal{M}_{SM}^{*} \mathcal{M}_{i}}) + \sum_{i,j}{ \frac{c_{i}^2}{\Lambda^8} |\mathcal{M}_{i}|}
+    \label{eqn:SMEFT_SQMatrixElem}
+\end{equation}
+where the second term is the \textit{linear-only EFT term} giving the interference in the matrix element between SM and EFT, and the last term is the \textit{quadratic} giving the pure EFT-only effect. The analysis uses a full EFT model considering effects from both the interference and the quadratic term. 
+
+The SMEFT predicted cross-section for a single operator involving aQGC is thus given as 
+\begin{equation}
+\sigma_{SMEFT}^{pred} = \sigma_{SM}[ 1 + c . A_{Int} + c^2 . B_{Quad} ]
+\end{equation}
+where $A_{Int}$ and $B_{Quad}$ are the corresponding relative linear and quadratic EFT contributions. The same is true when comparing the differential cross-sections, where cross-sections are compared in each bin. 
+
+\subsection{Event Generation}
+\label{subsec:EFT_EventGen}
+
+\subsection{Statistical Fit for Limit Setting}
+\label{subsec:EFT_Method}
+
+\subsection{Results}
+\label{subsec:EFT_Results}

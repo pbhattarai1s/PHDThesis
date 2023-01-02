@@ -24,45 +24,45 @@ Warning--empty note in FakeBkgTool
 Warning--empty journal in FriedmanSmoother
 Warning--empty journal in pValueStat
 Warning--empty author in ssWW_HLLHCProspects
-You've used 95 entries,
+You've used 100 entries,
             1791 wiz_defined-function locations,
-            962 strings with 16900 characters,
-and the built_in function-call counts, 15653 in all, are:
-= -- 1393
-> -- 476
+            983 strings with 17593 characters,
+and the built_in function-call counts, 16487 in all, are:
+= -- 1461
+> -- 513
 < -- 3
-+ -- 218
-- -- 123
-* -- 966
-:= -- 2590
-add.period$ -- 272
-call.type$ -- 95
-change.case$ -- 98
++ -- 233
+- -- 133
+* -- 1028
+:= -- 2739
+add.period$ -- 287
+call.type$ -- 100
+change.case$ -- 103
 chr.to.int$ -- 0
-cite$ -- 116
-duplicate$ -- 761
-empty$ -- 1709
-format.name$ -- 123
-if$ -- 3437
+cite$ -- 121
+duplicate$ -- 802
+empty$ -- 1791
+format.name$ -- 133
+if$ -- 3614
 int.to.chr$ -- 0
-int.to.str$ -- 95
-missing$ -- 76
-newline$ -- 462
-num.names$ -- 84
-pop$ -- 218
+int.to.str$ -- 100
+missing$ -- 81
+newline$ -- 487
+num.names$ -- 89
+pop$ -- 223
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 297
+skip$ -- 315
 stack$ -- 0
-substring$ -- 703
-swap$ -- 82
+substring$ -- 721
+swap$ -- 87
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 21
-while$ -- 133
-width$ -- 97
-write$ -- 1001
+while$ -- 139
+width$ -- 103
+write$ -- 1056
 (There were 21 warnings)
