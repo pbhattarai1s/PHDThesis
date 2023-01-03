@@ -66,11 +66,10 @@ Fabienne Marcastel.
   $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$}.
 \newblock {\em The European Physical Journal C}, 79(8), aug 2019.
 
-\bibitem{MuonReco}
-{ATLAS Collaboration}.
-\newblock {Muon reconstruction performance of the {ATLAS} detector in
-  proton-proton collision data $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$ }.
-\newblock {\em The European Physical Journal C}, 76(5), may 2016.
+\bibitem{MuonFig}
+Sebastien Rettie.
+\newblock {Muon identification and performance in the ATLAS experiment}.
+\newblock Technical report, CERN, Geneva, 2018.
 
 \bibitem{ParticleFlow}
 {ATLAS Collaboration}.
@@ -305,6 +304,12 @@ Sergey et~al. Alekhin.
 Federico Meloni.
 \newblock {Primary vertex reconstruction with the ATLAS detector}.
 \newblock Technical Report~12, CERN, Geneva, 2016.
+
+\bibitem{MuonReco}
+{ATLAS Collaboration}.
+\newblock {Muon reconstruction performance of the {ATLAS} detector in
+  proton-proton collision data $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$ }.
+\newblock {\em The European Physical Journal C}, 76(5), may 2016.
 
 \bibitem{MuonEffLargeEta}
 {ATLAS Collaboration}.

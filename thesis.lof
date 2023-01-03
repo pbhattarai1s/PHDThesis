@@ -16,7 +16,7 @@
 \contentsline {figure}{\numberline {15}{\ignorespaces Schematic showing the five-track parameters \cite {TrackParameterFig}.\relax }}{46}{figure.caption.21}% 
 \contentsline {figure}{\numberline {16}{\ignorespaces Schematic showing the two techniques of track reconstruction, primary inside-out and secondary outside-in. The figure is taken from ATLAS Tracking CP group public tutorial \url {https://atlassoftwaredocs.web.cern.ch/trackingTutorial/idoverview/}. \relax }}{47}{figure.caption.22}% 
 \contentsline {figure}{\numberline {17}{\ignorespaces Distributions showing the identification (left) and isolation (right) efficiencies for electrons in data as a function of their $E_{T}$\cite {ElectronReco}.\relax }}{49}{figure.caption.23}% 
-\contentsline {figure}{\numberline {18}{\ignorespaces Schematic of four different types of muons reconstructed using several layers of sub-detectors \cite {MuonReco}.\relax }}{50}{figure.caption.24}% 
+\contentsline {figure}{\numberline {18}{\ignorespaces Schematic of four different types of muons reconstructed using several layers of sub-detectors \cite {MuonFig}.\relax }}{50}{figure.caption.24}% 
 \contentsline {figure}{\numberline {19}{\ignorespaces Schematic of particle flow jet reconstruction \cite {ParticleFlow}.\relax }}{52}{figure.caption.25}% 
 \contentsline {figure}{\numberline {20}{\ignorespaces Resolution of jet transverse momentum for only cluster-based jets (LC+JES) and particle flow jets as a function of $p_{T}$ (left) and $\eta $ (right) \cite {ParticleFlow}.\relax }}{53}{figure.caption.26}% 
 \contentsline {figure}{\numberline {21}{\ignorespaces A schematic of different steps of jet calibration \cite {JetCalib}.\relax }}{54}{figure.caption.27}% 
