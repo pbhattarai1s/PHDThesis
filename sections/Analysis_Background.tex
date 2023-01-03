@@ -214,7 +214,7 @@ Therefore, the predicted number of non-prompt signal lepton is
 \label{eqn:NfakeSignal}
 \end{equation}
 
-The fake factor method assumes the $r\rightarrow 1$ limit, which simplifies equation \ref{eqn:NfakeSignal}. However, since the real efficiency of any measurement is less than one, this approximation overestimates the fake background. To account for this overestimation, the number of genuine baseline-anti-signal prompt leptons ($N^{L}_{R}$) are measured in MC and subtracted to get the final background yield as, 
+The fake factor method assumes the $r\rightarrow 1$ limit, which simplifies Equation \ref{eqn:NfakeSignal}. However, since the real efficiency of any measurement is less than one, this approximation overestimates the fake background. To account for this overestimation, the number of genuine baseline-anti-signal prompt leptons ($N^{L}_{R}$) are measured in MC and subtracted to get the final background yield as, 
 
 \begin{equation}
     N_{F}^{T} =  \frac{f}{1-f}[N^{L}-N^{L}_{R}]
@@ -233,9 +233,9 @@ Fake efficiency (f), defined in previous Section \ref{subsubsec:EstimationStrate
 f = \frac{ N_{Data}^{Signal}~-~N_{MC}^{Prompt~Signal}}{ N_{Data}^{Baseline}~-~N_{MC}^{Prompt~Baseline}}
 \end{aligned}
 \end{equation}
-Since some additional leptons could originate from prompt sources, such contributions are estimated from MC and subtracted as shown in equation \ref{eq:fakeff}.
+Since some additional leptons could originate from prompt sources, such contributions are estimated from MC and subtracted as shown in Equation \ref{eq:fakeff}.
 
-Figures \ref{fig:FakeFractionBaseline}, \ref{fig:ControlRegionsAdditionalBaselineElectronpT}, and \ref{fig:ControlRegionsAdditionalBaselineMuonpT} show that the fake-fraction and the total yield of the additional leptons are dependent on their transverse momentum $p_{T}$. Therefore, the fake efficiency evaluated using equation \ref{eq:fakeff} depends on the lepton $p_{T}$. Because of the low resolution of the detector in forward regions, a higher number of non-prompt leptons are expected in this region; thus, the fake efficiency depends on the leptons' pseudorapidity ($\eta$). Additionally, since the non-prompt leptons predominantly originate from jets, the fake efficiency also depends on the number of jets ($n_{jets}$) in an event. 
+Figures \ref{fig:FakeFractionBaseline}, \ref{fig:ControlRegionsAdditionalBaselineElectronpT}, and \ref{fig:ControlRegionsAdditionalBaselineMuonpT} show that the fake-fraction and the total yield of the additional leptons are dependent on their transverse momentum $p_{T}$. Therefore, the fake efficiency evaluated using Equation \ref{eq:fakeff} depends on the lepton $p_{T}$. Because of the low resolution of the detector in forward regions, a higher number of non-prompt leptons are expected in this region; thus, the fake efficiency depends on the leptons' pseudorapidity ($\eta$). Additionally, since the non-prompt leptons predominantly originate from jets, the fake efficiency also depends on the number of jets ($n_{jets}$) in an event. 
 
 Figures \ref{fig:FakeEff_1D_Electron} and \ref{fig:FakeEff_1D_Muon} show the fake efficiencies for electrons and muons respectively as a function of $p_{T}$ (top-left), $\eta$ (top-right) and $n_{jets}$ (bottom-center). In the case of the electrons, the fake efficiency first decreases with its $p_{T}$ up to $20$ GeV and increases. Since the high-$p_{T}$ muons are most likely to originate from a prompt source, fake efficiency typically decreases as a function of $p_{T}$ for the muons. The dependency on $\eta$ is most likely from lower detector resolution causing a higher number of misidentifications and lower efficiency for TTVA.
 
@@ -293,9 +293,9 @@ The final fake efficiencies in the data-driven fake background estimate are para
     \caption{Fake efficiency of fake muons measured in the combined control region from data as a function of its $p_{T}$, and $\eta$ in two slices of $n_{jets}$. \label{fig:MuonFakeEff}}
 \end{figure}
 
-The fake efficiency distributions' binomial errors are propagated as the statistical uncertainties on the fake estimate. The subtracted prompt component of equation \ref{eq:fakeff} is estimated using MC predictions. As discussed in Section \ref{sec:Pheno}, the prediction relies on the PDF, the energy-dependent QCD factorization and renormalization scale, and the strong coupling constant $(\alpha_{S})$. Therefore, the theory uncertainties on these three parameters are propagated as systematic uncertainties of the fake efficiency. 
+The fake efficiency distributions' binomial errors are propagated as the statistical uncertainties on the fake estimate. The subtracted prompt component of Equation \ref{eq:fakeff} is estimated using MC predictions. As discussed in Section \ref{sec:Pheno}, the prediction relies on the PDF, the energy-dependent QCD factorization and renormalization scale, and the strong coupling constant $(\alpha_{S})$. Therefore, the theory uncertainties on these three parameters are propagated as systematic uncertainties of the fake efficiency. 
 
-For each theory uncertainty, a variation-applied fake efficiency is evaluated by separately varying the numerator and denominator of the fake efficiency equation \ref{eq:fakeff}. The difference between the variation-applied fake efficiency and the nominal fake efficiency is considered systematic uncertainty. Figures \ref{fig:FakeEffUnc_3D_Electron} and \ref{fig:FakeEffUnc_3D_Muon} show the statistical and systematic uncertainties on the fake efficiencies for electrons and muons, respectively, as a function of their $p_{T},~\eta,~\&~n_{jets}$ calculated in the combined control region. For both electrons and muons, the statistical uncertainty is dominant.
+For each theory uncertainty, a variation-applied fake efficiency is evaluated by separately varying the numerator and denominator of the fake efficiency Equation \ref{eq:fakeff}. The difference between the variation-applied fake efficiency and the nominal fake efficiency is considered systematic uncertainty. Figures \ref{fig:FakeEffUnc_3D_Electron} and \ref{fig:FakeEffUnc_3D_Muon} show the statistical and systematic uncertainties on the fake efficiencies for electrons and muons, respectively, as a function of their $p_{T},~\eta,~\&~n_{jets}$ calculated in the combined control region. For both electrons and muons, the statistical uncertainty is dominant.
 
 \begin{figure}[htb]
     \begin{center}

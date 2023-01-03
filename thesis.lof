@@ -63,13 +63,15 @@
 \contentsline {figure}{\numberline {62}{\ignorespaces Detector level distributions in the VBS-Enhanced region.\relax }}{129}{figure.caption.81}% 
 \contentsline {figure}{\numberline {63}{\ignorespaces Unfolded differential cross-sections in the VBS-Enhanced region.\relax }}{131}{figure.caption.82}% 
 \contentsline {figure}{\numberline {64}{\ignorespaces Unfolded differential cross-sections in the VBS-Enhanced region.\relax }}{132}{figure.caption.83}% 
-\contentsline {figure}{\numberline {65}{\ignorespaces MC-toy-based unfolding bias and statistical uncertainty as a function of several numbers of iterations in each bin of $m_{jj}$ distribution in the VBS-Enhanced region. \relax }}{153}{figure.caption.86}% 
-\contentsline {figure}{\numberline {66}{\ignorespaces MC-toy-based unfolding bias in each bin of $m_{jj}$ in the VBS-Enhanced region using Gaussian toys after subtracting the contribution of the fiducial fake events from both nominal and toy MC predictions.\relax }}{154}{figure.caption.87}% 
-\contentsline {figure}{\numberline {67}{\ignorespaces Fraction of fake fiducial events as a function of $p_{T}~\&~\eta $ of the leading (x-axis) and the sub-leading jets (y-axis) in the VBS-Enhanced region.\relax }}{155}{figure.caption.88}% 
-\contentsline {figure}{\numberline {68}{\ignorespaces Uncertainties as a function of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region.\relax }}{157}{figure.caption.90}% 
-\contentsline {figure}{\numberline {69}{\ignorespaces Detector level distributions in the VBS-Suppressed region.\relax }}{158}{figure.caption.91}% 
-\contentsline {figure}{\numberline {70}{\ignorespaces Detector level distributions in the VBS-Suppressed region.\relax }}{159}{figure.caption.92}% 
-\contentsline {figure}{\numberline {71}{\ignorespaces Unfolded differential cross-sections in the VBS-Suppressed region.\relax }}{160}{figure.caption.93}% 
-\contentsline {figure}{\numberline {72}{\ignorespaces Unfolded differential cross-sections in the VBS-Suppressed region.\relax }}{161}{figure.caption.94}% 
+\contentsline {figure}{\numberline {65}{\ignorespaces Covariance matrix for $m_{jj}+m_{4\ell }$ unfolded differential cross-sections in the VBS-Enhanced region. \relax }}{140}{figure.caption.86}% 
+\contentsline {figure}{\numberline {66}{\ignorespaces An example of setting constraints on dimension-8 $\mathcal {O}_{T,0}$ EFT operator with one-dimensional $m_{jj}+m_{4\ell }$ Asmiov-unfolded differential cross-sections. \relax }}{141}{figure.caption.87}% 
+\contentsline {figure}{\numberline {67}{\ignorespaces MC-toy-based unfolding bias and statistical uncertainty as a function of several numbers of iterations in each bin of $m_{jj}$ distribution in the VBS-Enhanced region. \relax }}{158}{figure.caption.89}% 
+\contentsline {figure}{\numberline {68}{\ignorespaces MC-toy-based unfolding bias in each bin of $m_{jj}$ in the VBS-Enhanced region using Gaussian toys after subtracting the contribution of the fiducial fake events from both nominal and toy MC predictions.\relax }}{159}{figure.caption.90}% 
+\contentsline {figure}{\numberline {69}{\ignorespaces Fraction of fake fiducial events as a function of $p_{T}~\&~\eta $ of the leading (x-axis) and the sub-leading jets (y-axis) in the VBS-Enhanced region.\relax }}{160}{figure.caption.91}% 
+\contentsline {figure}{\numberline {70}{\ignorespaces Uncertainties as a function of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region.\relax }}{162}{figure.caption.93}% 
+\contentsline {figure}{\numberline {71}{\ignorespaces Detector level distributions in the VBS-Suppressed region.\relax }}{163}{figure.caption.94}% 
+\contentsline {figure}{\numberline {72}{\ignorespaces Detector level distributions in the VBS-Suppressed region.\relax }}{164}{figure.caption.95}% 
+\contentsline {figure}{\numberline {73}{\ignorespaces Unfolded differential cross-sections in the VBS-Suppressed region.\relax }}{165}{figure.caption.96}% 
+\contentsline {figure}{\numberline {74}{\ignorespaces Unfolded differential cross-sections in the VBS-Suppressed region.\relax }}{166}{figure.caption.97}% 
 \contentsfinish 
 \contentsfinish 

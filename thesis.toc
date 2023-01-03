@@ -84,19 +84,19 @@
 \contentsline {section}{\numberline {21}Effective Field Theory ReInterpretation}{133}{section.21}% 
 \contentsline {subsection}{\numberline {21.1}Introduction}{133}{subsection.21.1}% 
 \contentsline {subsection}{\numberline {21.2}Event Generation}{137}{subsection.21.2}% 
-\contentsline {subsection}{\numberline {21.3}Statistical Fit for Limit Setting}{137}{subsection.21.3}% 
-\contentsline {subsection}{\numberline {21.4}Results}{137}{subsection.21.4}% 
-\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{138}{part.7}% 
-\contentsline {section}{\numberline {22}Conclusion}{138}{section.22}% 
-\contentsline {section}{\numberline {23}Outlook}{139}{section.23}% 
-\contentsline {part}{References}{140}{section.23}% 
-\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{147}{Item.102}% 
-\contentsline {section}{\numberline {A}Personal Contribution}{148}{Appendix.a.A}% 
-\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ(\rightarrow 4\ell )jj$ Measurement}{148}{subsection.a.A.1}% 
-\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{148}{subsection.a.A.2}% 
-\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{151}{Appendix.a.B}% 
-\contentsline {section}{\numberline {C}VBS-Suppressed Region}{156}{Appendix.a.C}% 
-\contentsline {subsection}{\numberline {C.1}Systematics}{156}{subsection.a.C.1}% 
-\contentsline {subsection}{\numberline {C.2}Detector Level Measurements}{157}{subsection.a.C.2}% 
-\contentsline {subsection}{\numberline {C.3}Unfolded Cross-sections}{157}{subsection.a.C.3}% 
+\contentsline {subsection}{\numberline {21.3}Statistical Strategy for Limit Setting}{137}{subsection.21.3}% 
+\contentsline {subsection}{\numberline {21.4}Results}{141}{subsection.21.4}% 
+\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{143}{part.7}% 
+\contentsline {section}{\numberline {22}Conclusion}{143}{section.22}% 
+\contentsline {section}{\numberline {23}Outlook}{144}{section.23}% 
+\contentsline {part}{References}{145}{section.23}% 
+\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{152}{Item.105}% 
+\contentsline {section}{\numberline {A}Personal Contribution}{153}{Appendix.a.A}% 
+\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ(\rightarrow 4\ell )jj$ Measurement}{153}{subsection.a.A.1}% 
+\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{153}{subsection.a.A.2}% 
+\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{156}{Appendix.a.B}% 
+\contentsline {section}{\numberline {C}VBS-Suppressed Region}{161}{Appendix.a.C}% 
+\contentsline {subsection}{\numberline {C.1}Systematics}{161}{subsection.a.C.1}% 
+\contentsline {subsection}{\numberline {C.2}Detector Level Measurements}{162}{subsection.a.C.2}% 
+\contentsline {subsection}{\numberline {C.3}Unfolded Cross-sections}{162}{subsection.a.C.3}% 
 \contentsfinish 

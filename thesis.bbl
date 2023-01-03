@@ -517,6 +517,22 @@ John Ellis, Christopher~W. Murphy, Ver{\'{o}}nica Sanz, and Tevong You.
 \newblock {Unitarity constraints on anomalous quartic couplings}.
 \newblock {\em Phys. Rev. D}, 101:113003, Jun 2020.
 
+\bibitem{ProfileLikelihood}
+{Glen Cowan and Kyle Cranmer and Eilam Gross and Ofer Vitells}.
+\newblock {Asymptotic formulae for likelihood-based tests of new physics}.
+\newblock {\em The European Physical Journal C}, 71(2), feb 2011.
+
+\bibitem{WilksTheorem}
+{Wilks, S. S.}
+\newblock {The Large-Sample Distribution of the Likelihood Ratio for Testing
+  Composite Hypotheses}.
+\newblock {\em Annals Math. Statist.}, 9(1):60--62, 1938.
+
+\bibitem{Bootstrapping}
+{Evaluating statistical uncertainties and correlations using the bootstrap
+  method}.
+\newblock Technical report, CERN, Geneva, 2021.
+
 \bibitem{EWk_ssWW}
 {ATLAS Collaboration}.
 \newblock {Observation of electroweak production of a same-sign W boson pair in
