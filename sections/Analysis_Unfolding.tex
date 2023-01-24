@@ -1,10 +1,10 @@
-The main results of the thesis are differential cross-section measurements at the particle level. The inclusive detector level cross-section for a given physics process $p_{1}p_{2}\rightarrow X$ is, 
+The main results of the thesis are differential cross-section measurements at the particle-level. The inclusive detector-level cross-section for a given physics process $p_{1}p_{2}\rightarrow X$ is, 
 
 \begin{equation}
     \sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X} = A \times \epsilon \times \sigma ^{particle-level}_{p_{1}p_{2}\rightarrow X}
     \label{eqn:InclusiveXS}
 \end{equation}
-where $\sigma ^{particle-level}_{p_{1}p_{2}\rightarrow X}$ is the \textit{true cross-section} of the physics process predicted by the theory, $A$ is the \textit{detector acceptance} and $\epsilon$ is the \textit{reconstruction efficiency}. The physical layout of the ATLAS detector does not cover all areas of the phase space. $A$ accounts for the limited acceptance of the ATLAS detector. Several parts of the detector have several reconstruction efficiencies, which are accounted for by the factor $\epsilon$. The detector level cross-section is measured experimentally in terms of the number of particles in a given final state (N) and integrated Luminosity $L$ as $\sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X} = \frac{N}{L}$. The \textit{true} particle level inclusive cross-section can be estimated by correcting for detector acceptance and detector efficiency for the measured cross-section $\sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X}$. Additionally, for differential cross-sections, where the cross-section is measured in different bins of the kinematic observables, further correction is needed to correct the resolution-induced migration between nearby bins. 
+where $\sigma ^{particle-level}_{p_{1}p_{2}\rightarrow X}$ is the \textit{true cross-section} of the physics process predicted by the theory, $A$ is the \textit{detector acceptance} and $\epsilon$ is the \textit{reconstruction efficiency}. The physical layout of the ATLAS detector does not cover all areas of the phase space. $A$ accounts for the limited acceptance of the ATLAS detector. Several parts of the detector have several reconstruction efficiencies, which are accounted for by the factor $\epsilon$. The detector-level cross-section is measured experimentally in terms of the number of particles in a given final state (N) and integrated Luminosity $L$ as $\sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X} = \frac{N}{L}$. The \textit{true} particle-level inclusive cross-section can be estimated by correcting for detector acceptance and detector efficiency for the measured cross-section $\sigma ^{detector~level}_{p_{1}p_{2}\rightarrow X}$. Additionally, for differential cross-sections, where the cross-section is measured in different bins of the kinematic observables, further correction is needed to correct the resolution-induced migration between nearby bins. 
 
 This Chapter discusses the unfolding technique in detail. Section \ref{subsec:UnfoldingOverview} gives an Overview of the unfolding algorithm, and Section \ref{subsec:Binning} discusses the optimal binning for unfolding. Section \ref{subsec:UnfoldingValidation} validates the unfolding method, and Section \ref{subsec:Bias} discusses the bias from unfolding and the attempts to optimize the bias. 
 
@@ -16,7 +16,7 @@ The analysis uses an \textit{iterative Bayesian unfolding} algorithm based on Ba
 P(C_{i}|E) = \frac{ P(E|C_{i}) . P(C_{i}) } { \sum_{j}{ P(E|C_{j}).P(C_{j}) } }
 \label{eqn:BayesTheorem}
 \end{equation}
-The obtained probability depends on the prior probability of the cause and the conditional probability of cause and effect, where, in experimental particle physics, the cause is the actual particle level value, and the effect is the measured one. The prior dependency is reduced by using an iterative technique, where the outcome of the previous iteration is used as a prior for the subsequent iteration.
+The obtained probability depends on the prior probability of the cause and the conditional probability of cause and effect, where, in experimental particle physics, the cause is the actual particle-level value, and the effect is the measured one. The prior dependency is reduced by using an iterative technique, where the outcome of the previous iteration is used as a prior for the subsequent iteration.
 
 For a single iteration, the algorithm can be summarized as, 
 
@@ -24,19 +24,19 @@ For a single iteration, the algorithm can be summarized as,
     U_{i} = \frac{1}{ \epsilon_{i} } \times \sum^{reco~bins}_{j}{ (R_j -F_j ) . f_{i} . \frac{M_{ji} T_{i}}{ \sum_{k}^{truth~bins}{M_{jk} T_{k}}} } 
     \label{eqn:BayesianUnfolding}
 \end{equation}
-where $U_{i}$ is the unfolded yield in the target bin $i$, $T_{i}$ is the predicted truth level yield in particle bin $i$, $R_{j}$ is the observed detector level yield in reco bin $j$ and $F_{j}$ is the subtracted detector level reducible background yield. $M_{ij}$ is the migration matrix element from particle level bin $j$ to detector level bin $i$. 
+where $U_{i}$ is the unfolded yield in the target bin $i$, $T_{i}$ is the predicted truth level yield in particle bin $i$, $R_{j}$ is the observed detector-level yield in reco bin $j$ and $F_{j}$ is the subtracted detector-level reducible background yield. $M_{ij}$ is the migration matrix element from particle-level bin $j$ to detector-level bin $i$. 
 
 Based on the discussion, conceptually, three corrections from the SM MC prediction need to be applied to estimate the unfolded yield. The three unfolding inputs are 
 
 \begin{itemize}
     \item{\textit{\textbf{Reconstruction efficiency ($\epsilon$):}} The reconstruction efficiency accounts for the limited efficiency of the detector. Technically, it is defined as a fraction of events that pass both detector and fiducial level selection to the events passing only the fiducial level selection. }
     
-    \item{\textit{\textbf{Fiducial fraction ($f$):}} The fiducial fraction partially accounts for events that are outside the fiducial region which are selected as part of the detector-level events due to limited detector resolution. An example of such an event would be a signal $ZZ ( \rightarrow 4\ell) jj$ event where one of the jets originates from pile-up instead of hard-scatter. Moreover, it also accounts for the events not reconstructed at the detector level due to the limited detector acceptance. Technically, it is defined as a fraction of events that pass both detector and fiducial level selection to the events passing only the detector level selection. }
+    \item{\textit{\textbf{Fiducial fraction ($f$):}} The fiducial fraction partially accounts for events that are outside the fiducial region which are selected as part of the detector-level events due to limited detector resolution. An example of such an event would be a signal $ZZ^*(\rightarrow 4\ell) jj$ event where one of the jets originates from pile-up instead of hard-scatter. Moreover, it also accounts for the events not reconstructed at the detector-level due to the limited detector acceptance. Technically, it is defined as a fraction of events that pass both detector and fiducial level selection to the events passing only the detector-level selection. }
     
-    \item{\textit{\textbf{Migration matrix ($M_{ij}$):}} The migration matrix is a two-dimensional matrix that accounts for events migrated from particle level bin $j$ to detector level bin $i$. The migration matrix corrects the probability of bin migration. It is measured in MC by comparing particle- and detector-level distributions for events that pass both fiducial- and detector-level selections. Bin migrations result from resolution effects and smearing of the reconstructed distributions. The diagonal component of the migration matrix is related to the \textit{fiducial purity}, which corresponds to the fraction of detector-level events that originate from the same bin at the particle level. A similar distribution \textit{stability} defined as the fraction of particle-level events reconstructed in the same detector-level bin is also closely related to the diagonal component of the migration matrix. }
+    \item{\textit{\textbf{Migration matrix ($M_{ij}$):}} The migration matrix is a two-dimensional matrix that accounts for events migrated from particle-level bin $j$ to detector-level bin $i$. The migration matrix corrects the probability of bin migration. It is measured in MC by comparing particle- and detector-level distributions for events that pass both fiducial- and detector-level selections. Bin migrations result from resolution effects and smearing of the reconstructed distributions. The diagonal component of the migration matrix is related to the \textit{fiducial purity}, which corresponds to the fraction of detector-level events that originate from the same bin at the particle-level. A similar distribution \textit{stability} defined as the fraction of particle-level events reconstructed in the same detector-level bin is also closely related to the diagonal component of the migration matrix. }
 \end{itemize}
 
-Figures \ref{fig:UI_mjj} and \ref{fig:MigMatrix} show the first two unfolding inputs along with purity and stability, and the migration matrix for $m_{jj}$, respectively, in the VBS-Enhanced region. The reconstruction efficiency is less than $50\%$ resulting from the poor efficiency of jet reconstruction. The fiducial fraction and purity are smaller in lower bins of $m_{jj}$, which mainly corresponds to the contribution from pile-up jets faking the event selection. The normalized migration matrix shown in the second plot with the particle level prediction in $y-axis$ and the detector level prediction in $x-axis$ is diagonal.
+Figures \ref{fig:UI_mjj} and \ref{fig:MigMatrix} show the first two unfolding inputs along with purity and stability, and the migration matrix for $m_{jj}$, respectively, in the VBS-Enhanced region. The reconstruction efficiency is less than $50\%$ resulting from the poor efficiency of jet reconstruction. The fiducial fraction and purity are smaller in lower bins of $m_{jj}$, which mainly corresponds to the contribution from pile-up jets faking the event selection. The normalized migration matrix shown in the second plot with the particle-level prediction in $y-axis$ and the detector-level prediction in $x-axis$ is diagonal.
 
 \begin{figure}[htb]
     \centering
@@ -57,7 +57,7 @@ Figures \ref{fig:UI_mjj} and \ref{fig:MigMatrix} show the first two unfolding in
 \label{subsec:Binning}
 Optimal binning is required to perform the unfolding procedure for all kinematic observables effectively. Two factors drive the choice of binning; first, the necessity to have large enough bin statistics to maintain the Gaussian approximation while preserving the shape of the differential distributions, and second, the necessity to minimize large bin migrations and statistical uncertainties from unfolding. Therefore, each bin must have at least $15$ events in the VBS-Suppressed region and at least $20$ events in the VBS-Enhanced signal region. 
 
-To maintain a good performance of the unfolding, each bin for the kinematic observable has at least $70\%$ purity except for $p_{T,4\ell jj}$ where at least $50\%$ purity is required. Moreover, for each observable, every bin width must be equal to or greater than the resolution of the same bin. The resolution in each particle-level bin is evaluated from MC by comparing the difference of particle and detector level yield for events that pass both fiducial- and detector-level event selection. The difference is fitted using Gaussian approximation, and twice the resulting standard deviation is taken as the resolution. Table \ref{tab:binning} shows the final bin choices for all kinematic observables used in differential cross-section measurement.
+To maintain a good performance of the unfolding, each bin for the kinematic observable has at least $70\%$ purity except for $p_{T,4\ell jj}$ where at least $50\%$ purity is required. Moreover, for each observable, every bin width must be equal to or greater than the resolution of the same bin. The resolution in each particle-level bin is evaluated from MC by comparing the difference of particle and detector-level yield for events that pass both fiducial- and detector-level event selection. The difference is fitted using Gaussian approximation, and twice the resulting standard deviation is taken as the resolution. Table \ref{tab:binning} shows the final bin choices for all kinematic observables used in differential cross-section measurement.
 
 \begin{table}
     \caption{Binning for all unfolded observables in VBS-Enhanced and VBS-Suppressed regions. \label{tab:binning}}
@@ -127,7 +127,7 @@ The unfolding method is validated using three different tests.
 \subsubsection{MC Closure Test}
 \label{subsubsec:MCClosure}
 
-The first validation of the unfolding technique is with the SM MC. An SM-predicted detector level distribution for a kinematic observable is unfolded using the unfolding inputs from the same MC. Figure \ref{fig:unfolding_technical_closure} shows an example of the MC-based closure test for $m_{jj}$ in the VBS-Enhanced region. The detector-level MC prediction is unfolded using the inputs from the same MC, and the resulting unfolded distribution is compared with the particle-level prediction. Since both detector-level prediction and unfolding inputs are from the same MC, a perfect closure is observed when comparing the unfolded- and particle-level predictions.
+The first validation of the unfolding technique is with the SM MC. An SM-predicted detector-level distribution for a kinematic observable is unfolded using the unfolding inputs from the same MC. Figure \ref{fig:unfolding_technical_closure} shows an example of the MC-based closure test for $m_{jj}$ in the VBS-Enhanced region. The detector-level MC prediction is unfolded using the inputs from the same MC, and the resulting unfolded distribution is compared with the particle-level prediction. Since both detector-level prediction and unfolding inputs are from the same MC, a perfect closure is observed when comparing the unfolded- and particle-level predictions.
 
 \begin{figure}[!htb]
 \centering
@@ -179,27 +179,27 @@ The unfolded procedure relies on a prior value depending on the SM MC, which nat
 
 For optimization, the unfolding bias is evaluated by the \textit{data-driven closure test}, where a pseudo dataset is developed using the ratio of observed background-subtracted data and SM detector-level prediction. First, for each observable, the data to MC ratio is smoothed using Friedman's Super Smoother technique \cite{FriedmanSmoother}, fixing the endpoints to the ratio value in the first and last bins. A reweighing function for each observable is developed to reweigh the SM fiducial- and detector-level predictions. The reweighed pseudo-detector-level prediction is then unfolded with the nominal unfolding inputs from SM and compared with the reweighed pseudo-particle-level prediction to get the final unfolding bias.
 
-Figure \ref{fig:unfolding_ddclosure} shows a step-by-step procedure for the data-driven closure test for $m_{jj}$ in the VBS-Suppressed region. The detector-level SM prediction and collected data with their ratio are shown in Figure \ref{fig:ddclosure_DataMC}, and Figure \ref{fig:ddclosure_DataMCSmooth} shows the smooth ratio of Data to MC prediction. Figure \ref{fig:ddclosure_DataMCReweighted} shows the nominal and pseudo-detector-level predictions. Finally, Figure \ref{fig:ddclosure_FinalBias} compares the pseudo-unfolded distribution to the pseudo-particle-level prediction and shows the final data-driven closure for the unfolding bias. As shown by the ratio panel of Figure \ref{fig:ddclosure_FinalBias}, unfolding bias is observed to be about $10\%$. 
+Figure \ref{fig:unfolding_ddclosure} shows a step-by-step procedure for the data-driven closure test for $m_{jj}$ in the VBS-Enhanced region. The detector-level SM prediction and collected data with their ratio are shown in Figure \ref{fig:ddclosure_DataMC}, and Figure \ref{fig:ddclosure_DataMCSmooth} shows the smooth ratio of Data to MC prediction. Figure \ref{fig:ddclosure_DataMCReweighted} shows the nominal and pseudo-detector-level predictions. Finally, Figure \ref{fig:ddclosure_FinalBias} compares the pseudo-unfolded distribution to the pseudo-particle-level prediction and shows the final data-driven closure for the unfolding bias. As shown by the ratio panel of Figure \ref{fig:ddclosure_FinalBias}, unfolding bias is observed to be about $10\%$. 
 \begin{figure}[htb]
     \centering
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Ratio.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Enhanced_Ratio.pdf}
         \caption{ Data and MC for $m_{jj}$ \label{fig:ddclosure_DataMC}}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_SmoothRatio.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Enhanced_SmoothRatio.pdf}
         \caption{Smoothed ratio of Data and MC. \label{fig:ddclosure_DataMCSmooth} }
     \end{subfigure}\\
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Reweighted.pdf}
-        \caption{ Nominal SM (red) detector level yield and reweighted-detector level yield(green). \label{fig:ddclosure_DataMCReweighted} }
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Enhanced_Reweighted.pdf}
+        \caption{ Nominal SM (red) detector-level yield and reweighted-detector-level yield(green). \label{fig:ddclosure_DataMCReweighted} }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
-        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Suppressed_Bias.pdf}
+        \includegraphics[width=.9\linewidth]{figures/Analysis/Unfolding/DDClosure_VBS_Enhanced_Bias.pdf}
         \caption{Unfolding bias. \label{fig:ddclosure_FinalBias} }
     \end{subfigure}
     \caption{ A step-by-step overview of the data-driven closure test to get the unfolding bias. \label{fig:unfolding_ddclosure}}
@@ -210,7 +210,7 @@ The bias observed in Figure \ref{fig:ddclosure_FinalBias} is obtained using a si
     \centering
     \begin{subfigure}{.49\textwidth}
         \centering
-        \includegraphics[width=.92\linewidth]{figures/Analysis/Unfolding/UnfoldingBiasIteration.pdf}
+        \includegraphics[width=.92\linewidth]{figures/Analysis/Unfolding/UnfoldingBiasIteration_Sup.pdf}
        \caption{ Unfolding bias \label{fig:UnfoldingBiasIteration} }
     \end{subfigure}
     \begin{subfigure}{.49\textwidth}

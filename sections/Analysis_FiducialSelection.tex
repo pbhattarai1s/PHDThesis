@@ -1,28 +1,13 @@
-\section{Phase Space Definition}
+\section{Fiducial Phase Space}
 \label{sec:FidSel}
 
-The unfolded differential cross-sections are measured in a phase space within the acceptance of the detector. This section summarizes the selections defining the fiducial phase space of the analysis.
+The ATLAS detector has limited acceptance in the physical phase space, and the selected objects and events are reconstructed within this acceptance phase space. Thus, a fiducial phase space imitating the detector acceptance is defined using physics objects at the particle level to measure the unfolded differential cross-sections. The particle-level signal events are essential to derive the inputs needed to correct the detector effects. Moreover, the measured unfolded cross-sections are compared to the SM-predicted particle-level cross-sections evaluated from these events. Thus, it is essential to carefully select the particle-level signal events in the defined fiducial phase space. This section summarizes the kinematic requirements defining the fiducial phase space of the analysis and the selection of the particle-level signal events. 
 
-\subsection{Fiducial Volume}
-\label{subsec:FidVol} 
+The kinematic selections for the fiducial phase space are close to the detector-level object and event selections. The kinematic requirements applied are motivated by the nature of the electroweak production of $pp\rightarrow ZZ^* ( \rightarrow 4\ell) jj$ $[\ell = e,~\mu]$, where the two SF-OC lepton pairs from two $Z$ bosons are produced centrally with respect to the highly energetic dijet. Moreover, the fiducial phase space contains no leptons from tau decays. Both fiducial-level electrons and muons are required to be dressed. The dressing procedure accounts for the energy losses of leptons through photon emissions via bremsstrahlung. Dressed leptons are constructed by adding the four-momenta of nearby photons within the lepton's small $\Delta R < 0.1$ cone. Several kinematic cuts summarized in Table \ref{tab:FidObjectCut} are applied individually to the muons, electrons, and jets to ensure the selected objects fall within detector acceptance before defining the events. Motivated by the discussion of physics object reconstruction in Section \ref{sec:ParticleReconstruction}, each electron is required to have $p_{T} > 7$ GeV and $|\eta| < 2.47$, whereas the muons satisfy $p_{T} > 5$ GeV and $|\eta| < 2.7$. 
 
-The fiducial phase space consists of $pp\rightarrow ZZ ( \rightarrow 4\ell) jj$ $[\ell = e,~\mu]$ events with four centrally produced prompt-leptons and two jets with significant rapidity separation as motivated by Section \ref{sec:EWKPheno}. The fiducial phase space does not contain any leptons from tau decays. Both fiducial-level electrons and muons are required to be dressed. The dressing procedure accounts for the energy losses of leptons through photon emissions via bremsstrahlung. Dressed leptons are constructed by adding the four-momenta of nearby photons within the lepton's small $\Delta R < 0.1$ cone. 
-
-Several kinematic cuts summarized in Table \ref{tab:FidObjectCut} are applied individually to the muons, electrons, and jets to ensure the selected objects fall within detector acceptance before defining the events. Motivated by the discussion of physics object reconstruction in Section \ref{sec:ParticleReconstruction}, each electron is required to have $p_{T} > 7$ GeV and $|\eta| < 2.47$, whereas the muons satisfy $p_{T} > 5$ GeV and $|\eta| < 2.7$. Event quadruplets are formed by requiring two SF-OC lepton pairs, with leading and sub-leading lepton $p_{T}>20$ GeV and angular separation between any two leptons to satisfy $\Delta R > 0.05$. Additionally, the invariant mass of any SF-OC lepton pair is required to satisfy $m_{\ell \ell } > 5$ GeV to suppress the contamination from lower resonance backgrounds. Based on these requirements, the quadruplets can be of the following three types:
-
-\begin{itemize}
-\item{$4e$: events with two $e^{+}e^{-}$ pairs.}
-\item{$4\mu$: events with two $\mu^{+}\mu^{-}$ pairs.}
-\item{$2e2\mu$ or $2\mu2e$: events where one of the pair is $e^{+}e^{-}$ and other is $\mu^{+}\mu^{-}$}
-\end{itemize}
-
-In any event with more than two SF-OC lepton pairs, the quadruplet is formed by choosing the two pairs that minimize the distance to the $Z$ resonance pole. Once the quadruplet is formed, the leading-lepton pair is defined as the one with a higher absolute rapidity value, i.e., $|y_{ij}|$. Finally, an additional criterion on the invariant mass of the quadruplet of $m_{4\ell} > 130$ GeV is imposed. 
-
-Similarly, the event dijet is constructed from the two leading jets with the opposite sign of pseudo-rapidity ($\eta$) to imitate the detector-level VBS dijet production, where jets are reconstructed on the opposite side of the detector. The jets are required to satisfy $|n| < 4.5$, $p_{T,~leading~jet} > 40$ GeV, and $p_{T,~sub-leading~jet} > 30$ GeV. The dijet is required to have a large rapidity separation of $|\Delta y_{jj}| > 2$ and high invariant mass of $m_{jj} > 300$ GeV to resemble dijet produced in electroweak $ZZ (\rightarrow 4 \ell) jj$ production. Table \ref{tab:QuadDijetFidCut} summarizes the requirements to select the quadruplet and the dijet in an event.
-
-\begin{table}[ht]
+\begin{table}[htbp]
     \centering
-    \caption{Details of the kinematic pre-selection applied to the baseline electrons, muons, and jets. The required kinematic cuts are applied to the dressed leptons.
+    \caption{Details of the kinematic pre-selection applied to the particle-level electrons, muons, and jets. The required kinematic cuts are applied to the dressed leptons.
     \label{tab:FidObjectCut}}
     \begin{tabular}{|| l || c | c | c ||}
         \hline
@@ -33,10 +18,14 @@ Similarly, the event dijet is constructed from the two leading jets with the opp
         $|\eta|$            &  $< 2.47  $           &       $ < 2.7 $        &      $ < 4.5$            \\
         \hline
     \end{tabular}
-\end{table}             
+\end{table}  
+
+Event quadruplets are formed from the events with at least four leptons by requiring two SF-OC lepton pairs, with leading and sub-leading lepton $p_{T}>20$ GeV and angular separation between any two leptons to satisfy $\Delta R > 0.05$. The invariant mass of any SF-OC lepton pair is required to satisfy $m_{\ell \ell } > 5$ GeV. These particle-level selections have similar motivation to those defined for the detector-level requirements in Section \ref{sec:EventSel}. In any event with more than two SF-OC lepton pairs, the quadruplet is formed by choosing the two pairs that minimize the distance to the $Z$ resonance pole. Once the quadruplet is formed, the leading-lepton pair is defined as the one with a higher absolute rapidity value, i.e., $|y_{ij}|$. Finally, an additional criterion on the invariant mass of the quadruplet of $m_{4\ell} > 130$ GeV is imposed. 
+
+Similarly, the event dijet is constructed from the two leading jets with the opposite sign of pseudo-rapidity ($\eta$) to imitate the detector-level VBS dijet production, where jets are reconstructed on the opposite side of the detector. Similar to detector-level, the particle-level jets are required to satisfy $|n| < 4.5$, $p_{T,~leading~jet} > 40$ GeV, and $p_{T,~sub-leading~jet} > 30$ GeV. The dijet is required to have a significant rapidity separation of $|\Delta y_{jj}| > 2$ and high invariant mass of $m_{jj} > 300$ GeV to resemble dijet produced in electroweak $ZZ^*(\rightarrow 4 \ell) jj$ production. Table \ref{tab:QuadDijetFidCut} summarizes the requirements to select the particle-level quadruplet and dijet in an event.           
     
-\begin{table}[ht]
-    \caption{Details of the selections applied to form a quadruplet and a dijet selection in the fiducial volume. 
+\begin{table}[htbp]
+    \caption{Details of the kinematic selections applied to form a particle-level quadruplet and a particle-level dijet in the fiducial volume. 
     \label{tab:QuadDijetFidCut}}
     \begin{tabular}{|| l || c ||}
         \hline
@@ -59,36 +48,3 @@ Similarly, the event dijet is constructed from the two leading jets with the opp
         \hline
     \end{tabular}
 \end{table}
-
-\subsection{Signal Region}
-\label{subsec:SignalRegion}
-The signal region of the analysis is defined based on the centrality ($\zeta$) of the di-$Z$boson production in an event. Centrality depends on the rapidity of the quadruplet and the rapidity of the dijet as:
-\begin{equation}
-    \zeta~=~\frac{|y_{quadruplet}~-~ 0.5*(y_{leading~jet}~+~y_{sub-leading~jet})| }{|y_{leading~jet}~-~y_{sub-leading~jet}|}
-    \label{eq:centr}
-\end{equation}
-
-Figure \ref{fig:centrality_a} shows the predicted MC distribution of centrality for the three main production modes of $ZZ(\rightarrow 4 \ell)jj$. The significance of the EWK component over the inclusive parton initiated and $gg$-loop initiated QCD production is defined as, 
-\begin{equation}
-    s=\frac{N_{EWK}}{\sqrt{N_{QCD}^{(qq)}+N_{QCD}^{(gg)}}}
-    \label{eqn:EWKSignificance}
-\end{equation}
-where $N_{EWK}$, $N_{QCD}^{qq}$ and $N_{QCD}^{gg}$ are the numbers of events from electroweak, parton initiated QCD and gluon-loop initiated QCD productions, respectively. The chosen cut value on the centrality maximizes the EWK significance while maintaining a good selection efficiency of EWK events. Figure in \ref{fig:centrality_b} shows the efficiency and significance for various cut values of centrality.  
-
-A VBS-enhanced signal region is defined based on events with a quadruplet, a dijet, and $\zeta<0.4$. The low value of the centrality and the requirements for a signal dijet ensures that the events in this signal region originate in a more significant fraction from the electroweak production of $ZZ (\rightarrow 4 \ell) jj$. A VBS Suppressed control region is also defined based on events with a quadruplet, a dijet, and $\zeta>0.4$. These events mainly originate from the QCD production of $ZZ (\rightarrow 4 \ell) jj$ and are used to optimize the analysis strategies.
-
-\begin{figure}[ht]
-\begin{subfigure}{.48\textwidth}
-  \centering
-  \includegraphics[width=.95\linewidth]{figures/AnalysisOverview/centrality_Dist.pdf}  
-  \caption{Yields of EWK and QCD production.}
-  \label{fig:centrality_a}
-\end{subfigure}
-\begin{subfigure}{.48\textwidth}
-  \centering
-  \includegraphics[width=.9\linewidth]{figures/AnalysisOverview/centrality_Cut.pdf}  \\
-  \caption{Selection efficiency and EWK significance. }
-  \label{fig:centrality_b}
-\end{subfigure}
-\caption{Centrality dependence for yield, EWK selection efficiency and EWK significance. }
-\end{figure}

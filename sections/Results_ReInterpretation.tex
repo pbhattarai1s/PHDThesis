@@ -13,7 +13,7 @@ where $\mathcal{O}_{i}^{d}$ is the higher dimension operator describing new phys
 
 Any SMEFT Lagrangian given by Equation \ref{eqn:L_SMEFT} should reduce to the SM at low energy scales and is required to respect the unitarity bound such that the amplitude of any EFT process cannot grow too fast with a given energy scale. There are one dimension-five operator and $20$ dimension-seven operators that meet all requirements of SMEFT \cite{SMEFT}\cite{Dim7_EFT}. However, these operators violate the conservation of either baryon or lepton numbers, which to date are experimentally observed to be conserved. Moreover, higher dimensions EFT operators are suppressed by the larger order of magnitude of the large cut-off energy scale. Therefore, in practice, only dimension-six and dimension-eight operators are considered to affect the low-energy processes measured at the LHC.
 
-The main results of the analysis are the unfolded differential cross-sections in electroweak-enhanced phase space. Thus, the EFT constrains the operators that affect the electroweak processes shown by the Feynman diagrams in Figure \ref{fig:ZZjjFeynmanDiag_EWk}. There is a total of $59$ dimension-six SMEFT operators, and $26$ of them affect the electroweak processes by modifying either the self-interactions of the gauge bosons, the Higgs-vector boson interactions, $Z \rightarrow \ell \ell$ vertices or the purely fermionic fields affecting either the four-leptons or lepton-quark interactions. However, based on an initial sensitivity study using SM predicted Asimov\footnote{SM predicted detector-level distributions where the bin errors are the Poissonian errors derived from the weighted event counts.} dataset, it was observed that the constraints on these operators were more competent in processes with more significant statistics such as inclusive four lepton measurements presented in Ref \cite{Inclusive_FourLepton} or a global SMEFT fit using LEP, ATLAS, and CMS data discussed in Ref \cite{GlobalEFT_Dim6}. Therefore, in this thesis, only dimension-8 operators affecting the electroweak $pp\rightarrow ZZ (\rightarrow 4 \ell) jj$ processes will be considered. 
+The main results of the analysis are the unfolded differential cross-sections in electroweak-enhanced phase space. Thus, the EFT constrains the operators that affect the electroweak processes shown by the Feynman diagrams in Figure \ref{fig:ZZjjFeynmanDiag_EWk}. There is a total of $59$ dimension-six SMEFT operators, and $26$ of them affect the electroweak processes by modifying either the self-interactions of the gauge bosons, the Higgs-vector boson interactions, $Z \rightarrow \ell \ell$ vertices or the purely fermionic fields affecting either the four-leptons or lepton-quark interactions. However, based on an initial sensitivity study using SM predicted Asimov\footnote{SM predicted detector-level distributions where the bin errors are the Poissonian errors derived from the weighted event counts.} dataset, it was observed that the constraints on these operators were more competent in processes with more significant statistics such as inclusive four lepton measurements presented in Ref \cite{Inclusive_FourLepton} or a global SMEFT fit using LEP, ATLAS, and CMS data discussed in Ref \cite{GlobalEFT_Dim6}. Therefore, in this thesis, only dimension-8 operators affecting the electroweak $pp\rightarrow ZZ^* (\rightarrow 4 \ell) jj$ processes will be considered. 
 
 The quartic vector boson self-interactions are experimentally accessible with the LHC Run-2 dataset for the first time. There are EFT operators that modify the QGC vertex shown in Figure \ref{fig:ZZjjFeynmanDiag_EWk_b}, resulting in anomalous Quartic Gauge Couplings (aQGC). The aQGC operators relevant to the measurement are defined by the Eboli Model discussed in detail in Ref \cite{EFT_Eboli}. Table \ref{tab:aQGC_Operators} shows the $18$ dimension-8 operators from the Eboli model that give aQGC for processes involving multi-boson final states either by modifying the SM electroweak interactions or by introducing the SM forbidden neutral couplings such as $ZZZZ$, $ZZZA$, $ZZAA$, $ZAAA$ and $AAAA$. Among these $18$ operators, eight shown in Table \ref{tab:Dim8Operators} formed by the combination of different field strength tensors only affects the quartic gauge-self interactions of the vector bosons scattering without any impact to the triple self-interactions or Higgs-mediated processes. The measurement constraints these eight \textit{genuine-QGC operators}. 
 
@@ -90,7 +90,7 @@ where $A_{Int}$ and $B_{Quad}$ are the corresponding relative linear and quadrat
 \subsection{Event Generation}
 \label{subsec:EFT_EventGen}
 The EFT samples are generated for each dimension-8 EFT operator using \textsc{MadGraph5} at leading order using the NNPDF3.0NLO PDF set and ignoring all the QCD vertices.
-All Feynman diagrams contributing to the inclusive $pp \rightarrow ZZ jj$ process are first generated using \textsc{MadGraph5} and interfaced with \textsc{Pythia8} to simulate parton showering, hadronization, and multiparton interaction. Some generator-level kinematic selections such as $\eta_{j}<5$, $p_{T,j} > 15$ GeV, and $m_{jj} > 10$ GeV are applied to speed up the generation process. Each $Z$-boson is then decayed leptonically ($Z\rightarrow \ell \ell$) using \textsc{MadSpin}. For each EFT operator, the cross-sections for linear-only and quadratic-only terms are generated by setting the value of the relevant Wilson coefficient to $1$ and the value of all other Wilson coefficients to $0$. The differential cross-section in bin $i$ for any value of the Wilson coefficient is then estimated by utilizing the following relation,
+All Feynman diagrams contributing to the inclusive $pp \rightarrow ZZ^* jj$ process are first generated using \textsc{MadGraph5} and interfaced with \textsc{Pythia8} to simulate parton showering, hadronization, and multiparton interaction. Some generator-level kinematic selections such as $\eta_{j}<5$, $p_{T,j} > 15$ GeV, and $m_{jj} > 10$ GeV are applied to speed up the generation process. Each $Z$-boson is then decayed leptonically ($Z\rightarrow \ell \ell$) using \textsc{MadSpin}. For each EFT operator, the cross-sections for linear-only and quadratic-only terms are generated by setting the value of the relevant Wilson coefficient to $1$ and the value of all other Wilson coefficients to $0$. The differential cross-section in bin $i$ for any value of the Wilson coefficient is then estimated by utilizing the following relation,
 \begin{equation}
 \frac{d\sigma ^{i}}{dX}(c) = \frac{d\sigma ^{i}_{SM}}{X} + c . \frac{d\sigma ^{i}_{Int, c=1}}{dX} + c^2 . \frac{d\sigma ^{i}_{Quad, c=1}}{dX}
 \label{eqn:DiffxS_EFT}
@@ -161,7 +161,7 @@ The following particle-level uncertainties are considered as nuisance parameters
     \item{\textbf{QCD Modeling Uncertainties}: This uncertainty accounts for the modeling differences in the QCD $qqZZ$ samples and is estimated by taking the difference between \textsc{Sherpa} and \textsc{MadGraph} predictions.} 
 \end{itemize}
 
-Figure \ref{fig:EFT_Example} shows an example of setting constraints on one dimension-8 $\mathcal{O}_{T,0}$ operator with the cut-off energy scale set to $1$ TeV. The example uses the unfolded cross-sections from the Asimov dataset. Figure \ref{fig:EFT_Example_LikelihoodScan} shows the likelihood scan as a function of different values of $f_{T0}$ Wilson coefficient for two cases; first, only including the statistical covariances, and second, including both statistical and systematic covariances for the unfolded cross-sections. The two respective curves represent different test statistic ($q$) values for different values of the Wilson coefficient. The intersection between the curves and the upper value of $q=3.84$ gives the $95\%$ confidence limit for the $f_{T0}$ Wilson coefficient to be $[-0.898,0.847]$. Figure \ref{fig:EFT_Example_MaxValue} shows the three distributions; SM predicted truth-level yield with fiducial-level theoretical uncertainties, the SMEFT truth-level prediction when the value of $f_{T0}$ Wilson coefficient equals $0.847$, the upper limit from the fit, as well as the unfolded SM Asimov data with statistical, experimental, theoretical, and unfolding uncertainties. Enhancements of about $20-25\%$ on the last bin of $m_{jj}$ and $m_{4\ell}$ are observed when the EFT contribution is maximum allowed by the expected upper limit value for $f_{T0}$. 
+Figure \ref{fig:EFT_Example} shows an example of setting constraints on one dimension-8 $\mathcal{O}_{T,0}$ operator with the cut-off energy scale set to $1$ TeV. The example uses the unfolded cross-sections from the Asimov dataset. Figure \ref{fig:EFT_Example_LikelihoodScan} shows the likelihood scan as a function of different values of $f_{T0}$ Wilson coefficient for two cases; first, only including the statistical covariances, and second, including both statistical and systematic covariances for the unfolded cross-sections. The two respective curves represent different test statistic ($q$) values for different values of the Wilson coefficient. The intersection between the curves and the upper value of $q=3.84$ gives the $95\%$ confidence limit for the $f_{T0}$ Wilson coefficient to be $[-0.898,0.847]$. Figure \ref{fig:EFT_Example_MaxValue} shows the three distributions; SM predicted truth-level yield with fiducial-level theoretical uncertainties, the SMEFT truth-level prediction when the value of $f_{T0}$ Wilson coefficient equals $0.847$, the upper limit from the fit, as well as the unfolded SM Asimov data with statistical, experimental, theoretical, and unfolding uncertainties. Enhancements of about $20-25\%$ on the last bin of $m_{jj}$ and $m_{4\ell}$ are observed when the EFT contribution is maximum allowed by the expected upper limit value for $f_{T0}$. Similarly, Figures \ref{fig:EFT_Example_LikelihoodScan_Data} and \ref{fig:EFT_Example_MaxValue_Data} show the same but when using the unfolded cross-sections measured from data. 
 
 \begin{figure}[!htb]
     \centering
@@ -178,9 +178,24 @@ Figure \ref{fig:EFT_Example} shows an example of setting constraints on one dime
     \caption{ An example of setting constraints on dimension-8 $\mathcal{O}_{T,0}$ EFT operator with one-dimensional $m_{jj}+m_{4\ell}$ Asmiov-unfolded differential cross-sections.  \label{fig:EFT_Example}}
 \end{figure}
 
+\begin{figure}[!htb]
+    \centering
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.8\linewidth]{figures/Results/EFT/Likelihood_profile_FT0_mjj_m4l_SM_fixed_twoobs.pdf}
+        \caption{ Likelihood scan \label{fig:EFT_Example_LikelihoodScan_Data}}
+    \end{subfigure}
+    \begin{subfigure}{.49\textwidth}
+        \centering
+        \includegraphics[width=.99\linewidth]{figures/Results/EFT/Unfolded_spectrum_FT0_mjj_m4l_SM_fixed_twoobs.pdf}
+        \caption{ Unfolded data and truth-level SM and EFT predictions.\label{fig:EFT_Example_MaxValue_Data} }
+    \end{subfigure}
+    \caption{ An example of setting constraints on dimension-8 $\mathcal{O}_{T,0}$ EFT operator with one-dimensional $m_{jj}+m_{4\ell}$ unfolded differential cross-sections measured from data.  \label{fig:EFT_Example_Data}}
+\end{figure}
+
 \subsection{Results}
 \label{subsec:EFT_Results}
-The expected and observed $95\%$ confidence limits on the Wilson coefficients associated with the $8$ genuine QGC operators are shown in Table \ref{tab:twoobsofeboli}. The limits are obtained by fitting the unfolded differential cross-sections for Asimov prediction and measured data, respectively. The competent observed limits are compatible with the expected limits. As all limits are centered around zero; therefore it is concluded that the effects of new physics are not observed in the reinterpreted LHC Run-2 dataset.
+The expected and observed $95\%$ confidence limits on the Wilson coefficients associated with the $8$ genuine QGC operators are shown in Table \ref{tab:twoobsofeboli}. The limits are obtained by fitting the unfolded differential cross-sections obtained from SM prediction and measured data, respectively. The competent observed limits are compatible with the expected limits using the SM predicted cross-sections. Therefore, it is concluded that the effects of new physics are not observed in the reinterpreted LHC Run-2 dataset.
 
 \begin{table}[ht]
     \centering
@@ -189,15 +204,14 @@ The expected and observed $95\%$ confidence limits on the Wilson coefficients as
         \hline
         Wilson Coefficient &    Expected [Asimov]  & Observed [Data]         \\
         \hline\hline
-        $f_{T0}$ &  $[-9.0, 8.5]\times 10^{-1}$  & \\
-        $f_{T1}$ &  $[-1.1, 1.1]$ &  \\
-        $f_{T2}$ &  $[-2.3, 2.2]$ &  \\
-        $f_{T5}$ &  $[-2.3, 2.2]$ & \\
-        $f_{T6}$ &  $[-3.6, 3.6]$ & \\
-        $f_{T7}$ &  $[-7.7, 7.4]$ & \\
-        $f_{T8}$ &  $[-1.9, 1.9]$ & \\
-        $f_{T9}$ &  $[-4.1, 4.1]$ & \\                               
+        $f_{T0}$ &  $[-9.0, 8.5]\times 10^{-1}$  & $[-8.4, 7.9] \times 10^{-1}$ \\
+        $f_{T1}$ &  $[-1.1, 1.1]$ & $[-1.0, 1.0]$ \\
+        $f_{T2}$ &  $[-2.3, 2.2]$ & $[-2.2, 2.1]$ \\
+        $f_{T5}$ &  $[-2.3, 2.2]$ & $[-2.2, 2.1]$ \\
+        $f_{T6}$ &  $[-3.6, 3.6]$ & $[-3.3, 3.3]$ \\
+        $f_{T7}$ &  $[-7.7, 7.4]$ & $[-7.2, 6.9]$ \\
+        $f_{T8}$ &  $[-1.9, 1.9]$ & $[-1.8, 1.8]$ \\
+        $f_{T9}$ &  $[-4.1, 4.1]$ & $[-3.9, 3.9] $\\                               
         \hline
     \end{tabular}
 \end{table}
-\textcolor{red}{need to update with real results and discussion based on it}
