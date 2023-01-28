@@ -6,7 +6,7 @@
 
 The measurement uses the LHC collision data, the ATLAS Run-$2$ dataset collected by the ATLAS experiment during its operation in $2015$, $2016$, $2017$, and $2018$. This dataset corresponds to proton-proton collisions at the center-of-mass energy of $\sqrt{s} = 13$ TeV and total integrated luminosity of $139 \pm 2.4$ fb$^{-1}$ measured by the LUCID-2 detector \cite{ATLASLuminosityDetector}\cite{ATLASRun2IntegratedLumi}. The LUCID-2 detector is a Cherenkov detector with 16 photo-multipliers (PMT) that provides counts of particles from each colliding bunch. The counts integrated over time periods of about $60$ seconds are called luminosity blocks (LB). The instantaneous luminosity is given by 
 \begin{equation}
-  \mathcal{L} = \frac{R}{\sigma_{vis}}
+  \mathcal{L} = \frac{R}{\sigma_{vis}},
 \end{equation}
 where $R$ is the event rate and $\sigma_{vis}$ is the calibration constant measured during the LHC's special runs, which took place at the beginning of each year of data taking. The calibration constant accounts for the non-linear response of the LUCID-2 detector. The uncertainty on the integrated luminosity is obtained from the combination of the measurements of each year of the LHC run.
 
@@ -46,7 +46,7 @@ An alternative \textsc{MadGraph5} samples produced at NLO accuracy for up to one
 
 The EWK production $qqZZjj$ $[qq \rightarrow ZZ^{*}(\rightarrow 4 \ell) jj]$ is simulated using a \textsc{PowhegV2} generator using an MSTW2008 PDF set with NLO accuracy in QCD and interfaced with \textsc{Pythia8} for parton showering and hadronization \cite{PowhegV2}. An alternative sample at LO accuracy is also used in the measurement from \textsc{MadGraph5} with A14NNPDF23LO PDF set and \textsc{Pythia8} showering \cite{MADGRAPHNLO}. The \textsc{PowhegV2} NLO prediction of electroweak $qqZZjj$ does not contain the contribution from electroweak triboson $VZZ$ processes where two vector bosons decay leptonically and one decay hadronically. The contribution from these electroweak triboson processes is predicted using the {Sherpa} $2.2.2$ MC generator at LO accuracy for up to two additional parton emissions and added to the \textsc{PowhegV2} predictions. Table \ref{tab:SigMC} summarizes the signal MC used in the measurement. 
 
-\begin{table}[!htb]
+\begin{table}[!htbp]
 \footnotesize
 \centering
 \begin{tabular}{l l c c c }
@@ -85,7 +85,7 @@ $q\bar{q} \rightarrow VZZ^{*} \rightarrow 4\ell jj$ &       &   \textsc{Sherpa}$
 
 In addition to the QCD and EWK production discussed above, two other processes, triboson ($WWZ, ~WZZ, ~ZZZ$) and $Z$-bosons production in association with a top quark pair ($t\bar{t}Z$), also contributes to the $ 4\ell jj$ final state. The triboson processes are modeled with \textsc{Sherpa}$2.2.2$ generator at NLO accuracy in QCD for zero or one additional parton emissions and LO accuracy for up to two additional parton emissions. The triboson samples only include the fully leptonic decays of the vector bosons. Therefore, there is no overlap between the background triboson and the signal EWK $qqZZjj$ samples. The $t\bar{t}Z$ processes are modeled by \textsc{Sherpa}$2.2.0$ generator at LO accuracy with up to one additional parton emission using the MEPS@LO set-up \cite{Sherpa220}. The same algorithms as in the QCD $qqZZ$ sample generation are used for parton showering, matching, and merging. The MC simulation of the triboson and $t\bar{t}Z$ samples are subtracted directly from the data. Table \ref{tab:BkgMC} summarizes the details of these samples. 
 
-\begin{table}[!htb]
+\begin{table}[!htbp]
 \footnotesize
 \centering
 \begin{tabular}{l l c c c }
@@ -112,7 +112,7 @@ $pp \rightarrow t\bar{t}+Z(\rightarrow 2\ell)$ & $m_{ll} > 5$ GeV & \textsc{Sher
 \label{subsubsec:FakeBkgSamples}
 In addition to the triboson and $t\bar{t}$Z samples, the analysis has additional backgrounds coming from events with one or more non-prompt or fake leptons. These non-prompt backgrounds are estimated using a data-driven method discussed in detail in Section \ref{subsec:FakeBackground}. MC samples are used to develop and validate the data-driven non-prompt background estimation procedure. Three sources of events could contribute as a source for non-prompt background events. The first type of events is from a Z-boson production in association with jets $pp \rightarrow Z^{*} (\rightarrow 2\ell) +jets$, which is simulated for both three or more leptons using \textsc{Sherpa}$2.2.1$. The subdominant process is events from $t\bar{t}\rightarrow 2\ell$ production in which both top quarks decay semileptonically, which is simulated with \textsc{Powheg+Pythia8} and uses the A14NNPDF23LO PDF set \cite{PowhegPythia}. The third type of non-prompt backgrounds arises from the WZ production in which both bosons decay leptonically $pp \rightarrow WZ \rightarrow 3 \ell 1\nu $ and is simulated using \textsc{Sherpa}$2.2.2$. Table \ref{tab:FakeBkgMC} summarizes the different processes and MC generators used in various studies related to the data-driven fake factor method to estimate the non-prompt background. A simulated fake background event in the $4\ell jj$ final state could comprise an event with a quadruplet formed from one or more fake leptons from a non-prompt source, such as misidentification and other remaining leptons from these three physics processes.
 
-\begin{table}[!htb]
+\begin{table}[!htbp]
 \footnotesize
 \centering
 \begin{tabular}{l l c c c }
@@ -151,7 +151,7 @@ A set of corrections in the event weight are related to detector measurements. A
 
 Therefore, each event weight in MC can be represented as, 
 \begin{equation}
-w_{event} = \frac{\sigma~\cdot~\text{k-factor}\cdot~~\epsilon_{filt}~\cdot w_{generator} \cdot {L_{data} \cdot w_{reco}}}{\sum{w_{generator}}}
+w_{event} = \frac{\sigma~\cdot~\text{k-factor}\cdot~~\epsilon_{filt}~\cdot w_{generator} \cdot {L_{data} \cdot w_{reco}}}{\sum{w_{generator}}},
 \label{eqn:EventWeight}
-\end{equation}, 
+\end{equation}
 where $\sigma$ is the cross-section of the process, $w_{generator}$ is the generator event weight, $L_{data}$ is the integrated luminosity from data, and $w_{reco}$ accounts for all detector measurement related re-weighting in detector-level predictions.

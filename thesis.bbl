@@ -1,94 +1,99 @@
 \begin{thebibliography}{100}
 
 \bibitem{PDG}
-P.A. Zyla et~al.
+{P.A. Zyla et al.}
 \newblock {Review of Particle Physics}.
 \newblock {\em PTEP}, 2020(8):083C01, 2020.
 
 \bibitem{Halzen:1984mc}
-Francis Halzen and Alan Martin.
+{Francis Halzen and Alan Martin}.
 \newblock {\em {Quarks \& Leptons: An introductory course in modern particle
   physics}}.
 \newblock John Wiley \& Sons, New York, USA, 1984.
 
 \bibitem{SMFigureWiki}
-Wikipedia contributors.
+{Wikipedia contributors}.
 \newblock {Standard Model of Elementary Particles}.
 \newblock \url{https://en.wikipedia.org/wiki/Standard_Model}, 2019.
 \newblock [Online; accessed 05-November-2022].
 
 \bibitem{PDFCalLHC}
-A.~D. Martin, W.~J. Stirling, R.~S. Thorne, and G.~Watt.
+{A. D. Martin et al.}
 \newblock {Parton distributions for the LHC}.
 \newblock {\em Eur. Phys. J. C}, 63:189--285, 2009.
 
 \bibitem{ProtonAcclerator}
-Fabienne Marcastel.
-\newblock {CERN's Accelerator Complex. La chaîne des accélérateurs du CERN}.
-\newblock 2013.
+{Fabienne Marcastel}.
+\newblock {CERN's Accelerator Complex. La chaîne des accélérateurs du CERN},
+  2013.
 \newblock General Photo.
 
 \bibitem{ATLAS}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {The ATLAS Experiment at the CERN Large Hadron Collider}.
-\newblock {\em Journal of Instrumentation}, 3(08):S08003, aug 2008.
+\newblock {\em Journal of Instrumentation}, 3(08):S08003, Aug 2008.
 
 \bibitem{ATLAS_CoordSys}
 {Sebastian Murk}.
 \newblock {Trigger Algorithms and Monte Carlo Event Generation for Dijet
-  Searches in ATLAS and Beyond}.
-\newblock 2017.
+  Searches in ATLAS and Beyond}, 2017.
 
 \bibitem{ID_Align_Run2}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Alignment of the ATLAS Inner Detector in Run-2}.
 \newblock {\em Eur. Phys. J. C}, 80(12), 2020.
 
 \bibitem{ATLASTransverse}
 {Joao Pequenao}.
 \newblock {Event Cross Section in a computer generated image of the ATLAS
-  detector.}
-\newblock 2008.
+  detector.}, 2008.
 
 \bibitem{ATLAS_DAQ}
-{ATLAS Collaboration}.
-\newblock { DAQ approved plots}, 2020.
+{The ATLAS Collaboration}.
+\newblock {DAQ approved plots}, 2020.
 
 \bibitem{TrackParameterFig}
-{Cornelissen, T G and Van Eldik, et al. }.
+{T. G. Cornelissen et al. }.
 \newblock {Updates of the ATLAS Tracking Event Data Model (Release 13)}.
 \newblock Technical report, CERN, Geneva, 2007.
 
+\bibitem{TrackingPic}
+{ATLAS Tracking Combined Performance Group}.
+\newblock {ATLAS Track Reconstruction}.
+\newblock \url{https://atlassoftwaredocs.web.cern.ch/trackingTutorial/}, 2021.
+\newblock [Online; accessed 15-November-2022].
+
 \bibitem{ElectronReco}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Electron reconstruction and identification in the {ATLAS} experiment
   using the 2015 and 2016 {LHC} proton-proton collision data at
   $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$}.
-\newblock {\em The European Physical Journal C}, 79(8), aug 2019.
+\newblock {\em Eur. Phys. J. C}, 79(8), Aug 2019.
 
 \bibitem{MuonFig}
-Sebastien Rettie.
+{Sebastien Rettie}.
 \newblock {Muon identification and performance in the ATLAS experiment}.
 \newblock Technical report, CERN, Geneva, 2018.
 
 \bibitem{ParticleFlow}
-{ATLAS Collaboration}.
-\newblock { Jet reconstruction and performance using particle flow with the
+{The ATLAS Collaboration}.
+\newblock {Jet reconstruction and performance using particle flow with the
   {ATLAS} Detector }.
-\newblock {\em The European Physical Journal C}, 77(7), jul 2017.
+\newblock {\em Eur. Phys. J. C}, 77(7), Jul 2017.
 
 \bibitem{JetCalib}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Jet energy scale and resolution measured in proton–proton
   collisions at $\sqrt{s}=13$ TeV with the ATLAS detector}.
 \newblock {\em Eur. Phys. J. C}, 81(8):689, 2021.
 
 \bibitem{ITkPixelTDR}
-{Technical Design Report for the ATLAS Inner Tracker Pixel Detector}.
+{The ATLAS Collaboration}.
+\newblock {Technical Design Report for the ATLAS Inner Tracker Pixel Detector}.
 \newblock Technical report, CERN, Geneva, 2017.
 
 \bibitem{ATLASZZjj}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Observation of electroweak production of two jets and a $Z$-boson
   pair}, 2020.
 
@@ -96,29 +101,27 @@ Sebastien Rettie.
 {The ATLAS Collaboration}.
 \newblock {ATLAS data quality operations and performance for 2015-2018
   data-taking}.
-\newblock {\em Journal of Instrumentation}, 15(04):P04003--P04003, apr 2020.
+\newblock {\em Journal of Instrumentation}, 15(04):P04003--P04003, Apr 2020.
 
 \bibitem{AngularFrameDef}
-{Yanyan Gao and Andrei V. Gritsan and Zijin Guo and Kirill Melnikov and Markus
-  Schulze and Nhan V. Tran}.
+{Yanyan Gao et al.}
 \newblock {Spin determination of single-produced resonances at hadron
   colliders}.
-\newblock {\em Physical Review D}, 81(7), apr 2010.
+\newblock {\em Phys. Rev. D}, 81(7), Apr 2010.
 
 \bibitem{Thomson:2013zua}
-Mark Thomson.
+{Mark Thomson}.
 \newblock {\em {Modern particle physics}}.
 \newblock Cambridge University Press, New York, 2013.
 
 \bibitem{NoetherTheorem}
-E.~Noether.
-\newblock Invariante variationsprobleme.
-\newblock {\em Nachrichten von der Gesellschaft der Wissenschaften zu
-  Göttingen, Mathematisch-Physikalische Klasse}, 1918:235--257, 1918.
+{E. Noether}.
+\newblock {Invariante Variationsprobleme}.
+\newblock {\em {Nachrichten von der Gesellschaft der Wissenschaften zu
+  Göttingen, Mathematisch-Physikalische Klasse}}, 1918:235--257, 1918.
 
 \bibitem{Bernabeu2021}
-{ Bernabeu, Jose", and Murillo, Jes{\'u}s Carnicer and Michelini, Marisa and
-  Perea, Carmen}.
+{Jose Bernabeu}.
 \newblock {\em {Fundamental Physics and Physics Education Research}}, chapter
   {Symmetries in the Standard Model}, pages 3--16.
 \newblock Springer International Publishing, Cham, 2021.
@@ -127,20 +130,20 @@ E.~Noether.
 {The OPAL Collaboration}.
 \newblock {Measurement of the running of the QED couplingin small-angle Bhabha
   scattering at LEP}.
-\newblock {\em The European Physical Journal C}, 45(1):1--21, jan 2006.
+\newblock {\em Eur. Phys. J. C}, 45(1):1--21, Jan 2006.
 
 \bibitem{AlphaQCD}
-Alexandre Deur, Stanley~J. Brodsky, and Guy~F. de~T{\'{e}}ramond.
+{Alexandre Deur, Stanley J. Brodsky and Guy F. de T{\'{e}}ramond}.
 \newblock The {QCD} running coupling.
-\newblock {\em Progress in Particle and Nuclear Physics}, 90:1--74, sep 2016.
+\newblock {\em Progress in Particle and Nuclear Physics}, 90:1--74, Sep 2016.
 
 \bibitem{GLASHOW1961579}
-Sheldon~L. Glashow.
+{Sheldon L. Glashow}.
 \newblock {Partial-symmetries of weak interactions}.
 \newblock {\em Nuclear Physics}, 22(4):579--588, 1961.
 
 \bibitem{EWK_W}
-{Weinberg, Steven}.
+{Steven Weinberg}.
 \newblock {A Model of Leptons}.
 \newblock {\em Phys. Rev. Lett.}, 19:1264--1266, Nov 1967.
 
@@ -150,23 +153,23 @@ Sheldon~L. Glashow.
 \newblock {\em Physics Letters}, 13(2):168--171, 1964.
 
 \bibitem{HiggsMechanism}
-{Nguyen, K}.
+{K. Nguyen}.
 \newblock {The Higgs Mechanism}, 2009.
 
 \bibitem{PeskinQFT}
-{M. E. Peskin , D. V. Schroeder}.
+{M. E. Peskin and D. V. Schroeder}.
 \newblock {\em {An Introduction to Quantum Field Theory}}.
 \newblock Westview PRESS, Colorado, USA, 1995.
 
 \bibitem{DESYHiggsLecture}
-{Buchmüller, W. and Lüdeling, C.}
+{W. Buchmüller and C. Lüdeling}.
 \newblock {Field Theory and Standard Model}, 2006.
 
 \bibitem{CMSHiggsDiscovery}
-CMS Collaboration.
+{CMS Collaboration}.
 \newblock Observation of a new boson at a mass of 125 {GeV} with the {CMS}
   experiment at the {LHC}.
-\newblock {\em Physics Letters B}, 716(1):30--61, sep 2012.
+\newblock {\em Physics Letters B}, 716(1):30--61, Sep 2012.
 
 \bibitem{ATLASHiggsDiscovery}
 {The ATLAS Collaboration}.
@@ -175,34 +178,45 @@ CMS Collaboration.
 \newblock {\em Physics Letters B}, 716(1):1--29, 2012.
 
 \bibitem{CDFWMass}
-The CDF~II Collaboration.
+{The CDF II Collaboration}.
 \newblock {High-precision measurement of the W boson mass with the CDF II
   detector}.
 \newblock {\em Science}, 376(6589):170--176, 2022.
 
 \bibitem{DMGravitationalLensing}
-Richard Massey, Thomas Kitching, and Johan Richard.
-\newblock The dark matter of gravitational lensing.
-\newblock {\em Reports on Progress in Physics}, 73(8):086901, jul 2010.
+{Richard Massey, Thomas Kitching and Johan Richard}.
+\newblock {The dark matter of gravitational lensing}.
+\newblock {\em Reports on Progress in Physics}, 73(8):086901, Jul 2010.
 
 \bibitem{NeutrinoOscillation}
-Y.~Ashie, J.~Hosaka, and Ishihara et~al.
-\newblock Evidence for an oscillatory signature in atmospheric neutrino
-  oscillations.
+{Y. Ashie et al.}
+\newblock {Evidence for an Oscillatory Signature in Atmospheric Neutrino
+  Oscillations}.
 \newblock {\em Phys. Rev. Lett.}, 93:101801, Sep 2004.
 
+\bibitem{MuonG2}
+Alex~Keshavarzi et~al.
+\newblock Muon g-2: A review.
+\newblock {\em Nuclear Physics B}, 975:115675, 2022.
+
+\bibitem{LHCB_BPhys}
+R.~Aaij et~al.
+\newblock Tests of lepton universality using $b^0 \rightarrow
+  k^{0}_{S}\ell^+\ell^-$ and $b^+ \rightarrow k^{*+}_{S}\ell^+\ell^-$decays.
+\newblock {\em Phys. Rev. Letters}, 128(19), May 2022.
+
 \bibitem{QCDForCollider}
-Peter Skands.
+{Peter Skands}.
 \newblock {QCD for Collider Physics}, 2011.
 
 \bibitem{FixedTargetDrellYan}
-Sergey Alekhin, Kirill Melnikov, and Frank Petriello.
+{Alekhin Sergey, Melnikov Kirill and Petriello Frank}.
 \newblock {Fixed target Drell-Yan data and NNLO QCD fits of parton distribution
   functions}.
 \newblock {\em Phys. Rev. D}, 74:054033, Sep 2006.
 
 \bibitem{PDF4LHC}
-Sergey et~al. Alekhin.
+{Sergey Alekhin et al. }.
 \newblock {The PDF4LHC Working Group Interim Report}, 2011.
 
 \bibitem{EventGenerator}
@@ -217,7 +231,7 @@ Sergey et~al. Alekhin.
 \newblock {\em Physics Letters B}, 812:135992, 2021.
 
 \bibitem{PowhegV2ZZjj}
-{Jager, B., Karlberg, A. and Zanderighi, G. }.
+{B. Jager, A. Karlberg and G. Zanderighi}.
 \newblock {Electroweak ZZjj production in the Standard Model and beyond in the
   POWHEG-BOX V2.}
 \newblock {\em J. High Energ. Phys.}, 141, 2014.
@@ -229,303 +243,320 @@ Sergey et~al. Alekhin.
 \newblock {\em Nuclear Physics B}, 525(1-2):27--50, 1998.
 
 \bibitem{SensitivityNP}
-{Tao Han and David Krohn and Lian-Tao Wang and Wenhan Zhu}.
+{Tao Han et al.}
 \newblock {New physics signals in longitudinal gauge boson scattering at the
   LHC}.
-\newblock {\em J. High Energ. Phys.}, 2010(3), mar 2010.
+\newblock {\em J. High Energ. Phys.}, 2010(3), Mar 2010.
 
-\bibitem{EboliModelaQGC}
-{Eduardo da Silva Almeida and O.{\hspace{0.167em}}J.{\hspace{0.167em}}P.
-  {\'{E}}boli and M.{\hspace{0.167em}}C. Gonzalez{\textendash}Garcia}.
+\bibitem{EFT_Eboli}
+{E. S. Almeida, O. J. P. \'Eboli and M. C. Gonzalez--Garcia}.
 \newblock {Unitarity constraints on anomalous quartic couplings}.
-\newblock {\em Physical Review D}, 101(11), jun 2020.
+\newblock {\em Phys. Rev. D}, 101:113003, Jun 2020.
 
 \bibitem{BSM_Simple2HDM}
-{Jung Chang, Kingman Cheung, Chih-Ting Lu, and Tzu-Chiang Yuan}.
+{Jung Chang et al.}
 \newblock {WW Scattering in the Era of Post Higgs Discovery}.
-\newblock {\em Physical Review D}, 87(9), may 2013.
+\newblock {\em Phys. Rev. D}, 87(9), May 2013.
 
 \bibitem{RapidityGapCite}
-{Khoze, V., Ryskin, M., Stirling, W. et al.}
+{P. H. Williams}.
 \newblock {A Z-monitor to calibrate Higgs production via vector boson fusion
   with rapidity gaps at the LHC.}
 \newblock {\em Eur. Phys. J.}, C 26:429–440, 2003.
 
 \bibitem{LHCMachine}
-{LHC Machine}.
+{Lyndon Evans and Philip Bryant}.
+\newblock {LHC Machine}.
 \newblock {\em JINST}, 3:S08001, 2008.
 
 \bibitem{LEP}
-{\em {LEP design report}}.
+{CERN}.
+\newblock {\em {LEP design report}}.
 \newblock CERN, Geneva, 1984.
 
 \bibitem{LHCGuide}
-{LHC Guide}.
-\newblock 2017.
+{CERN}.
+\newblock {LHC Guide}.
+\newblock CERN-Brochure-2017-002-Eng, 2017.
 
 \bibitem{ATLAS_IBL}
-{Capeans, M and Darbo, G and Einsweiller, et al.}
+{M. Capeans et al.}
 \newblock {ATLAS Insertable B-Layer Technical Design Report}.
-\newblock Technical report, 2010.
+\newblock Technical report, CERN, 2010.
 
 \bibitem{ID_Pixel}
-{Technical Design Report for the ATLAS Inner Tracker Pixel Detector}.
+{The ATLAS Collaboration}.
+\newblock {Technical Design Report for the ATLAS Inner Tracker Pixel Detector}.
 \newblock Technical report, CERN, Geneva, 2017.
 
 \bibitem{ID_Strips}
-{Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
+{The ATLAS Collaboration}.
+\newblock {Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
 \newblock Technical report, CERN, Geneva, 2017.
 
 \bibitem{ID_TRT}
-{Particle Identification Performance of the ATLAS Transition Radiation
-  Tracker}.
+{The ATLAS Collaboration}.
+\newblock {Particle Identification Performance of the ATLAS Transition
+  Radiation Tracker}.
 \newblock Technical report, CERN, Geneva, 2011.
 
 \bibitem{ATLAS_ECAL}
-{\em {ATLAS liquid-argon calorimeter: Technical Design Report}}.
+{The ATLAS Collaboration}.
+\newblock {\em {ATLAS liquid-argon calorimeter: Technical Design Report}}.
 \newblock Technical design report. ATLAS. CERN, Geneva, 1996.
 
 \bibitem{ATLAS_HCAL}
-{\em {ATLAS tile calorimeter: Technical Design Report}}.
+{The ATLAS Collaboration}.
+\newblock {\em {ATLAS tile calorimeter: Technical Design Report}}.
 \newblock Technical design report. ATLAS. CERN, Geneva, 1996.
 
 \bibitem{TriggerSystemATLAS}
 {The ATLAS collaboration}.
 \newblock {Operation of the ATLAS trigger system in Run 2}.
-\newblock {\em Journal of Instrumentation}, 15(10):P10004, oct 2020.
+\newblock {\em Journal of Instrumentation}, 15(10):P10004, Oct 2020.
 
 \bibitem{TrackingRun2_ATLAS}
 {The ATLAS Collaboration}.
 \newblock {Performance of the ATLAS track reconstruction algorithms in dense
   environments in LHC Run 2}.
-\newblock {\em The European Physical Journal C}, 77(10), 2017.
+\newblock {\em Eur. Phys. J. C}, 77(10), 2017.
 
 \bibitem{VertexReconstruction}
-Federico Meloni.
+{Federico Meloni}.
 \newblock {Primary vertex reconstruction with the ATLAS detector}.
 \newblock Technical Report~12, CERN, Geneva, 2016.
 
 \bibitem{MuonReco}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Muon reconstruction performance of the {ATLAS} detector in
   proton-proton collision data $\sqrt{s}=13\text{ }\text{ }\mathrm{TeV}$ }.
-\newblock {\em The European Physical Journal C}, 76(5), may 2016.
+\newblock {\em Eur. Phys. J. C}, 76(5), May 2016.
 
 \bibitem{MuonEffLargeEta}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Measurement of the muon reconstruction performance of the {ATLAS}
   detector using 2011 and 2012 {LHC} proton{\textendash}proton collision data}.
-\newblock {\em The European Physical Journal C}, 74(11), nov 2014.
+\newblock {\em Eur. Phys. J. C}, 74(11), Nov 2014.
 
 \bibitem{AntiKtAlgo}
-{Matteo Cacciari and Gavin P. Salam and Gregory Soyez}.
+{Matteo Cacciari, Gavin P. Salam and Gregory Soyez}.
 \newblock {The anti-kt jet clustering algorithm}.
-\newblock {\em Journal of High Energy Physics}, 2008(04):063, apr 2008.
+\newblock {\em J. High Energ. Phys.}, 2008(04):063, Apr 2008.
 
 \bibitem{JVT}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Tagging and suppression of pileup jets with the ATLAS detector}.
 \newblock Technical report, CERN, Geneva, 2014.
 
 \bibitem{fJVT}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Forward jet vertex tagging using the particle flow algorithm}.
 \newblock Technical report, CERN, Geneva, 2019.
 
 \bibitem{HLLHC}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {\em {High-Luminosity Large Hadron Collider (HL-LHC): Technical
   design report}}.
 \newblock CERN Yellow Reports: Monographs. CERN, Geneva, 2020.
 
+\bibitem{HLLHCMuon}
+{The ATLAS Collaboration}.
+\newblock {Technical Design Report for the Phase-II Upgrade of the ATLAS Muon
+  Spectrometer}.
+\newblock Technical report, CERN, Geneva, 2017.
+
+\bibitem{HLLHCTrigger}
+Mengqing Wu.
+\newblock {FELIX: Readout upgrade for the ATLAS Trigger DAQ system in HL-LHC}.
+\newblock {\em Nuclear Instruments and Methods in Physics}, 1048:167994, 2023.
+
 \bibitem{ITkStripsTDR}
-{Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
-\newblock 4 2017.
+{The ATLAS Collaboration}.
+\newblock {Technical Design Report for the ATLAS Inner Tracker Strip Detector}.
+\newblock Technical report, CERN, Apr 2017.
+
+\bibitem{HLLHC_JetTrack}
+{The ATLAS Collaboration}.
+\newblock {Expected Tracking Performance of the ATLAS Inner Tracker at the
+  HL-LHC}.
+\newblock Technical report, CERN, Geneva, 2019.
+
+\bibitem{HLLHC_HGTD}
+{The ATLAS Collaboration}.
+\newblock {Tagging and suppression of pile-up jets in the forward region using
+  timing information with the ATLAS detector at $\sqrt{s}=14$ TeV at HL-LHC}.
+\newblock Technical report, CERN, Geneva, 2022.
 
 \bibitem{bTagging}
 {The ATLAS Collaboration}.
 \newblock {ATLAS b-jet identification performance and efficiency measurement
   with $t\bar{t}$ events in pp collisions at $sqrt{s}=13$ TeV}.
-\newblock {\em The European Physical Journal C}, 79(11), nov 2019.
+\newblock {\em Eur. Phys. J. C}, 79(11), Nov 2019.
 
 \bibitem{ATLASLuminosityDetector}
 {G. Avoni et al.}
 \newblock {The new LUCID-2 detector for luminosity measurement and monitoring
   in ATLAS}.
-\newblock {\em Journal of Instrumentation}, 13(07):P07017, jul 2018.
+\newblock {\em Journal of Instrumentation}, 13(07):P07017, Jul 2018.
 
 \bibitem{ATLASRun2IntegratedLumi}
 {The ATLAS Collaboration}.
 \newblock {Luminosity determination in $pp$ collisions at $\sqrt{s}=13$ TeV
   using the ATLAS detector at the LHC}.
-\newblock Technical report, CERN, 6 2019.
+\newblock Technical report, CERN, Jun 2019.
 
 \bibitem{GEANT4}
-S.~Agostinelli et~al.
+{S. Agostinelli et al.}
 \newblock {GEANT4--a simulation toolkit}.
 \newblock {\em Nucl. Instrum. Meth. A}, 506:250--303, 2003.
 
 \bibitem{EventGenWithSherpa}
-Enrico Bothmann, Gurpreet~Singh Chahal, Stefan Höche, Johannes Krause, Frank
-  Krauss, Silvan Kuttimalai, Sebastian Liebschner, Davide Napoletano, Marek
-  Schönherr, Holger Schulz, Steffen Schumann, and Frank Siegert.
+{Enrico Bothmann et al.}
 \newblock {Event generation with Sherpa 2.2}.
-\newblock {\em {SciPost} Physics}, 7(3), sep 2019.
+\newblock {\em {SciPost} Physics}, 7(3), Sep 2019.
 
 \bibitem{PDFForRunII}
-Richard~D. Ball, , Valerio Bertone, Stefano Carrazza, Christopher~S. Deans,
-  Luigi~Del Debbio, Stefano Forte, Alberto Guffanti, Nathan~P. Hartland,
-  Jos{\'{e}}~I. Latorre, Juan Rojo, and Maria Ubiali.
+{Richard D. Ball et al.}
 \newblock {Parton distributions for the LHC run II}.
-\newblock {\em Journal of High Energy Physics}, 2015(4), apr 2015.
+\newblock {\em J. High Energ. Phys.}, 2015(4), Apr 2015.
 
 \bibitem{SherpaPS}
-S.~Schumann and F.~Krauss.
-\newblock A parton shower algorithm based on catani-seymour dipole
-  factorisation.
-\newblock {\em Journal of High Energy Physics}, 2008(03):038, mar 2008.
+{S. Schumann and F. Krauss}.
+\newblock {A parton shower algorithm based on Catani-Seymour dipole
+  factorisation}.
+\newblock {\em J. High Energ. Phys.}, 2008(03):038, Mar 2008.
 
 \bibitem{PSMatching}
-{ Höche, S., Krauss, F., Schönherr, M. et al.}
-\newblock { QCD matrix elements + parton showers. The NLO case}.
+{Stefan Höche et al.}
+\newblock {QCD matrix elements + parton showers. The NLO case}.
 \newblock {\em J. High Energ. Phys.}, 2013(27), 2013.
 
 \bibitem{MADGRAPHNLO}
-{J. Alwall and R. Frederix and S. Frixione and V. Hirschi and F. Maltoni and O.
-  Mattelaer and H.-S. Shao and T. Stelzer and P. Torrielli and M. Zaro}.
+{J. Alwall et al.}
 \newblock {The automated computation of tree-level and next-to-leading order
   differential cross sections, and their matching to parton shower
   simulations}.
-\newblock {\em Journal of High Energy Physics}, 2014(7), jul 2014.
+\newblock {\em J. High Energ. Phys.}, 2014(7), Jul 2014.
 
 \bibitem{Pythia8}
-{Torbjörn Sjöstrand and Stephen Mrenna and Peter Skands}.
+{Torbjörn Sjöstrand, Stephen Mrenna and Peter Skands}.
 \newblock {A brief introduction to {PYTHIA} 8.1}.
-\newblock {\em Computer Physics Communications}, 178(11):852--867, jun 2008.
+\newblock {\em Comput. Phys. Commun.}, 178(11):852--867, Jun 2008.
 
 \bibitem{PowhegV2}
-{Barbara Jäger and Alexander Karlberg and Giulia Zanderighi}.
+{Barbara Jäger, Alexander Karlberg and Giulia Zanderighi}.
 \newblock {Electroweak ZZjj production in the Standard Model and beyond in the
   POWHEG-BOX V2}.
-\newblock {\em Journal of High Energy Physics}, 2014(3), mar 2014.
+\newblock {\em J. High Energ. Phys.}, 2014(3), Mar 2014.
 
 \bibitem{Sherpa220}
-{Stefano Catani and Frank Krauss and Bryan R Webber and Ralf Kuhn}.
-\newblock Qcd matrix elements + parton showers.
-\newblock {\em Journal of High Energy Physics}, 2001(11):063--063, nov 2001.
+{Stefano Catani et al.}
+\newblock {QCD Matrix Elements + Parton Showers}.
+\newblock {\em J. High Energ. Phys.}, 2001(11):063--063, Nov 2001.
 
 \bibitem{PowhegPythia}
-Torbjorn Sjostrand, Stephen Mrenna, and Peter~Z. Skands.
+{ Torbjörn Sjöstrand et al.}
 \newblock {A Brief Introduction to PYTHIA 8.1}.
 \newblock {\em Comput. Phys. Commun.}, 178:852--867, 2008.
 
 \bibitem{btagATLAS}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {ATLAS \(b\)-jet identification performance and efficiency
   measurement with \(t\bar{t}\) events in \(pp\) collisions at \(\sqrt{s} =
   13\,\text{TeV}\)}.
-\newblock 2019.
+\newblock {\em Eur. Phys. J.}, 79(11), 2019.
 
 \bibitem{FakeBkgTool}
-{J. Maurer, J. Reichert, E. Varnes}.
+{J. Maurer, J. Reichert and E. Varnes}.
 \newblock {Technical discussion of FakeBkgTools}.
-\newblock 2018.
+\newblock FF, 2018.
 
 \bibitem{BayesianUnfolding}
-Giulio D'Agostini.
+{Giulio D'Agostini}.
 \newblock {A multidimensional unfolding method based on Bayes' Theorem}.
 \newblock Technical report, DESY, Hamburg, 1994.
 
 \bibitem{Improved_BayesianUnfolding}
-{D'Agostini, G.}
+{G. D'Agostini}.
 \newblock {Improved iterative Bayesian unfolding}, 2010.
 
 \bibitem{RooUnfold}
-{Brenner, Lydia and Balasubramanian, Rahul and Burgard, Carsten and Verkerke,
-  Wouter and Cowan, Glen and Verschuuren, Pim and Croft, Vincent}.
+{Lydia Brenner et al.}
 \newblock {Comparison of unfolding methods using RooFitUnfold}.
 \newblock {\em International Journal of Modern Physics A}, 35(24):2050145,
   2020.
 
 \bibitem{FriedmanSmoother}
-{Friedman, Jerome H.}
+{Jerome H. Friedman}.
 \newblock {A VARIABLE SPAN SMOOTHER}.
-\newblock 10 1984.
+\newblock {\em Journal of American Statistical Association}, Oct 1984.
 
 \bibitem{QCDScaleAndPDFUnc}
-{Enrico Bothmann and Marek Schönherr and Steffen Schumann}.
+{Enrico Bothmann, Marek Schönherr and Steffen Schumann}.
 \newblock {Reweighting QCD matrix-element and parton-shower calculations}.
-\newblock {\em The European Physical Journal C}, 76(11), oct 2016.
+\newblock {\em Eur. Phys. J. C}, 76(11), Oct 2016.
 
 \bibitem{MMHT2014PDFs}
-{L. A. Harland-Lang and A. D. Martin and P. Motylinski and R. S. Thorne}.
+{L. A. Harland-Lang et al.}
 \newblock {Parton distributions in the LHC era: MMHT 2014 PDFs}.
-\newblock {\em The European Physical Journal C}, 75(5), may 2015.
+\newblock {\em Eur. Phys. J. C}, 75(5), May 2015.
 
 \bibitem{CT14nnlo}
-{Sayipjamal Dulat and Tie-Jiun Hou and Jun Gao and Marco Guzzi and Joey Huston
-  and Pavel Nadolsky and Jon Pumplin and Carl Schmidt and Daniel Stump and
-  C.-P. Yuan}.
+{Sayipjamal Dulat et al.}
 \newblock {New parton distribution functions from a global analysis of quantum
   chromodynamics}.
-\newblock {\em Physical Review D}, 93(3), feb 2016.
+\newblock {\em Phys. Rev. D}, 93(3), Feb 2016.
 
 \bibitem{ggZZNLOUnc}
-{Fabrizio Caola and Matthew Dowling and Kirill Melnikov and Raoul Röntsch and
-  Lorenzo Tancredi}.
+{Fabrizio Caola et al.}
 \newblock {QCD corrections to vector boson pair production in gluon fusion
   including interference effects with off-shell Higgs at the LHC}.
-\newblock {\em Journal of High Energy Physics}, 2016(7), jul 2016.
+\newblock {\em J. High Energ. Phys.}, 2016(7), Jul 2016.
 
 \bibitem{ATLAS_ttV}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Measurement of the $t\overline{t}Z$ and $t\overline{t}W$ cross
   sections in proton-proton collisions at $\sqrt{s}=13\text{ }\text{
   }\mathrm{TeV}$ with the ATLAS detector}.
 \newblock {\em Phys. Rev. D}, 99:072009, Apr 2019.
 
 \bibitem{ATLAS_VVV}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Evidence for the production of three massive vector bosons with the
   ATLAS detector}.
 \newblock {\em Physics Letters B}, 798:134913, 2019.
 
 \bibitem{pValueStat}
-{Gagunashvili, N. D.}
+{N. D. Gagunashvili}.
 \newblock {Comparison of weighted and unweighted histograms}.
-\newblock 2006.
+\newblock {\em Proceedings of Science}, 2006.
 
 \bibitem{SMEFT}
-Ilaria Brivio, Yun Jiang, and Michael Trott.
+{Ilaria Brivio, Yun Jiang and Michael Trott}.
 \newblock The {SMEFTsim} package, theory and tools.
-\newblock {\em Journal of High Energy Physics}, 2017(12), dec 2017.
+\newblock {\em J. High Energ. Phys.}, 2017(12), Dec 2017.
 
 \bibitem{Dim7_EFT}
-Landon Lehman.
+{Landon Lehman}.
 \newblock {Extending the standard model effective field theory with the
   complete set of dimension-7 operators}.
-\newblock {\em Physical Review D}, 90(12), dec 2014.
+\newblock {\em Phys. Rev. D}, 90(12), Dec 2014.
 
 \bibitem{Inclusive_FourLepton}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Measurements of differential cross-sections in four-lepton events in
   13 TeV proton-proton collisions with the ATLAS detector}.
-\newblock {\em Journal of High Energy Physics}, 2021(7), jul 2021.
+\newblock {\em J. High Energ. Phys.}, 2021(7), Jul 2021.
 
 \bibitem{GlobalEFT_Dim6}
-John Ellis, Christopher~W. Murphy, Ver{\'{o}}nica Sanz, and Tevong You.
+{John Ellis, Christopher W. Murphy, Ver{\'{o}}nica Sanz and Tevong You}.
 \newblock {Updated global SMEFT fit to Higgs, diboson and electroweak data}.
-\newblock {\em Journal of High Energy Physics}, 2018(6), jun 2018.
-
-\bibitem{EFT_Eboli}
-{Almeida, Eduardo da Silva and \'Eboli, O. J. P. and Gonzalez--Garcia, M. C.}
-\newblock {Unitarity constraints on anomalous quartic couplings}.
-\newblock {\em Phys. Rev. D}, 101:113003, Jun 2020.
+\newblock {\em J. High Energ. Phys.}, 2018(6), Jun 2018.
 
 \bibitem{ProfileLikelihood}
-{Glen Cowan and Kyle Cranmer and Eilam Gross and Ofer Vitells}.
+{Glen Cowan, Kyle Cranmer, Eilam Gross and Ofer Vitells}.
 \newblock {Asymptotic formulae for likelihood-based tests of new physics}.
-\newblock {\em The European Physical Journal C}, 71(2), feb 2011.
+\newblock {\em Eur. Phys. J. C}, 71(2), Feb 2011.
 
 \bibitem{WilksTheorem}
 {Wilks, S. S.}
@@ -534,40 +565,42 @@ John Ellis, Christopher~W. Murphy, Ver{\'{o}}nica Sanz, and Tevong You.
 \newblock {\em Annals Math. Statist.}, 9(1):60--62, 1938.
 
 \bibitem{Bootstrapping}
-{Evaluating statistical uncertainties and correlations using the bootstrap
-  method}.
+{The ATLAS Collaboration}.
+\newblock {Evaluating statistical uncertainties and correlations using the
+  bootstrap method}.
 \newblock Technical report, CERN, Geneva, 2021.
 
 \bibitem{EWk_ssWW}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Observation of electroweak production of a same-sign W boson pair in
   association with two jets in pp collisions at $\sqrt{s}=13$ TeV with the
   ATLAS detector}.
-\newblock {\em Physical Review Letters}, 123(16), oct 2019.
+\newblock {\em Phys. Rev. Lett.}, 123(16), Oct 2019.
 
 \bibitem{EWK_WWW}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Observation of WWW Production in pp Collisions at $\sqrt{s}=13$ TeV
   with the ATLAS Detector}.
-\newblock {\em Physical Review Letters}, 129(6), aug 2022.
+\newblock {\em Phys. Rev. Lett.}, 129(6), Aug 2022.
 
 \bibitem{EWK_WZ}
-{ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {Observation of electroweak $W^{\pm}Z$ boson pair production in
   association with two jets in pp collisions at $\sqrt{s}=13$ TeV with the
   ATLAS detector}.
-\newblock {\em Physics Letters B}, 793:469--492, jun 2019.
+\newblock {\em Physics Letters B}, 793:469--492, Jun 2019.
 
 \bibitem{Run3}
-{ ATLAS Collaboration}.
+{The ATLAS Collaboration}.
 \newblock {ATLAS Experiment records “first physics” at new high-energy
   frontier}.
-\newblock CERN, Jul. 5, 2022 [Online].
+\newblock CERN, Jul 2022 [Online].
 
 \bibitem{ssWW_HLLHCProspects}
-{Prospects for the measurement of the $W^{\pm}W^{\pm}$ scattering cross section
-  and extraction of the longitudinal scattering component in $pp$ collisions at
-  the High-Luminosity LHC with the ATLAS experiment}.
+{The ATLAS Collaboration}.
+\newblock {Prospects for the measurement of the $W^{\pm}W^{\pm}$ scattering
+  cross section and extraction of the longitudinal scattering component in $pp$
+  collisions at the High-Luminosity LHC with the ATLAS experiment}.
 \newblock Technical report, CERN, Geneva, 2018.
 
 \end{thebibliography}

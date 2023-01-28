@@ -1,23 +1,23 @@
 \babel@toc {english}{}
-\contentsline {table}{\numberline {1}{\ignorespaces Properties of SM gauge bosons.\cite {PDG}\relax }}{7}{table.caption.5}% 
-\contentsline {table}{\numberline {2}{\ignorespaces Summary of different interactions of fermions under different gauge theory. The check mark suggests that the fermions interact via associated force.\relax }}{7}{table.caption.6}% 
-\contentsline {table}{\numberline {3}{\ignorespaces Electroweak quantum numbers of the SM half-integer spin fermions (quarks and leptons) arranged in a left-handed $SU(2)$ doublet and right-handed $SU(2)$ singlet. The down-type left-handed quarks in $SU(2)_{L}$ quark doublets $d^{'},~s^{'}~ \&~b^{'}$ are linear combinations of $d,~s,~b$ quarks \cite {Halzen:1984mc}.\relax }}{8}{table.caption.7}% 
-\contentsline {table}{\numberline {4}{\ignorespaces Definition of the baseline and signal electrons.\relax }}{59}{table.caption.30}% 
-\contentsline {table}{\numberline {5}{\ignorespaces Definition of the baseline and signal muons.\relax }}{59}{table.caption.31}% 
-\contentsline {table}{\numberline {6}{\ignorespaces Definition of the baseline and signal jets.\relax }}{60}{table.caption.32}% 
-\contentsline {table}{\numberline {7}{\ignorespaces Overlap removal used in the analysis. An object removed in one step does not enter into the subsequent step. \relax }}{60}{table.caption.33}% 
-\contentsline {table}{\numberline {8}{\ignorespaces Trigger menu used in the analysis for event preselection \relax }}{62}{table.caption.34}% 
-\contentsline {table}{\numberline {9}{\ignorespaces Details of event selection.\relax }}{67}{table.caption.37}% 
-\contentsline {table}{\numberline {10}{\ignorespaces Details of the kinematic pre-selection applied to the particle-level electrons, muons, and jets. The required kinematic cuts are applied to the dressed leptons. \relax }}{69}{table.caption.39}% 
-\contentsline {table}{\numberline {11}{\ignorespaces Details of the kinematic selections applied to form a particle-level quadruplet and a particle-level dijet in the fiducial volume. \relax }}{70}{table.caption.40}% 
-\contentsline {table}{\numberline {12}{\ignorespaces List of signal MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{75}{table.caption.44}% 
-\contentsline {table}{\numberline {13}{\ignorespaces List of background MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{76}{table.caption.45}% 
-\contentsline {table}{\numberline {14}{\ignorespaces List of MC samples used in the estimation and validation of the data-driven non-prompt background estimation. \relax }}{77}{table.caption.46}% 
-\contentsline {table}{\numberline {15}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and VBS-Suppressed regions. \relax }}{107}{table.caption.70}% 
-\contentsline {table}{\numberline {16}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Enhanced region. \relax }}{122}{table.caption.78}% 
-\contentsline {table}{\numberline {17}{\ignorespaces Eighteen dimension-8 operators from the Eboli model giving anomalous quartic gauge vertices in several multi-boson processes.\relax }}{133}{table.caption.84}% 
-\contentsline {table}{\numberline {18}{\ignorespaces The eight genuine QGC dimension-8 operators constrained by the measurement. \relax }}{134}{table.caption.85}% 
-\contentsline {table}{\numberline {19}{\ignorespaces Expected and observed limits based on the unfolded Asimov and measured data, respectively, for the selected dimension-8 Wilson coefficients in Eboli Model. The limits are obtained by simultaneously fitting unfolded differential cross-sections of the $\ensuremath {m_{jj}}\xspace $ and $\ensuremath {m_{\ensuremath {4\ell }\xspace }}\xspace $, including the overflow contribution in the VBS-Enhanced region. \relax }}{140}{table.caption.89}% 
-\contentsline {table}{\numberline {20}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region. \relax }}{159}{table.caption.93}% 
+\contentsline {table}{\numberline {1}{\ignorespaces Properties of SM gauge bosons.\cite {PDG}\relax }}{6}{table.caption.5}% 
+\contentsline {table}{\numberline {2}{\ignorespaces Summary of different interactions of fermions under different gauge theory. The check mark identifies the interaction each fermion participates in.\relax }}{6}{table.caption.6}% 
+\contentsline {table}{\numberline {3}{\ignorespaces Electroweak quantum numbers of the SM half-integer spin fermions (quarks and leptons) arranged in a left-handed $SU(2)$ doublet and right-handed $SU(2)$ singlet. The down-type left-handed quarks in $SU(2)_{L}$ quark doublets $d^{'},~s^{'}$ and $b^{'}$ are linear combinations of $d,~s$ and $b$ quarks \cite {Halzen:1984mc}.\relax }}{8}{table.caption.7}% 
+\contentsline {table}{\numberline {4}{\ignorespaces Definition of the baseline and signal electrons.\relax }}{60}{table.caption.30}% 
+\contentsline {table}{\numberline {5}{\ignorespaces Definition of the baseline and signal muons.\relax }}{60}{table.caption.31}% 
+\contentsline {table}{\numberline {6}{\ignorespaces Definition of the baseline and signal jets.\relax }}{61}{table.caption.32}% 
+\contentsline {table}{\numberline {7}{\ignorespaces Overlap removal used in the analysis. An object removed in one step does not enter into the subsequent step. \relax }}{61}{table.caption.33}% 
+\contentsline {table}{\numberline {8}{\ignorespaces Trigger menu used in the analysis for event preselection \relax }}{63}{table.caption.34}% 
+\contentsline {table}{\numberline {9}{\ignorespaces Details of event selection.\relax }}{68}{table.caption.37}% 
+\contentsline {table}{\numberline {10}{\ignorespaces Details of the kinematic pre-selection applied to the particle-level electrons, muons, and jets. The required kinematic cuts are applied to the dressed leptons. \relax }}{70}{table.caption.39}% 
+\contentsline {table}{\numberline {11}{\ignorespaces Details of the kinematic selections applied to form a particle-level quadruplet and a particle-level dijet in the fiducial volume. \relax }}{71}{table.caption.40}% 
+\contentsline {table}{\numberline {12}{\ignorespaces List of signal MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{76}{table.caption.44}% 
+\contentsline {table}{\numberline {13}{\ignorespaces List of background MC samples used in the analysis. Each process consists of three different generation campaigns corresponding to the data-taking conditions of the ATLAS Run2 data-taking periods. \relax }}{77}{table.caption.45}% 
+\contentsline {table}{\numberline {14}{\ignorespaces List of MC samples used in the estimation and validation of the data-driven non-prompt background estimation. \relax }}{78}{table.caption.46}% 
+\contentsline {table}{\numberline {15}{\ignorespaces Binning for all unfolded observables in VBS-Enhanced and VBS-Suppressed regions. \relax }}{108}{table.caption.70}% 
+\contentsline {table}{\numberline {16}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Enhanced region. \relax }}{123}{table.caption.78}% 
+\contentsline {table}{\numberline {17}{\ignorespaces Eighteen dimension-8 operators from the Eboli model giving anomalous quartic gauge vertices in several multi-boson processes.\relax }}{134}{table.caption.84}% 
+\contentsline {table}{\numberline {18}{\ignorespaces The eight genuine QGC dimension-8 operators constrained by the measurement. \relax }}{135}{table.caption.85}% 
+\contentsline {table}{\numberline {19}{\ignorespaces Expected and observed limits based on the unfolded Asimov and measured data, respectively, for the selected dimension-8 Wilson coefficients in Eboli Model. The limits are obtained by simultaneously fitting unfolded differential cross-sections of the $\ensuremath {m_{jj}}\xspace $ and $\ensuremath {m_{\ensuremath {4\ell }\xspace }}\xspace $, including the overflow contribution in the VBS-Enhanced region. \relax }}{141}{table.caption.89}% 
+\contentsline {table}{\numberline {20}{\ignorespaces Breakdown of the relative systematic uncertainties ($\%$) for each bin of $\ensuremath {m_{jj}}\xspace $ in the VBS-Suppressed region. \relax }}{160}{table.caption.93}% 
 \contentsfinish 
 \contentsfinish 
