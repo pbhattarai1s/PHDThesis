@@ -17,10 +17,15 @@
 \newblock \url{https://en.wikipedia.org/wiki/Standard_Model}, 2019.
 \newblock [Online; accessed 05-November-2022].
 
-\bibitem{PDFCalLHC}
-{A. D. Martin et al.}
-\newblock {Parton distributions for the LHC}.
-\newblock {\em Eur. Phys. J. C}, 63:189--285, 2009.
+\bibitem{PDFFigure}
+{Luigi Del Debbio}.
+\newblock {Parton distributions in the LHC era}.
+\newblock {\em EPJ Web of Conferences}, 175:01006, Jan 2018.
+
+\bibitem{VBSDiagrams}
+{Ana Alboteanu, Wolfgang Kilian and Jürgen Reuter}.
+\newblock {Resonances and unitarity in weak boson scattering at the LHC}.
+\newblock {\em J. High Energ. Phys.}, 2008(11):010--010, Nov 2008.
 
 \bibitem{ProtonAcclerator}
 {Fabienne Marcastel}.
@@ -208,6 +213,11 @@ R.~Aaij et~al.
 \bibitem{QCDForCollider}
 {Peter Skands}.
 \newblock {QCD for Collider Physics}, 2011.
+
+\bibitem{SoftCollinear}
+{Ikuo Ito}.
+\newblock {IR Divergences in QCD and Kinoshita-Lee-Nauenberg Theorem}.
+\newblock {\em Progress of Theoretical Physics}, 67(4):1216--1231, Apr 1982.
 
 \bibitem{FixedTargetDrellYan}
 {Alekhin Sergey, Melnikov Kirill and Petriello Frank}.

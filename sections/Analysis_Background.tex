@@ -1,9 +1,9 @@
-In addition to the three signal physics processes, parton initiated $qqZZ$, gluon-loop initiated $ggZZ$ and EWK $qqZZjj$, background processes such as $ttV$, $VVV$ and fake background comprising of \textit{non-prompt} leptons also contribute to the $ZZ^*(\rightarrow 4\ell) jj$ final state. As discussed in Section \ref{subsec:MCSamples}, the events originating from $ttV$ and $VVV$ processes are simulated using MC generators and subtracted from data.
+In addition to the three signal physics processes (parton initiated $qqZZ$, gluon-loop initiated $ggZZ$ and EWK $qqZZjj$) background processes such as $ttV$, $VVV$ and non-prompt background comprising of \textit{non-prompt} leptons also contribute to the $ZZ^*(\rightarrow 4\ell) jj$ final state. As discussed in Section \ref{subsec:MCSamples}, the events originating from $ttV$ and $VVV$ processes are simulated using MC generators and subtracted from data. The non-prompt backgrounds are estimated using a data-driven approach discusses below. 
 
-\subsection{Data Driven Estimate of Fake Background}
+\subsection{Data Driven Estimate of Non-Prompt Background}
 \label{subsec:FakeBackground}
 
-\textit{Non-prompt leptons} originate from a non-hard scatter source, either from a secondary interaction such as jet decay or from charged tracks misidentification. Figure \ref{fig:NonPromptLepton} shows an example of non-prompt lepton production, where a b-jet from hard scattering produces a muon whose track does not point towards the interaction vertex and is surrounded by jet activities. The signal lepton criteria of isolation and TTVA discussed in Section \ref{sec:ObjReconstruction} discards most of the non-prompt leptons. However, some non-prompt leptons pass the signal criteria and, in association with other prompt leptons, form a quadruplet in the signal region. Thus, giving rise to the \textit{fake background} or \textit{non-prompt background} events for the analysis. The origins of non-prompt leptons are discussed in detail in Section \ref{subsubsec:LepComp}.
+\textit{Non-prompt leptons} originate from a non-hard scatter source, either from a secondary interaction, such as a jet decay, or from charged tracks misidentification. Figure \ref{fig:NonPromptLepton} shows an example of non-prompt lepton production, where a b-jet from hard scattering produces a muon whose track does not point towards the interaction vertex and is surrounded by jet activities. The signal lepton criteria of isolation and TTVA discussed in Section \ref{sec:ObjReconstruction} discards most of the non-prompt leptons. However, some non-prompt leptons pass the signal criteria and, in association with other prompt leptons, form a quadruplet in the signal region, giving rise to the \textit{fake background} or \textit{non-prompt background} events in the analysis. The origins of non-prompt leptons are discussed in detail in Section \ref{subsubsec:LepComp}.
 
 \begin{figure}[!htb]
     \centering
@@ -11,17 +11,17 @@ In addition to the three signal physics processes, parton initiated $qqZZ$, gluo
     \caption{A schematic of the non-prompt lepton from semi-leptonic decays of b-hadrons. Jet activities surround the non-prompt muon, and the muon track does not point to the hard scatter interaction point.\label{fig:NonPromptLepton}}
 \end{figure}
 
-The fake backgrounds could be predicted using the MC for $Z(\rightarrow \ell \ell) + jets $, $t\bar{t}$ and $WZ$ processes where one or more non-prompt leptons in association with the prompt leptons form a signal quadruplet. However, it is difficult to predict the statistically limited contribution of fake backgrounds precisely using MC generators. It is also challenging to precisely model the non-prompt leptons originating from the reconstruction effects, such as misidentification and photon conversion. Therefore, the fake backgrounds are estimated using an entirely data-driven technique discussed in this Section. Figure \ref{fig:FakeBkgOverview} shows the schematic of the whole background estimation process. The \textit{fake factor(F)}, which is defined as the fraction of non-prompt leptons that pass the signal requirement given the number of non-prompt leptons that fail the signal requirements, is estimated from a combined control region (CR). The combined control region is formed by combining two independent control regions $Z+jets$, and $t\bar{t}$, which are enriched in non-prompt leptons, and the combination is discussed in Section \ref{subsubsec:CR}. Section \ref{subsubsec:EstimationStrategy} discusses the technical aspects of the fake factor method, and Section \ref{subsubsec:FakeEff} discusses the fake efficiencies. The fake background is estimated by applying the fake factors to each \textit{anti-signal} lepton that fails the TTVA and isolation requirements in non-signal quadruplets. First, the background estimation technique is validated in fake-enriched validation regions discussed in Section \ref{subsubsec:Validation} and applied to the signal region, which is discussed in Section \ref{subsubsec:SREstimation}. 
+The non-prompt backgrounds could be predicted using the MC for $Z(\rightarrow \ell \ell) + jets $, $t\bar{t}$ and $WZ$ processes where one or more non-prompt leptons in association with the prompt leptons form a signal quadruplet. However, it is difficult to predict the statistically limited contribution of non-prompt backgrounds precisely using MC generators. It is also challenging to precisely model the non-prompt leptons originating from the reconstruction effects, such as misidentification and photon conversion. Therefore, the non-prompt backgrounds are estimated using an entirely data-driven technique discussed in this Section. Figure \ref{fig:FakeBkgOverview} illustrates the non-rpompt background estimation process. The \textit{fake factor(F)}, which is defined as the fraction of non-prompt leptons that pass the signal requirement given the number of non-prompt leptons that fail the signal requirements, is estimated from a combined control region (CR). The combined control region is formed by combining two independent control regions $Z+jets$, and $t\bar{t}$, which are enriched in non-prompt leptons, and the combination is discussed in Section \ref{subsubsec:CR}. Section \ref{subsubsec:EstimationStrategy} discusses the technical aspects of the fake factor method, and Section \ref{subsubsec:FakeEff} discusses the fake efficiencies. The non-prompt background is estimated by applying the fake factors to each \textit{anti-signal} lepton that fails the TTVA and isolation requirements in non-signal quadruplets. First, the background estimation technique is validated in fake-enriched validation regions discussed in Section \ref{subsubsec:Validation} and applied to the signal region, which is discussed in Section \ref{subsubsec:SREstimation}. 
 
 \begin{figure}[!htb]
     \centering
     \includegraphics[width=.99\linewidth, angle =0]{figures/Analysis/Background/FakeBackgroundOverview.png}  
-    \caption{An overview of the fake background estimation.\label{fig:FakeBkgOverview}}
+    \caption{An overview of the non-prompt background estimation.\label{fig:FakeBkgOverview}}
 \end{figure}
 
 \subsubsection{Lepton Composition}
 \label{subsubsec:LepComp}
-The fake background MC predictions provide essential insight into the origin of the non-prompt leptons. A classification tool\footnote{https://gitlab.cern.ch/atlas/athena/-/tree/21.2/PhysicsAnalysis/AnalysisCommon/TruthClassification} developed by the ATLAS Isolation and Fake Forum (IFF) identifies the true origin of the leptons, which is studied to understand the composition of non-prompt leptons in various phase-space regions of the analysis. The tool has the following classification of truth origin for a non-prompt lepton
+The non-prompt background MC predictions provide essential insights into the origin of the non-prompt leptons. A classification tool\footnote{https://gitlab.cern.ch/atlas/athena/-/tree/21.2/PhysicsAnalysis/AnalysisCommon/TruthClassification} developed by the ATLAS Isolation and Fake Forum (IFF) identifies the true origin of the leptons, which is studied to understand the composition of non-prompt leptons in various phase-space regions of the analysis. The tool has the following classification of truth origin for a non-prompt lepton
 
 \begin{itemize}
     \item{ \textit{Unknown or KnownUnknown}: leptons with insufficient truth-level information to be classified by the tool.}
@@ -44,7 +44,7 @@ The fake background MC predictions provide essential insight into the origin of 
 
 \end{itemize}
 
-Figure \ref{fig:LeptonCompositionSRVBS} shows the origin of all leptons that are part of the quadruplet in the events with a signal quadruplet and a dijet. Most of the leptons in these regions are prompt and predominantly originate from $ggZZ$, $qqZZ$, and EWK $qqZZjj$ processes. The leptons are classified \textit{Unknown/KnownUnknown} due to insufficient truth information and mainly originate from $ttZ(\rightarrow \ell \ell)$ and $VVV$ processes. Due to technical implementation in these simulations, it lacks information on the intermediary bosons for these samples, thus failing to identify the lepton origin. The \textit{Unknown/KnownUnknown} leptons are treated as prompt leptons in the signal region. This treatment relies on the fact that $\Delta R$ between the \textit{Unknown/KnownUnknown} classified truth leptons and reconstruction level lepton is observed to be close to $0$. The \textit{Unknown/KnownUnknown} classified leptons are treated as non-prompt leptons in the background control regions. 
+Figure \ref{fig:LeptonCompositionSRVBS} shows the origin of all leptons that are part of the quadruplet in the events with a signal quadruplet and a dijet. Most of the leptons in these regions are prompt and predominantly originate from $ggZZ$, $qqZZ$, and EWK $qqZZjj$ processes. The leptons that are classified \textit{Unknown/KnownUnknown} mainly originate from $ttZ(\rightarrow \ell \ell)$ and $VVV$ physics processes. Due to technical implementation of these physics processes in MC simulations, information on the intermediary bosons for these samples are unavailable, thus, failing the identification of lepton's origin. The \textit{Unknown/KnownUnknown} leptons are treated as prompt leptons in the signal region. This treatment relies on the fact that $\Delta R$ between the \textit{Unknown/KnownUnknown} classified truth leptons and reconstruction level lepton is observed to be close to $0$. The \textit{Unknown/KnownUnknown} classified leptons are treated as non-prompt leptons in the background control regions. 
 
 Figure \ref{fig:NonPromptLepSRDijet} shows the predicted fraction of non-prompt electrons (left) and non-prompt muons (bottom) in the events with a signal quadruplet and a dijet. The non-prompt leptons originating from $b$-hadrons or $c$-hadrons are collectively called \textit{heavy flavor (HF)} non-prompt leptons, whereas all other non-prompt leptons are categorized as \textit{light flavor (LF)}. About $50\%$ of non-prompt electrons in the signal region originate from heavy flavor sources, whereas more than $90\%$ of non-prompt muons originate from the heavy flavor decays.
 
@@ -127,7 +127,7 @@ where $N$ is the total yield in the control region, $ f_{HF}$ is the ratio of th
 
 As the composition of non-prompt electrons and muons are different in different regions, the weights are evaluated separately for electrons and muons and estimated to be $w_{\mu} = 0.26$ and $w_{e} = 0.06$. Figure \ref{fig:NonPromptCombined} shows the composition of the non-prompt electrons and muons in the combined control region, which is formed by a weighted combination of the $Z+jets$ CR and the $t\bar{t}$ CR.
 
-Figures \ref{fig:Add_e_ZplusX} and \ref{fig:Add_e_ttbar} show the distributions of additional baseline electrons as a function of their $p_{T}$ in the $Z+jets$ CR and $t\bar{t}$ CR, respectively, whereas, Figure \ref{fig:Add_e_combined} show the same for the combined control region. For $Z+jets$ CR at low $p_{T}$, additional baseline electrons are overestimated in MC by about $20\%$, thus, showing the precision of MC to estimate the non-prompt leptons is limited. Similarly, Figures \ref{fig:Add_mu_ZplusX}, \ref{fig:Add_mu_ttbar} and \ref{fig:Add_mu_combined} show the distributions of additional baseline muons as a function of their $p_{T}$ in the three control regions. In $Z+jets$ CR, the low $p_{T}$ additional muons mainly originate from $Z\rightarrow \ell \ell$ process, whereas the high $p_{T}$ events originate more significantly from $t\bar{t}$ and WZ processes.
+Figures \ref{fig:Add_e_ZplusX} and \ref{fig:Add_e_ttbar} show the distributions of additional baseline electrons as a function of their $p_{T}$ in the $Z+jets$ CR and $t\bar{t}$ CR, respectively, whereas, Figure \ref{fig:Add_e_combined} show the same for the combined control region. For $Z+jets$ CR at low $p_{T}$, additional baseline electrons are overestimated in MC by about $20\%$, thus showing that the precision of MC to estimate the non-prompt leptons is limited. Similarly, Figures \ref{fig:Add_mu_ZplusX}, \ref{fig:Add_mu_ttbar} and \ref{fig:Add_mu_combined} show the distributions of additional baseline muons as a function of their $p_{T}$ in the three control regions. In the $Z+jets$ CR, the low $p_{T}$ additional muons mainly originate from $Z\rightarrow \ell \ell$ process, whereas the high $p_{T}$ events originate more significantly from $t\bar{t}$ and WZ processes.
 
 \begin{figure}[!htb]
     \begin{subfigure}{.48\textwidth}
@@ -170,12 +170,12 @@ Figures \ref{fig:Add_e_ZplusX} and \ref{fig:Add_e_ttbar} show the distributions 
 \subsubsection{ Fake Factor Strategy }
 \label{subsubsec:EstimationStrategy}
 
-The \textit{fake factor tool (FF tool)} by ATLAS IFF is used to estimate the fake background \cite{FakeBkgTool}. The tool takes the \textit{fake efficiency (f)} defined as the ratio of non-prompt leptons that passes the signal selection to the non-prompt baseline leptons, calculated in the combined control region as an input where,
+The \textit{fake factor tool (FF tool)} by ATLAS IFF is used to estimate the non-prompt background \cite{FakeBkgTool}. The tool takes as input the \textit{fake efficiency (f)} defined as the ratio of non-prompt leptons that passes the signal selection to the non-prompt baseline leptons, calculated in the combined control region
 \begin{equation}
 f = \frac{N_{non-prompt~signal~leptons}}{N_{non-prompt~baseline~leptons}}.
 \end{equation}
 
-For a simple case of a signal region with one signal lepton, the observed signal lepton ($N^{T}$) and baseline-anti-signal lepton ($N^{L}$) can be estimated in terms of the number of prompt or real baseline leptons ($N^{B}_{R}$) and the number of non-prompt or fake baseline leptons ($N^{B}_{F}$) as
+For a simple case of a signal region with one signal lepton, the observed number of signal lepton ($N^{T}$) and baseline-anti-signal lepton ($N^{L}$) can be estimated in terms of the number of prompt or real baseline leptons ($N^{B}_{R}$) and the number of non-prompt or fake baseline leptons ($N^{B}_{F}$) as
 \begin{equation}
 N^{T} = rN^{B}_{R}+fN^{B}_{F},
 \label{eqn:NoOfTight}
@@ -185,7 +185,7 @@ and
 N^{L} = (1-r)N^{B}_{R} + (1-f)N^{B}_{F},
 \label{eqn:NoOfLoose}
 \end{equation}
-where, $r$ is the \textit{real efficiency} such that, 
+where, $r$ is the \textit{real efficiency} such that 
 \begin{equation} 
     r=\frac{N_{prompt~signal~leptons}}{N_{prompt~baseline~leptons}}.
 \end{equation}
@@ -196,30 +196,30 @@ Equations \ref{eqn:NoOfTight} and \ref{eqn:NoOfLoose} can be written as a $2 \ti
     \label{eqn:RealFakeLepton}
 \end{equation}
 
-The number of non-prompt baseline contributions is estimated by ignoring the higher-order term of the fake efficiency as
+The number of calssified non-prompt baseline leptons can be estimated by ignoring the higher-order term of the fake efficiency as
 \begin{equation}
     N_{F}^{B} =  \frac{1}{r-f}[r(N^{T}+N^{L})-N^{T}].
     \label{eqn:NfakeBaseline}
 \end{equation}
-Therefore, the predicted number of non-prompt signal lepton is 
+Therefore, the predicted number of classified non-prompt signal lepton is 
 \begin{equation}
     N_{F}^{T} =  \frac{f}{r-f}[r(N^{T}+N^{L})-N^{T}].
 \label{eqn:NfakeSignal}
 \end{equation}
 
-The fake factor method assumes the $r\rightarrow 1$ limit, which simplifies Equation \ref{eqn:NfakeSignal}. However, since the real efficiency of any measurement is less than one, this approximation overestimates the fake background. To account for this overestimation, the number of genuine baseline-anti-signal prompt leptons ($N^{L}_{R}$) are measured in MC and subtracted to get the final background yield as, 
+The fake factor method assumes the $r\rightarrow 1$ limit, which simplifies Equation \ref{eqn:NfakeSignal}. However, since the real efficiency of any measurement is less than one, this approximation overestimates the non-prompt background. To account for this overestimation, the number of genuine baseline-anti-signal prompt leptons ($N^{L}_{R}$) are measured in MC and subtracted to get the final background yield as 
 \begin{equation}
     N_{F}^{T} =  \frac{f}{1-f}[N^{L}-N^{L}_{R}],
 \label{eqn:NfakeSignalFinal}
 \end{equation}
 where, the coefficient \begin{equation} F=\frac{f}{1-f} \label{eqn:FakeFactor}
-\end{equation} is the fake factor $F$. The method makes a typically safe assumption that the real anti-signal prompt leptons are modeled precisely in MC. As the fake efficiency $f$ is estimated from data in the combined control region, the fake factor background estimation method does not rely on any efficiencies or yield in the tight signal region.
+\end{equation} is the fake factor $F$. The method makes a typically safe assumption that the real anti-signal prompt leptons are modeled precisely in MC. As the fake efficiency $f$ is estimated from data in the combined control region, the fake factor background estimation method does not rely on any efficiencies or predicted yield in the tight signal region.
 
-This method can be extended to the four-lepton signal region where there are four baseline leptons, of which one or more could be non-prompt. Corresponding to the permutation of individual leptons to be either signal or baseline-anti-signal, there are $2^{4}=16$ \{$N^{TTTT}$, $N^{TTTL}$, $N^{TTLL}$,...$N^{LLLL}$ \} observations to consider. The analysis considers $N^{TTTT}$ the signal region; therefore, the background is estimated from the quadruplets with at least one baseline-anti-signal lepton.
+This method can be extended to the four-lepton signal region where there are four baseline leptons, of which one or more could be non-prompt. Corresponding to the permutation of individual leptons to be either signal or baseline-anti-signal, there are $2^{4}=16$ \{$N^{TTTT}$, $N^{TTTL}$, $N^{TTLL}$,...$N^{LLLL}$ \} observations to consider. The analysis considers $N^{TTTT}$ the signal region, while, the background is estimated from quadruplets with at least one baseline-anti-signal lepton.
 
-\subsubsection{Fake Efficiency $\&$ Systematics}
+\subsubsection{Fake Efficiency and Systematics}
 \label{subsubsec:FakeEff}
-Fake efficiency defined in Section \ref{subsubsec:EstimationStrategy}, is evaluated from the combined control region using the total number of additional leptons from data as
+The fake efficiency defined in Section \ref{subsubsec:EstimationStrategy}, is evaluated from the combined control region using the total number of additional leptons from data as
 \begin{equation}{\label{eq:fakeff}}
 \begin{aligned}
 f = \frac{ N_{Data}^{Signal}~-~N_{MC}^{Prompt~Signal}}{ N_{Data}^{Baseline}~-~N_{MC}^{Prompt~Baseline}},
@@ -229,7 +229,7 @@ where $N_{Data}^{Signal}$ and $N_{Data}^{Baseline}$ are the numbers of signal an
 
 Figures \ref{fig:FakeFractionBaseline}, \ref{fig:ControlRegionsAdditionalBaselineElectronpT}, and \ref{fig:ControlRegionsAdditionalBaselineMuonpT} show that the fake-fraction and the total yield of the additional leptons are dependent on their transverse momentum $p_{T}$. Therefore, the fake efficiency evaluated using Equation \ref{eq:fakeff} depends on the lepton $p_{T}$. Because of the low resolution of the detector in forward regions, a higher number of non-prompt leptons are expected in this region; thus, the fake efficiency depends on the leptons' pseudorapidity ($\eta$). Additionally, since the non-prompt leptons predominantly originate from jets, the fake efficiency also depends on the number of jets ($n_{jets}$) in an event. 
 
-Figures \ref{fig:FakeEff_1D_Electron} and \ref{fig:FakeEff_1D_Muon} show the fake efficiencies for electrons and muons respectively as a function of $p_{T}$ (top-left), $\eta$ (top-right) and $n_{jets}$ (bottom-center). In the case of the electrons, the fake efficiency first decreases with its $p_{T}$ up to $20$ GeV, then increases. Since the high-$p_{T}$ muons are most likely to originate from a prompt source, fake efficiency typically decreases as a function of $p_{T}$ for the muons. The dependency on $\eta$ is most likely from lower detector resolution causing a higher number of misidentifications and lower efficiency for TTVA.
+Figures \ref{fig:FakeEff_1D_Electron} and \ref{fig:FakeEff_1D_Muon} show the fake efficiencies for electrons and muons, respectively, as a function of $p_{T}$ (top-left), $\eta$ (top-right) and $n_{jets}$ (bottom-center). For electrons, the fake efficiency first decreases with $p_{T}$ up to $20$ GeV, then increases. Since the high-$p_{T}$ muons are most likely to originate from a prompt source, fake efficiency typically decreases as a function of $p_{T}$ for the muons. The dependencies on $\eta$ for both muons and electrons are most likely from lower detector resolution causing a higher number of misidentifications and lower efficiency for TTVA.
 
 As discussed in Section \ref{subsec:OR}, the lepton-favored overlap removal used in the analysis rejects jets if they overlap with leptons. Due to the $b-jet$ requirement in $t\bar{t}$ CR, the $njet=0$ events only consist of contributions from the $Z+jets$ CR, which does not have an explicit event requirement on the number of jets. The probability of non-prompt leptons passing the isolation requirement is higher in events with no jets or surrounding hadronic activity. Therefore, as observed, higher fake efficiency is expected in events without jets.  
 
@@ -251,7 +251,7 @@ As discussed in Section \ref{subsec:OR}, the lepton-favored overlap removal used
     \caption{Fake efficiency of fake muons measured in the combined control region from data as a function of its $p_{T}$, $\eta$, and $n_{jets}$. \label{fig:FakeEff_1D_Muon}}
 \end{figure}
 
-The final fake efficiencies in the data-driven fake background estimate are parametrized in three-dimensional distributions of $p_{T}$, $\eta$, and $n_{jets}$. Only two bins ($n_{jet}=0 ~\& ~ n_{jet} > 0$) are used for the number of jets to reduce statistical fluctuations. Figures \ref{fig:FakeEff_3D_Elec_njet0} and \ref{fig:FakeEff_3D_Elec_njet1} show the fake efficiency of an electron as a function of $p_{T}$ and $\eta$ for $n_{jet}=0 $ and $n_{jet}>0 $ bins, respectively. Similar distributions are shown in Figures \ref{fig:FakeEff_3D_Muon_njet0} and \ref{fig:FakeEff_3D_Muon_njet1} for muons.  
+The final fake efficiencies in the data-driven non-prompt background estimate are parametrized in three-dimensional distributions of $p_{T}$, $\eta$, and $n_{jets}$. Only two bins ($n_{jet}=0 ~$ and $~ n_{jet} > 0$) are used for the number of jets to reduce statistical fluctuations. Figures \ref{fig:FakeEff_3D_Elec_njet0} and \ref{fig:FakeEff_3D_Elec_njet1} show the fake efficiency of an electron as a function of $p_{T}$ and $\eta$ for $n_{jet}=0 $ and $n_{jet}>0 $ bins, respectively. Similar distributions are shown in Figures \ref{fig:FakeEff_3D_Muon_njet0} and \ref{fig:FakeEff_3D_Muon_njet1} for muons.  
 
 \begin{figure}[!htb]
     \begin{center}
@@ -287,7 +287,7 @@ The final fake efficiencies in the data-driven fake background estimate are para
 
 The fake efficiency distributions' binomial errors are propagated as the statistical uncertainties on the fake estimate. The subtracted prompt component of Equation \ref{eq:fakeff} is estimated using MC predictions. As discussed in Section \ref{sec:Pheno}, the prediction relies on the PDF, the energy-dependent QCD factorization and renormalization scale, and the strong coupling constant $(\alpha_{S})$. Therefore, the theory uncertainties on these three parameters are propagated as systematic uncertainties of the fake efficiency. 
 
-For each theory uncertainty, a variation-applied fake efficiency is evaluated by separately varying the numerator and denominator of the fake efficiency Equation in \ref{eq:fakeff}. The difference between the variation-applied fake efficiency and the nominal fake efficiency is considered as a systematic uncertainty. Figures \ref{fig:FakeEffUnc_3D_Electron} and \ref{fig:FakeEffUnc_3D_Muon} show the statistical and systematic uncertainties on the fake efficiencies for electrons and muons, respectively, as a function of their $p_{T},~\eta,~\&~n_{jets}$ calculated in the combined control region. For both electrons and muons, the statistical uncertainty is dominant.
+For each theory uncertainty, a variation-applied fake efficiency is evaluated by separately varying the numerator and denominator of the fake efficiency in Equation \ref{eq:fakeff}. The difference between the variation-applied fake efficiency and the nominal fake efficiency is considered as a systematic uncertainty. Figures \ref{fig:FakeEffUnc_3D_Electron} and \ref{fig:FakeEffUnc_3D_Muon} show the statistical and systematic uncertainties on the fake efficiencies for electrons and muons, respectively, as a function of their $p_{T},~\eta$, and $n_{jets}$ calculated in the combined control region. For both electrons and muons, the statistical uncertainty is dominant.
 
 \begin{figure}[!htb]
     \begin{center}
@@ -333,17 +333,17 @@ For each theory uncertainty, a variation-applied fake efficiency is evaluated by
 
 \subsubsection{Method Validation}
 \label{subsubsec:Validation}
-Before implementing the fake-factor method to estimate the fake background in the signal region, the method is validated in two separate validation regions
+Before implementing the fake-factor method to estimate the non-prompt background in the signal region, the method is validated in two separate validation regions:
 \begin{enumerate}
-    \item{ Different-flavor validation region (VRDF): one pair in the quadruplet must have two different-flavor leptons.}
+    \item{ Different-flavor validation region (VRDF): one pair in the quadruplet must have two different-flavor leptons;}
     \item{ Same-charge validation region (VRSC): one pair in the quadruplet must have two same-charge leptons.}
 \end{enumerate}
 
 The low statistics in both regions result from requiring one of the pairs in the quadruplet to be either same-charge or different-flavor. Therefore, only signal quadruplets are required in the validation regions events without any dijet requirement. The validation regions' quadruplets are formed by requiring the same kinematic criteria as that of the signal region discussed in Section \ref{sec:EventSel}. The trigger requirement, object selection, and overlap removal are identical to the signal region. Additionally, events in the VRDF are required not to have any b-tagged jet to reduce the contribution from $ttZ$ processes. Reducing the $ttZ$ component further reduces the significant modeling uncertainties related to the $ttZ$ process.
 
-By imposing either a same-charge or a different-flavor lepton pair, the event yield in validation regions is dominated by events where at least one lepton in the quadruplet is a non-prompt-signal lepton known as the fake background in the signal region. The events also originate from other physics processes, such as $qqZZ$, $qqZZjj$, $ggZZ$, $ttZ$, and $VVV$ whose contribution is predicted by the same MC generators as that of the signal region.
+By imposing either a same-charge or a different-flavor lepton pair, the event yield in validation regions is dominated by events where at least one lepton in the quadruplet is a non-prompt-signal lepton known as the non-prompt background in the signal region. The events also originate from other physics processes, such as $qqZZ$, $qqZZjj$, $ggZZ$, $ttZ$, and $VVV$ whose contribution is predicted by the same MC generators as that of the signal region.
 
-Figures \ref{fig:VRDF_Elec_NonPromptComp} and \ref{fig:VRDF_Muon_NonPromptComp} show the non-prompt composition in the different flavor validation regions for non-prompt electrons and muons, respectively. Similarly, Figures \ref{fig:VRSC_Elec_NonPromptComp} and \ref{fig:VRSC_Muon_NonPromptComp} show the fake composition of the non-prompt electrons and muons, respectively, in the same-charge validation region. The non-prompt compositions in the two validation regions are different from that of the signal region shown in Figure \ref{fig:NonPromptLepSRDijet} or that of the background control regions composition shown in Figures \ref{fig:FakeCompositionCR2LElectron} and \ref{fig:FakeCompositionCR2LMuon}. Therefore, to validate the fake background estimation strategy, it is imperative to observe a good correspondence between data and a combination of the total MC prediction with the fake background yield in both validation regions.
+Figures \ref{fig:VRDF_Elec_NonPromptComp} and \ref{fig:VRDF_Muon_NonPromptComp} show the non-prompt composition in the different flavor validation regions for non-prompt electrons and muons, respectively. Similarly, Figures \ref{fig:VRSC_Elec_NonPromptComp} and \ref{fig:VRSC_Muon_NonPromptComp} show the fake composition of the non-prompt electrons and muons, respectively, in the same-charge validation region. The non-prompt compositions in the two validation regions are different from that of the signal region shown in Figure \ref{fig:NonPromptLepSRDijet} or that of the background control regions composition shown in Figures \ref{fig:FakeCompositionCR2LElectron} and \ref{fig:FakeCompositionCR2LMuon}. Therefore, to validate the non-prompt background estimation strategy, it is imperative to observe a good correspondence between data and a combination of the total MC prediction with the non-prompt background yield in both validation regions.
 
 \begin{figure}[!htb]
     \centering
@@ -370,33 +370,33 @@ Figures \ref{fig:VRDF_Elec_NonPromptComp} and \ref{fig:VRDF_Muon_NonPromptComp} 
     \caption{ Sources of non-prompt electrons and muons in the different flavors and the same charge validation regions. \label{fig:VRNonPromptComposition}}
 \end{figure}
 
-The fake backgrounds for the validation regions are estimated by applying the fake factor to each baseline-anti-signal leptons in the non-signal quadruplet, as discussed in Section \ref{subsubsec:EstimationStrategy}. Figure \ref{subfig:VRDFMCRed} shows the data and the predicted MC yield in VRDF as a function of $m_{4\ell}$ where the fake backgrounds are estimated from $Z+jets$, $t\bar{t}$, and $WZ$ MC predictions. Figure \ref{subfig:VRDFFF} shows the same, but the non-prompt background events are estimated using the fake factor method. Similarly, Figures \ref{subfig:VRSCMCRed} and \ref{subfig:VRSCFF} show the yields as a function of $m_{4\ell}$ in the same charge validation region. Both regions have similar characteristics, and the fake background dominates the event yield with some contribution from other physics processes.
+The non-prompt backgrounds for the validation regions are estimated by applying the fake factor to each baseline-anti-signal leptons in the non-signal quadruplet, as discussed in Section \ref{subsubsec:EstimationStrategy}. Figure \ref{subfig:VRDFMCRed} shows the data and the predicted MC yield in VRDF as a function of $m_{4\ell}$ where the non-prompt backgrounds are estimated from $Z+jets$, $t\bar{t}$, and $WZ$ MC predictions. Figure \ref{subfig:VRDFFF} shows the same, but the non-prompt background events are estimated using the fake factor method. Similarly, Figures \ref{subfig:VRSCMCRed} and \ref{subfig:VRSCFF} show the yields as a function of $m_{4\ell}$ in the same charge validation region. Both regions have similar characteristics, and the non-prompt background dominates the event yield with some contribution from other physics processes.
 
-The systematic gray bands in Figures \ref{subfig:VRDFFF} and \ref{subfig:VRSCFF} include the total systematic and statistical uncertainties from the fake factor method, as well as the uncertainties on PDF, QCD scale, and strong coupling ($\alpha_{S}$) on the $qqZZ,~qqZZjj~\&~ggZZ$ MC prediction. The bands also include the uncertainties in the cross-section measurements of the $ttZ$ and $VVV$ processes. The treatment of the systematic theoretical uncertainties is the same as that of the signal region, which will be discussed in Section \ref{subsec:TheoryUnc}. Other experimental uncertainties related to the lepton reconstruction and identification, trigger, and luminosity discussed in Section \ref{subsec:ExpUnc} are assumed to be negligible for the validation regions. For most bins in both regions, the data and MC yield are compatible within the $1\sigma$ band of the total uncertainties. Additionally, the agreement between data and MC simulation is better when the reducible events are estimated using the fake factor method, thus, fully validating the method. Moreover, the estimate from the fake factor method is robust in validation regions where the non-prompt lepton composition is different from that of the phase space where the fake factors were derived.
+The systematic gray bands in Figures \ref{subfig:VRDFFF} and \ref{subfig:VRSCFF} include the total systematic and statistical uncertainties from the fake factor method, as well as the uncertainties on PDF, QCD scale, and strong coupling ($\alpha_{S}$) on the $qqZZ,~qqZZjj$ and $ggZZ$ MC prediction. The bands also include the uncertainties in the cross-section measurements of the $ttZ$ and $VVV$ processes. The treatment of the systematic theoretical uncertainties is the same as that of the signal region, which will be discussed in Section \ref{subsec:TheoryUnc}. Other experimental uncertainties related to the lepton reconstruction and identification, trigger, and luminosity discussed in Section \ref{subsec:ExpUnc} are assumed to be negligible for the validation regions. For most bins in both regions, the data and MC yield are compatible within the $1\sigma$ band of the total uncertainties. Additionally, the agreement between data and MC simulation is better when the reducible events are estimated using the fake factor method, thus, fully validating the method. Moreover, the estimate from the fake factor method is robust in validation regions where the non-prompt lepton composition is different from that of the phase space where the fake factors were derived.
 
 \begin{figure}[!htb]
     \centering
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRDF_RedMC_M4l.pdf}
-        \caption{VRDF: MC predicted fake background.\label{subfig:VRDFMCRed}}
+        \caption{VRDF: MC predicted non-prompt background.\label{subfig:VRDFMCRed}}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRDF_FFApplied_M4l.pdf}\\
-        \caption{ VRDF: FF estimate of fake background. \label{subfig:VRDFFF} }
+        \caption{ VRDF: FF estimate of non-prompt background. \label{subfig:VRDFFF} }
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRSC_RedMC_M4l.pdf}
-        \caption{VRSC: MC predicted fake background.\label{subfig:VRSCMCRed}}
+        \caption{VRSC: MC predicted non-prompt background.\label{subfig:VRSCMCRed}}
     \end{subfigure}
     \begin{subfigure}{.48\textwidth}
         \centering
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRSC_FFApplied_M4l.pdf}
-        \caption{VRSC: FF estimate of fake background.\label{subfig:VRSCFF}}
+        \caption{VRSC: FF estimate of non-prompt background.\label{subfig:VRSCFF}}
     \end{subfigure}
-    \caption{ Comparison of data to the total MC prediction and fake background in the different flavor (top) and same charge (bottom) validation regions as a function of $\mFourL$.\label{fig:VRDataMCYield}}
+    \caption{ Comparison of data to the total MC prediction and non-prompt background in the different flavor (top) and same charge (bottom) validation regions as a function of $\mFourL$.\label{fig:VRDataMCYield}}
 \end{figure}
 
 The data and MC yield comparisons for three kinematic observables, $p_{T}$ of leading lepton, $\eta$ of leading lepton, and the number of jets $n_{jets}$ are shown by Figures \ref{fig:AllDataMCYield_VRDF_pt1}, \ref{fig:AllDataMCYield_VRDF_eta1} and \ref{fig:AllDataMCYield_VRDF_njet}, respectively in VRDF. Similarly, Figures \ref{fig:AllDataMCYield_VRSC_pt1}, \ref{fig:AllDataMCYield_VRSC_eta1} and \ref{fig:AllDataMCYield_VRSC_njet}, show the data and MC yield for $p_{T}$ of leading lepton, $\eta$ of leading lepton and the number of jets $n_{jets}$, respectively in VRSC. The data and MC prediction are compatible in most bins within total uncertainties in each validation region.
@@ -433,24 +433,24 @@ The data and MC yield comparisons for three kinematic observables, $p_{T}$ of le
         \includegraphics[width = 0.85\linewidth]{figures/Analysis/Background/Overlay_VRSC_FFApplied_n_jets.pdf}
         \caption{VRSC: $n_{jets}$ \label{fig:AllDataMCYield_VRSC_njet}}
     \end{subfigure}
-        \caption{ Comparison of data to the total MC prediction and fake background in validation regions (left) as a function of three kinematic observables used to parametrize the fake efficiencies in the combined control region.\label{fig:AllDataMCYield}}
+        \caption{ Comparison of data to the total MC prediction and non-prompt background in validation regions as a function of three kinematic observables used to parametrize the fake efficiencies in the combined control region.\label{fig:AllDataMCYield}}
 \end{figure}
 
 \subsubsection{Signal Region Estimation}
 \label{subsubsec:SREstimation}
-Similar to the validation regions, the background in the signal region is estimated by applying the fake factor to the baseline-anti-signal leptons in the non-signal quadruplets, as discussed in Section \ref{subsubsec:EstimationStrategy}. Distributions in Figure \ref{fig:MCFFRedComparison} compare the fake background predicted from MC and estimated from the fake-factor method in the VBS-Enhanced region as a function of $\mFourL$. The data-driven estimate of the fake background is in close agreement with that predicted by the MC.
+Similar to the validation regions, the background in the signal region is estimated by applying the fake factor to the baseline-anti-signal leptons in the non-signal quadruplets, as discussed in Section \ref{subsubsec:EstimationStrategy}. Distributions in Figure \ref{fig:MCFFRedComparison} compare the non-prompt background predicted from MC and estimated from the fake-factor method in the VBS-Enhanced region as a function of $\mFourL$. The data-driven estimate of the non-prompt background is in close agreement with that predicted by the MC.
 
 \begin{figure}[!htb]
     \centering
     \includegraphics[width=0.5\textwidth]{figures/Analysis/Background/MCRedCompare_VBS_Enhanced_M4l.pdf}
-    \caption{ MC prediction and fake-factor method estimate of the fake background as a function of $\mFourL$ in the VBS-Enhanced region. Black bands represent the systematic uncertainties from the fake factor method. \label{fig:MCFFRedComparison}}
+    \caption{ MC prediction and fake-factor method estimate of the non-prompt background as a function of $\mFourL$ in the VBS-Enhanced region. Black bands represent the systematic uncertainties from the fake factor method. \label{fig:MCFFRedComparison}}
 \end{figure}
 
-Figure \ref{fig:MCFFRedStack} shows the total SM detector-level predictions and estimated fake background as a function of $\mFourL$ and $p_{T,4\ell}$ in the VBS-Enhanced region. The signal MC predictions include the combination of EWK $qqZZjj$ and QCD parton and gluon-loop initiated $qqZZ$ $ggZZ$ samples, respectively. The \textit{FF Non-Prompt}, $ttV$, and $VVV$ distributions show the three background processes, where  \textit{FF Non-Prompt} is the estimated fake lepton background using the data-driven fake factor method. The ratio panels show the predicted high values of signal-to-background ratios. 
+Figure \ref{fig:MCFFRedStack} shows the total SM detector-level predictions and estimated non-prompt background as a function of $\mFourL$ and $p_{T,4\ell}$ in the VBS-Enhanced region. The signal MC predictions include the combination of EWK $qqZZjj$ and QCD parton and gluon-loop initiated $qqZZ$ $ggZZ$ samples, respectively. The \textit{FF Non-Prompt}, $ttV$, and $VVV$ distributions show the three background processes, where  \textit{FF Non-Prompt} is the estimated fake lepton background using the data-driven fake factor method. The ratio panels show the predicted high values of signal-to-background ratios. 
 
 \begin{figure}[!htb]
     \centering
     \includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSEnhanced_M4l.pdf}
     \includegraphics[width=0.48\textwidth]{figures/Analysis/Background/RedStack_VBSEnhanced_Pt4l.pdf}
-    \caption{ Detector level SM predictions of signal and background processes along with the fake background estimated from the fake-factor method as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS-Enhanced region. \label{fig:MCFFRedStack} }
+    \caption{ Detector level SM predictions of signal and background processes along with the non-prompt background estimated from the fake-factor method as a function of $\mFourL$(left) and $\ptFourL$ (right) in the VBS-Enhanced region. \label{fig:MCFFRedStack} }
 \end{figure}
