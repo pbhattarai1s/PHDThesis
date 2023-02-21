@@ -149,7 +149,6 @@ INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.out
 OUTPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.out
 INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -171,11 +170,10 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.toc
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.toc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
@@ -197,7 +195,6 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 OUTPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/thesis.lof
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/ListOfAbb.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/ListOfAbb.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Introduction.tex
@@ -206,7 +203,6 @@ INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/theory.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/theory.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/theory_StandardModel.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/theory_StandardModel.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Theory/SMparticles.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Theory/SMparticles.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/Theory/SMparticles.pdf
@@ -339,9 +335,9 @@ INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Ob
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_ObjectReconstruction.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Trigger.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_Trigger.tex
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency_DataMC.pdf
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency_DataMC.pdf
-INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency_DataMC.pdf
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency.pdf
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency.pdf
+INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/TriggerEfficiency.pdf
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_EventSelection.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/sections/Analysis_EventSelection.tex
 INPUT /Users/prajitabhattarai/Documents/PHDThesis/phdthesis/figures/AnalysisOverview/centrality_Dist.pdf

@@ -5,7 +5,7 @@ A Toroidal LHC ApparatuS (ATLAS) is a general-purpose detector of LHC that detec
 
 The sub-detector closest to the beamline is the \textit{Inner Detector (ID)}, which measures the trajectories of the charged particle and plays a crucial role in identifying the physical position of the hard-scattering, also known as the \textit{primary or hard-scattering vertex}. The ID is surrounded by a solenoid magnet that provides a $2$ T magnetic field to bend the particle trajectories for momentum measurements \cite{ATLAS}. Outside the solenoid lies the \textit{electromagnetic calorimeter (ECAL)} and then the \textit{hadronic calorimeter (HCAL)}, which measure the energy of electromagnetic and hadronic physics objects, respectively. The outermost layer of the ATLAS detector is the \textit{Muon Spectrometer (MS)} that identifies the muons and provides a secondary measure of their momentum. The MS is embedded inside a toroidal magnetic field that provides a magnetic field up to 3.5 T \cite{ATLAS}. Figure \ref{fig:ATLAS} shows a schematic of the ATLAS detector with all its sub-detectors.
 
-\begin{figure}[!htb]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=.98\linewidth]{figures/LHC/AtlasDetector.png}
     \caption{ A detailed schematic of the ATLAS detector with all its sub-detectors \cite{ATLAS}.\label{fig:ATLAS}}
@@ -31,7 +31,7 @@ Particles with larger momentum along the \textit{z}-axis have larger values of r
 \end{equation}
 Higher values of rapidity and pseudorapidity refer to the forward region of the detector. The ATLAS detector has full coverage in $\phi$ and coverage up to $|\eta| < 4.9$, corresponding to $1.3^{\circ} < \theta < 178.7^{\circ} $ \cite{ATLAS}. 
 
-\begin{figure}[!htb]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=.98\linewidth]{figures/LHC/ATLAS_CoordinateSys.png}
     \caption{ A schematic of the right-handed ATLAS coordinate system \cite{ATLAS_CoordSys}.\label{fig:ATLAS_CS}}
@@ -47,7 +47,7 @@ At a distance about $50$ cm from the beamline lies the outermost layer of the AT
 
 Figure \ref{fig:ATLAS_ID} shows the different parts of the inner detector and their distances from the interaction point.
 
-\begin{figure}[!htb]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=.98\linewidth]{figures/LHC/ATLAS_InnerDetector.jpg}
     \caption{ A schematic of the inner detector of ATLAS showing the IBL, pixel detectors, SCT, and TRT \cite{ID_Align_Run2}.\label{fig:ATLAS_ID}}
@@ -60,11 +60,11 @@ ATLAS has two calorimeters, electromagnetic and hadronic, designed to measure th
 
 The accordion-shaped electromagnetic calorimeter lies outside the solenoid surrounding the ID consisting of an alternate layer of lead absorber plates and highly granular liquid-argon (LAr) cells to precisely measure the energies of electrons and photons. It comprise of one barrel section in $|\eta| < 1.475$ region and two end-caps in $1.375 < |\eta| < 3.2$ region \cite{ATLAS_ECAL}. The calorimeter's central region ($|\eta| < 2.5$) is designed to identify electrons and photons with high precision.
 
-The hadronic calorimeter surrounds the ECAL and consists of steel absorbers and active scintillator tiles in $|\eta| < 1.7$ region. The end-cap regions ($1.5 < |\eta| < 3.2$) consist of copper absorbers and active LAr detectors. The forward region ($3.2 < |\eta| < 4$) comprises the tungsten absorber followed by active LAr detectors \cite{ATLAS_HCAL}. 
+The hadronic calorimeter surrounds the ECAL and consists of steel absorbers and active scintillator tiles in $|\eta| < 1.7$ region. The end-cap regions ($1.5 < |\eta| < 3.2$) consist of copper absorbers and active LAr detectors. The forward region ($3.2 < |\eta| < 4.9$) comprises the tungsten absorber followed by active LAr detectors \cite{ATLAS_HCAL}. 
 
 Figure \ref{fig:ATLAS_Cals} shows the layout of the ATLAS calorimeters. The calorimeters are segmented into cells which consist of an alternating layer of passive materials to absorb the particle and active layers to measure the energy. Object reconstruction in calorimeters starts with the formation of \textit{topological clusters} of cells with significant energy deposits.
 
-\begin{figure}[!htb]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=.98\linewidth]{figures/LHC/ATLAS_CALO.jpeg}
     \caption{ A schematic of the electromagnetic and hadronic calorimeters in ATLAS \cite{ATLAS}.\label{fig:ATLAS_Cals}}
@@ -74,7 +74,7 @@ Figure \ref{fig:ATLAS_Cals} shows the layout of the ATLAS calorimeters. The calo
 \label{subsec:MS}
 Muons are deeply penetrating charged particles that leave minimum ionizing deposits in the calorimeter. The muon spectrometer, the outermost part of the ATLAS detector, identifies the muons and gives an additional measure of muon's momentum by tracking its trajectories which are deflected in the magnetic field provided by the superconducting toroidal magnets \cite{ATLAS}. The MS tracks muon with $p_{T} > 3$ GeV in $|\eta| < 2.7$ range \cite{ATLAS}. As shown in Figure \ref{fig:ATLAS_MS}, the muon spectrometer comprises four types of detectors. The three stations of Monitored Drift Tubes (MDT) occupy the $|\eta| < 2.0$ region, while the Cathode Strip Chambers (CSC) cover the $2.0 < |\eta| < 2.7$ region \cite{ATLAS}. Resistive Plate Chambers (RPC) ($|\eta| < 1.05$) and the Thin-gap Chambers (TGC) in $|\eta| = 1.05$ range comprises the trigger system in MS \cite{ATLAS}. 
 
-\begin{figure}[!htb]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=.98\linewidth]{figures/LHC/ATLAS_MS.jpeg}
     \caption{ A schematic of the different components of the muon spectrometer in ATLAS \cite{ATLAS}.\label{fig:ATLAS_MS}}

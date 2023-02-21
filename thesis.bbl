@@ -58,7 +58,7 @@
 \newblock {DAQ approved plots}, 2020.
 
 \bibitem{TrackParameterFig}
-{T. G. Cornelissen et al. }.
+{T. G. Cornelissen et al.}
 \newblock {Updates of the ATLAS Tracking Event Data Model (Release 13)}.
 \newblock Technical report, CERN, Geneva, 2007.
 
@@ -121,9 +121,9 @@
 
 \bibitem{NoetherTheorem}
 {E. Noether}.
-\newblock {Invariante Variationsprobleme}.
-\newblock {\em {Nachrichten von der Gesellschaft der Wissenschaften zu
-  Göttingen, Mathematisch-Physikalische Klasse}}, 1918:235--257, 1918.
+\newblock {Invariant variation problems}.
+\newblock {\em Transport Theory and Statistical Physics}, 1(3):186--207, Jan
+  1971.
 
 \bibitem{Bernabeu2021}
 {Jose Bernabeu}.
@@ -133,7 +133,7 @@
 
 \bibitem{AlphaQED}
 {The OPAL Collaboration}.
-\newblock {Measurement of the running of the QED couplingin small-angle Bhabha
+\newblock {Measurement of the running of the QED coupling in small-angle Bhabha
   scattering at LEP}.
 \newblock {\em Eur. Phys. J. C}, 45(1):1--21, Jan 2006.
 
@@ -206,8 +206,8 @@ Alex~Keshavarzi et~al.
 
 \bibitem{LHCB_BPhys}
 R.~Aaij et~al.
-\newblock Tests of lepton universality using $b^0 \rightarrow
-  k^{0}_{S}\ell^+\ell^-$ and $b^+ \rightarrow k^{*+}_{S}\ell^+\ell^-$decays.
+\newblock {Tests of Lepton Universality Using $B^0 \rightarrow
+  K^{0}_{S}\ell^+\ell^-$ and $B^+ \rightarrow K^{*+}_{S}\ell^+\ell^-$Decays}.
 \newblock {\em Phys. Rev. Letters}, 128(19), May 2022.
 
 \bibitem{QCDForCollider}
@@ -226,7 +226,7 @@ R.~Aaij et~al.
 \newblock {\em Phys. Rev. D}, 74:054033, Sep 2006.
 
 \bibitem{PDF4LHC}
-{Sergey Alekhin et al. }.
+{Sergey Alekhin et al.}
 \newblock {The PDF4LHC Working Group Interim Report}, 2011.
 
 \bibitem{EventGenerator}
@@ -237,7 +237,7 @@ R.~Aaij et~al.
 \bibitem{CMSRun2ZZjj}
 {The CMS Collaboration}.
 \newblock {Evidence for electroweak production of four charged leptons and two
-  jets in proton-proton collisions at s=13TeV}.
+  jets in proton-proton collisions at $\sqrt{s}=13$ TeV}.
 \newblock {\em Physics Letters B}, 812:135992, 2021.
 
 \bibitem{PowhegV2ZZjj}

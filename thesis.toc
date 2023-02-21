@@ -1,11 +1,11 @@
 \babel@toc {english}{}
 \contentsline {section}{Acknowledgements}{iv}{Doc-Start}% 
-\contentsline {section}{Abstract}{vi}{section*.1}% 
-\contentsline {section}{List of Tables}{xi}{section*.2}% 
-\contentsline {section}{List of Figures}{xiii}{section*.3}% 
-\contentsline {section}{List of Abbreviations}{xix}{section*.3}% 
-\contentsline {part}{I\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Introduction}}{1}{part.1}% 
-\contentsline {part}{II\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Theory}}{3}{part.2}% 
+\contentsline {section}{Abstract}{vii}{section*.1}% 
+\contentsline {section}{List of Tables}{xii}{section*.2}% 
+\contentsline {section}{List of Figures}{xiv}{section*.3}% 
+\contentsline {section}{List of Abbreviations}{xx}{section*.3}% 
+\contentsline {part}{I\hspace {1em}Introduction}{1}{part.1}% 
+\contentsline {part}{II\hspace {1em}Theory}{3}{part.2}% 
 \contentsline {section}{\numberline {1}The Standard Model}{4}{section.1}% 
 \contentsline {subsection}{\numberline {1.1}Symmetries}{4}{subsection.1.1}% 
 \contentsline {subsection}{\numberline {1.2}Particles and Fields}{5}{subsection.1.2}% 
@@ -17,24 +17,24 @@
 \contentsline {subsubsection}{\numberline {1.3.5}Higgs Mechanism}{17}{subsubsection.1.3.5}% 
 \contentsline {section}{\numberline {2}Limitations of the Standard Model}{21}{section.2}% 
 \contentsline {section}{\numberline {3}Phenomenology of Proton-Proton Collisions }{23}{section.3}% 
-\contentsline {section}{\numberline {4} Electroweak Diboson Physics }{28}{section.4}% 
-\contentsline {part}{III\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Experimental Setup}}{33}{part.3}% 
+\contentsline {section}{\numberline {4}Electroweak Diboson Physics }{28}{section.4}% 
+\contentsline {part}{III\hspace {1em}Experimental Setup}{33}{part.3}% 
 \contentsline {section}{\numberline {5}The Large Hadron Collider}{34}{section.5}% 
 \contentsline {section}{\numberline {6}ATLAS Detector}{37}{section.6}% 
 \contentsline {subsection}{\numberline {6.1}ATLAS Coordinate System}{37}{subsection.6.1}% 
 \contentsline {subsection}{\numberline {6.2}Inner Detector}{39}{subsection.6.2}% 
 \contentsline {subsection}{\numberline {6.3}Calorimeters}{40}{subsection.6.3}% 
-\contentsline {subsection}{\numberline {6.4}Muon Spectrometer}{42}{subsection.6.4}% 
+\contentsline {subsection}{\numberline {6.4}Muon Spectrometer}{43}{subsection.6.4}% 
 \contentsline {section}{\numberline {7} Physics Object Reconstruction}{44}{section.7}% 
 \contentsline {subsection}{\numberline {7.1}Trigger}{45}{subsection.7.1}% 
 \contentsline {subsection}{\numberline {7.2}Tracks and Vertex Reconstruction}{45}{subsection.7.2}% 
 \contentsline {subsection}{\numberline {7.3}Electron Reconstruction}{48}{subsection.7.3}% 
-\contentsline {subsection}{\numberline {7.4}Muon Reconstruction}{51}{subsection.7.4}% 
+\contentsline {subsection}{\numberline {7.4}Muon Reconstruction}{50}{subsection.7.4}% 
 \contentsline {subsection}{\numberline {7.5}Jet Reconstruction}{53}{subsection.7.5}% 
 \contentsline {section}{\numberline {8}Future Upgrades}{57}{section.8}% 
 \contentsline {subsection}{\numberline {8.1}High-Luminosity LHC}{57}{subsection.8.1}% 
 \contentsline {subsection}{\numberline {8.2}ATLAS Upgrades}{58}{subsection.8.2}% 
-\contentsline {part}{IV\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Overview}}{60}{part.4}% 
+\contentsline {part}{IV\hspace {1em}Analysis Overview}{60}{part.4}% 
 \contentsline {section}{\numberline {9}Goals}{60}{section.9}% 
 \contentsline {section}{\numberline {10}Detector-Level Object Selection}{61}{section.10}% 
 \contentsline {subsection}{\numberline {10.1}Electrons}{61}{subsection.10.1}% 
@@ -44,58 +44,58 @@
 \contentsline {section}{\numberline {11}Trigger}{64}{section.11}% 
 \contentsline {section}{\numberline {12}Event Selection}{67}{section.12}% 
 \contentsline {subsection}{\numberline {12.1}Signal Region}{68}{subsection.12.1}% 
-\contentsline {section}{\numberline {13}Fiducial Phase Space}{71}{section.13}% 
-\contentsline {section}{\numberline {14}Datasets and Monte Carlo Simulation}{74}{section.14}% 
-\contentsline {subsection}{\numberline {14.1}LHC Dataset}{74}{subsection.14.1}% 
-\contentsline {subsection}{\numberline {14.2}Monte Carlo Samples }{75}{subsection.14.2}% 
-\contentsline {subsubsection}{\numberline {14.2.1}Signal Samples}{76}{subsubsection.14.2.1}% 
-\contentsline {subsubsection}{\numberline {14.2.2}Background Samples}{78}{subsubsection.14.2.2}% 
-\contentsline {subsubsection}{\numberline {14.2.3}Samples for Non-prompt Background}{79}{subsubsection.14.2.3}% 
-\contentsline {subsection}{\numberline {14.3}Event Weights}{80}{subsection.14.3}% 
-\contentsline {section}{\numberline {15}Definition of Measured Observables}{82}{section.15}% 
-\contentsline {part}{V\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Analysis Strategy}}{84}{part.5}% 
-\contentsline {section}{\numberline {16}Background Estimation}{84}{section.16}% 
-\contentsline {subsection}{\numberline {16.1}Data Driven Estimate of Non-Prompt Background}{84}{subsection.16.1}% 
-\contentsline {subsubsection}{\numberline {16.1.1}Lepton Composition}{86}{subsubsection.16.1.1}% 
-\contentsline {subsubsection}{\numberline {16.1.2}Control Regions}{88}{subsubsection.16.1.2}% 
-\contentsline {subsubsection}{\numberline {16.1.3} Fake Factor Strategy }{93}{subsubsection.16.1.3}% 
-\contentsline {subsubsection}{\numberline {16.1.4}Fake Efficiency and Systematics}{95}{subsubsection.16.1.4}% 
-\contentsline {subsubsection}{\numberline {16.1.5}Method Validation}{99}{subsubsection.16.1.5}% 
-\contentsline {subsubsection}{\numberline {16.1.6}Signal Region Estimation}{105}{subsubsection.16.1.6}% 
-\contentsline {section}{\numberline {17}Unfolding}{107}{section.17}% 
-\contentsline {subsection}{\numberline {17.1}Method Overview}{107}{subsection.17.1}% 
-\contentsline {subsection}{\numberline {17.2}Binning Optimization}{109}{subsection.17.2}% 
-\contentsline {subsection}{\numberline {17.3}Method Validation}{110}{subsection.17.3}% 
-\contentsline {subsubsection}{\numberline {17.3.1}MC Validation Test}{112}{subsubsection.17.3.1}% 
-\contentsline {subsubsection}{\numberline {17.3.2}Injection Test}{112}{subsubsection.17.3.2}% 
-\contentsline {subsubsection}{\numberline {17.3.3}Physics Variation}{113}{subsubsection.17.3.3}% 
-\contentsline {subsection}{\numberline {17.4}Bias and Optimization}{114}{subsection.17.4}% 
-\contentsline {section}{\numberline {18}Uncertainties on the Measurement}{117}{section.18}% 
-\contentsline {subsection}{\numberline {18.1}Theoretical Uncertainties}{117}{subsection.18.1}% 
-\contentsline {subsection}{\numberline {18.2}Experimental Uncertainties}{119}{subsection.18.2}% 
-\contentsline {subsection}{\numberline {18.3}Unfolding Uncertainties}{122}{subsection.18.3}% 
-\contentsline {subsection}{\numberline {18.4}Background Uncertainties}{125}{subsection.18.4}% 
-\contentsline {subsection}{\numberline {18.5}Statistical Uncertainties}{125}{subsection.18.5}% 
-\contentsline {subsection}{\numberline {18.6}Breakdown of Uncertainties }{126}{subsection.18.6}% 
-\contentsline {part}{VI\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Results}}{128}{part.6}% 
-\contentsline {section}{\numberline {19} Detector Level Measurements }{129}{section.19}% 
-\contentsline {section}{\numberline {20} Unfolded Differential Cross-sections }{133}{section.20}% 
-\contentsline {section}{\numberline {21}Effective Field Theory ReInterpretation}{136}{section.21}% 
-\contentsline {subsection}{\numberline {21.1}Introduction}{136}{subsection.21.1}% 
-\contentsline {subsection}{\numberline {21.2}Event Generation}{140}{subsection.21.2}% 
-\contentsline {subsection}{\numberline {21.3}Statistical Strategy for Limit Setting}{140}{subsection.21.3}% 
-\contentsline {subsection}{\numberline {21.4}Results}{145}{subsection.21.4}% 
-\contentsline {part}{VII\hspace {1em}\relax \fontsize {20.74}{25}\selectfont {Conclusion and Outlook}}{146}{part.7}% 
-\contentsline {section}{\numberline {22}Conclusion}{146}{section.22}% 
-\contentsline {section}{\numberline {23}Outlook}{147}{section.23}% 
-\contentsline {part}{References}{148}{section.23}% 
-\contentsline {part}{\relax \fontsize {20.74}{25}\selectfont {Appendices}}{155}{Item.114}% 
-\contentsline {section}{\numberline {A}Personal Contribution}{156}{Appendix.a.A}% 
-\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ^*(\rightarrow 4\ell )jj$ Measurement}{156}{subsection.a.A.1}% 
-\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{156}{subsection.a.A.2}% 
-\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{159}{Appendix.a.B}% 
-\contentsline {section}{\numberline {C}VBS-Suppressed Region}{164}{Appendix.a.C}% 
-\contentsline {subsection}{\numberline {C.1}Systematics}{164}{subsection.a.C.1}% 
-\contentsline {subsection}{\numberline {C.2}Detector Level Measurements}{165}{subsection.a.C.2}% 
-\contentsline {subsection}{\numberline {C.3}Unfolded Cross-sections}{165}{subsection.a.C.3}% 
+\contentsline {section}{\numberline {13}Fiducial Phase Space}{72}{section.13}% 
+\contentsline {section}{\numberline {14}Datasets and Monte Carlo Simulation}{75}{section.14}% 
+\contentsline {subsection}{\numberline {14.1}LHC Dataset}{75}{subsection.14.1}% 
+\contentsline {subsection}{\numberline {14.2}Monte Carlo Samples }{76}{subsection.14.2}% 
+\contentsline {subsubsection}{\numberline {14.2.1}Signal Samples}{77}{subsubsection.14.2.1}% 
+\contentsline {subsubsection}{\numberline {14.2.2}Background Samples}{79}{subsubsection.14.2.2}% 
+\contentsline {subsubsection}{\numberline {14.2.3}Samples for Non-prompt Background}{80}{subsubsection.14.2.3}% 
+\contentsline {subsection}{\numberline {14.3}Event Weights}{81}{subsection.14.3}% 
+\contentsline {section}{\numberline {15}Definition of Measured Observables}{83}{section.15}% 
+\contentsline {part}{V\hspace {1em}Analysis Strategy}{85}{part.5}% 
+\contentsline {section}{\numberline {16}Background Estimation}{85}{section.16}% 
+\contentsline {subsection}{\numberline {16.1}Data Driven Estimate of Non-Prompt Background}{85}{subsection.16.1}% 
+\contentsline {subsubsection}{\numberline {16.1.1}Lepton Composition}{87}{subsubsection.16.1.1}% 
+\contentsline {subsubsection}{\numberline {16.1.2}Control Regions}{90}{subsubsection.16.1.2}% 
+\contentsline {subsubsection}{\numberline {16.1.3} Fake Factor Strategy }{96}{subsubsection.16.1.3}% 
+\contentsline {subsubsection}{\numberline {16.1.4}Fake Efficiency and Systematics}{98}{subsubsection.16.1.4}% 
+\contentsline {subsubsection}{\numberline {16.1.5}Method Validation}{104}{subsubsection.16.1.5}% 
+\contentsline {subsubsection}{\numberline {16.1.6}Signal Region Estimation}{109}{subsubsection.16.1.6}% 
+\contentsline {section}{\numberline {17}Unfolding}{111}{section.17}% 
+\contentsline {subsection}{\numberline {17.1}Method Overview}{111}{subsection.17.1}% 
+\contentsline {subsection}{\numberline {17.2}Binning Optimization}{113}{subsection.17.2}% 
+\contentsline {subsection}{\numberline {17.3}Method Validation}{116}{subsection.17.3}% 
+\contentsline {subsubsection}{\numberline {17.3.1}MC Validation Test}{116}{subsubsection.17.3.1}% 
+\contentsline {subsubsection}{\numberline {17.3.2}Injection Test}{117}{subsubsection.17.3.2}% 
+\contentsline {subsubsection}{\numberline {17.3.3}Physics Variation}{118}{subsubsection.17.3.3}% 
+\contentsline {subsection}{\numberline {17.4}Bias and Optimization}{118}{subsection.17.4}% 
+\contentsline {section}{\numberline {18}Uncertainties on the Measurement}{122}{section.18}% 
+\contentsline {subsection}{\numberline {18.1}Theoretical Uncertainties}{122}{subsection.18.1}% 
+\contentsline {subsection}{\numberline {18.2}Experimental Uncertainties}{124}{subsection.18.2}% 
+\contentsline {subsection}{\numberline {18.3}Unfolding Uncertainties}{127}{subsection.18.3}% 
+\contentsline {subsection}{\numberline {18.4}Background Uncertainties}{131}{subsection.18.4}% 
+\contentsline {subsection}{\numberline {18.5}Statistical Uncertainties}{131}{subsection.18.5}% 
+\contentsline {subsection}{\numberline {18.6}Breakdown of Uncertainties }{131}{subsection.18.6}% 
+\contentsline {part}{VI\hspace {1em}Results}{134}{part.6}% 
+\contentsline {section}{\numberline {19}Detector Level Measurements }{135}{section.19}% 
+\contentsline {section}{\numberline {20}Unfolded Differential Cross-sections }{139}{section.20}% 
+\contentsline {section}{\numberline {21}Effective Field Theory ReInterpretation}{142}{section.21}% 
+\contentsline {subsection}{\numberline {21.1}Introduction}{142}{subsection.21.1}% 
+\contentsline {subsection}{\numberline {21.2}Event Generation}{146}{subsection.21.2}% 
+\contentsline {subsection}{\numberline {21.3}Statistical Strategy for Limit Setting}{146}{subsection.21.3}% 
+\contentsline {subsection}{\numberline {21.4}Results}{150}{subsection.21.4}% 
+\contentsline {part}{VII\hspace {1em}Conclusion and Outlook}{152}{part.7}% 
+\contentsline {section}{\numberline {22}Conclusion}{152}{section.22}% 
+\contentsline {section}{\numberline {23}Outlook}{153}{section.23}% 
+\contentsline {part}{References}{154}{section.23}% 
+\contentsline {part}{{Appendices}}{161}{Item.114}% 
+\contentsline {section}{\numberline {A}Personal Contribution}{162}{Appendix.a.A}% 
+\contentsline {subsection}{\numberline {A.1}Contribution to $ZZ^*(\rightarrow 4\ell )jj$ Measurement}{162}{subsection.a.A.1}% 
+\contentsline {subsection}{\numberline {A.2}Contribution to the ATLAS Experiment}{162}{subsection.a.A.2}% 
+\contentsline {section}{\numberline {B}Additional Study on Unfolding Bias}{165}{Appendix.a.B}% 
+\contentsline {section}{\numberline {C}VBS-Suppressed Region}{170}{Appendix.a.C}% 
+\contentsline {subsection}{\numberline {C.1}Systematics}{170}{subsection.a.C.1}% 
+\contentsline {subsection}{\numberline {C.2}Detector Level Measurements}{171}{subsection.a.C.2}% 
+\contentsline {subsection}{\numberline {C.3}Unfolded Cross-sections}{171}{subsection.a.C.3}% 
 \contentsfinish 

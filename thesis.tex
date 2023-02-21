@@ -26,7 +26,6 @@
 \numberwithin{equation}{section}
 \graphicspath{figures/}
 \usepackage{newclude}
-%%Zach has a brandeis hack to remove all the large fonts and so on but i want to stick with the default for now maybe i will change in future
 \titleformat{\part}[hang]{\normalfont\bfseries}{\partname\ \thepart:}{0.5em}{} 
 %%%%
 % Epigraph
@@ -36,17 +35,17 @@
 \dimen\footins=20\baselineskip\relax
 \interfootnotelinepenalty=10000
 % Titles
-\renewcommand{\cfttoctitlefont}{\LARGE\bfseries}
-\renewcommand{\cftlottitlefont}{\LARGE\bfseries}
-\renewcommand{\cftloftitlefont}{\LARGE\bfseries}
-\titleformat*{\section}{\Large\bfseries}
-\titleformat*{\subsection}{\large\bfseries}
+\renewcommand{\cfttoctitlefont}{\bfseries}
+\renewcommand{\cftlottitlefont}{\bfseries}
+\renewcommand{\cftloftitlefont}{\bfseries}
+\titleformat*{\section}{\bfseries}
+\titleformat*{\subsection}{\bfseries}
 \newcommand{\unnumsubsec}[1]{\subsection*{\normalsize{#1}}}
 % Table of Contents
 \setcounter{tocdepth}{2}
 \setlength{\cftsubsecindent}{4em}
-\renewcommand{\cftpartfont}{\large\bfseries}
-\renewcommand{\cftpartpagefont}{\large\bfseries}
+\renewcommand{\cftpartfont}{\bfseries}
+\renewcommand{\cftpartpagefont}{\bfseries}
 \renewcommand{\cftsecfont}{\normalsize}
 \renewcommand{\cftsecpagefont}{\normalsize}
 \renewcommand{\cftsubsecfont}{\normalsize}
@@ -76,18 +75,31 @@ Dr. Alessandro Tricoli, Brookhaven National Laboratory
 \clearpage
 % Copyright
 \makecopyright
+% \mbox{}
+%     \vfill
+%     \pagenumbering{gobble}
+%     %\newgeometry{top=6.2in}
+%     \begin{center}
+%         Copyright by\\
+%         Prajita Bhattarai\\
+%         \vspace{1em}
+%         2023
+%     \end{center}
+%     %\restoregeometry
+% \newpage
 \clearpage
 % Acknowledgements
 \addcontentsline{toc}{section}{Acknowledgements}
 \begin{center}
-\textbf{\large{Acknowledgements}}
+\textbf{{Acknowledgements}}
 \end{center}
-I would not be able to get to this point without the people who supported me professionally and personally during my Ph.D. I am sincerely grateful for all the positive impacts that you have had on my career and life.
+\setstretch{2}{
+I would not be able to get to this milestone without the people who supported me professionally and personally during my Ph.D. I am sincerely grateful for all the positive impacts that you have had on my career and life.
 
-First, I must thank my doctoral advisor \textbf{Gabriella Sciolla}. Thank you for making me a part of your research group and providing me with several opportunities to grow professionally as a researcher. Reaching this milestone would not be possible without your continuous support and mentorship throughout the past $5.5$ years. I have learned much from you, from physics to teaching, research proposal writing, and job applications. 
+First, I must thank my doctoral advisor \textbf{Gabriella Sciolla}. Thank you for making me a part of your research group and providing me with several opportunities to grow professionally as a researcher. Reaching this milestone would not be possible without your continuous support and mentorship throughout the past $5.5$ years. I have learned much from you, from physics to teaching, research proposal writing, and job applications. You always inspire me in many ways.
 
 Second, I want to thank my other two members of the committee, \textbf{Aram Apyan} and 
-\textbf{Alessandro Tricoli}. I am honored to have you on my committee. Thank you for reviewing my dissertation and giving me insightful feedback. In addition to the review, I must thank Aram for the discussions in the past year about vector boson scattering. I have learned a lot from you on this topic. I must also thank Alessandro for his guidance on this dissertation and the measurement presented here. Your comments have constantly challenged me to think about physics more insightfully. You have helped me realize some gaps in my knowledge and inspired me to be a better physicist.
+\textbf{Alessandro Tricoli}. I am honored to have you on my committee. Thank you for reviewing my dissertation and giving me insightful feedback. In addition to the review, I must thank Aram for the discussions in the past year about vector boson scattering. I have learned a lot from you on this topic. I must also thank Alessandro for his guidance on this dissertation and the measurement presented here. Your comments have constantly challenged me to think about physics and measurement at the most fundamental level. You have always helped me realize gaps in my understanding and inspired me to be a better physicist.
 
 Next, I would like to thank my supervising post-doctoral researcher \textbf{Max Goblirsch}. You have taught me so much, from the fundamentals to the technical and statistical aspects of experimental research in Particle Physics. I succeeded as a student with your kind, patient, and diligent mentorship. Thank you for mentoring me in the past five years, involving me in exciting projects in several areas of ATLAS, and always making time to help, even with a full schedule. 
 
@@ -97,21 +109,24 @@ Next, I would like to thank all members of the \textbf{VBS ZZjj Differential} an
 
 Thanks to the ITk mentors I had during my year at Brookhaven National Lab. First, I express my sincere gratitude to \textbf{David Lynn} for supervising my work on ITk, including the ATLAS qualification task. Thanks also to \textbf{Stefania Stucci}, \textbf{Phil Kuczewski}, and \textbf{Laura Bergsten} for all the guidance during this period. 
 
-Next, I would like to thank some additional ATLAS mentors who significantly impacted my career. Thanks to \textbf{Peter Jenni} for your optimism in my abilities and for helping me figure out the next steps of my career as a researcher. Thanks to \textbf{Valentina Cairo} for guiding my work and involvement in Tracking CP. 
+Next, I would like to thank some additional ATLAS mentors who significantly impacted my career. Thanks to \textbf{Peter Jenni} for your optimism in my abilities and for helping me figure out the next steps of my career as a researcher. Thanks to \textbf{Valentina Cairo} and \textbf{Gabriel Facini} for guiding my work and involvement in Tracking CP. 
 
-I want to thank some additional mentors within the Sciolla group. First, thank you \textbf{Hannah Herde} for your continuous mentorship in different aspects of my career, from ITk to preparing talks and networking. I am most grateful for your help in facing one of my biggest fear, public speaking. Thank you \textbf{Zach Schillaci} for all your technical support from git to Athena. I have learned so much about programming from you. 
+I want to thank some additional mentors within the Sciolla group. First, thank you \textbf{Hannah Herde} for your continuous mentorship in different aspects of my career, from ITk to preparing talks and networking. I am most grateful for your help in facing one of my biggest fear, public speaking. Thank you \textbf{Zach Schillaci} for all your technical support from git to Athena.
 
 To my two undergraduate mentors, \textbf{David Probst} and \textbf{Jonathan Kessler}, thank you for believing in my abilities and setting me on this path of graduate school. 
 
-I am grateful to be a part of the research group where I have met many of my close friends. Each of you has been an integral part of my support system in graduate school. Thank you to \textbf{Laura Bergsten} for being my only friend for a year while living in Long Island, always taking me on adventures and introducing me to many new things. Thank you \textbf{Jiayi Chen} for sharing the experience of graduate school and Zumba sessions and always believing in me. Thank you \textbf{Zach Schillaci} for your joyful friendship and time with \textbf{Pinot} and for introducing me to the stock market. Thank you \textbf{Francesca Capocasa} for all the good times, food and celebrations. Thank you to \textbf{Sagar Addepalli} for being the best flatmate in the past year, feeding me so much delicious food, and listening to my countless complaints and Taylor Swift playlist. 
+I am grateful to be a part of the research group where I have met many of my close friends. Each of you has been an integral part of my support system in graduate school. Thank you to \textbf{Laura Bergsten} for being my only friend for a year while living in Long Island, always taking me on adventures and introducing me to numerous new things. Thank you \textbf{Jiayi Chen} for sharing the experience of graduate school and Zumba sessions and always believing in me. Thank you \textbf{Zach Schillaci} for your joyful friendship and time with \textbf{Pinot} and for introducing me to the stock market. Thank you \textbf{Francesca Capocasa} for all the good times, food and celebrations. Thank you to \textbf{Sagar Addepalli} for being the best flatmate in the past year, for many delicious meals, and for listening to my countless complaints and Taylor Swift playlist. 
 
 I also want to thank a few other friends from Brandeis, \textbf{Aldric Rosario}, \textbf{Salman Alam}, \textbf{Sarvesh Uplap}, \textbf{Guangfeng Yu} and \textbf{Francis Rivera} for going through the first year experience of countless hours spent solving problem sets and preparing for qualification exams together. Thanks to Aldric and Salman for always saying "yes" to an adventure and good food. Thanks to \textbf{Gess Kelly} for her friendship and optimism in me. 
 
 To my family, \textbf{Mom}, \textbf{Dad}, \textbf{Aagaman}, and \textbf{Aashma}, thank you for all your love and support. 
 
-To my three special friends, whom I consider my US family, \textbf{Anu}, \textbf{Gargi}, and \textbf{Sapana}, thank you for your friendship and support. 
+To my three special friends, whom I consider my family in the US, \textbf{Anu}, \textbf{Gargi}, and \textbf{Sapana}, thank you for your friendship and support. 
 
 Finally, to \textbf{Dinesh}, thank you for all your unconditional support and for taking care of me while I wrote this thesis.
+}
+
+
 \clearpage
 
 %Abstract
@@ -119,7 +134,7 @@ Finally, to \textbf{Dinesh}, thank you for all your unconditional support and fo
 \begin{dissertation-abstract}
 \addcontentsline{toc}{section}{Abstract}
 
-This thesis presents the differential cross-section measurements as a function of several kinematic observables, sensitive to vector boson scattering for two Z bosons production in association with two jets ($ZZ^*jj$), where each $Z$ boson is reconstructed in same-flavor opposite-charge two leptons final state. The electroweak $ZZ^*jj$ production includes the rare triple and quartic self-couplings of gauge bosons, whose scattering amplitude at high energies is regularized by the Standard Model $H\rightarrow ZZ^{*}$ processes. The analysis is performed using the proton-proton collision data collected by the ATLAS experiment during LHC Run-2 at $\sqrt{s}=13$ TeV center-of-mass collision energy, corresponding to an integrated luminosity of $139~fb^{-1}$. Several theories Beyond the Standard Model are expected to modify the electroweak $ZZ^*jj$ cross-sections at high energies. Therefore, performing differential cross-section measurements of electroweak $ZZ^*jj$ processes is critical. Given the low statistics in Run-2, the cross-sections corrected for detector effects are measured in an electroweak-enhanced phase space and compared to the state-of-the-art Standard Model predictions. The differential cross-sections are also used to constrain anomalous quartic gauge couplings using a dimension-8 Effective Field Theory formalism. 
+This thesis presents the differential cross-section measurements as a function of several kinematic observables, sensitive to vector boson scattering for two Z bosons production in association with two jets ($ZZ^*jj$), where each $Z$ boson is reconstructed in same-flavor opposite-charge two leptons final state. The electroweak $ZZ^*jj$ production includes the rare triple and quartic self-couplings of gauge bosons, whose scattering amplitude at high energies is regularized by the Standard Model $H\rightarrow ZZ^{*}$ processes. The analysis is performed using the proton-proton collision data collected by the ATLAS experiment during LHC Run-2 at $\sqrt{s}=13$ TeV center-of-mass collision energy, corresponding to an integrated luminosity of $139~fb^{-1}$. Several theories Beyond the Standard Model are expected to modify the electroweak $ZZ^*jj$ cross-sections at high energies. Certain phase space of some kinematic observables describing the electroweak $ZZ^*jj$ process is sensitive to these new physics modifications. Therefore, performing differential cross-section measurements as a function of these kinematic observables for the electroweak $ZZ^*jj$ processes is crucial. Given the low statistics in Run-2, the cross-sections corrected for detector effects are measured in an electroweak-enhanced phase space and compared to the state-of-the-art Standard Model predictions. The differential cross-sections are also used to constrain anomalous quartic gauge couplings using a dimension-8 Effective Field Theory formalism. 
 
 \end{dissertation-abstract}
 \clearpage
@@ -196,9 +211,9 @@ This thesis presents the differential cross-section measurements as a function o
 \clearpage
 }
 
-\addcontentsline{toc}{part}{\LARGE{Appendices}}
+\addcontentsline{toc}{part}{{Appendices}}
 \begin{appendices}
-   \LARGE{\textbf{Appendices}} \\ 
+   \textbf{Appendices} \\ 
    \normalsize 
    Supplementary materials to the main body of this thesis are presented in the following appendices. Appendix \ref{Appendix:Contribution} summarizes my contributions to the measurement presented in this thesis as well as to the ATLAS experiment. The largest source of systematic uncertainty on the results is the unfolding bias and Appendix \ref{Appendix:Unfolding_bias} summarizes the studies conducted to understand the source of this bias. Finally, Appendix \ref{Appendix:VBSSupRegion} presents the detector-level measurements and the differential unfolded cross-sections measured in the VBS-suppressed region of the phase space. 
  

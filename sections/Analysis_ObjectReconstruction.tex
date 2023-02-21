@@ -6,7 +6,7 @@ This section summarizes the detector-level selections applied to the three physi
 \subsection{Electrons}
 \label{subsec:ElecRecon}
 
-Baseline electron objects are required to satisfy the kinematic selections of $\Pt > 7$ GeV and $|\eta| < 2.47$ and a loose likelihood identification working point of \textit{LHVeryLoose}. Some electrons are reconstructed by matching the pile-up tracks to the calorimeter cluster deposit. A loose vertex association requirement of $|z_{0}\sin\theta| < 0.5 $ mm is applied to the baseline electron candidates to avoid these wrongfully reconstructed electrons. 
+Baseline electron objects are required to satisfy the kinematic selections of $\Pt~ > 7$ GeV and $|\eta| < 2.47$ and a loose likelihood identification working point of \textit{LHVeryLoose}. Some baseline electron candidates are reconstructed by matching the pile-up tracks to the calorimeter cluster deposit. A loose vertex association requirement of $|z_{0}\sin\theta| < 0.5 $ mm is applied to the baseline electron candidates to avoid these wrongfully reconstructed electrons. 
 
 Signal electrons are required to pass a more stringent loose likelihood identification, \textit{LHLooseBL}, which requires at least one hit in the innermost layer of the pixel detector (IBL). The signal electrons are distinguished by tightening the impact parameter significance of the baseline electrons to $d_{0}/ \dZeroSig < 5$ and requiring an additional isolation working point identification of \textit{LooseVarRad} defined in Section \ref{subsec:ParticleRecon_Elec}. Table \ref{tab:Electron_RecoSel} summarizes the several kinematic selections imposed to define the baseline and signal electrons.
 
@@ -61,7 +61,7 @@ Baseline muons are required to satisfy $ |\eta| < 2.7 $, $p_{T} > 5$ GeV, a loos
 \label{subsec:JetRecon} 
 As discussed in Section \ref{sec:EWKPheno}, the jets from the EWK $ZZ^*jj$ production are highly energetic; thus, reconstructed jets are required to have $p_{T} > 30$ GeV. The jet energy scale and resolution calibration discussed in Section \ref{subsec:ParticleRecon_Jets} is only valid for jets within $ |\eta| < 4.5 $ region. Therefore, the baseline jets are required to be in the $ |\eta| < 4.5 $ region. Baseline jets in $ |\eta| < 2.4 $ satisfying the \textit{Tight} working point of the \textit{Jet-vertex-tagger (JVT)} tool, and in $ |\eta| > 2.5 $ satisfying the \textit{Tight} working point of \textit{forward-jet-vertex-tagger (fJVT)} tool are classified as signal jets. Table \ref{tab:jets} summarizes the details of baseline and signal jets selection. 
 
-A particular type of jets, the \textit{b-jets}, containing b-hadrons initiated from a b-quark, is also used for the background estimation. The b-jets reconstruction relies on multivariate analysis (MVA), utilizing the fact that b-hadrons have a long mean lifetime ( $~1$ picosecond), leading to a displaced secondary vertex in the detectors. A tagger discussed in detail in Ref \cite{bTagging} with b-tagging efficiency of $77\%$ is used in the analysis to identify b-jets.
+A particular type of jets, the \textit{b-jets}, containing b-hadrons initiated from a b-quark, is also used for the background estimation. The b-jets reconstruction relies on multivariate analysis (MVA), utilizing the fact that b-hadrons have a long mean lifetime (about $1$ picosecond), leading to a displaced secondary vertex in the detectors. A tagger discussed in detail in Ref \cite{bTagging} with b-tagging efficiency of $77\%$ is used in the analysis to identify b-jets.
 
 \begin{table}[!htbp]
     \centering

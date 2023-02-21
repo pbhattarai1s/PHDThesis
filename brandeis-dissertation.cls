@@ -104,15 +104,17 @@
     \setcounter{page}{3}
 }
 \newcommand{\makecopyright}{%
+    \mbox{}
+    \vspace*{\fill}
     \pagenumbering{gobble}
-    \newgeometry{top=6.2in}
+    %\newgeometry{top=6.2in}
     \begin{center}
         Copyright by\\
         \@author{}\\
         \vspace{1em}
         \@graduationyear{}
     \end{center}
-    \restoregeometry
+    %\restoregeometry
     \newpage
     \pagenumbering{roman}
     \setcounter{page}{4}

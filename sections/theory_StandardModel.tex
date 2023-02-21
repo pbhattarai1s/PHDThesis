@@ -1,7 +1,7 @@
 \section{The Standard Model}
 \label{sec:SM}
 
-The SM of particle physics is a mathematical framework based on quantum field theory, incorporating quantum mechanics and special relativity. The SM describes all known fundamental particles in nature and their interactions. It consists of two sets of particles with intrinsic angular momentum: half-integer-spin fermions that are fundamental constituents of matter particles and force-carrying integer-spin bosons. The seventeen fundamental particles of the SM and their properties, such as mass, charge, and intrinsic spin, are shown schematically in Figure \ref{fig:SM}. Two textbooks on particle physics, Mark Thomson's Modern Particle Physics \cite{Thomson:2013zua}, and Halzen $\&$ Martin's Quarks $\&$ Leptons \cite{Halzen:1984mc} guide the discussion written in this section.
+The SM of Particle Physics is a mathematical framework based on quantum field theory, incorporating quantum mechanics and special relativity. The SM describes all known fundamental particles in nature and their interactions. It consists of two sets of particles with intrinsic angular momentum: half-integer-spin fermions that are fundamental constituents of matter particles and force-carrying integer-spin bosons. The seventeen fundamental particles of the SM and their properties, such as mass, charge, and intrinsic spin, are shown schematically in Figure \ref{fig:SM}. Two textbooks on Particle Physics, Mark Thomson's Modern Particle Physics \cite{Thomson:2013zua}, and Halzen $\&$ Martin's Quarks $\&$ Leptons \cite{Halzen:1984mc} guide the discussion written in this section.
 
 \subsection{Symmetries}
 \label{subsec:Symmetries}
@@ -14,7 +14,7 @@ The SM also respects CPT symmetry, a combination of three additional discrete sy
 \subsection{Particles and Fields}
 \label{subsec:Constituents}
 
-\begin{figure}[!htb]
+\begin{figure}[!htbp]
     \centering
     \includegraphics[width=0.7\textwidth] {figures/Theory/SMparticles.pdf}\hspace{1cm}
     \caption{ The seventeen fundamental particles of the SM include three generations of twelve fermions, four gauge bosons, and the scalar Higgs bosons. \cite{SMFigureWiki}}
@@ -25,7 +25,7 @@ The twelve of the seventeen fundamental particles shown in Figure \ref{fig:SM} a
 
 Massless photon ($\gamma$) mediates the electromagnetic interaction, whereas the massive $W$ and $Z$ bosons mediate weak interaction. The electric charge (Q), which is conserved in all interactions, is related to the isospin and hypercharge by $Q=I_3 + \frac{Y}{2}$, where $I_3$ is the third component of the weak isospin. As a consequence of the chiral structure of $SU(2)_{L}$, each generation of fermion contains a left-handed doublet with $I_{3}=\pm\frac{1}{2}$ and a right-handed singlet carrying $I_{3}=0$ as shown in Table \ref{tab:Fermions}. 
 
-\begin{table}
+\begin{table}[!htbp]
 \caption{Properties of SM gauge bosons.\cite{PDG}}
 \begin{center}
 \begin{tabular}{| c | c | c | c | c | c |}
@@ -43,7 +43,7 @@ Massless photon ($\gamma$) mediates the electromagnetic interaction, whereas the
 \end{center}
 \end{table}
 
-\begin{table}
+\begin{table}[!htbp]
 \caption{ Summary of different interactions of fermions under different gauge theory. The check mark identifies the interaction each fermion participates in.}
 \begin{center}
 \begin{tabular}{| c | c | c |  c | c |}
@@ -66,7 +66,7 @@ Each generation of lepton, electron $(e)$, muon $(\mu)$ and tau $(\tau)$, is acc
 
 The quarks are categorized further into two categories, the up-type quarks with $+\frac{2}{3}$ charge and the down-type quarks with $-\frac{1}{3}$ charge. Up $(u)$, charm  $(c)$, and top $(t)$ are the first, second, and third generation of the up-type quarks, while the down $(d)$, strange $(s)$ and bottom $(b)$ are the three generations of the down-type quarks. The quarks interact strongly with one another by strong interaction mediated by the massless neutral gluons, which follow from $SU(3)$ gauge symmetry by exchange of color charges. Each quark can have either one of the three color charges (red, blue, and green), whereas an anti-quark can have either an anti-red, anti-blue or anti-green color charge. There are eight gluons in the SM with color charges formed by a linear combination of color with an anti-color charge excluding the colorless combination. Since gluons have a color charge, they interact with other gluons strongly. Only color-neutral hadronic states formed by a combination of quarks and gluons are observed experimentally.
 
-\begin{table}
+\begin{table}[!htbp]
 \caption{Electroweak quantum numbers of the SM half-integer spin fermions (quarks and leptons) arranged in a left-handed $SU(2)$ doublet and right-handed $SU(2)$ singlet. The down-type left-handed quarks in $SU(2)_{L}$ quark doublets $d^{'},~s^{'}$ and $b^{'}$ are linear combinations of $d,~s$ and $b$ quarks \cite{Halzen:1984mc}.}
 
 \begin{center}
@@ -115,7 +115,7 @@ Relativistic quantum field theory is the theoretical framework of the SM that de
 
 \subsubsection{Lagrangian of the Standard Model}
 \label{subsubsec:SMLag}
-The compact Lagrangian density given in Equation \ref{eqn:SMLagrangian} describes the dynamics of the SM and is invariant under the local gauge transformation of the $SU(3)_{C}~\otimes~SU(2)_{L}~\otimes~U(1)_{Y}$ symmetry group, 
+The compact Lagrangian density given in Equation \ref{eqn:SMLagrangian} describes the dynamics of the SM and is invariant under the local gauge transformation of the $SU(3)_{C}~\otimes~SU(2)_{L}~\otimes~U(1)_{Y}$ symmetry group: 
 \begin{equation}
 \mathcal{L_{SM}} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu} ~+~ i\bar{\psi} \cancel{D} \psi ~+~ h.c. ~+~ |D_{\mu}\phi|^{2} ~-~V(\phi) + \bar{\psi_{i}}y_{ij}\psi_{j}\phi ~+~ h.c.
 \label{eqn:SMLagrangian}
@@ -218,7 +218,7 @@ The Lagrangian density in Equation \ref{eqn:QCDStartL} is then
 \label{eqn:QCDInvLag}
 \end{equation}
 
-Similarly to QED, a gauge-invariant kinetic term $-\frac{1}{4}G^{a}_{\mu\nu}G^{\mu\nu}_{a}$, dependent on the field strength tensor $G^{a}_{\mu\nu}$ is added to Equation \ref{eqn:QCDInvLag} to give the full QCD Lagrangian. The kinetic terms allow self-interaction within the gluon fields, which is an important feature of QCD. $G^{a}_{\mu\nu}$ is the field strength tensor defined as
+Similarly to QED, a gauge-invariant kinetic term $-\frac{1}{4}G^{a}_{\mu\nu}G^{\mu\nu}_{a}$, dependent on the field strength tensor $G^{a}_{\mu\nu}$ is added to Equation \ref{eqn:QCDInvLag} to give the full QCD Lagrangian. The kinetic terms allow self-interaction within the gluon fields, which is an important feature of QCD. The field strength tensor $G^{a}_{\mu\nu}$ is defined as
 \begin{equation}
 G^{a}_{\mu\nu} = \partial_{\mu}G^{a}_{\nu} - \partial_{\nu}G^{a}_{\mu} - g_{s}f_{abc}G^{b}_{\mu}G^{c}_{\nu}.
 \label{eqn:QCDFullLag}
@@ -276,13 +276,13 @@ W_{\mu\nu}^{a} = \partial_{\mu}W_{\nu}^{a} - \partial_{\nu}W_{\mu}^{a} + g\epsil
 \end{equation}
 The non-Abelian part of the $SU(2)_{L}$ transformation is represented by the last term of Equation \ref{eqn:SU2FST}, which gives the quartic and triple self-interactions between the gauge bosons with coupling strength $g$. 
 
-The electroweak Lagrangian in Equation \ref{eqn:EWKLagrangian1} contains two terms, one of which gives rise to the charged-current interaction with the two $SU(2)$ boson field 
+The electroweak Lagrangian in Equation \ref{eqn:EWKLagrangian1} contains two terms, one of which gives rise to the charged-current interaction with the two $SU(2)$ boson fields 
 
 \begin{equation}
 W^{\pm}_{\mu} ~=~ \frac{ W^{1}_{\mu} \mp iW^{2}_{\mu} } {\sqrt(2)},
 \label{eqn:RealWBosons}
 \end{equation}
-via exchange of the $W^{\pm}$ bosons and the neutral current interactions from the two neutral gauge boson fields $W^{3}_{\mu}$ and $B_{\mu}$. 
+via exchange of the $W^{\pm}$ bosons and the neutral current interactions via exchange of the two neutral gauge boson fields $W^{3}_{\mu}$ and $B_{\mu}$. 
 
 The Lagrangian for the charged-current interaction for the first generation of quarks and leptons is 
 \begin{equation}
@@ -310,10 +310,10 @@ Y= Q - T_{3},
 \end{array}
 \label{eqn:QEDFromEWk}
 \end{equation}
-where $T_{3}=\frac{\tau_{3}}{2}$ is the weak isospin and $\theta_{W}$ is the Weinberg mixing angle. The Weinberg angle has been measured experimentally with high precision and can be expressed in terms of the two $SU(2)_{L}$ coupling $g^{'}$ and $U(1)_{Y}$ coupling $g$ as
+where $T_{3}=\frac{\tau_{3}}{2}$ is the weak isospin and $\theta_{W}$ is the Weinberg mixing angle. The Weinberg angle has been measured experimentally with high precision and can be expressed in terms of the two $SU(2)_{L}$ coupling $g^{'}$ and $U(1)_{Y}$ coupling $g$ as:
 \begin{equation}
 \begin{array}{l}
-\sin\theta_{W} = \frac{g^{'}}{\sqrt{g^{2} +  g^{'2} }} \\ \cos\theta_{W} = \frac{g}{\sqrt{g^{2} +  g^{'2} }}.
+\sin\theta_{W} = \frac{g^{'}}{\sqrt{g^{2} +  g^{'2} }} $\&$ \\ \cos\theta_{W} = \frac{g}{\sqrt{g^{2} +  g^{'2} }}.
 \end{array}
 \label{eqn:WeinbergAngle}
 \end{equation}
@@ -330,27 +330,25 @@ The Lagrangian in Equation \ref{eqn:EWKLagrangian1} describes the electroweak in
 
 A new term in the SM Lagrangian $\mathcal{L}_{BEH}$ depending on this scalar field can be defined as 
 \begin{equation}
-\mathcal{L}_{BEH}  = (D_{\mu} \phi)^{\dagger} ( D^{\mu} \phi) - \mu^2 \phi^{\dagger} \phi + \lambda (\phi^{\dagger} \phi)^2.
+\mathcal{L}_{BEH}  = (D_{\mu} \phi)^{\dagger} ( D^{\mu} \phi) - \mu^2 \phi^{\dagger} \phi + \lambda (\phi^{\dagger} \phi)^2,
 \label{eqn:LagBEH}
 \end{equation}
-
-The first term $(D_{\mu} \phi)^{\dagger} ( D^{\mu} \phi)$ describes the kinematic of the new fields, and the BEH potential $V(\phi)$ is given by the second term as 
+which is invariant under $SU(2)_L \otimes U(1)_Y$ transformations. The first term $(D_{\mu} \phi)^{\dagger} ( D^{\mu} \phi)$ describes the kinematic of the new fields, and the BEH potential $V(\phi)$ is given by the second term as 
 \begin{equation}
 V(\phi) = \lambda (\phi^{\dagger} \phi)^2 - \mu^2 \phi^{\dagger} \phi,
 \label{eqn:HiggsPot}
 \end{equation}
-where the term $\lambda (\phi^{\dagger} \phi)^2$ describes the quartic self-interactions of the scalar fields, and the vacuum stability imposes $\lambda > 0 $. 
+where the term $\lambda (\phi^{\dagger} \phi)^2$ describes the quartic self-interactions of the scalar fields. The values of $\lambda$ must be positive to have an energetically bounded theory. 
 
 For $\mu^2 > 0$, the scalar field develops a nonzero Vacuum Expectation Value (VEV) which spontaneously breaks the symmetry. Due to the symmetry of $V(\phi)$ an infinite number of degenerate states exists with the potential $v$ only depending on the combination of $\phi^{\dagger}\phi$ 
 \cite{PeskinQFT} with minimum energy satisfying $\phi^{\dagger}\phi = \frac{v^2}{2}$. This minimum energy requirement reduces one of the four degrees of freedom of the complex scalar field $\phi$. A gauge transformation can eliminate the three remaining degrees of freedom. We can choose $\phi$ by eliminating the upper component and the imaginary part of the lower component of the complex scalar field as,
 \begin{equation}
 \begin{array}{l}
-<\phi> = \frac{1}{\sqrt{2}}\begin{pmatrix} 0 \\ v+H(x) \end{pmatrix}~ \hspace{10pt} \\
-H(x) = H^{*}(x)\frac{1}{\sqrt{2}} \begin{pmatrix} 0 \\ v \end{pmatrix},
+\phi = \frac{1}{\sqrt{2}}\begin{pmatrix} 0 \\ v+H(x) \end{pmatrix}~ \hspace{10pt},
 \end{array}
 \label{eqn:ScalarExp}
 \end{equation}
-where the Higgs field ($H$) emerges as the excitation from the vacuum state, this choice of the minimum spontaneously breaks the gauge symmetry \cite{DESYHiggsLecture}. 
+where a real scalar field, the Higgs field ($H$), emerges as the excitation from the vacuum state. This choice of the minimum spontaneously breaks the gauge symmetry \cite{DESYHiggsLecture}.  
 
 After substituting $\phi$ in Equation \ref{eqn:LagBEH}, the kinetic term of the Lagrangian takes the form
 \begin{equation}
@@ -361,7 +359,7 @@ After substituting $\phi$ in Equation \ref{eqn:LagBEH}, the kinetic term of the 
 \end{array}
 \label{eqn:LagBEHKin}
 \end{equation}
-where the first line is the vacuum energy density, a constant value that can be ignored in the case of QFT. The second line describes the triple and quartic self-interactions of the Higgs field, as well as the quadratic term including the Higgs field, whose coefficient gives the Higgs mass, $m_{H} = 2\lambda v^2$. Further simplifying the last line gives two sets of kinetic terms. The first set consists of interactions of the $SU(2)$ gauge boson fields with the Higgs field. The second set consists of terms that are quadratic in the gauge boson fields. The coefficient related to the first set of terms gives the strength of Higgs and gauge boson interactions. While the coefficient related to the later set of terms gives the mass eigenvalues for the $SU(2)$ gauge bosons as, 
+where the first line is the vacuum energy density, a constant value that can be ignored in the case of QFT. The second line describes the triple and quartic self-interactions of the Higgs field, as well as the quadratic term including the Higgs field, whose coefficient gives the Higgs mass, $m_{H} = \sqrt{2\lambda v^2}$. Further simplifying the last line gives two sets of kinetic terms. The first set consists of interactions of the $SU(2)$ gauge boson fields with the Higgs field. The second set consists of terms that are quadratic in the gauge boson fields. The coefficient related to the first set of terms gives the strength of Higgs and gauge boson interactions. While the coefficient related to the later set of terms gives the mass eigenvalues for the $SU(2)$ gauge bosons as, 
 \begin{equation}
 \begin{array}{l}
 m_{W^1}^2 ~=~ m_{W^2}^2  ~=~\frac{1}{4}g^2v^2 \\
@@ -371,7 +369,7 @@ m_{B} = 0
 \label{eqn:MassesofSU2Bosons}
 \end{equation}
 
-As bosons are spin$-1$ particles, the three now-massive gauge bosons $W^{\pm}$ and $Z$ each acquire an additional \textit{longitudinal} polarization state, where their spin is perpendicular to the direction of motion. The initial $SU(2)_{L}$ Lagrangian in Equation \ref{eqn:LagBEH} started with a total of twelve degrees of freedom, four related to the complex scalar field $\phi$ and eight related to the four massless gauge fields. After the Higgs mechanism, the real scalar Higgs field now has one degree of freedom. The other three scalar degrees of freedom have been eaten to give each of the $W^{\pm}$ and $Z$ bosons their mass and the longitudinal polarization component. This phenomenon in the Higgs mechanism is called the Electroweak Symmetry Breaking (EWSB) mechanism. As discussed above, the EWSB mechanism is at the heart of the SM by which the gauge boson gets the mass which also gives rise to the longitudinal polarization of the massive vector bosons. This thesis summarizes a measurement with an experimental sensitivity to a such important property of the theory.
+As bosons are spin$-1$ particles, the three now-massive gauge bosons $W^{\pm}$ and $Z$ each acquire an additional degree of freedom, the \textit{longitudinal} polarization state with their spin aligned perpendicular to the direction of their motion. The initial $SU(2)_{L}$ Lagrangian in Equation \ref{eqn:LagBEH} started with a total of twelve degrees of freedom, four related to the complex scalar field $\phi$ and eight related to the four massless gauge fields. After the Higgs mechanism, the real scalar Higgs field now has one degree of freedom. The other three scalar degrees of freedom have been eaten to give each of the $W^{\pm}$ and $Z$ bosons their mass and the longitudinal polarization component. This phenomenon in the Higgs mechanism is called the Electroweak Symmetry Breaking (EWSB) mechanism. As discussed above, the EWSB mechanism is at the heart of the SM by which the gauge boson gets the mass which also gives rise to the longitudinal polarization of the massive vector bosons. This thesis summarizes a measurement with an experimental sensitivity to a such important property of the theory.
 
 The last remaining piece in the SM is adding the fermion mass to the Lagrangian. A simple Lagrangian with the fermion mass can be written as 
 \begin{equation}
